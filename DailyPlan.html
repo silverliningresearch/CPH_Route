@@ -1,6 +1,6 @@
 <html>
     <head>
-		<title>BRU Daily plan</title>
+		<title>Daily Plan – CPH PAXonRoutes</title>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
     
 		<script src="data/Quota_Data.js"></script>
@@ -10,7 +10,6 @@
 		<script src="scripts/CalculateData.js"></script>
 		
     <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_sur/BRU_PROF/data/interview_data.js"></script> 
-    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_sur/BRU_PROF/data/BRU_flight_list_daily.js"></script> 
 
     <style>
       .table-font {
@@ -26,14 +25,7 @@
 
 		<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
-      function isNextDay()
-      {
-        const queryString = window.location.search;
-        const urlParams = new URLSearchParams(queryString);
 
-        //?nextday=true
-        return(urlParams.has('nextday'));
-      }
       //google.charts.load('current', {'packages':['table']});
       google.charts.load('current', {'packages':['table','corechart', 'controls']});
       google.charts.setOnLoadCallback(drawTable);
@@ -140,14 +132,12 @@
     </script>
   </head>
   <body>
-		<h1>Daily Plan – BRU PS Survey</h1>
+		<h1>Daily Plan – CPH PAXonRoutes</h1>
     <h4 id="overall_status"></h4>
     <h4 id="download_time"></h4>
     <div id="dashboard_div">
       <!--Divs that will hold each control and chart-->
       <div id="filter_div" style="font-size: 15px"> </div>
-
-      <!-- <div id="2017" style="z-index:1;position: fixed;top: 70px;left: 850px;font-family: Arial;font-size: 13;color:red;">2017</div> -->
       </br>
       <div id="table_div"></div>
     </div>
