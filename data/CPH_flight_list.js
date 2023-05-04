@@ -1,4 +1,4 @@
-    let BRU_FlightRawList = `
+    let CPH_FlightRawList = `
 [
  {
   "Date": "24-04-2023",
