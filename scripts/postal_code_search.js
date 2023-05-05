@@ -86,14 +86,14 @@ function update_postal_code_search_box() {
 function select_postal_code() {
   var selectedPostalCode = document.getElementById('inputPostalCodeID').value;
   
-  api.fn.answers({Core_Q8_postal_code_show:  selectedPostalCode});
+  api.fn.answers({Core_Q8a_postal_code_show:  selectedPostalCode});
   
   for (i = 0; i < postalCodeShortList.length; i++) {
     var currentPostalCode = postalCodeShortList[i];
 
     if (currentPostalCode.Show == selectedPostalCode) { 
       console.log("selectedPostalCode: ", currentPostalCode);
-      api.fn.answers({Core_Q8:  currentPostalCode.Code});
+      api.fn.answers({Core_Q8a:  currentPostalCode.Code});
     }
   }
 
