@@ -1,4 +1,4 @@
-    let postalCodeFrance = `
+    let postalCodeDenmark = `
 [
  {
   "Code": "75001",

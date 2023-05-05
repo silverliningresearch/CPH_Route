@@ -35,7 +35,7 @@ function getToDate() {
 }
 
 function load_flight_list() {
-  flightRawList = JSON.parse(CPH_FlightRawList);
+  flightRawList = JSON.parse(flight_list_raw);
   flightList = [];
   flightList.length = 0;
 
@@ -53,7 +53,7 @@ function load_flight_list() {
       var Via = "";
       var ViaName = "";
 
-      if (  flightRawList[i].Next && flightRawList[i].Next !="" && flightRawList[i].Next != flightRawList[i].Dest) {
+      if ((flightRawList[i].Next && flightRawList[i].Next !="") && (flightRawList[i].Next != flightRawList[i].Dest)) {
         Via = '"Via"' + ":" + '"' +  flightRawList[i].Next + '", ';
         ViaName = '"ViaName"' + ":" + '"' +  flightRawList[i].NextName + '", ';
       }
@@ -99,7 +99,7 @@ function update_drop_box_list() {
       }
     }
     
-    if (count > 7) {
+    if (count > 30) {
       break;
     }
   }
@@ -123,7 +123,6 @@ function select_flight() {
     var currentFlight = flightShortList[i];
     if (currentFlight.Show == selectedFlight) { 
       //store detail data here
-      //Search engine to produce Flight no., Airline, Destination, Via - to be added later
       api.fn.answers({Qii_airline_name:   currentFlight.Airline}); //airline name
       api.fn.answers({Qii_airline:   currentFlight.AirlineCode}); //airline code
       api.fn.answers({Qii_flight_number:   currentFlight.Flight});

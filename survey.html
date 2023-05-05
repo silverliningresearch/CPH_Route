@@ -40,7 +40,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://survalyzer.survalyzer.eu/assets/survalyzer-survey.js"></script>
 
-    <script src="data/CPH_flight_list.js"></script>
+    <script src="data/flight_list.js"></script>
     <script src="data/postal_code_DK.js"></script>
     <script src="data/postal_code_SE.js"></script>
     
@@ -59,13 +59,7 @@
               hide_flight_search_box();
             }
 
-            if (api.fn.getCurrentPageIndex() ===7) {
-              api.fn.answers({Q11_calculating_distance_required: 1});                 
-            } else {
-              api.fn.answers({Q11_calculating_distance_required: 0});                 
-            }
-
-            if (api.fn.getCurrentPageIndex() ===60) { //2023.04.26: 59
+            if (api.fn.getCurrentPageIndex() ===16) { //2023.04.26: 59
               show_postal_code_search_box();
             } else {
               hide_postal_code_search_box();

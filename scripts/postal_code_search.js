@@ -21,25 +21,20 @@ function find_postal_code(list, item) {
 
 function load_postal_code() {
   console.log("load_postal_code started...");
+  
+  var rawList = JSON.parse(postalCodeDenmark);
+  
+  var country = api.fn.answers().Core_Q8_1_text;
+  console.log("country:", country);
 
-  var country = api.fn.answers().Q55_Recoded;
-  if (country.includes('Belgium')) {
-    rawList = JSON.parse(postalCodeBelgium);
+  if (country.includes('Denmark')) {
+    rawList = JSON.parse(postalCodeSweden);
   }
-  else if (country.includes('France')) {
-    rawList = JSON.parse(postalCodeFrance);
+  else if (country.includes('Sweden')) {
+    rawList = JSON.parse(postalCodeSweden);
   }
-  else if (country.includes('Germany')) {
-    rawList = JSON.parse(postalCodeGermany);
-  }
-  else if (country.includes('Luxembourg')) {
-    rawList = JSON.parse(postalCodeLuxembourg);
-  }
-  else if (country.includes('Netherlands'))  {
-    rawList = JSON.parse(postalCodeNetherlands);
-  }
-  else {
-    rawList = JSON.parse(postal_code_All);
+  else { //default value
+    rawList = JSON.parse(postalCodeDenmark);
   }
   
   postalCodeList = [];
@@ -48,18 +43,6 @@ function load_postal_code() {
     var item = rawList[i];
     postalCodeList.push(item);
   }
-
-  //Add Dont want to answer
-  // var item;
-  // item.Code = "Don’t want to answer";
-  // item.Catchment = "Don’t want to answer";
-  // item.AVM = "Don’t want to answer";
-  // item.Country = "Don’t want to answer";
-  // item.show = "Don’t want to answer";  
-  // postalCodeList.push(item);
-  ////////////////
-
-  api.fn.answers({Q56_Catchment:  "No"}); //Clear it
   console.log("load_postal_code done!");
 }
 
@@ -86,20 +69,12 @@ function update_postal_code_search_box() {
         count++;
       }
 
-      if ((count > 7)) {
+      if ((count > 30)) {
         break;
       }
     }
   }
   
-  //Load "Dont want to answer" from the end of the list
-  // let postcalCode = postalCodeList[postalCodeList.length-1];
-  // const elem = document.createElement("option");
-  // elem.value =  postcalCode.show;
-  // list.appendChild(elem);
-  // postalCodeShortList.push(postcalCode);
-  ////////////////
-
   if (find_postal_code(postalCodeList, document.getElementById('inputPostalCodeID').value)) {
     console.log("Found ", document.getElementById('inputPostalCodeID').value);
   }
@@ -110,17 +85,15 @@ function update_postal_code_search_box() {
 
 function select_postal_code() {
   var selectedPostalCode = document.getElementById('inputPostalCodeID').value;
-  api.fn.answers({Core_Q56:  selectedPostalCode});
-  api.fn.answers({Q56_postal_code_show:  selectedPostalCode});
+  
+  api.fn.answers({Core_Q8_postal_code_show:  selectedPostalCode});
   
   for (i = 0; i < postalCodeShortList.length; i++) {
     var currentPostalCode = postalCodeShortList[i];
+
     if (currentPostalCode.show == selectedPostalCode) { 
       console.log("selectedPostalCode: ", currentPostalCode);
-      api.fn.answers({Core_Q56:  currentPostalCode.Code});
-      api.fn.answers({Q56_Catchment:  currentPostalCode.Catchment});
-      api.fn.answers({Q56_Key:  currentPostalCode.Key});
-      api.fn.answers({Q56_AVM:  currentPostalCode.AVM});
+      api.fn.answers({Core_Q8:  currentPostalCode.Code});
     }
   }
 
