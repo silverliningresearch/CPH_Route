@@ -8,7 +8,7 @@ function find_postal_code(list, item) {
   if (item) {
     if (item !== "") {
       for (i = 0; i < list.length; i++) {
-        if (list[i].show.toLowerCase() === item) {
+        if (list[i].Show.toLowerCase() === item) {
           $('.rt-btn.rt-btn-next').show(); 
           return true;
         }
@@ -28,7 +28,7 @@ function load_postal_code() {
   console.log("country:", country);
 
   if (country.includes('Denmark')) {
-    rawList = JSON.parse(postalCodeSweden);
+    rawList = JSON.parse(postalCodeDenmark);
   }
   else if (country.includes('Sweden')) {
     rawList = JSON.parse(postalCodeSweden);
@@ -61,9 +61,9 @@ function update_postal_code_search_box() {
     for (i = 0; i < postalCodeList.length; i++) {
       let postcalCode = postalCodeList[i];
 
-      if (postcalCode.show.toLowerCase().includes(input)) {
+      if (postcalCode.Show.toLowerCase().includes(input)) {
         const elem = document.createElement("option");
-        elem.value = postcalCode.show;
+        elem.value = postcalCode.Show;
         list.appendChild(elem);
         postalCodeShortList.push(postcalCode);
         count++;
@@ -91,7 +91,7 @@ function select_postal_code() {
   for (i = 0; i < postalCodeShortList.length; i++) {
     var currentPostalCode = postalCodeShortList[i];
 
-    if (currentPostalCode.show == selectedPostalCode) { 
+    if (currentPostalCode.Show == selectedPostalCode) { 
       console.log("selectedPostalCode: ", currentPostalCode);
       api.fn.answers({Core_Q8:  currentPostalCode.Code});
     }
