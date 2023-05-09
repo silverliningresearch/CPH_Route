@@ -41,15 +41,10 @@
     <script src="https://survalyzer.survalyzer.eu/assets/survalyzer-survey.js"></script>
 
     <script src="data/flight_list.js"></script>
-    <script src="data/airport_list.js"></script>
-    <script src="data/city_list.js"></script>
     <script src="data/postal_code_DK.js"></script>
     <script src="data/postal_code_SE.js"></script>
     
     <script src="scripts/flight_search.js"></script>
-    <script src="scripts/airport_search.js"></script>
-    <script src="scripts/city_search.js"></script>
-    <script src="scripts/airport_search.js"></script>
     <script src="scripts/postal_code_search.js"></script>
     
     <script>
@@ -59,27 +54,18 @@
             console.log("Current Page Index: ", api.fn.getCurrentPageIndex() );
             
             if (api.fn.getCurrentPageIndex() ===2) { 
+              show_postal_code_search_box();
+              $('.rt-element.rt-text-container').append('<br>');
+              $('.rt-element.rt-text-container').append('<br>');
               show_flight_search_box();
             } else {
               hide_flight_search_box();
             }
 
-            if (api.fn.getCurrentPageIndex() ===8) { 
-              show_airport_search_box();
-            } else {
-              hide_airport_search_box();
-            }
-
-            if (api.fn.getCurrentPageIndex() ===10) { 
-              show_city_search_box();
-            } else {
-              hide_city_search_box();
-            }
-
             if (api.fn.getCurrentPageIndex() ===16) { //2023.04.26: 59
               show_postal_code_search_box();
             } else {
-              hide_postal_code_search_box();
+              //hide_postal_code_search_box();
             }
           }
           

@@ -27,10 +27,10 @@ function load_postal_code() {
   var country = api.fn.answers().Core_Q8_1_text;
   console.log("country:", country);
 
-  if (country.includes('Denmark')) {
+  if (country && country.includes('Denmark')) {
     rawList = JSON.parse(postalCodeDenmark);
   }
-  else if (country.includes('Sweden')) {
+  else if (country && country.includes('Sweden')) {
     rawList = JSON.parse(postalCodeSweden);
   }
   else { //default value
@@ -109,8 +109,8 @@ function select_postal_code() {
 function show_postal_code_search_box() {
     load_postal_code();  
 
-    $('.rt-element.rt-text-container').append(`<input list="postalCodehtmlList" onchange="select_postal_code()"  onkeyup="update_postal_code_search_box()" name="inputPostalCodeID" id="inputPostalCodeID" autocomplete="off">
-    <datalist id="postalCodehtmlList"> </datalist>`);
+    $('.rt-element.rt-text-container').append(`<label for="inputPostalCodeID">Postal code: </label> <input list="postalCodehtmlList"  nchange="select_postal_code()"  onkeyup="update_postal_code_search_box()" name="inputPostalCodeID" id="inputPostalCodeID" autocomplete="off">
+    <datalist id="postalCodehtmlList"> </datalist>    `  );
     document.getElementById('inputPostalCodeID').value = "";
 
     var currentValue  = api.fn.answers().Q56_postal_code_show;
