@@ -55,7 +55,8 @@ function update_drop_box_city_list() {
   //console.log("cityList.length: ", cityList.length);
   for (i = 0; i < cityList.length; i++) {
     let item = cityList[i];
-    if (item.Show.toLowerCase().includes(input)) {
+    //if (item.Show.toLowerCase().includes(input)) {
+    if (item.Show.toLowerCase().indexOf(input)==0) {      
       const elem = document.createElement("option");
       elem.value = item.Show;
       searchList.appendChild(elem);

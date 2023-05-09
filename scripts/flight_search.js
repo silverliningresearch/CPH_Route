@@ -34,6 +34,22 @@ function getToDate() {
   return false;
 }
 
+function notDeparted_flight_search(flight_time) {
+  var current_time = new Date().toLocaleString('en-US', { timeZone: 'Europe/Copenhagen', hour12: false});
+  //15:13:27
+  var current_time_value  = current_time.substring(current_time.length-8,current_time.length-6) * 60;
+  current_time_value += current_time.substring(current_time.length-5,current_time.length-3)*1;
+
+  //Time: 0805    
+  var flight_time_value = flight_time.substring(0,2) * 60 + flight_time.substring(2,4)*1;
+  
+  //plus  2 hour
+  flight_time_value = flight_time_value + 120;
+
+  var result = (flight_time_value > current_time_value);
+  return (result);
+}
+
 function load_flight_list() {
   flightRawList = JSON.parse(flight_list_raw);
   flightList = [];
@@ -41,7 +57,7 @@ function load_flight_list() {
 
   for (i = 0; i < flightRawList.length; i++) {
     var flight = flightRawList[i];
-    if (flight.Date == getToDate()) 
+    if (flight.Date == getToDate() && notDeparted_flight_search(flight.Time))
     {
       var Date = '"Date"' + ":" + '"' +  flightRawList[i].Date + '", ';
       var Time = '"Time"' + ":" + '"' +  flightRawList[i].Time + '", ';
