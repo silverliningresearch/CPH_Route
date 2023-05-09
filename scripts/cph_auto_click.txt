@@ -1,4 +1,4 @@
-codes = toArray("Core_Qi", "Core_Q1", "Core_Q1a1", "Core_Q1a2", "Core_Q1a3", "Core_Q2", "Core_Q2b", "Core_Q3", "Core_Q4", "Core_Q5", "Core_Q5a", "Core_Q6", "Core_Q7", "Core_Q8", "Core_Q8a", "Core_Q9")
+codes = toArray("Core_Qi", "Core_Q1",  "Core_Q1a3", "Core_Q2", "Core_Q2b", "Core_Q3", "Core_Q4", "Core_Q5", "Core_Q5a", "Core_Q6", "Core_Q7", "Core_Q9")
 storage = _static
 
 isFirstClick(code) = hasNotPropertyValue(storage, code) and hasValue(code) ? true : false
@@ -10,5 +10,3 @@ forEachItems(codes,  action)
 
 copyAnswerToSession(code) = hasValue(code) ? setProperty(storage, code, answer(code)) : doNothing()
 forEachItems(codes,  copyAnswerToSession)
-
-

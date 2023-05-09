@@ -86,7 +86,7 @@ function update_postal_code_search_box() {
 function select_postal_code() {
   var selectedPostalCode = document.getElementById('inputPostalCodeID').value;
   
-  api.fn.answers({Core_Q8a_postal_code_show:  selectedPostalCode});
+  api.fn.answers({Q8a_postal_code_show:  selectedPostalCode});
   
   for (i = 0; i < postalCodeShortList.length; i++) {
     var currentPostalCode = postalCodeShortList[i];
@@ -109,11 +109,10 @@ function select_postal_code() {
 function show_postal_code_search_box() {
     load_postal_code();  
 
-    $('.rt-element.rt-text-container').append(`<label for="inputPostalCodeID">Postal code: </label> <input list="postalCodehtmlList"  nchange="select_postal_code()"  onkeyup="update_postal_code_search_box()" name="inputPostalCodeID" id="inputPostalCodeID" autocomplete="off">
+    $('.rt-element.rt-text-container').append(`<input list="postalCodehtmlList"  onchange="select_postal_code()"  onkeyup="update_postal_code_search_box()" name="inputPostalCodeID" id="inputPostalCodeID" autocomplete="off">
     <datalist id="postalCodehtmlList"> </datalist>    `  );
-    document.getElementById('inputPostalCodeID').value = "";
-
-    var currentValue  = api.fn.answers().Q56_postal_code_show;
+    
+    var currentValue  = api.fn.answers().Q8a_postal_code_show;
     if (currentValue) {
       if (currentValue !== "") {
         document.getElementById('inputPostalCodeID').value = currentValue;
