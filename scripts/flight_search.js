@@ -5,9 +5,9 @@ var flightShortList = [];
 function getToDate() {
   var d = new Date();
       
-  month = '' + (d.getMonth() + 1),
-  day = '' + d.getDate(),
-  year = d.getFullYear();
+  var month = '' + (d.getMonth() + 1);
+  var day = '' + d.getDate();
+  var year = d.getFullYear();
 
   if (month.length < 2) 
       month = '0' + month;
