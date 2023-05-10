@@ -24,7 +24,7 @@ function load_postal_code() {
   
   var rawList = JSON.parse(postalCodeDenmark);
   
-  var country = api.fn.answers().Core_Q8_1_text;
+  var country = api.fn.answers().Core_Q8;
   console.log("country:", country);
 
   if (country && country.includes('Denmark')) {
