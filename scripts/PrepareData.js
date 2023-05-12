@@ -104,6 +104,24 @@ function initCurrentTimeVars() {
   }
 }
 
+function isCurrentMonth(interviewEndDate)
+{
+// Input: "2023-04-03 10:06:22 GMT"
+  var interviewDateParsed = interviewEndDate.split("-")
+
+  var interviewYear = (interviewDateParsed[0]);
+  var interviewMonth =(interviewDateParsed[1]);
+  
+  var result = false;
+
+  if ( currentMonth ==[interviewMonth,interviewYear].join('-'))
+  {
+    result = true;
+  }
+
+   return result;
+}
+
 function notDeparted(flight_time) {
   var current_time = new Date().toLocaleString('dk-DK', { timeZone: 'Europe/Copenhagen', hour12: false});
   //15:13:27
@@ -159,16 +177,13 @@ function prepareInterviewData() {
   for (i = 0; i < interview_data_temp.length; i++) {
     var interview = interview_data_temp[i];
     //only get complete interview & not test
-    var interview_month = interview["InterviewEndDate"].substring(5,7);//"2023-04-03 06:18:18"
-    //var interview_quarter = getQuarterFromMonth(interview_month);
-    
     if ((interview.InterviewState == "Completed")
-    && (currentMonth == interview_month)  
-    //&& (currentQuarter == interview_quarter)  
+          //&& (interview.InterviewerID != 999)
+          && (isCurrentMonth(interview.InterviewEndDate))
     )
     {
-      if (interview["Dest"] &&  interview["Flight"]) {
-        var Airport_Airline = '"Airport_Airline"' + ":" + '"' +  interview["Dest"] + "-" + interview["Flight"] + '", ';
+      if (interview["Dest"] &&  interview["AirlineCode"]) {
+        var Airport_Airline = '"Airport_Airline"' + ":" + '"' +  interview["Dest"] + "-" + interview["AirlineCode"] + '", ';
         var InterviewEndDate = '"InterviewEndDate"' + ":" + '"' +  interview["InterviewEndDate"] ;
         var str = '{' + Airport_Airline + InterviewEndDate + '"}';
 
