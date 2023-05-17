@@ -50,7 +50,7 @@ function load_arrival_airline_list() {
       var Date = '"Date"' + ":" + '"' +  arrival_airlineRawList[i].Date + '", ';
       var AirlineCode = '"AirlineCode"' + ":" + '"' +  arrival_airlineRawList[i].AirlineCode + '", ';//code
       var Airline = '"Airline"' + ":" + '"' +  arrival_airlineRawList[i].Airline + '", '; 
-      var Show = '"Show"' + ":" + '"' +  arrival_airlineRawList[i].AirlineCode + " - " + arrival_airlineRawList[i].Airline + '" ';
+      var Show = '"Show"' + ":" + '"' + arrival_airlineRawList[i].Airline + " (" +  arrival_airlineRawList[i].AirlineCode + ")" + '" ';
       var str = '{' + Date + AirlineCode+ Airline + Show + '}';
       
       arrival_airlineList_tmp.push(JSON.parse(str));
