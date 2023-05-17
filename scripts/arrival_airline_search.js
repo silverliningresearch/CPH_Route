@@ -42,7 +42,7 @@ function load_arrival_airline_list() {
   var arrival_airlineList_tmp;
   arrival_airlineList_tmp = [];
   arrival_airlineList_tmp.length = 0;
-  
+
   for (i = 0; i < arrival_airlineRawList.length; i++) {
     var arrival_airline = arrival_airlineRawList[i];
     if (arrival_airline.Date == getToDate())
@@ -116,8 +116,8 @@ function select_arrival_airline() {
     var current_arrival_airline = arrival_airlineShortList[i];
     if (current_arrival_airline.Show == selected_arrival_airline) { 
       //store detail data here
-      api.fn.answers({Core_Q1a2:   current_arrival_airline.Airline}); //airline name
-      api.fn.answers({Core_Q1a2_ext:   current_arrival_airline.Airline}); //airline name
+      api.fn.answers({Core_Q1a2:   current_arrival_airline.Show}); //airline name
+      api.fn.answers({Q1a2:   current_arrival_airline.Show}); //airline name
          
       console.log("current_arrival_airline: ", current_arrival_airline);
       found = true;

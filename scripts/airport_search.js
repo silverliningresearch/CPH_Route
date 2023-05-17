@@ -86,6 +86,8 @@ function select_airport() {
       api.fn.answers({Q2a_City:   currentairport.City + ", " + currentairport.Country}); 
       api.fn.answers({Q2a_Country:   currentairport.Country}); 
 
+      api.fn.answers({Core_Q2a:   currentairport.Airport_Name + " (" + currentairport.Airport_Code + ")"}); 
+
       found = true;
       $('.rt-btn.rt-btn-next').show(); 
       break;

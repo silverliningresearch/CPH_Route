@@ -115,8 +115,8 @@ function select_arrival_airport() {
     var current_arrival_airport = arrival_airportShortList[i];
     if (current_arrival_airport.Show == selected_arrival_airport) { 
       //store detail data here
-      api.fn.answers({Core_Q1a1:   current_arrival_airport.Airport}); //Airport name
-      api.fn.answers({Core_Q1a1_ext:   current_arrival_airport.Airport}); //Airport name
+      api.fn.answers({Core_Q1a1:   current_arrival_airport.Show}); //Airport name
+      api.fn.answers({Q1a1:   current_arrival_airport.Show}); //Airport name
          
       console.log("current_arrival_airport: ", current_arrival_airport);
       found = true;
