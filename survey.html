@@ -47,6 +47,8 @@
     <script src="data/postal_code_SE.js"></script>
     
     <script src="scripts/flight_search.js"></script>
+    <script src="scripts/arrival_airline_search.js"></script>
+    <script src="scripts/arrival_airport_search.js"></script>
     <script src="scripts/airport_search.js"></script>
     <script src="scripts/city_search.js"></script>
     <script src="scripts/airport_search.js"></script>
@@ -64,19 +66,32 @@
               hide_flight_search_box();
             }
 
-            if (api.fn.getCurrentPageIndex() ===9) { 
+            if (api.fn.getCurrentPageIndex() ===6) { 
+              show_arrival_airport_search_box();
+            } else {
+              hide_arrival_airport_search_box();
+            }
+
+            if (api.fn.getCurrentPageIndex() ===8) { 
+              show_arrival_airline_search_box();
+            } else {
+              hide_arrival_airline_search_box();
+            }
+
+
+            if (api.fn.getCurrentPageIndex() ===12) { 
               show_airport_search_box();
             } else {
               hide_airport_search_box();
             }
 
-            if (api.fn.getCurrentPageIndex() ===12) { 
+            if (api.fn.getCurrentPageIndex() ===15) { 
               show_city_search_box();
             } else {
               hide_city_search_box();
             }
 
-            if (api.fn.getCurrentPageIndex() ===21) { 
+            if (api.fn.getCurrentPageIndex() ===24) { 
               show_postal_code_search_box();
             } else {
               hide_postal_code_search_box();
