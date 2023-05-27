@@ -145,6 +145,8 @@ function select_flight() {
       api.fn.answers({Core_Qii:   currentFlight.Flight});
       api.fn.answers({Qii_destination:   currentFlight.Dest});
       api.fn.answers({Qii_destination_name: currentFlight.DestName});
+      api.fn.answers({Qii_city: currentFlight.City});
+      api.fn.answers({Qii_country: currentFlight.Country});
         
       console.log("currentFlight: ", currentFlight);
       found = true;
