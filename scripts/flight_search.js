@@ -66,7 +66,7 @@ function load_flight_list() {
       var AirlineCode = '"AirlineCode"' + ":" + '"' +  flightRawList[i].AirlineCode + '", ';//code
       var Dest = '"Dest"' + ":" + '"' +  flightRawList[i].Dest + '", ';
       var DestName = '"DestName"' + ":" + '"' +  flightRawList[i].DestName + '", ';
-      var City = '"City"' + ":" + '"' +  flightRawList[i].City + '", ';
+      var City = '"City"' + ":" + '"' +  flightRawList[i].City + ", "  + flightRawList[i].Country  + '", ';
       var Country = '"Country"' + ":" + '"' +  flightRawList[i].Country + '", ';
       var Via = "";
       var ViaName = "";
