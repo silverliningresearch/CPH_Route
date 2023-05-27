@@ -66,6 +66,8 @@ function load_flight_list() {
       var AirlineCode = '"AirlineCode"' + ":" + '"' +  flightRawList[i].AirlineCode + '", ';//code
       var Dest = '"Dest"' + ":" + '"' +  flightRawList[i].Dest + '", ';
       var DestName = '"DestName"' + ":" + '"' +  flightRawList[i].DestName + '", ';
+      var City = '"City"' + ":" + '"' +  flightRawList[i].City + '", ';
+      var Country = '"Country"' + ":" + '"' +  flightRawList[i].Country + '", ';
       var Via = "";
       var ViaName = "";
 
@@ -81,7 +83,7 @@ function load_flight_list() {
       }
       Show +=")";
 
-      var str = '{' + Date + Time + AirlineCode + Airline + Flight +  Dest + DestName + Via + ViaName +  Show + '"}';
+      var str = '{' + Date + Time + AirlineCode + Airline + Flight +  Dest + DestName + Via + ViaName +  Show + City +  Country + '"}';
     
       flightList.push(JSON.parse(str));
     }
