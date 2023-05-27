@@ -83,7 +83,7 @@ function load_flight_list() {
       }
       Show +=")";
 
-      var str = '{' + Date + Time + AirlineCode + Airline + Flight +  Dest + DestName + Via + ViaName +  Show + City +  Country + '"}';
+      var str = '{' + Date + Time + AirlineCode + Airline + Flight +  Dest + DestName + Via + ViaName +  City +  Country + Show + '"}';
     
       flightList.push(JSON.parse(str));
     }
