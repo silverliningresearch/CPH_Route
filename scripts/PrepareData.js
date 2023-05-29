@@ -168,6 +168,7 @@ function prepareInterviewData() {
       quota_data.push(quota_data_temp[i]);
     }
   }
+  console.log("quota_data: ", quota_data);
   //get relevant interview data
   //empty the list
   interview_data = [];
