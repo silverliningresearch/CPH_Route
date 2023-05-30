@@ -4940,7 +4940,7 @@ let cityRawList = `
  {"co": "Denmark", "city": "Ballerup"}, 
  {"co": "Denmark", "city": "Assens"}, 
  {"co": "Denmark", "city": "Aars"}, 
- {"co": "Denmark", "city": "Arhus"}, 
+ {"co": "Denmark", "city": "Aarhus"}, 
  {"co": "Denmark", "city": "Alsgarde"}, 
  {"co": "Denmark", "city": "Allerod"}, 
  {"co": "Denmark", "city": "Aalborg"}, 
