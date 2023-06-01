@@ -26,11 +26,11 @@ function load_postal_code() {
   
   var country = api.fn.answers().Core_Q8;
   console.log("country:", country);
-
-  if (country && country.includes('Denmark')) {
+  
+  if (country && (country.includes('Denmark') ||country.includes('Danmark') )) {
     rawList = JSON.parse(postalCodeDenmark);
   }
-  else if (country && country.includes('Sweden')) {
+  else if (country && (country.includes('Sweden') || country.includes('Sverige'))) {
     rawList = JSON.parse(postalCodeSweden);
   }
   else { //default value
