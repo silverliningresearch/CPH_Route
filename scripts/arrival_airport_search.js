@@ -80,7 +80,7 @@ function update_drop_box_arrival_airport_list() {
     let arrival_airport = arrival_airportList[i];
     var today = getToDate();
     
-    if (today == arrival_airport.Date)
+    //if (today == arrival_airport.Date)
     { 
       if (arrival_airport.Show.toLowerCase().includes(input)) {
         const elem = document.createElement("option");

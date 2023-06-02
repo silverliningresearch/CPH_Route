@@ -81,7 +81,7 @@ function update_drop_box_arrival_airline_list() {
     let arrival_airline = arrival_airlineList[i];
     var today = getToDate();
     
-    if (today == arrival_airline.Date)
+    //if (today == arrival_airline.Date)
     { 
       if (arrival_airline.Show.toLowerCase().includes(input)) {
         const elem = document.createElement("option");
