@@ -45,7 +45,7 @@ function load_arrival_airport_list() {
   
   for (i = 0; i < arrival_airportRawList.length; i++) {
     var arrival_airport = arrival_airportRawList[i];
-    if (arrival_airport.Date == getToDate())
+    //if (arrival_airport.Date == getToDate())
     {
       var Date = '"Date"' + ":" + '"' +  arrival_airportRawList[i].Date + '", ';
       var Dest = '"Dest"' + ":" + '"' +  arrival_airportRawList[i].Dest + '", ';//code

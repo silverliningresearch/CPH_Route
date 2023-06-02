@@ -45,7 +45,7 @@ function load_arrival_airline_list() {
 
   for (i = 0; i < arrival_airlineRawList.length; i++) {
     var arrival_airline = arrival_airlineRawList[i];
-    if (arrival_airline.Date == getToDate())
+    //if (arrival_airline.Date == getToDate())
     {
       var Date = '"Date"' + ":" + '"' +  arrival_airlineRawList[i].Date + '", ';
       var AirlineCode = '"AirlineCode"' + ":" + '"' +  arrival_airlineRawList[i].AirlineCode_Merged + '", ';//code
