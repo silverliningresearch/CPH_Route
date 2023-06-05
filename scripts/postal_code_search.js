@@ -126,7 +126,7 @@ function show_postal_code_search_box() {
       console.log("not found ", document.getElementById('inputPostalCodeID').value);
     }
 
-    //$('.rt-btn.rt-btn-next').hide(); 
+    $('.rt-btn.rt-btn-next').hide(); 
     $('#inputPostalCodeID').show(); 
 }
 
