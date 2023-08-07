@@ -20,7 +20,7 @@ let airportRawList = `
 {"Airport_Code": "ABR", "Airport_Name": "Aberdeen Regional", "City": "Aberdeen", "Country": "United States"},
 {"Airport_Code": "ABS", "Airport_Name": "Abu Simbel", "City": "Abu Simbel", "Country": "Egypt"},
 
-{"Airport_Code": "NUM", "Airport_Name": "Neom Bay ", "City": "Neom", "Country": "Saudi Arabia"},
+{"Airport_Code": "NUM", "Airport_Name": "Neom Bay", "City": "Neom", "Country": "Saudi Arabia"},
 {"Airport_Code": "ABT", "Airport_Name": "Al Baha", "City": "Al Baha", "Country": "Saudi Arabia"},
 {"Airport_Code": "ABU", "Airport_Name": "Haliwen", "City": "Atambua", "Country": "Indonesia"},
 {"Airport_Code": "ABV", "Airport_Name": "Abuja Nnamdi Azikiwe International", "City": "Abuja", "Country": "Nigeria"},
