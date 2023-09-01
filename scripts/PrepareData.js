@@ -165,7 +165,7 @@ function prepareInterviewData() {
     var quota_month =  quota_data_temp[i].Month + "-"  + quota_data_temp[i].Year; 
     if (quota_month== currentMonth)
     {
-      if (currentMonth=="08-2023") {
+      if (currentMonth=="08-2023") {//special for 08-2023 as there is still capacity.
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.1);
       }
       quota_data.push(quota_data_temp[i]);

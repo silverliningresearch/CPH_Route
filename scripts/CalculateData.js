@@ -60,8 +60,8 @@ function CalculateAirportAirLineReport() {
     for (j = 0; j < quota_data.length; j++) {
       if (row.Airport_Airline.toUpperCase() == quota_data[j].Airport_Airline.toUpperCase()) 
       {
-        if ( quota_data[j].Difference < 0) {
-          
+        if ( quota_data[j].Difference < 0) 
+        {
           row.doop = quota_data[j].doop;
           row.remaining_flights = quota_data[j].remaining_flights;
           row.Completed = quota_data[j].Completed;
