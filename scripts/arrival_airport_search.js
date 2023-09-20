@@ -47,11 +47,12 @@ function load_arrival_airport_list() {
     var arrival_airport = arrival_airportRawList[i];
     //if (arrival_airport.Date == getToDate())
     {
-      var Date = '"Date"' + ":" + '"' +  arrival_airportRawList[i].Date + '", ';
-      var Dest = '"Dest"' + ":" + '"' +  arrival_airportRawList[i].Dest + '", ';//code
-      var DestName = '"DestName"' + ":" + '"' +  arrival_airportRawList[i].DestName + '", '; 
+      //var Date = '"Date"' + ":" + '"' +  arrival_airportRawList[i].Date + '", ';
+      //var Dest = '"Dest"' + ":" + '"' +  arrival_airportRawList[i].Dest + '", ';//code
+      //var DestName = '"DestName"' + ":" + '"' +  arrival_airportRawList[i].DestName + '", '; 
       var Show = '"Show"' + ":" + '"' + arrival_airportRawList[i].DestName + " (" +  arrival_airportRawList[i].Dest + ")" + '" ';
-      var str = '{' + Date + Dest + DestName + Show + '}';
+      //var str = '{' + Date + Dest + DestName + Show + '}';
+      var str = '{' + Show + '}';
       
       arrival_airportList_tmp.push(JSON.parse(str));
     }
@@ -62,7 +63,7 @@ function load_arrival_airport_list() {
       self.findIndex((t) => t.Show === thing.Show )
   );
   
-  console.log("arrival_airportList: ", arrival_airportList);
+  //console.log("arrival_airportList: ", arrival_airportList);
 }
 
 function update_drop_box_arrival_airport_list() {
