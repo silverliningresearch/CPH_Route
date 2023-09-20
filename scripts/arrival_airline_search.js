@@ -35,34 +35,15 @@ function arrival_airline_in_list_found(list, item) {
 }
 
 function load_arrival_airline_list() {
-  arrival_airlineRawList = JSON.parse(flight_list_raw);
-  arrival_airlineList = [];
-  arrival_airlineList.length = 0;
+  arrival_airlineRawList = JSON.parse(arrival_airline);
 
-  var arrival_airlineList_tmp;
-  arrival_airlineList_tmp = [];
-  arrival_airlineList_tmp.length = 0;
-
-  for (i = 0; i < arrival_airlineRawList.length; i++) {
-    var arrival_airline = arrival_airlineRawList[i];
-    //if (arrival_airline.Date == getToDate())
-    {
-      //var Date = '"Date"' + ":" + '"' +  arrival_airlineRawList[i].Date + '", ';
-      //var AirlineCode = '"AirlineCode"' + ":" + '"' +  arrival_airlineRawList[i].AirlineCode_Merged + '", ';//code
-      //var Airline = '"Airline"' + ":" + '"' +  arrival_airlineRawList[i].Airline + '", '; 
-      var Show = '"Show"' + ":" + '"' + arrival_airlineRawList[i].Airline + " (" +  arrival_airlineRawList[i].AirlineCode_Merged + ")" + '" ';
-      var str = '{' + Show + '}';
-      
-      arrival_airlineList_tmp.push(JSON.parse(str));
-    }
-  }
-  
+  arrival_airlineList = arrival_airlineRawList;
   //remove duplicate 
-  arrival_airlineList = arrival_airlineList_tmp.filter(
-    (thing, index, self) =>
-      index ===
-      self.findIndex((t) => t.Show === thing.Show )
-  );
+  // arrival_airlineList = arrival_airlineRawList.filter(
+  //   (thing, index, self) =>
+  //     index ===
+  //     self.findIndex((t) => t.Show === thing.Show )
+  // );
   
   //console.log("arrival_airlineList: ", arrival_airlineList);
 }
