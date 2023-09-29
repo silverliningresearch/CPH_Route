@@ -60,7 +60,6 @@ function CalculateAirportAirLineReport() {
     for (j = 0; j < quota_data.length; j++) {
       if (row.Airport_Airline.toUpperCase() == quota_data[j].Airport_Airline.toUpperCase()) 
       {
-        
         //TODO-actviate this condition again: if (( quota_data[j].Difference < 0))
         {
           row.doop = quota_data[j].doop;
