@@ -185,12 +185,12 @@ function show_flight_search_box() {
         <sha-rt-element>
             <div class="sv-rt-element-container rt-element rt-sc-container q1 rt-element-active">
               <sha-basic-single-choice>
-                  <div class="rt-qtext fr-view" id="1-text">Please select outlet name:</div>
+                  <div class="rt-qtext fr-view" id="1-text">Please enter flight number with destination airport and departure time:</div>
                   <div class="rt-qelement">
                     <div class="rt-form-group">
                         <sha-basic-single-item>
                           <div class="rt-control rt-answer-option rt-has-input">
-                              <input type="radio" class="rt-control-input ng-untouched ng-pristine ng-valid" id="single_1_1" name="single_1" aria-labelledby="1-text label-1-0" tabindex="100000" onchange="save_answer()"><label class="rt-control-label rt-radio-button fr-view" id="label-1-0" for="single_1_1"><span>Outlet name:</span></label>
+                              <input type="radio" class="rt-control-input ng-untouched ng-pristine ng-valid" id="single_1_1" name="single_1" aria-labelledby="1-text label-1-0" tabindex="100000" onchange="save_answer()"><label class="rt-control-label rt-radio-button fr-view" id="label-1-0" for="single_1_1"><span>Flight number:</span></label>
                               <sha-validated-text-input>
                                 <div class="rt-semi-open-container">
                                     <sha-list-autocomplete>
