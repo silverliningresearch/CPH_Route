@@ -33,3 +33,6 @@
     max-width: 100%;
     width: 30rem;
 }  
+.select2.select2-container {
+    width: 100% !important;
+  }
