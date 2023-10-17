@@ -225,6 +225,14 @@
     "Month": "06"
    },
    {
+    "Airport_Airline": "ADD-ET",
+    "Dest": "ADD",
+    "AirlineCode": "ET",
+    "Quota": 40,
+    "Year": "2023",
+    "Month": "06"
+   },
+   {
     "Airport_Airline": "VIE-FR",
     "Dest": "VIE",
     "AirlineCode": "FR",
@@ -991,6 +999,14 @@
     "Dest": "VIE",
     "AirlineCode": "ET",
     "Quota": 14,
+    "Year": "2023",
+    "Month": "07"
+   },
+   {
+    "Airport_Airline": "ADD-ET",
+    "Dest": "ADD",
+    "AirlineCode": "ET",
+    "Quota": 40,
     "Year": "2023",
     "Month": "07"
    },
