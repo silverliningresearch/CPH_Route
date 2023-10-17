@@ -1773,6 +1773,14 @@
     "Month": "08"
    },
    {
+    "Airport_Airline": "VIE-ET",
+    "Dest": "VIE",
+    "AirlineCode": "ET",
+    "Quota": 14,
+    "Year": "2023",
+    "Month": "08"
+   },   
+   {
     "Airport_Airline": "VIE-FR",
     "Dest": "VIE",
     "AirlineCode": "FR",
@@ -2559,6 +2567,14 @@
     "Month": "09"
    },
    {
+    "Airport_Airline": "VIE-ET",
+    "Dest": "VIE",
+    "AirlineCode": "ET",
+    "Quota": 14,
+    "Year": "2023",
+    "Month": "09"
+   },      
+   {
     "Airport_Airline": "VIE-FR",
     "Dest": "VIE",
     "AirlineCode": "FR",
@@ -3341,6 +3357,14 @@
   "Dest": "SIN",
   "AirlineCode": "SQ",
   "Quota": 63,
+  "Year": "2023",
+  "Month": "10"
+ },
+ {
+  "Airport_Airline": "VIE-ET",
+  "Dest": "VIE",
+  "AirlineCode": "ET",
+  "Quota": 14,
   "Year": "2023",
   "Month": "10"
  },
