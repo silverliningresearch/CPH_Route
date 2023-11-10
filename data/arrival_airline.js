@@ -1,22 +1,7 @@
      let arrival_airline = ` 
 [
  {
-  "Show": "NORWEGIAN AIR (DY/D8/DI/DN/DU)"
- },
- {
-  "Show": "SAS - SCANDINAVIAN AIRLINES (SK)"
- },
- {
   "Show": "KLM ROYAL DUTCH AIRLINES (KL)"
- },
- {
-  "Show": "BRUSSELS AIRLINES (SN)"
- },
- {
-  "Show": "AIR FRANCE (AF)"
- },
- {
-  "Show": "ATLANTIC AIRWAYS (RC)"
  },
  {
   "Show": "LUFTHANSA (LH)"
@@ -25,82 +10,49 @@
   "Show": "FINNAIR (AY)"
  },
  {
-  "Show": "PLAY (OG)"
+  "Show": "SAS - SCANDINAVIAN AIRLINES (SK)"
  },
  {
-  "Show": "TAP PORTUGAL (TP)"
- },
- {
-  "Show": "VUELING AIRLINES (VY)"
- },
- {
-  "Show": "EUROWINGS LUFTVERKEHRS AG (EW)"
- },
- {
-  "Show": "AIR BALTIC (BT)"
- },
- {
-  "Show": "DAT (DX)"
- },
- {
-  "Show": "ALSIE EXPRESS A/S (6I)"
- },
- {
-  "Show": "AUSTRIAN AIRLINES (OS)"
+  "Show": "AIR FRANCE (AF)"
  },
  {
   "Show": "LOT POLISH AIRLINES (LO)"
  },
  {
-  "Show": "CROATIA AIRLINES (OU)"
- },
- {
-  "Show": "SWISS INTERNATIONAL AIRLINES (LX)"
- },
- {
-  "Show": "ICELANDAIR (FI)"
- },
- {
-  "Show": "SUNCLASS AIRLINES (DK)"
- },
- {
-  "Show": "AIR GREENLAND (GL)"
- },
- {
-  "Show": "ETIHAD AIRWAYS (EY)"
- },
- {
-  "Show": "PEGASUS HAVA TASIMACILIGI (PC)"
- },
- {
-  "Show": "AIR SERBIA (JU)"
- },
- {
-  "Show": "THAI AIRWAYS INTERNATIONAL (TG)"
- },
- {
-  "Show": "AIR INDIA (AI)"
- },
- {
-  "Show": "QATAR AIRWAYS (QR)"
- },
- {
-  "Show": "EMIRATES (EK)"
- },
- {
-  "Show": "TURKISH AIRLINES (TK)"
+  "Show": "NORWEGIAN AIR (DY/D8/DI/DN/DU)"
  },
  {
   "Show": "BRITISH AIRWAYS (BA)"
  },
  {
-  "Show": "SINGAPORE AIRLINES (SQ)"
+  "Show": "AUSTRIAN AIRLINES (OS)"
  },
  {
-  "Show": "ETHIOPIAN AIRLINES CORP. (ET)"
+  "Show": "DAT (DX)"
  },
  {
-  "Show": "AIR CANADA (AC)"
+  "Show": "SUNCLASS AIRLINES (DK)"
+ },
+ {
+  "Show": "AIR BALTIC (BT)"
+ },
+ {
+  "Show": "ALSIE EXPRESS A/S (6I)"
+ },
+ {
+  "Show": "JETTIME (JTD)"
+ },
+ {
+  "Show": "AIS AIRLINES (PNX)"
+ },
+ {
+  "Show": "AIR GREENLAND (GL)"
+ },
+ {
+  "Show": "QATAR AIRWAYS (QR)"
+ },
+ {
+  "Show": "LUXAIR (LG)"
  },
  {
   "Show": "EASYJET (EZY/EJU/EZS)"
@@ -109,22 +61,70 @@
   "Show": "RYANAIR (FR/RK)"
  },
  {
+  "Show": "SWISS INTERNATIONAL AIRLINES (LX)"
+ },
+ {
+  "Show": "ETIHAD AIRWAYS (EY)"
+ },
+ {
+  "Show": "TURKISH AIRLINES (TK)"
+ },
+ {
+  "Show": "PEGASUS HAVA TASIMACILIGI (PC)"
+ },
+ {
+  "Show": "CROATIA AIRLINES (OU)"
+ },
+ {
+  "Show": "VUELING AIRLINES (VY)"
+ },
+ {
+  "Show": "PLAY (OG)"
+ },
+ {
+  "Show": "SINGAPORE AIRLINES (SQ)"
+ },
+ {
+  "Show": "BRUSSELS AIRLINES (SN)"
+ },
+ {
+  "Show": "AIR CANADA (AC)"
+ },
+ {
+  "Show": "ATLANTIC AIRWAYS (RC)"
+ },
+ {
+  "Show": "TAP PORTUGAL (TP)"
+ },
+ {
+  "Show": "ICELANDAIR (FI)"
+ },
+ {
   "Show": "WIZZ AIR (W6/W4/5W/W9/WU)"
+ },
+ {
+  "Show": "THAI AIRWAYS INTERNATIONAL (TG)"
+ },
+ {
+  "Show": "EMIRATES (EK)"
  },
  {
   "Show": "AEGEAN AIRLINES S.A. (A3)"
  },
  {
-  "Show": "AIS AIRLINES (PNX)"
+  "Show": "EUROWINGS LUFTVERKEHRS AG (EW)"
  },
  {
-  "Show": "JETTIME (JTD)"
+  "Show": "AIR INDIA (AI)"
  },
  {
-  "Show": "LUXAIR (LG)"
+  "Show": "ETHIOPIAN AIRLINES CORP. (ET)"
  },
  {
   "Show": "IBERIA (IB/I2)"
+ },
+ {
+  "Show": "AIR SERBIA (JU)"
  },
  {
   "Show": "EGYPT AIR (MS)"
@@ -133,25 +133,25 @@
   "Show": "VOLOTEA (V7)"
  },
  {
-  "Show": "TRANSAVIA (HV/TO/PH)"
- },
- {
   "Show": "AIR CHINA INTERNATIONAL (CA)"
  },
  {
-  "Show": "FREEIRD INTERNATIONAL (UNOFFCIAL CODE) (FH)"
+  "Show": "TRANSAVIA (HV/TO/PH)"
  },
  {
   "Show": "SUNEXPRESS (XQ)"
  },
  {
-  "Show": "MIDDLE EAST AIRLINES (MEA) (ME)"
+  "Show": "WIDER?E (WF)"
+ },
+ {
+  "Show": "FREEIRD INTERNATIONAL (UNOFFCIAL CODE) (FH)"
  },
  {
   "Show": "TUIFLY NORDIC (BLX)"
  },
  {
-  "Show": "WIDER?E (WF)"
+  "Show": "MIDDLE EAST AIRLINES (MEA) (ME)"
  },
  {
   "Show": "UR AIRLINES (UD)"
@@ -163,19 +163,22 @@
   "Show": "BRAATHENS (BIX)"
  },
  {
-  "Show": "IRAQI AIRWAYS (IA)"
- },
- {
   "Show": "NOUVELAIR TUNISIE (BJ)"
- },
- {
-  "Show": "HI FLY MALTA (HFM)"
  },
  {
   "Show": "TUI AIRWAYS (TOM)"
  },
  {
+  "Show": "HI FLY MALTA (HFM)"
+ },
+ {
   "Show": "AIREXPLORE S.P.O. (ED)"
+ },
+ {
+  "Show": "IRAQI AIRWAYS (IA)"
+ },
+ {
+  "Show": "ROYAL AIR FORCE (RR)"
  },
  {
   "Show": "TRADE AIR (C3)"
@@ -188,6 +191,9 @@
  },
  {
   "Show": "ENTER AIR (ENT)"
+ },
+ {
+  "Show": "SKY ALPS (BQ)"
  }
 ]    
 `;
