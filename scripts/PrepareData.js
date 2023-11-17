@@ -233,7 +233,7 @@ function prepareInterviewData() {
     
     //only get (today || tomorrow) & not departed flight
     if (((currentDate == flight.Date) && notDeparted(flight.Time))
-        || (nextDate == flight.Date)
+        || ((nextDate == flight.Date) && isNextDay())
         )
     { 
       flight.Date_Time = flight.Date.substring(6,10) + flight.Date.substring(3,5) + flight.Date.substring(0,2) + flight.Time;
