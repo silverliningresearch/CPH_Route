@@ -104,6 +104,16 @@ function initCurrentTimeVars() {
   }
 }
 
+function isNextDay()
+{
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+
+  //?nextday=true
+  console.log("urlParams.has('nextday'): ", urlParams.has('nextday'));
+  return(urlParams.has('nextday'));
+}
+
 function isCurrentMonth(interviewEndDate)
 {
 // Input: "2023-04-03 10:06:22 GMT"
