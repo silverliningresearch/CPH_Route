@@ -4048,7 +4048,7 @@
   "Airport_Airline": "DOH-AY",
   "Dest": "DOH",
   "AirlineCode": "AY",
-  "Quota": 77,
+  "Quota": 127,
   "Year": "2023",
   "Month": "11"
  },
@@ -4056,7 +4056,7 @@
   "Airport_Airline": "DOH-QR",
   "Dest": "DOH",
   "AirlineCode": "QR",
-  "Quota": 98,
+  "Quota": 48,
   "Year": "2023",
   "Month": "11"
  },
@@ -4762,7 +4762,7 @@
   "Airport_Airline": "DOH-AY",
   "Dest": "DOH",
   "AirlineCode": "AY",
-  "Quota": 61,
+  "Quota": 11,
   "Year": "2023",
   "Month": "12"
  },
@@ -4770,7 +4770,7 @@
   "Airport_Airline": "DOH-QR",
   "Dest": "DOH",
   "AirlineCode": "QR",
-  "Quota": 107,
+  "Quota": 157,
   "Year": "2023",
   "Month": "12"
  },
