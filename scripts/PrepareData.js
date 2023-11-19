@@ -110,7 +110,7 @@ function isNextDay()
   const urlParams = new URLSearchParams(queryString);
 
   //?nextday=true
-  console.log("urlParams.has('nextday'): ", urlParams.has('nextday'));
+  //console.log("urlParams.has('nextday'): ", urlParams.has('nextday'));
   return(urlParams.has('nextday'));
 }
 
@@ -268,4 +268,6 @@ function prepareInterviewData() {
        }
     }
   }
+  //console.log("today_flight_list: ",today_flight_list);
+  //console.log("daily_plan_data: ", daily_plan_data);
 }
