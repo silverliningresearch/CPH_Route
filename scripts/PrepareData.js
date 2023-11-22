@@ -217,6 +217,22 @@ function prepareInterviewData() {
   }
 
   //prepare flight list
+  //>>Special treat for ET-VIE which will be used for ET-ADD as well
+  var flight_list_temp_1 = [];
+  for (i = 0; i < flight_list_temp.length; i++) {
+    let flight = flight_list_temp[i];
+    flight_list_temp_1.push(flight);
+
+    if ((flight.Dest == "VIE") && ((flight.AirlineCode == "ET"))) {
+      const temp_flight = JSON.parse(JSON.stringify(flight));
+      temp_flight.Dest = "ADD";
+      temp_flight.DestName = "ADDIS ABABA BOLE (via Vienna)";
+      flight_list_temp_1.push(temp_flight);
+    }
+  }
+  flight_list_temp = flight_list_temp_1;
+  //<<Special treat for ET-VIE which will be used for ET-ADD as well
+
   //empty the list
   today_flight_list = [];
   today_flight_list.length = 0;
@@ -249,7 +265,6 @@ function prepareInterviewData() {
       flight.Date_Time = flight.Date.substring(6,10) + flight.Date.substring(3,5) + flight.Date.substring(0,2) + flight.Time;
       today_flight_list.push(flight);
     }
-			   
   }
   
     //add quota data
