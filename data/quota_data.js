@@ -6923,6 +6923,14 @@
   "Month": "02"
  },
 
+ {
+  "Airport_Airline": "ADD-ET",
+  "Dest": "ADD",
+  "AirlineCode": "ET",
+  "Quota": 40,
+  "Year": "2024",
+  "Month": "02"
+ },
 
  {
   "Airport_Airline": "AMS-D8",
@@ -7681,6 +7689,15 @@
   "Dest": "KUT",
   "AirlineCode": "W6",
   "Quota": 18,
+  "Year": "2024",
+  "Month": "03"
+ },
+
+ {
+  "Airport_Airline": "ADD-ET",
+  "Dest": "ADD",
+  "AirlineCode": "ET",
+  "Quota": 40,
   "Year": "2024",
   "Month": "03"
  }
