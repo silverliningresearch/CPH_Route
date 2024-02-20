@@ -192,6 +192,13 @@ function prepareInterviewData() {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
       }
 
+      const A_plus_Airport = ["AMS", "CDG", "DOH", "DXB", "FRA", "IST", "LHR"];
+      
+      if ((currentMonth=="02-2024") &&
+          (A_plus_Airport.includes(quota_data_temp[i].Dest))) {//special for 08-2023 as there is still capacity.
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+      }
+
       quota_data.push(quota_data_temp[i]);
     }
   }
