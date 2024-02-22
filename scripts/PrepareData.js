@@ -196,11 +196,13 @@ function prepareInterviewData() {
       
       if (currentMonth=="02-2024") 
       {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+
         if (A_plus_Airport.includes(quota_data_temp[i].Dest)) {//special for 08-2023 as there is still capacity.
-          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.1);
         }
         if (quota_data_temp[i].Dest == "DEL") {//special for 08-2023 as there is still capacity.
-          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.45);
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.3);
         }
          
 
