@@ -6984,7 +6984,7 @@
   "Airport_Airline": "CDG-EJU",
   "Dest": "CDG",
   "AirlineCode": "EJU",
-  "Quota": 30,
+  "Quota": 29,
   "Year": "2024",
   "Month": "03"
  },
@@ -7000,7 +7000,7 @@
   "Airport_Airline": "DOH-AY",
   "Dest": "DOH",
   "AirlineCode": "AY",
-  "Quota": 67,
+  "Quota": 72,
   "Year": "2024",
   "Month": "03"
  },
@@ -7008,7 +7008,7 @@
   "Airport_Airline": "DOH-QR",
   "Dest": "DOH",
   "AirlineCode": "QR",
-  "Quota": 127,
+  "Quota": 123,
   "Year": "2024",
   "Month": "03"
  },
@@ -7120,7 +7120,7 @@
   "Airport_Airline": "HEL-AY",
   "Dest": "HEL",
   "AirlineCode": "AY",
-  "Quota": 35,
+  "Quota": 31,
   "Year": "2024",
   "Month": "03"
  },
@@ -7128,7 +7128,7 @@
   "Airport_Airline": "HEL-SK",
   "Dest": "HEL",
   "AirlineCode": "SK",
-  "Quota": 18,
+  "Quota": 22,
   "Year": "2024",
   "Month": "03"
  },
@@ -7168,7 +7168,7 @@
   "Airport_Airline": "VIE-OS",
   "Dest": "VIE",
   "AirlineCode": "OS",
-  "Quota": 44,
+  "Quota": 43,
   "Year": "2024",
   "Month": "03"
  },
@@ -7360,7 +7360,7 @@
   "Airport_Airline": "BEG-JU",
   "Dest": "BEG",
   "AirlineCode": "JU",
-  "Quota": 25,
+  "Quota": 26,
   "Year": "2024",
   "Month": "03"
  },
@@ -7448,7 +7448,7 @@
   "Airport_Airline": "SAW-PC",
   "Dest": "SAW",
   "AirlineCode": "PC",
-  "Quota": 33,
+  "Quota": 34,
   "Year": "2024",
   "Month": "03"
  },
@@ -7456,7 +7456,7 @@
   "Airport_Airline": "SAW-TK",
   "Dest": "SAW",
   "AirlineCode": "TK",
-  "Quota": 17,
+  "Quota": 16,
   "Year": "2024",
   "Month": "03"
  },
@@ -7616,7 +7616,7 @@
   "Airport_Airline": "GDN-W6",
   "Dest": "GDN",
   "AirlineCode": "W6",
-  "Quota": 4,
+  "Quota": 5,
   "Year": "2024",
   "Month": "03"
  },
@@ -7632,7 +7632,7 @@
   "Airport_Airline": "LYS-D8",
   "Dest": "LYS",
   "AirlineCode": "D8",
-  "Quota": 14,
+  "Quota": 13,
   "Year": "2024",
   "Month": "03"
  },
@@ -7640,7 +7640,7 @@
   "Airport_Airline": "LYS-EJU",
   "Dest": "LYS",
   "AirlineCode": "EJU",
-  "Quota": 11,
+  "Quota": 12,
   "Year": "2024",
   "Month": "03"
  },
@@ -7692,14 +7692,14 @@
   "Year": "2024",
   "Month": "03"
  },
-
  {
   "Airport_Airline": "ADD-ET",
   "Dest": "ADD",
   "AirlineCode": "ET",
-  "Quota": 40,
+  "Quota": 34,
   "Year": "2024",
   "Month": "03"
  }
+
 ]    
 `;
