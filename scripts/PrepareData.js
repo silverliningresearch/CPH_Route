@@ -204,6 +204,10 @@ function prepareInterviewData() {
         if (quota_data_temp[i].Dest == "DEL") {//special for 08-2023 as there is still capacity.
           quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.3);
         }
+
+        if (quota_data_temp[i].Airport_Airline == "DOH-AY") {//special for 08-2023 as there is still capacity.
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.3);
+        }
          
 
       }
