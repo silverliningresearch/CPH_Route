@@ -213,6 +213,8 @@ function prepareInterviewData() {
 
       if (currentMonth=="03-2024") 
       {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.17);
+
         if (quota_data_temp[i].Dest == "DEL") {
           quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*3); //57==> 157
         }
