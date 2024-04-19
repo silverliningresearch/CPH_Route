@@ -232,6 +232,11 @@ function prepareInterviewData() {
         }        
 
       }
+
+      if (currentMonth=="04-2024") 
+      {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*2);
+      }
       quota_data.push(quota_data_temp[i]);
     }
   }
