@@ -205,6 +205,9 @@
           "Show": "ABU DHABI (AUH)"
          },
          {
+          "Show": "LONDON/LUTON (LTN)"
+         },
+         {
           "Show": "LOS ANGELES (LAX)"
          },
          {
@@ -412,6 +415,9 @@
           "Show": "Santa Cruz De La (SPC)"
          },
          {
+          "Show": "Unknown Schengen (XXX)"
+         },
+         {
           "Show": "THESSALONIKI (SKG)"
          },
          {
@@ -436,7 +442,13 @@
           "Show": "RHODOS (RHO)"
          },
          {
+          "Show": "BIGGIN HILL (BQH)"
+         },
+         {
           "Show": "Al Najaf (NJF)"
+         },
+         {
+          "Show": "MILAN/LINATE (LIN)"
          },
          {
           "Show": "BILLUND (BLL)"
@@ -515,6 +527,66 @@
          },
          {
           "Show": "TIRANA (TIA)"
+         },
+         {
+          "Show": "ZADAR (ZAD)"
+         },
+         {
+          "Show": "Baghdad (BGW)"
+         },
+         {
+          "Show": "TOULOUSE (TLS)"
+         },
+         {
+          "Show": "PODGORICA (TGD)"
+         },
+         {
+          "Show": "KAVALA (KVA)"
+         },
+         {
+          "Show": "Enfidha (NBE)"
+         },
+         {
+          "Show": "PHILADELPHIA (PHL)"
+         },
+         {
+          "Show": "VARNA (VAR)"
+         },
+         {
+          "Show": "ATLANTA (ATL)"
+         },
+         {
+          "Show": "HAHN (HHN)"
+         },
+         {
+          "Show": "POITIERS (PIS)"
+         },
+         {
+          "Show": "PULA (PUY)"
+         },
+         {
+          "Show": "BARI (BRI)"
+         },
+         {
+          "Show": "Tivat (TIV)"
+         },
+         {
+          "Show": "BIARRITZ (BIQ)"
+         },
+         {
+          "Show": "LILLE (LIL)"
+         },
+         {
+          "Show": "Pristina (PRN)"
+         },
+         {
+          "Show": "Newquay (NQY)"
+         },
+         {
+          "Show": "AALESUND (AES)"
+         },
+         {
+          "Show": "IBIZA (IBZ)"
          }
 ]    
 `;

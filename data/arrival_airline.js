@@ -73,7 +73,7 @@
           "Show": "QATAR AIRWAYS (QR)"
          },
          {
-          "Show": "EUROWINGS LUFTVERKEHRS AG (EW)"
+          "Show": "EUROWINGS (EW)"
          },
          {
           "Show": "AIR SERBIA (JU)"
@@ -91,7 +91,10 @@
           "Show": "ETIHAD AIRWAYS (EY)"
          },
          {
-          "Show": "AEGEAN AIRLINES S.A. (A3)"
+          "Show": "AIRLINE SUPPORT EXECUTIVE (CPH)"
+         },
+         {
+          "Show": "AEGEAN AIRLINES (A3)"
          },
          {
           "Show": "CROATIA AIRLINES (OU)"
@@ -124,13 +127,13 @@
           "Show": "EGYPT AIR (MS)"
          },
          {
-          "Show": "ALSIE EXPRESS A/S (6I)"
+          "Show": "ALSIE EXPRESS (6I)"
          },
          {
-          "Show": "AIR CHINA INTERNATIONAL (CA)"
+          "Show": "AIR CHINA (CA)"
          },
          {
-          "Show": "ETHIOPIAN AIRLINES CORP. (ET)"
+          "Show": "ETHIOPIAN AIRLINES GROUP (ET)"
          },
          {
           "Show": "IBERIA (IB/I2)"
@@ -151,6 +154,9 @@
           "Show": "MIDDLE EAST AIRLINES (MEA) (ME)"
          },
          {
+          "Show": "NET JETS EUROPE LTD. (NJE)"
+         },
+         {
           "Show": "IRAQI AIRWAYS (IA)"
          },
          {
@@ -163,10 +169,16 @@
           "Show": "FREEBIRD AIRLINES EUROPE (MI)"
          },
          {
+          "Show": "BRAATHENS (BIX)"
+         },
+         {
+          "Show": "AIRLINE SUPPORT EXECUTIVE (ASE)"
+         },
+         {
           "Show": "AIR CAIRO (SM)"
          },
          {
-          "Show": "DELTA AIR LINES INC. (DL)"
+          "Show": "DELTA AIR LINES (DL)"
          },
          {
           "Show": "RYANAIR SUN S.A. (RR)"
@@ -181,9 +193,6 @@
           "Show": "SKY EXPRESS (GQ)"
          },
          {
-          "Show": "BRAATHENS (BIX)"
-         },
-         {
           "Show": "CORENDON AIRLINES (XC)"
          },
          {
@@ -191,6 +200,39 @@
          },
          {
           "Show": "NEOS SPA (NO)"
+         },
+         {
+          "Show": "ELECTRA AIRWAYS (EAF)"
+         },
+         {
+          "Show": "AIR MONTENEGRO (MNE)"
+         },
+         {
+          "Show": "ITA AIRWAYS (AZ)"
+         },
+         {
+          "Show": "AMERICAN AIRLINES INC. (AA)"
+         },
+         {
+          "Show": "BULGARIA AIR (FB)"
+         },
+         {
+          "Show": "GERMAN AIRWAYS (ZQ)"
+         },
+         {
+          "Show": "LUXWING (BN)"
+         },
+         {
+          "Show": "WIND ROSE AVIATION COMPANY (7W)"
+         },
+         {
+          "Show": "AMELIA INTERNATIONAL (AEH)"
+         },
+         {
+          "Show": "BH AIR LTD. (BGH)"
+         },
+         {
+          "Show": "FLYEGYPT (FT)"
          }
 ]    
 `;
