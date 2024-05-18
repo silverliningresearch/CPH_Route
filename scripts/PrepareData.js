@@ -248,9 +248,9 @@ function prepareInterviewData() {
             quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 24);
           }
 
-          // if (quota_data_temp[i].Airport_Airline == "ALC-D8") {
-          //   quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 30);
-          // }
+          if (quota_data_temp[i].Airport_Airline == "DUS-SK") {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 22);
+          }
         }
 
       quota_data.push(quota_data_temp[i]);
