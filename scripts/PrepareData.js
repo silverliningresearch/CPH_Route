@@ -251,6 +251,29 @@ function prepareInterviewData() {
           if (quota_data_temp[i].Airport_Airline == "DUS-SK") {
             quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 22);
           }
+
+          //Line requested on 22-May  
+          if ((quota_data_temp[i].Dest == "AMS") && (quota_data_temp[i].Airport_Airline != "AMS-EJU")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 20);
+          }
+
+          if ((quota_data_temp[i].Dest == "BEG")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 20);
+          }
+
+          if (quota_data_temp[i].Airport_Airline == "CDG-SK") {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 50);
+          }
+
+          if (quota_data_temp[i].Airport_Airline == "FRA-SK") {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 50);
+          }
+
+          if ((quota_data_temp[i].Dest == "HEL")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 10);
+          }
+
+
         }
 
       quota_data.push(quota_data_temp[i]);
