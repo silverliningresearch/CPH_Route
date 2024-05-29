@@ -241,7 +241,11 @@ function prepareInterviewData() {
       if (currentMonth=="05-2024") 
         {
           if (quota_data_temp[i].Airport_Airline == "DOH-QR") {
-            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 50);
+            quota_data_temp[i].Quota = Math.round(119);
+          }
+
+          if (quota_data_temp[i].Airport_Airline == "DOH-AY") {
+            quota_data_temp[i].Quota = Math.round(157);
           }
 
           if (quota_data_temp[i].Airport_Airline == "ZRH-SK") {
@@ -272,6 +276,7 @@ function prepareInterviewData() {
           if ((quota_data_temp[i].Dest == "HEL")) {
             quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 10);
           }
+
 
 
         }
