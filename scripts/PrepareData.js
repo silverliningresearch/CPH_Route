@@ -240,13 +240,9 @@ function prepareInterviewData() {
 
       if (currentMonth=="05-2024") 
         {
-          if (quota_data_temp[i].Airport_Airline == "DOH-QR") {
-            quota_data_temp[i].Quota = Math.round(119);
-          }
 
-          if (quota_data_temp[i].Airport_Airline == "DOH-AY") {
-            quota_data_temp[i].Quota = Math.round(157);
-          }
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+
 
           if (quota_data_temp[i].Airport_Airline == "ZRH-SK") {
             quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 24);
@@ -261,9 +257,9 @@ function prepareInterviewData() {
             quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 20);
           }
 
-          if ((quota_data_temp[i].Dest == "BEG")) {
-            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 20);
-          }
+          // if ((quota_data_temp[i].Dest == "BEG")) {
+          //   quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 20);
+          // }
 
           if (quota_data_temp[i].Airport_Airline == "CDG-SK") {
             quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 50);
@@ -277,7 +273,30 @@ function prepareInterviewData() {
             quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 10);
           }
 
+          //////////////////////////////
+          //close quota
+          if (quota_data_temp[i].Airport_Airline == "DOH-QR") {
+            quota_data_temp[i].Quota = Math.round(119);
+          }
 
+          if (quota_data_temp[i].Airport_Airline == "DOH-AY") {
+            quota_data_temp[i].Quota = Math.round(157);
+          }
+
+          if ((quota_data_temp[i].Dest == "BEG-JU")) {
+            quota_data_temp[i].Quota = Math.round(25);
+          }
+
+          if ((quota_data_temp[i].Dest == "BEG-W6")) {
+            quota_data_temp[i].Quota = Math.round(25);
+          }
+
+          if (quota_data_temp[i].Airport_Airline == "DUS-SK") {
+            quota_data_temp[i].Quota = Math.round(68);
+          }
+          if (quota_data_temp[i].Airport_Airline == "DUS-EW") {
+            quota_data_temp[i].Quota = Math.round(12);
+          }
 
         }
 
