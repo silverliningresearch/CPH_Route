@@ -307,6 +307,17 @@ function prepareInterviewData() {
 
         }
 
+
+      if (currentMonth=="06-2024") 
+        {
+          if ((quota_data_temp[i].Dest == "SOF")) {
+            quota_data_temp[i].Quota = Math.round(30);
+          }
+
+          if ((quota_data_temp[i].Dest == "ADD")) {
+            quota_data_temp[i].Quota = Math.round(50);
+          }
+        }
       quota_data.push(quota_data_temp[i]);
     }
   }
