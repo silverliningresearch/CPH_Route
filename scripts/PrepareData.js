@@ -318,6 +318,10 @@ function prepareInterviewData() {
             quota_data_temp[i].Quota = Math.round(50);
           }
 
+          if ((quota_data_temp[i].Dest == "AUH")) {
+            quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota + 50);
+          }
+
           if ((quota_data_temp[i].Airport_Airline == "DOH-QR")) {
             quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 50);
           }
