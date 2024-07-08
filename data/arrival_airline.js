@@ -1,19 +1,25 @@
      let arrival_airline = ` 
 [
-   {
+{
+  "Show": "UR AIRLINES (UD)"
+ },
+ {
   "Show": "SUNEXPRESS (XQ)"
  },
  {
-  "Show": "KLM ROYAL DUTCH AIRLINES (KL)"
+  "Show": "AJET HAVA TASIMACILIGI ANONIM SIRKE DBA (VF)"
  },
  {
-  "Show": "TAP PORTUGAL (TP)"
+  "Show": "RYANAIR (FR/RK)"
  },
  {
   "Show": "SAS - SCANDINAVIAN AIRLINES (SK)"
  },
  {
-  "Show": "RYANAIR (FR/RK)"
+  "Show": "TAP PORTUGAL (TP)"
+ },
+ {
+  "Show": "KLM (KL)"
  },
  {
   "Show": "NORWEGIAN AIR (DY/D8/DI/DN/DU)"
@@ -25,10 +31,10 @@
   "Show": "AIR FRANCE (AF)"
  },
  {
-  "Show": "SUNCLASS AIRLINES (DK)"
+  "Show": "JETTIME (JTD)"
  },
  {
-  "Show": "JETTIME (JTD)"
+  "Show": "FINNAIR (AY)"
  },
  {
   "Show": "BRUSSELS AIRLINES (SN)"
@@ -40,58 +46,73 @@
   "Show": "LOT POLISH AIRLINES (LO)"
  },
  {
-  "Show": "ICELANDAIR (FI)"
+  "Show": "SUNCLASS AIRLINES (DK)"
  },
  {
-  "Show": "ATLANTIC AIRWAYS (RC)"
+  "Show": "ICELANDAIR (FI)"
  },
  {
   "Show": "BRITISH AIRWAYS (BA)"
  },
  {
-  "Show": "WIZZ AIR (W6/W4/5W/W9/WU)"
- },
- {
-  "Show": "AIR BALTIC (BT)"
- },
- {
-  "Show": "FINNAIR (AY)"
- },
- {
-  "Show": "AIR GREENLAND (GL)"
- },
- {
-  "Show": "QATAR AIRWAYS (QR)"
+  "Show": "DAT (DX)"
  },
  {
   "Show": "EASYJET (EZY/EJU/EZS)"
  },
  {
+  "Show": "ALSIE EXPRESS (6I)"
+ },
+ {
+  "Show": "AIR BALTIC (BT)"
+ },
+ {
+  "Show": "WIZZ AIR (W6/W4/5W/W9/WU)"
+ },
+ {
+  "Show": "ATLANTIC AIRWAYS (RC)"
+ },
+ {
+  "Show": "LUXAIR (LG)"
+ },
+ {
+  "Show": "AIR GREENLAND (GL)"
+ },
+ {
+  "Show": "TRANSAVIA (HV/TO/PH)"
+ },
+ {
+  "Show": "QATAR AIRWAYS (QR)"
+ },
+ {
+  "Show": "EUROWINGS (EW)"
+ },
+ {
   "Show": "AIR SERBIA (JU)"
  },
  {
-  "Show": "SWISS INTERNATIONAL AIRLINES (LX)"
+  "Show": "SWISS (LX)"
  },
  {
   "Show": "VUELING AIRLINES (VY)"
  },
  {
-  "Show": "SKY EXPRESS (GQ)"
- },
- {
   "Show": "TURKISH AIRLINES (TK)"
  },
  {
-  "Show": "DAT (DX)"
+  "Show": "AIR ALSIE (MMD)"
  },
  {
-  "Show": "AEGEAN AIRLINES (A3)"
+  "Show": "ETIHAD AIRWAYS (EY)"
  },
  {
   "Show": "CROATIA AIRLINES (OU)"
  },
  {
-  "Show": "IBERIA (IB/I2)"
+  "Show": "AEGEAN AIRLINES (A3)"
+ },
+ {
+  "Show": "MIDDLE EAST AIRLINES (ME)"
  },
  {
   "Show": "SINGAPORE AIRLINES (SQ)"
@@ -103,22 +124,31 @@
   "Show": "PLAY (OG)"
  },
  {
-  "Show": "AJET HAVA TASIMACILIGI ANONIM SIRKE DBA (VF)"
+  "Show": "PEGASUS HAVA TASIMACILIGI (PC)"
  },
  {
-  "Show": "PEGASUS HAVA TASIMACILIGI (PC)"
+  "Show": "DELTA AIR LINES (DL)"
+ },
+ {
+  "Show": "AMERICAN AIRLINES INC. (AA)"
  },
  {
   "Show": "THAI AIRWAYS INTERNATIONAL (TG)"
  },
  {
+  "Show": "VOLOTEA (V7)"
+ },
+ {
   "Show": "EMIRATES (EK)"
  },
  {
-  "Show": "EGYPT AIR (MS)"
+  "Show": "EGYPTAIR (MS)"
  },
  {
-  "Show": "FREEBIRD AIRLINES (FH)"
+  "Show": "BRAATHENS (BIX)"
+ },
+ {
+  "Show": "AIS AIRLINES (PNX)"
  },
  {
   "Show": "AIR CHINA (CA)"
@@ -127,97 +157,55 @@
   "Show": "ETHIOPIAN AIRLINES GROUP (ET)"
  },
  {
+  "Show": "IBERIA (IB/I2)"
+ },
+ {
   "Show": "AIR INDIA (AI)"
- },
- {
-  "Show": "UR AIRLINES (UD)"
- },
- {
-  "Show": "VOLOTEA (V7)"
- },
- {
-  "Show": "ETIHAD AIRWAYS (EY)"
- },
- {
-  "Show": "WIDER?E (WF)"
- },
- {
-  "Show": "AIRLINE SUPPORT EXECUTIVE (ASE)"
- },
- {
-  "Show": "DELTA AIR LINES (DL)"
- },
- {
-  "Show": "EUROWINGS (EW)"
- },
- {
-  "Show": "BRAATHENS (BIX)"
- },
- {
-  "Show": "AIR CAIRO (SM)"
- },
- {
-  "Show": "CORENDON AIRLINES (XC)"
- },
- {
-  "Show": "TRANSAVIA (HV/TO/PH)"
- },
- {
-  "Show": "ALSIE EXPRESS (6I)"
- },
- {
-  "Show": "LUXAIR (LG)"
- },
- {
-  "Show": "MIDDLE EAST AIRLINES (MEA) (ME)"
- },
- {
-  "Show": "AIS AIRLINES (PNX)"
  },
  {
   "Show": "AIRSEVEN (CAT)"
  },
  {
-  "Show": "AIR MONTENEGRO (MNE)"
- },
- {
-  "Show": "AMERICAN AIRLINES INC. (AA)"
- },
- {
-  "Show": "ITA AIRWAYS (AZ)"
- },
- {
-  "Show": "BULGARIA AIR (FB)"
- },
- {
-  "Show": "GERMAN AIRWAYS (ZQ)"
- },
- {
-  "Show": "LUXWING (BN)"
- },
- {
-  "Show": "NEOS SPA (NO)"
- },
- {
-  "Show": "AMELIA INTERNATIONAL (AEH)"
- },
- {
   "Show": "BH AIR LTD. (BGH)"
  },
  {
-  "Show": "FLYEGYPT (FT)"
+  "Show": "AIR MONTENEGRO (MNE)"
  },
  {
-  "Show": "IRAQI AIRWAYS (IA)"
+  "Show": "SKY EXPRESS (GQ)"
+ },
+ {
+  "Show": "FREEBIRD AIRLINES (FH)"
  },
  {
   "Show": "AVIES (AIA)"
  },
  {
+  "Show": "CORENDON AIRLINES (XC)"
+ },
+ {
+  "Show": "WIDER?E (WF)"
+ },
+ {
+  "Show": "FLYEGYPT (FT)"
+ },
+ {
+  "Show": "NEOS (NO)"
+ },
+ {
   "Show": "ENTER AIR (ENT)"
  },
  {
+  "Show": "ITA AIRWAYS (AZ)"
+ },
+ {
+  "Show": "AIR CAIRO (SM)"
+ },
+ {
   "Show": "BRA BRAATHENS REGIONAL AIRLINE (TF)"
+ },
+ {
+  "Show": "IRAQI AIRWAYS (IA)"
  }
 
 ]    

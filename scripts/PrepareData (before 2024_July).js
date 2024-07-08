@@ -180,10 +180,134 @@ function prepareInterviewData() {
   quota_data.length = 0;
   for (i = 0; i < quota_data_temp.length; i++) {
     var quota_month =  quota_data_temp[i].Month + "-"  + quota_data_temp[i].Year; 
-
     if (quota_month== currentMonth)
     {
-      if (currentMonth == "07-2024") 
+      if (quota_data_temp[i].Airport_Airline =="DOH-QR") {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota - 50;
+      }
+      if (quota_data_temp[i].Airport_Airline =="DOH-AY") {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
+      }
+
+      if (currentMonth=="11-2023") {//special for 08-2023 as there is still capacity.
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.25);
+      }
+      if (currentMonth=="12-2023") {//special for 08-2023 as there is still capacity.
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+      }
+      if (currentMonth=="01-2024") {//special for 08-2023 as there is still capacity.
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+      }
+
+      const A_plus_Airport = ["AMS", "CDG", "DOH", "DXB", "FRA", "IST", "LHR"];
+      
+      if (currentMonth=="02-2024") 
+      {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.25);
+
+        if (A_plus_Airport.includes(quota_data_temp[i].Dest)) {//special for 08-2023 as there is still capacity.
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.1);
+        }
+        if (quota_data_temp[i].Dest == "DEL") {//special for 08-2023 as there is still capacity.
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.3);
+        }
+
+        if (quota_data_temp[i].Airport_Airline == "DOH-AY") {//special for 08-2023 as there is still capacity.
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.2);
+        }
+
+      }
+
+      if (currentMonth=="03-2024") 
+      {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.25);
+
+        if (quota_data_temp[i].Dest == "DEL") {
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*3); //57==> 157
+        }
+
+        if (quota_data_temp[i].Dest == "ADD") {
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*3); //64==> 150
+        }
+
+        if (quota_data_temp[i].Dest == "BKK") {
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*3.5); //42==> 150
+        }
+
+        if (quota_data_temp[i].Dest == "DOH") {
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.7); //150==> 250
+        }        
+
+      }
+
+      if (currentMonth=="04-2024") 
+      {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*2);
+      }
+
+      if (currentMonth=="05-2024") 
+        {
+
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+
+
+          if (quota_data_temp[i].Airport_Airline == "ZRH-SK") {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 24);
+          }
+
+          if (quota_data_temp[i].Airport_Airline == "DUS-SK") {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 22);
+          }
+
+          //Line requested on 22-May  
+          if ((quota_data_temp[i].Dest == "AMS") && (quota_data_temp[i].Airport_Airline != "AMS-EJU")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 20);
+          }
+
+          // if ((quota_data_temp[i].Dest == "BEG")) {
+          //   quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 20);
+          // }
+
+          if (quota_data_temp[i].Airport_Airline == "CDG-SK") {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 50);
+          }
+
+          if (quota_data_temp[i].Airport_Airline == "FRA-SK") {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 50);
+          }
+
+          if ((quota_data_temp[i].Dest == "HEL")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 10);
+          }
+
+          //////////////////////////////
+          //close quota
+          if (quota_data_temp[i].Airport_Airline == "DOH-QR") {
+            quota_data_temp[i].Quota = Math.round(119);
+          }
+
+          if (quota_data_temp[i].Airport_Airline == "DOH-AY") {
+            quota_data_temp[i].Quota = Math.round(157);
+          }
+
+          if ((quota_data_temp[i].Dest == "BEG-JU")) {
+            quota_data_temp[i].Quota = Math.round(25);
+          }
+
+          if ((quota_data_temp[i].Dest == "BEG-W6")) {
+            quota_data_temp[i].Quota = Math.round(25);
+          }
+
+          if (quota_data_temp[i].Airport_Airline == "DUS-SK") {
+            quota_data_temp[i].Quota = Math.round(68);
+          }
+          if (quota_data_temp[i].Airport_Airline == "DUS-EW") {
+            quota_data_temp[i].Quota = Math.round(12);
+          }
+
+        }
+
+      if (currentMonth == "06-2024") 
         {
           if ((quota_data_temp[i].Dest == "SOF")) {
             quota_data_temp[i].Quota = Math.round(30);
@@ -193,21 +317,65 @@ function prepareInterviewData() {
             quota_data_temp[i].Quota = Math.round(50);
           }
 
-          if ((quota_data_temp[i].Airport_Airline == "ZRH-SK")) {
-            quota_data_temp[i].Quota = Math.round(50);
+          if ((quota_data_temp[i].Dest == "AUH")) {
+            quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota + 50);
           }
 
-          if ((quota_data_temp[i].Airport_Airline == "BOD-EJU")) {
-            quota_data_temp[i].Quota = Math.round(40);
+          if ((quota_data_temp[i].Airport_Airline == "DOH-QR")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 50);
           }
+
+          if ((quota_data_temp[i].Airport_Airline == "DXB-EK")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          }
+          
+          if ((quota_data_temp[i].Airport_Airline == "IST-TK")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          }
+
+          if ((quota_data_temp[i].Airport_Airline == "DOH-AY")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          }
+
+          if ((quota_data_temp[i].Airport_Airline == "AMS-KL")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          }
+
+          if ((quota_data_temp[i].Airport_Airline == "CDG-AF")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          }
+
+          if ((quota_data_temp[i].Airport_Airline == "LHR-BA")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          }
+
+          if ((quota_data_temp[i].Airport_Airline == "LHR-SK")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          }
+
+          if ((quota_data_temp[i].Airport_Airline == "ATL-SK")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          }
+
+          if ((quota_data_temp[i].Airport_Airline == "FRA-LH")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          }
+
+          if ((quota_data_temp[i].Airport_Airline == "SIN-SQ")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          }
+
+          if ((quota_data_temp[i].Airport_Airline == "BOS-SK")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          }
+
+          if ((quota_data_temp[i].Airport_Airline == "MUC-LH")) {
+            quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.15);
+          }
+
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota * 1.15);
 
         }
- 
-      //Increase Doha QR with 50 every month to give us some flexibility
-      if (quota_data_temp[i].Airport_Airline =="DOH-QR") {
-        //quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
-      }
-      
       quota_data.push(quota_data_temp[i]);
     }
   }
