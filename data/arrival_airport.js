@@ -1,6 +1,6 @@
      let arrival_airport = ` 
 [
-{
+ {
   "Show": "Erbil (EBL)"
  },
  {
@@ -487,7 +487,13 @@
   "Show": "SARAJEVO (SJJ)"
  },
  {
+  "Show": "LONDON/LUTON (LTN)"
+ },
+ {
   "Show": "Niederrhein (NRN)"
+ },
+ {
+  "Show": "IBIZA (IBZ)"
  },
  {
   "Show": "DALAMAN (DLM)"
@@ -505,7 +511,7 @@
   "Show": "Sitia (JSH)"
  },
  {
-  "Show": "IBIZA (IBZ)"
+  "Show": "SALZBURG (SZG)"
  },
  {
   "Show": "LYON (LYS)"
@@ -520,16 +526,19 @@
   "Show": "SHARM (SSH)"
  },
  {
+  "Show": "ANGELHOLM (AGH)"
+ },
+ {
   "Show": "SAMOS (SMI)"
  },
  {
   "Show": "KAVALA (KVA)"
  },
  {
-  "Show": "SALZBURG (SZG)"
+  "Show": "BASTIA (BIA)"
  },
  {
-  "Show": "BASTIA (BIA)"
+  "Show": "CAGLIARI (CAG)"
  },
  {
   "Show": "BIARRITZ (BIQ)"
@@ -538,10 +547,16 @@
   "Show": "Enfidha (NBE)"
  },
  {
+  "Show": "ROTTERDAM (RTM)"
+ },
+ {
   "Show": "MYTILENE (MJT)"
  },
  {
   "Show": "Longyearbyen (LYR)"
+ },
+ {
+  "Show": "Lelystad (LEY)"
  },
  {
   "Show": "Lemnos (LXS)"
@@ -550,10 +565,52 @@
   "Show": "HURGHADA (HRG)"
  },
  {
+  "Show": "Sint Maarten (SXM)"
+ },
+ {
+  "Show": "MAHON (MAH)"
+ },
+ {
+  "Show": "GRANADA (GRX)"
+ },
+ {
   "Show": "THULE (THU)"
  },
  {
+  "Show": "South Bend Regio (SBN)"
+ },
+ {
+  "Show": "HONG KONG (HKG)"
+ },
+ {
+  "Show": "STOCKHOLM/BMA (BMA)"
+ },
+ {
+  "Show": "Bol (BWK)"
+ },
+ {
+  "Show": "Bratislava (BTS)"
+ },
+ {
+  "Show": "PERUGIA (PEG)"
+ },
+ {
+  "Show": "JERSEY (JER)"
+ },
+ {
+  "Show": "BIGGIN HILL (BQH)"
+ },
+ {
+  "Show": "TAVAUX (DLE)"
+ },
+ {
+  "Show": "COPENHAGEN (CPH)"
+ },
+ {
   "Show": "Al Najaf (NJF)"
+ },
+ {
+  "Show": "Hannover (HAJ)"
  }
 ]    
 `;

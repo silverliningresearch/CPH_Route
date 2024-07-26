@@ -1,6 +1,6 @@
      let arrival_airline = ` 
 [
-{
+ {
   "Show": "UR AIRLINES (UD)"
  },
  {
@@ -172,10 +172,19 @@
   "Show": "AIR MONTENEGRO (MNE)"
  },
  {
+  "Show": "AIRLINE SUPPORT EXECUTIVE (CPH)"
+ },
+ {
   "Show": "SKY EXPRESS (GQ)"
  },
  {
+  "Show": "AIRLINE SUPPORT EXECUTIVE (ASE)"
+ },
+ {
   "Show": "FREEBIRD AIRLINES (FH)"
+ },
+ {
+  "Show": "NET JETS EUROPE LTD. (NJE)"
  },
  {
   "Show": "AVIES (AIA)"
