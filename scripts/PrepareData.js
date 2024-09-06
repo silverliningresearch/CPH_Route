@@ -98,14 +98,29 @@ function initCurrentTimeVars() {
       total_quota = 3900;
       break;      
     
-      case "06-2024":
-      case "08-2024":        
-      case "09-2024":        
-      case "07-2024":                    
-        total_quota = 3666;
+    case "06-2024":
+    case "07-2024":                    
+    case "08-2024":        
+    case "09-2024":  
+      total_quota = 3666;
         break;   
+
+    case "10-2024":
+    case "11-2024":        
+    case "12-2024":        
+    case "01-2025":
+    case "02-2025":                    
+    case "03-2025":        
+      total_quota = 3000;
+      break;  
+
+    case "04-2025":  
+    case "05-2025":      
+      total_quota = 3666;
+      break;   
       
-    default:
+
+        default:
       total_quota = 99;
       break;
   }
