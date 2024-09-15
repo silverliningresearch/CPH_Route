@@ -511,16 +511,13 @@
   "Show": "CORFU (CFU)"
  },
  {
-  "Show": "Al Najaf (NJF)"
- },
- {
   "Show": "PORTO SANTO (PXO)"
  },
  {
-  "Show": "Unknown Airport (XXN)"
+  "Show": "Al Najaf (NJF)"
  },
  {
-  "Show": "KALAMATA (KLX)"
+  "Show": "Unknown Airport (XXN)"
  },
  {
   "Show": "Santa Cruz De La (SPC)"
@@ -530,6 +527,9 @@
  },
  {
   "Show": "SAL ISLAND (SID)"
+ },
+ {
+  "Show": "KALAMATA (KLX)"
  },
  {
   "Show": "Giza (SPX)"
@@ -542,9 +542,6 @@
  },
  {
   "Show": "AGADIR/MAROCCO (AGA)"
- },
- {
-  "Show": "Ankara (ESB)"
  }
 ]    
 `;
