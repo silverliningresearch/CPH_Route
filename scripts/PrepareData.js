@@ -283,11 +283,11 @@ function prepareInterviewData() {
   
     //Increase Doha AY  & DOH-QR with 50 every month to give us some flexibility
     if (quota_data_temp[i].Airport_Airline =="DOH-AY") {
-      quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 30);
+      quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.5);
     }
 
     if (quota_data_temp[i].Airport_Airline =="DOH-QR") {
-      quota_data_temp[i].Quota =Math.round(quota_data_temp[i].Quota - 30);
+      quota_data_temp[i].Quota =Math.round(quota_data_temp[i].Quota*0.5);
     }
 
     
