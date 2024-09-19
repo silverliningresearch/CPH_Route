@@ -221,39 +221,30 @@ function prepareInterviewData() {
           }
       
 
-      }
+    }
  
-      if (currentMonth == "08-2024") 
-      {
-        if ((quota_data_temp[i].Dest == "SOF")) {
-          quota_data_temp[i].Quota = Math.round(30);
-        }
-
-        if ((quota_data_temp[i].Dest == "ADD")) {
-          quota_data_temp[i].Quota = Math.round(50);
-        }
-
-        if ((quota_data_temp[i].Airport_Airline == "ZRH-SK")) {
-          quota_data_temp[i].Quota = Math.round(50);
-        }
-
-        if ((quota_data_temp[i].Airport_Airline == "BOD-EJU")) {
-          quota_data_temp[i].Quota = Math.round(40);
-        }
-      }
-      //Increase Doha AY  & DOH-QR with 50 every month to give us some flexibility
-      if (quota_data_temp[i].Airport_Airline =="DOH-AY") {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
+    if (currentMonth == "08-2024") 
+    {
+      if ((quota_data_temp[i].Dest == "SOF")) {
+        quota_data_temp[i].Quota = Math.round(30);
       }
 
-      if (quota_data_temp[i].Airport_Airline =="DOH-QR") {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
+      if ((quota_data_temp[i].Dest == "ADD")) {
+        quota_data_temp[i].Quota = Math.round(50);
+      }
+
+      if ((quota_data_temp[i].Airport_Airline == "ZRH-SK")) {
+        quota_data_temp[i].Quota = Math.round(50);
+      }
+
+      if ((quota_data_temp[i].Airport_Airline == "BOD-EJU")) {
+        quota_data_temp[i].Quota = Math.round(40);
       }
 
       if ((quota_data_temp[i].Dest == "DEL")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
       }
-
+  
       if ((quota_data_temp[i].Dest == "AUH")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
       }
@@ -261,34 +252,45 @@ function prepareInterviewData() {
       if ((quota_data_temp[i].Dest == "PEK")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
       }
-
+  
       if ((quota_data_temp[i].Dest == "DXB")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
       }
-
+  
       if ((quota_data_temp[i].Dest == "ORD")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
       }
+    }
 
+    if (currentMonth == "09-2024") 
+    {
       if ((quota_data_temp[i].Dest == "KUT")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
       }
-
-      if ((quota_data_temp[i].Dest == "KUT")) {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
-      }
-
+  
       if ((quota_data_temp[i].Dest == "BOD")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
       }
-
+  
       if ((quota_data_temp[i].Dest == "VIE")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
       }
-
+  
       if ((quota_data_temp[i].Dest == "ADD")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
       }
+    }
+  
+    //Increase Doha AY  & DOH-QR with 50 every month to give us some flexibility
+    if (quota_data_temp[i].Airport_Airline =="DOH-AY") {
+      quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota + 30);
+    }
+
+    if (quota_data_temp[i].Airport_Airline =="DOH-QR") {
+      quota_data_temp[i].Quota =Math.round(quota_data_temp[i].Quota - 30);
+    }
+
+    
 
       quota_data.push(quota_data_temp[i]);
     }
