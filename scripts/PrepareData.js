@@ -283,6 +283,9 @@ function prepareInterviewData() {
       if ((quota_data_temp[i].Dest == "DEL")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 60;
       }
+      if ((quota_data_temp[i].Dest == "ORD")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 60;
+      }
     }
   
     //Increase Doha AY  & DOH-QR with 50 every month to give us some flexibility
