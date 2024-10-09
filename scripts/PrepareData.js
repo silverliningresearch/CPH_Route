@@ -286,9 +286,33 @@ function prepareInterviewData() {
       if ((quota_data_temp[i].Dest == "ORD")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 60;
       }
-      
+
       if ((quota_data_temp[i].Dest == "IST")) {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 60;
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
+      }
+
+    }
+
+    if (currentMonth == "10-2024") 
+    {
+
+      if ((quota_data_temp[i].Dest == "IAS")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }
+      if ((quota_data_temp[i].Dest == "ORD")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }
+      if ((quota_data_temp[i].Dest == "ADD")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }
+      if ((quota_data_temp[i].Dest == "SOF")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 25;
+      }
+      if ((quota_data_temp[i].Dest == "AUH")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }
+      if ((quota_data_temp[i].Dest == "DXB")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
       }
 
     }

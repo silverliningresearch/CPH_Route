@@ -13311,6 +13311,15 @@
   "Quota": 23,
   "Year": "2024",
   "Month": "10"
+ },
+
+  {
+  "Airport_Airline": "DEL-AI",
+  "Dest": "DEL",
+  "AirlineCode": "AI",
+  "Quota": 30,
+  "Year": "2024",
+  "Month": "10"
  }
 
 
