@@ -13320,6 +13320,15 @@
   "Quota": 30,
   "Year": "2024",
   "Month": "10"
+ },
+
+  {
+  "Airport_Airline": "KUT-W6",
+  "Dest": "KUT",
+  "AirlineCode": "W6",
+  "Quota": 20,
+  "Year": "2024",
+  "Month": "10"
  }
 
 

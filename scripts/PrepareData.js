@@ -314,6 +314,9 @@ function prepareInterviewData() {
       if ((quota_data_temp[i].Dest == "DXB")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
       }
+      // if ((quota_data_temp[i].Dest == "KUT")) {
+      //   quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      // }
 
     }
   
