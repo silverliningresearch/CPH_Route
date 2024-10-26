@@ -300,7 +300,7 @@ function prepareInterviewData() {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
       }
       if ((quota_data_temp[i].Dest == "ORD")) {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30 + 30;
       }
       if ((quota_data_temp[i].Dest == "ADD")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
@@ -312,12 +312,22 @@ function prepareInterviewData() {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
       }
       if ((quota_data_temp[i].Dest == "DXB")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30 + 50;
+      }
+
+      if (quota_data_temp[i].Airport_Airline =="DOH-AY") {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
+      }
+
+      if ((quota_data_temp[i].Dest == "PEK")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
       }
-      // if ((quota_data_temp[i].Dest == "KUT")) {
-      //   quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
-      // }
 
+      if ((quota_data_temp[i].Dest == "JFK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }
+
+      
     }
   
     //Increase Doha AY  & DOH-QR with 50 every month to give us some flexibility
