@@ -166,6 +166,9 @@
   "Show": "TUIFLY NORDIC (BLX)"
  },
  {
+  "Show": "TITAN AIRWAYS LTD (ZT)"
+ },
+ {
   "Show": "JET2.COM (LS)"
  },
  {
@@ -173,6 +176,9 @@
  },
  {
   "Show": "TRADE AIR (C3)"
+ },
+ {
+  "Show": "AIR HORIZONT (HAT)"
  },
  {
   "Show": "SKY ALPS (BQ)"

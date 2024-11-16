@@ -14115,7 +14115,7 @@
   "Airport_Airline": "AMS-SK",
   "Dest": "AMS",
   "AirlineCode": "SK",
-  "Quota": 42,
+  "Quota": 41,
   "Year": "2024",
   "Month": "12"
  },
@@ -14155,7 +14155,7 @@
   "Airport_Airline": "DOH-AY",
   "Dest": "DOH",
   "AirlineCode": "AY",
-  "Quota": 60,
+  "Quota": 65,
   "Year": "2024",
   "Month": "12"
  },
@@ -14163,7 +14163,7 @@
   "Airport_Airline": "DOH-QR",
   "Dest": "DOH",
   "AirlineCode": "QR",
-  "Quota": 113,
+  "Quota": 108,
   "Year": "2024",
   "Month": "12"
  },
@@ -14395,7 +14395,7 @@
   "Airport_Airline": "KEF-SK",
   "Dest": "KEF",
   "AirlineCode": "SK",
-  "Quota": 12,
+  "Quota": 13,
   "Year": "2024",
   "Month": "12"
  },
@@ -14763,7 +14763,7 @@
   "Airport_Airline": "SOF-FR",
   "Dest": "SOF",
   "AirlineCode": "FR",
-  "Quota": 5,
+  "Quota": 10,
   "Year": "2024",
   "Month": "12"
  },
@@ -14771,7 +14771,7 @@
   "Airport_Airline": "SOF-W6",
   "Dest": "SOF",
   "AirlineCode": "W6",
-  "Quota": 4,
+  "Quota": 9,
   "Year": "2024",
   "Month": "12"
  },
