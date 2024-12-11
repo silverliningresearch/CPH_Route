@@ -365,6 +365,33 @@ function prepareInterviewData() {
       }
 
     }
+
+    if (currentMonth == "12-2024") 
+      {
+        if ((quota_data_temp[i].Dest == "ADD")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }
+  
+        if (quota_data_temp[i].Airport_Airline =="DEL") {
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
+        }
+  
+        if (quota_data_temp[i].Airport_Airline =="DXB") {
+          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
+        }
+        
+        // //All all A and B destinations with 25
+        // quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota +25);      
+  
+        // //All A+ destinations with 50 interviews (meaning 25 more)
+        // var A_plus_list = ['AMS', 'CDG', 'DOH', 'DXB', 'IST', 'LHR'];
+              
+        // if (A_plus_list.includes(quota_data_temp[i].Dest)) {
+        //   quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota +25);      
+        //   // do stuff
+        //}
+  
+      }
     //Increase Doha AY  & DOH-QR with 50 every month to give us some flexibility
     // if (quota_data_temp[i].Airport_Airline =="DOH-AY") {
     //   quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.5) ;
