@@ -367,9 +367,6 @@
   "Show": "Ankara (ESB)"
  },
  {
-  "Show": "Bolzano (BZO)"
- },
- {
   "Show": "Santa Cruz De La (SPC)"
  },
  {
@@ -386,6 +383,9 @@
  },
  {
   "Show": "MALTA (MLA)"
+ },
+ {
+  "Show": "COPENHAGEN (CPH)"
  },
  {
   "Show": "KONYA (KYA)"
@@ -412,10 +412,16 @@
   "Show": "IZMIR (ADB)"
  },
  {
+  "Show": "KRISTIANSUND (KSU)"
+ },
+ {
   "Show": "OESTERSUND (OSD)"
  },
  {
   "Show": "Krabi (KBV)"
+ },
+ {
+  "Show": "Bolzano (BZO)"
  },
  {
   "Show": "NARSARSUAQ (UAK)"
@@ -434,6 +440,18 @@
  },
  {
   "Show": "Friedr (FDH)"
+ },
+ {
+  "Show": "Altenrhein (ACH)"
+ },
+ {
+  "Show": "VERONA (VRN)"
+ },
+ {
+  "Show": "BILLUND (BLL)"
+ },
+ {
+  "Show": "Longyearbyen (LYR)"
  }
 ]    
 `;
