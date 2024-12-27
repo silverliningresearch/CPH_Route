@@ -379,6 +379,8 @@ function prepareInterviewData() {
         if (quota_data_temp[i].Dest == "DXB") {
           quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
         }
+
+        quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);      
         
         // //All all A and B destinations with 25
         // quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota +25);      
