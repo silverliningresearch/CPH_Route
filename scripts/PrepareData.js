@@ -107,8 +107,14 @@ function initCurrentTimeVars() {
 
     case "10-2024":
     case "11-2024":        
-    case "12-2024":        
+    case "12-2024":   
+    total_quota = 3000;
+    break;  
+
     case "01-2025":
+      total_quota = 3450;
+      break;  
+
     case "02-2025":                    
     case "03-2025":        
       total_quota = 3000;
@@ -196,7 +202,7 @@ function prepareInterviewData() {
   for (i = 0; i < quota_data_temp.length; i++) {
     var quota_month =  quota_data_temp[i].Month + "-"  + quota_data_temp[i].Year; 
 
-    if (quota_month== currentMonth)
+    if ((quota_month== currentMonth) && (quota_data_temp[i].Quota>0))
     {
       if (currentMonth == "07-2024") 
         {
@@ -382,17 +388,27 @@ function prepareInterviewData() {
 
         quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);      
         
-        // //All all A and B destinations with 25
-        // quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota +25);      
   
-        // //All A+ destinations with 50 interviews (meaning 25 more)
-        // var A_plus_list = ['AMS', 'CDG', 'DOH', 'DXB', 'IST', 'LHR'];
-              
-        // if (A_plus_list.includes(quota_data_temp[i].Dest)) {
-        //   quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota +25);      
-        //   // do stuff
-        //}
   
+      }
+
+
+    if (currentMonth == "01-2025") 
+      {
+
+        if ((quota_data_temp[i].Airport_Airline == "BKK-TG")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+        }
+
+        if ((quota_data_temp[i].Airport_Airline == "BEG-JU")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+        }
+
+        if ((quota_data_temp[i].Dest == "ADD")) {
+          quota_data_temp[i].Quota = 0;
+        }
+   
+          
       }
     //Increase Doha AY  & DOH-QR with 50 every month to give us some flexibility
     // if (quota_data_temp[i].Airport_Airline =="DOH-AY") {
