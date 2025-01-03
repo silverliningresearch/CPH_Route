@@ -14787,7 +14787,8 @@
  },
 
 
- {
+ 
+  {
   "Airport_Airline": "ATL-SK",
   "Dest": "ATL",
   "AirlineCode": "SK",
@@ -14815,7 +14816,7 @@
   "Airport_Airline": "AMS-D8",
   "Dest": "AMS",
   "AirlineCode": "D8",
-  "Quota": 12,
+  "Quota": 18,
   "Year": "2025",
   "Month": "01"
  },
@@ -14823,7 +14824,7 @@
   "Airport_Airline": "AMS-EJU",
   "Dest": "AMS",
   "AirlineCode": "EJU",
-  "Quota": 7,
+  "Quota": 11,
   "Year": "2025",
   "Month": "01"
  },
@@ -14831,7 +14832,7 @@
   "Airport_Airline": "AMS-KL",
   "Dest": "AMS",
   "AirlineCode": "KL",
-  "Quota": 126,
+  "Quota": 192,
   "Year": "2025",
   "Month": "01"
  },
@@ -14839,7 +14840,7 @@
   "Airport_Airline": "AMS-SK",
   "Dest": "AMS",
   "AirlineCode": "SK",
-  "Quota": 49,
+  "Quota": 74,
   "Year": "2025",
   "Month": "01"
  },
@@ -14847,7 +14848,7 @@
   "Airport_Airline": "CDG-AF",
   "Dest": "CDG",
   "AirlineCode": "AF",
-  "Quota": 86,
+  "Quota": 143,
   "Year": "2025",
   "Month": "01"
  },
@@ -14855,7 +14856,7 @@
   "Airport_Airline": "CDG-D8",
   "Dest": "CDG",
   "AirlineCode": "D8",
-  "Quota": 8,
+  "Quota": 14,
   "Year": "2025",
   "Month": "01"
  },
@@ -14863,7 +14864,7 @@
   "Airport_Airline": "CDG-EJU",
   "Dest": "CDG",
   "AirlineCode": "EJU",
-  "Quota": 14,
+  "Quota": 22,
   "Year": "2025",
   "Month": "01"
  },
@@ -14871,7 +14872,7 @@
   "Airport_Airline": "CDG-SK",
   "Dest": "CDG",
   "AirlineCode": "SK",
-  "Quota": 46,
+  "Quota": 77,
   "Year": "2025",
   "Month": "01"
  },
@@ -14879,7 +14880,7 @@
   "Airport_Airline": "DOH-AY",
   "Dest": "DOH",
   "AirlineCode": "AY",
-  "Quota": 38,
+  "Quota": 56,
   "Year": "2025",
   "Month": "01"
  },
@@ -14887,7 +14888,7 @@
   "Airport_Airline": "DOH-QR",
   "Dest": "DOH",
   "AirlineCode": "QR",
-  "Quota": 175,
+  "Quota": 259,
   "Year": "2025",
   "Month": "01"
  },
@@ -14895,7 +14896,7 @@
   "Airport_Airline": "DXB-EK",
   "Dest": "DXB",
   "AirlineCode": "EK",
-  "Quota": 139,
+  "Quota": 241,
   "Year": "2025",
   "Month": "01"
  },
@@ -14919,7 +14920,7 @@
   "Airport_Airline": "IST-TK",
   "Dest": "IST",
   "AirlineCode": "TK",
-  "Quota": 162,
+  "Quota": 264,
   "Year": "2025",
   "Month": "01"
  },
@@ -14927,7 +14928,7 @@
   "Airport_Airline": "LHR-BA",
   "Dest": "LHR",
   "AirlineCode": "BA",
-  "Quota": 98,
+  "Quota": 161,
   "Year": "2025",
   "Month": "01"
  },
@@ -14935,7 +14936,7 @@
   "Airport_Airline": "LHR-SK",
   "Dest": "LHR",
   "AirlineCode": "SK",
-  "Quota": 63,
+  "Quota": 104,
   "Year": "2025",
   "Month": "01"
  },
@@ -15511,7 +15512,7 @@
   "Airport_Airline": "ADD-ET",
   "Dest": "ADD",
   "AirlineCode": "ET",
-  "Quota": 19,
+  "Quota": 10,
   "Year": "2025",
   "Month": "01"
  }
