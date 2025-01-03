@@ -112,7 +112,7 @@ function initCurrentTimeVars() {
     break;  
 
     case "01-2025":
-      total_quota = 3450;
+      total_quota = 3600;
       break;  
 
     case "02-2025":                    
