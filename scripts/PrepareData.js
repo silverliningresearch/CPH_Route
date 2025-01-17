@@ -387,10 +387,6 @@ function prepareInterviewData() {
         }
 
         quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);      
-
-        if (quota_data_temp[i].Airport_Airline =="DOH-AY") {
-          quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
-        }
     
     }
 
@@ -412,6 +408,10 @@ function prepareInterviewData() {
   
       if ((quota_data_temp[i].Dest == "DEL")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;;
+      }
+
+      if (quota_data_temp[i].Airport_Airline =="DOH-AY") {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
       }
         
     }
