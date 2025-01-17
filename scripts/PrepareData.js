@@ -413,6 +413,10 @@ function prepareInterviewData() {
       if (quota_data_temp[i].Airport_Airline =="DOH-AY") {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
       }
+
+      if ((quota_data_temp[i].Dest == "PEK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;;
+      }
         
     }
     //Increase Doha AY  & DOH-QR with 50 every month to give us some flexibility
