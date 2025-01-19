@@ -259,9 +259,6 @@
   "Show": "FARO (FAO)"
  },
  {
-  "Show": "MIDTJYLLAND/KRP (KRP)"
- },
- {
   "Show": "Giza (SPX)"
  },
  {
@@ -278,9 +275,6 @@
  },
  {
   "Show": "Ankara (ESB)"
- },
- {
-  "Show": "NUUK (GOH)"
  },
  {
   "Show": "SANDEFJORD (TRF)"
@@ -304,10 +298,10 @@
   "Show": "Chicago (ORD)"
  },
  {
-  "Show": "KIRUNA (KRN)"
+  "Show": "Dubai/DWC (DWC)"
  },
  {
-  "Show": "Dubai/DWC (DWC)"
+  "Show": "KIRUNA (KRN)"
  },
  {
   "Show": "ROVANIEMI (RVN)"
@@ -329,6 +323,12 @@
  },
  {
   "Show": "BoaVist (BVC)"
+ },
+ {
+  "Show": "COPENHAGEN (CPH)"
+ },
+ {
+  "Show": "NUUK (GOH)"
  },
  {
   "Show": "LANZAROTE (ACE)"
@@ -415,10 +415,16 @@
   "Show": "Hannover (HAJ)"
  },
  {
+  "Show": "KANGERLUSSUAQ (SFJ)"
+ },
+ {
   "Show": "BANJUL (BJL)"
  },
  {
   "Show": "Altenrhein (ACH)"
+ },
+ {
+  "Show": "MIDTJYLLAND/KRP (KRP)"
  },
  {
   "Show": "VERONA (VRN)"
