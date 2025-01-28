@@ -417,6 +417,14 @@ function prepareInterviewData() {
       if ((quota_data_temp[i].Dest == "PEK")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;;
       }
+
+      //All A+ destinations with 50 interviews (meaning 25 more)
+      var A_plus_list = ['AMS', 'CDG', 'DOH', 'DXB', 'IST', 'LHR'];
+      
+      if (A_plus_list.includes(quota_data_temp[i].Dest)) {
+        quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);      
+        // do stuff
+      }
         
     }
     //Increase Doha AY  & DOH-QR with 50 every month to give us some flexibility
