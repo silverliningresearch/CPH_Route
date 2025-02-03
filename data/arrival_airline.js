@@ -1,19 +1,19 @@
      let arrival_airline = ` 
 [
  {
+  "Show": "SAS - SCANDINAVIAN AIRLINES (SK)"
+ },
+ {
   "Show": "KLM (KL)"
  },
  {
-  "Show": "SAS - SCANDINAVIAN AIRLINES (SK)"
+  "Show": "TAP PORTUGAL (TP)"
  },
  {
   "Show": "RYANAIR (FR/RK)"
  },
  {
-  "Show": "AIR FRANCE (AF)"
- },
- {
-  "Show": "SWISS (LX)"
+  "Show": "FINNAIR (AY)"
  },
  {
   "Show": "BRITISH AIRWAYS (BA)"
@@ -22,82 +22,10 @@
   "Show": "NORWEGIAN AIR (DY/D8/DI/DN/DU)"
  },
  {
-  "Show": "SUNCLASS AIRLINES (DK)"
- },
- {
-  "Show": "JETTIME (JTD)"
- },
- {
-  "Show": "AIR BALTIC (BT)"
- },
- {
-  "Show": "WIZZ AIR (W6/W4/5W/W9/WU)"
- },
- {
-  "Show": "QATAR AIRWAYS (QR)"
- },
- {
-  "Show": "FINNAIR (AY)"
- },
- {
-  "Show": "LUFTHANSA (LH)"
- },
- {
-  "Show": "EASYJET (EZY/EJU/EZS)"
- },
- {
-  "Show": "VUELING AIRLINES (VY)"
- },
- {
-  "Show": "DAT (DX)"
- },
- {
-  "Show": "TURKISH AIRLINES (TK)"
- },
- {
-  "Show": "PEGASUS AIRLINES (PC)"
- },
- {
-  "Show": "CROATIA AIRLINES (OU)"
- },
- {
-  "Show": "FLY PLAY (OG)"
- },
- {
-  "Show": "SINGAPORE AIRLINES (SQ)"
- },
- {
-  "Show": "TRANSAVIA (HV/TO/PH)"
- },
- {
-  "Show": "AEGEAN AIRLINES (A3)"
+  "Show": "SWISS (LX)"
  },
  {
   "Show": "BRUSSELS AIRLINES (SN)"
- },
- {
-  "Show": "AIR CANADA (AC)"
- },
- {
-  "Show": "TAP PORTUGAL (TP)"
- },
- {
-  "Show": "ICELANDAIR (FI)"
- },
- {
-  "Show": "THAI AIRWAYS INTERNATIONAL (TG)"
- },
- {
-  "Show": "AJET (VF)"
- },
- {
-  "Show": "VOLOTEA (V7)"
- },
- {
-  "Show": "EMIRATES (EK)"
- },
- {
-  "Show": "LUXAIR (LG)"
  },
  {
   "Show": "AUSTRIAN AIRLINES (OS)"
@@ -106,10 +34,88 @@
   "Show": "ATLANTIC AIRWAYS (RC)"
  },
  {
-  "Show": "ALSIE EXPRESS (6I)"
+  "Show": "SUNCLASS AIRLINES (DK)"
+ },
+ {
+  "Show": "AIR BALTIC (BT)"
+ },
+ {
+  "Show": "JETTIME (JTD)"
+ },
+ {
+  "Show": "QATAR AIRWAYS (QR)"
+ },
+ {
+  "Show": "WIZZ AIR (W6/W4/5W/W9/WU)"
+ },
+ {
+  "Show": "AIR SERBIA (JU)"
+ },
+ {
+  "Show": "LUFTHANSA (LH)"
  },
  {
   "Show": "LOT POLISH AIRLINES (LO)"
+ },
+ {
+  "Show": "MIDDLE EAST AIRLINES (ME)"
+ },
+ {
+  "Show": "TURKISH AIRLINES (TK)"
+ },
+ {
+  "Show": "DAT (DX)"
+ },
+ {
+  "Show": "ALSIE EXPRESS (6I)"
+ },
+ {
+  "Show": "UR AIRLINES (UD)"
+ },
+ {
+  "Show": "AIR FRANCE (AF)"
+ },
+ {
+  "Show": "PEGASUS AIRLINES (PC)"
+ },
+ {
+  "Show": "CROATIA AIRLINES (OU)"
+ },
+ {
+  "Show": "EUROWINGS (EW)"
+ },
+ {
+  "Show": "FLY PLAY (OG)"
+ },
+ {
+  "Show": "SINGAPORE AIRLINES (SQ)"
+ },
+ {
+  "Show": "ICELANDAIR (FI)"
+ },
+ {
+  "Show": "TUIFLY NORDIC (BLX)"
+ },
+ {
+  "Show": "THAI AIRWAYS INTERNATIONAL (TG)"
+ },
+ {
+  "Show": "EMIRATES (EK)"
+ },
+ {
+  "Show": "AJET (VF)"
+ },
+ {
+  "Show": "EGYPTAIR (MS)"
+ },
+ {
+  "Show": "SKY ALPS (BQ)"
+ },
+ {
+  "Show": "AIR CHINA (CA)"
+ },
+ {
+  "Show": "EASYJET (EZY/EJU/EZS)"
  },
  {
   "Show": "AIR INDIA (AI)"
@@ -121,43 +127,19 @@
   "Show": "IBERIA (IB/I2)"
  },
  {
-  "Show": "AIR SERBIA (JU)"
- },
- {
-  "Show": "EUROWINGS (EW)"
- },
- {
-  "Show": "UR AIRLINES (UD)"
+  "Show": "AIRSEVEN (CAT)"
  },
  {
   "Show": "ETIHAD AIRWAYS (EY)"
  },
  {
-  "Show": "SUNEXPRESS (XQ)"
+  "Show": "VUELING AIRLINES (VY)"
  },
  {
-  "Show": "AIR GREENLAND (GL)"
+  "Show": "AEGEAN AIRLINES (A3)"
  },
  {
-  "Show": "EGYPTAIR (MS)"
- },
- {
-  "Show": "AIR CHINA (CA)"
- },
- {
-  "Show": "AIRSEVEN (CAT)"
- },
- {
-  "Show": "TUIFLY NORDIC (BLX)"
- },
- {
-  "Show": "MIDDLE EAST AIRLINES (ME)"
- },
- {
-  "Show": "WIDERØE (WF)"
- },
- {
-  "Show": "SKY ALPS (BQ)"
+  "Show": "LUXAIR (LG)"
  },
  {
   "Show": "AIR CAIRO (SM)"
@@ -166,19 +148,25 @@
   "Show": "DAT LT (R6)"
  },
  {
-  "Show": "PEOPLE'S (PE)"
+  "Show": "SUNEXPRESS (XQ)"
  },
  {
-  "Show": "SUN-AIR OF SCANDINAVIA (SUS)"
- },
- {
-  "Show": "SUNDAIR (SR)"
+  "Show": "TRANSAVIA (HV/TO/PH)"
  },
  {
   "Show": "AIS AIRLINES (PNX)"
  },
  {
+  "Show": "AIR GREENLAND (GL)"
+ },
+ {
+  "Show": "VOLOTEA (V7)"
+ },
+ {
   "Show": "BRAATHENS (BIX)"
+ },
+ {
+  "Show": "WIDERØE (WF)"
  },
  {
   "Show": "FLY4 AIRLINES GREEN LTD (FFA)"
