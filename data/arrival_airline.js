@@ -40,7 +40,7 @@
   "Show": "AIR BALTIC (BT)"
  },
  {
-  "Show": "JETTIME (JTD)"
+  "Show": "JETTIME A/S (JTD)"
  },
  {
   "Show": "QATAR AIRWAYS (QR)"
@@ -166,10 +166,28 @@
   "Show": "BRAATHENS (BIX)"
  },
  {
-  "Show": "WIDERØE (WF)"
+  "Show": "FLY4 AIRLINES GREEN LTD (FFA)"
  },
  {
-  "Show": "FLY4 AIRLINES GREEN LTD (FFA)"
+  "Show": "GLOBAL REACH AVIATION (GAV)"
+ },
+ {
+  "Show": "AIR CANADA (AC)"
+ },
+ {
+  "Show": "ASE - (INTERNAL CPH CODE) (ASE)"
+ },
+ {
+  "Show": "PRIVILEGE STYLE S.A. (PVG)"
+ },
+ {
+  "Show": "PEOPLE'S (PE)"
+ },
+ {
+  "Show": "FROST AIR APS (FRO)"
+ },
+ {
+  "Show": "DELTA AIR LINES (DL)"
  }
 ]    
 `;
