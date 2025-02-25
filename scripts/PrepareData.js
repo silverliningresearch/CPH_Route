@@ -427,14 +427,17 @@ function prepareInterviewData() {
       }
         
     }
-    //Increase Doha AY  & DOH-QR with 50 every month to give us some flexibility
-    // if (quota_data_temp[i].Airport_Airline =="DOH-AY") {
-    //   quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*1.5) ;
-    // }
-
-    // if (quota_data_temp[i].Airport_Airline =="DOH-QR") {
-    //   quota_data_temp[i].Quota =Math.round(quota_data_temp[i].Quota*0.5) + 50;
-    // }
+   
+    if (currentMonth == "02-2025") 
+    {
+      //All A+ destinations with 50 interviews (meaning 25 more)
+      var A_plus_list = ['AMS', 'CDG', 'DOH', 'DXB', 'IST', 'LHR'];
+      
+      if (A_plus_list.includes(quota_data_temp[i].Dest)) {
+        quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);      
+      }
+    }
+     
 
       quota_data.push(quota_data_temp[i]);
     }
