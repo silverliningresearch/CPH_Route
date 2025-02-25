@@ -432,10 +432,16 @@ function prepareInterviewData() {
     {
       //All A+ destinations with 50 interviews (meaning 25 more)
       var A_plus_list = ['AMS', 'CDG', 'DOH', 'DXB', 'IST', 'LHR'];
+      var A_list = ['ATL', 'BOS', 'FRA', 'MUC', 'VIE', 'ZHR', 'SIN'];
       
       if (A_plus_list.includes(quota_data_temp[i].Dest)) {
         quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);      
       }
+
+      if (A_list.includes(quota_data_temp[i].Dest)) {
+        quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);      
+      }
+
     }
      
 
