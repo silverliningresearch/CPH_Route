@@ -454,6 +454,10 @@ function prepareInterviewData() {
         console.log("BKK-SK: ", quota_data_temp[i].Quota);
         quota_data_temp[i].Quota = 0; //move quota of BKK-SK to BKK-TG
       }     
+
+      if ((quota_data_temp[i].Airport_Airline == "YYZ-AC")) {
+        quota_data_temp[i].Quota = 80; //move quota of BKK-SK to BKK-TG
+      }  
     }
 
       quota_data.push(quota_data_temp[i]);
