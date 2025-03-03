@@ -447,10 +447,11 @@ function prepareInterviewData() {
     if (currentMonth == "03-2025") 
     {
       if ((quota_data_temp[i].Airport_Airline == "BKK-TG")) {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20; //move quota of BKK-SK to BKK-TG
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 25; //move quota of BKK-SK to BKK-TG
       }     
 
       if ((quota_data_temp[i].Airport_Airline == "BKK-SK")) {
+        console.log("BKK-SK: ", quota_data_temp[i].Quota);
         quota_data_temp[i].Quota = 0; //move quota of BKK-SK to BKK-TG
       }     
     }
