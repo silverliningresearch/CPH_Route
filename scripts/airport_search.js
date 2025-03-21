@@ -73,6 +73,8 @@ function update_drop_box_airport_list() {
 function select_airport() {
   var selectedairport = document.getElementById('inputAirportCodeID').value;
 
+  api.fn.answers({urlVar20: selectedairport}); 
+
   var found = false;
 
   for (i = 0; i < airportShortList.length; i++) 
@@ -81,11 +83,8 @@ function select_airport() {
     if (currentairport.Show == selectedairport) 
     {
       //store detail data here
-      api.fn.answers({Q2a_Airport_Code:   currentairport.Airport_Code}); 
-      api.fn.answers({Q2a_Airport:   currentairport.Airport_Name + " (" + currentairport.Airport_Code + ")"}); 
-      api.fn.answers({Q2a_City:   currentairport.City + ", " + currentairport.Country}); 
-      api.fn.answers({Q2a_Country:   currentairport.Country}); 
-
+      api.fn.answers({Q2a_airport:   currentairport.Airport_Name + " (" + currentairport.Airport_Code + ")"}); 
+      api.fn.answers({Q2a_city:   currentairport.City + ", " + currentairport.Country}); 
       api.fn.answers({Core_Q2a:   currentairport.Airport_Name + " (" + currentairport.Airport_Code + ")"}); 
 
       found = true;
