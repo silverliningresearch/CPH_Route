@@ -152,6 +152,28 @@ function select_flight() {
         
       console.log("currentFlight: ", currentFlight);
       found = true;
+
+      //>>>double check if data saved correctly
+      let k = 0;
+      let saved_ok = false;
+      while ((k < 5) && (saved_ok == false)) {
+        var saved_flight_number = api.fn.answers().Core_Qii;
+  
+        if (saved_flight_number == currentFlight.Flight) 
+        {
+          saved_ok = true;
+          console.log("saved successfully");
+        }
+        else {
+          setTimeout(() => {
+            console.log("After another 200ms");
+          }, 200); // delay 200ms
+        }
+
+        k++; 
+      }
+      //<<<double check if data saved correctly
+
       $('.rt-btn.rt-btn-next').show(); 
       break;
     }

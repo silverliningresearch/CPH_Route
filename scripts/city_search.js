@@ -93,6 +93,28 @@ function select_city() {
     if (currentCity.Show == selectedCity) 
     {
       found = true;
+
+     //>>>double check if data saved correctly
+     let k = 0;
+     let saved_ok = false;
+     while ((k < 5) && (saved_ok == false)) {
+       var saved_dest_City = api.fn.answers().Core_Q2c;
+ 
+       if (saved_dest_City == selectedCity) 
+       {
+         saved_ok = true;
+         console.log("saved successfully");
+       }
+       else {
+         setTimeout(() => {
+           console.log("After another 200ms");
+         }, 200); // delay 200ms
+       }
+
+       k++; 
+     }
+     //<<<double check if data saved correctly
+      
       break;
     } 
   }    

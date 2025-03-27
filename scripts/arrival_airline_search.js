@@ -103,6 +103,28 @@ function select_arrival_airline() {
          
       console.log("current_arrival_airline: ", current_arrival_airline);
       found = true;
+
+      //>>>double check if data saved correctly
+      let k = 0;
+      let saved_ok = false;
+      while ((k < 5) && (saved_ok == false)) {
+        var saved_arrival_airline = api.fn.answers().Core_Q1a2;
+  
+        if (saved_arrival_airline == selected_arrival_airline) 
+        {
+          saved_ok = true;
+          console.log("saved successfully");
+        }
+        else {
+          setTimeout(() => {
+            console.log("After another 200ms");
+          }, 200); // delay 200ms
+        }
+
+        k++; 
+      }
+      //<<<double check if data saved correctly
+
       $('.rt-btn.rt-btn-next').show(); 
       break;
     }

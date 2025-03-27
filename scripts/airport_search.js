@@ -86,8 +86,30 @@ function select_airport() {
       api.fn.answers({Q2a_airport:   currentairport.Airport_Name + " (" + currentairport.Airport_Code + ")"}); 
       api.fn.answers({Q2a_city:   currentairport.City + ", " + currentairport.Country}); 
       api.fn.answers({Core_Q2a:   currentairport.Airport_Name + " (" + currentairport.Airport_Code + ")"}); 
-
+      
       found = true;
+
+      //>>>double check if data saved correctly
+      let k = 0;
+      let saved_ok = false;
+      while ((k < 5) && (saved_ok == false)) {
+        var saved_dest_airport = api.fn.answers().Core_Q2a;
+  
+        if (saved_dest_airport == currentairport.Airport_Name + " (" + currentairport.Airport_Code + ")") 
+        {
+          saved_ok = true;
+          console.log("saved successfully");
+        }
+        else {
+          setTimeout(() => {
+            console.log("After another 500ms");
+          }, 500); // delay 500ms
+        }
+
+        k++; 
+      }
+      //<<<double check if data saved correctly
+      
       $('.rt-btn.rt-btn-next').show(); 
       break;
     } 
