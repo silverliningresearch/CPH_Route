@@ -188,6 +188,11 @@ function isvalid_id(id)
   return valid;
 }
 function prepareInterviewData() {
+
+  //All A+ destinations with 50 interviews (meaning 25 more)
+  var A_plus_list = ['AMS', 'CDG', 'DOH', 'DXB', 'IST', 'LHR'];
+  var A_list = ['ATL', 'BOS', 'FRA', 'MUC', 'VIE', 'ZHR', 'SIN'];
+        
   var quota_data_temp = JSON.parse(quota_info);
   removed_ids_data = JSON.parse(removed_ids);
 
@@ -362,9 +367,6 @@ function prepareInterviewData() {
       //All all A and B destinations with 25
       quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota +25);      
 
-      //All A+ destinations with 50 interviews (meaning 25 more)
-      var A_plus_list = ['AMS', 'CDG', 'DOH', 'DXB', 'IST', 'LHR'];
-            
       if (A_plus_list.includes(quota_data_temp[i].Dest)) {
         quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota +25);      
         // do stuff
@@ -419,8 +421,6 @@ function prepareInterviewData() {
       }
 
       //All A+ destinations with 50 interviews (meaning 25 more)
-      var A_plus_list = ['AMS', 'CDG', 'DOH', 'DXB', 'IST', 'LHR'];
-      
       if (A_plus_list.includes(quota_data_temp[i].Dest)) {
         quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);      
         // do stuff
@@ -430,10 +430,7 @@ function prepareInterviewData() {
    
     if (currentMonth == "02-2025") 
     {
-      //All A+ destinations with 50 interviews (meaning 25 more)
-      var A_plus_list = ['AMS', 'CDG', 'DOH', 'DXB', 'IST', 'LHR'];
-      var A_list = ['ATL', 'BOS', 'FRA', 'MUC', 'VIE', 'ZHR', 'SIN'];
-      
+
       if (A_plus_list.includes(quota_data_temp[i].Dest)) {
         quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);      
       }
@@ -462,10 +459,17 @@ function prepareInterviewData() {
 
       quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);      
 
-      var A_plus_list = ['AMS', 'CDG', 'DOH', 'DXB', 'IST', 'LHR'];
-      
       if (A_plus_list.includes(quota_data_temp[i].Dest)) {
         quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.10);      
+      }
+
+      if (A_plus_list.includes(quota_data_temp[i].Dest)) {
+        quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota+20);      
+      }
+
+      
+      if (A_list.includes(quota_data_temp[i].Dest)) {
+        quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota+ 20 );      
       }
 
       quota_data.push(quota_data_temp[i]);
