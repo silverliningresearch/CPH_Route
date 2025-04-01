@@ -455,7 +455,6 @@ function prepareInterviewData() {
       if ((quota_data_temp[i].Airport_Airline == "YYZ-AC")) {
         quota_data_temp[i].Quota = 80; //move quota of BKK-SK to BKK-TG
       }  
-    }
 
       quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);      
 
@@ -471,6 +470,7 @@ function prepareInterviewData() {
       if (A_list.includes(quota_data_temp[i].Dest)) {
         quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota+ 20 );      
       }
+    }
 
       quota_data.push(quota_data_temp[i]);
     }
