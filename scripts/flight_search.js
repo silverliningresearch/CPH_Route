@@ -117,7 +117,7 @@ function update_drop_box_list() {
       }
     }
     
-    if (count > 30) {
+    if (count > 20) {
       break;
     }
   }
@@ -137,6 +137,8 @@ function select_flight() {
   var found = false;
  //$('.rt-btn.rt-btn-next').hide(); 
 
+  api.fn.answers({urlVar19: selectedFlight}); 
+
   for (i = 0; i < flightShortList.length; i++) {
     var currentFlight = flightShortList[i];
     if (currentFlight.Show == selectedFlight) { 
@@ -153,26 +155,26 @@ function select_flight() {
       console.log("currentFlight: ", currentFlight);
       found = true;
 
-      //>>>double check if data saved correctly
-      let k = 0;
-      let saved_ok = false;
-      while ((k < 5) && (saved_ok == false)) {
-        var saved_flight_number = api.fn.answers().Core_Qii;
+      // //>>>double check if data saved correctly
+      // let k = 0;
+      // let saved_ok = false;
+      // while ((k < 5) && (saved_ok == false)) {
+      //   var saved_flight_number = api.fn.answers().Core_Qii;
   
-        if (saved_flight_number == currentFlight.Flight) 
-        {
-          saved_ok = true;
-          console.log("saved successfully");
-        }
-        else {
-          setTimeout(() => {
-            console.log("After another 200ms");
-          }, 200); // delay 200ms
-        }
+      //   if (saved_flight_number == currentFlight.Flight) 
+      //   {
+      //     saved_ok = true;
+      //     console.log("saved successfully");
+      //   }
+      //   else {
+      //     setTimeout(() => {
+      //       console.log("After another 200ms");
+      //     }, 200); // delay 200ms
+      //   }
 
-        k++; 
-      }
-      //<<<double check if data saved correctly
+      //   k++; 
+      // }
+      // //<<<double check if data saved correctly
 
       $('.rt-btn.rt-btn-next').show(); 
       break;

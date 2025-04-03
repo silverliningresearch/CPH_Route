@@ -87,7 +87,8 @@ function select_postal_code() {
   var selectedPostalCode = document.getElementById('inputPostalCodeID').value;
   
   api.fn.answers({Q8a_postal_code_show:  selectedPostalCode});
-  
+  api.fn.answers({Core_Q8a:  selectedPostalCode});
+
   for (i = 0; i < postalCodeShortList.length; i++) {
     var currentPostalCode = postalCodeShortList[i];
 

@@ -56,7 +56,7 @@ function update_drop_box_airport_list() {
       count++;
     }
     
-    if (count > 30) {
+    if (count > 20) {
       break;
     }
   }
@@ -74,6 +74,7 @@ function select_airport() {
   var selectedairport = document.getElementById('inputAirportCodeID').value;
 
   api.fn.answers({urlVar20: selectedairport}); 
+  // api.fn.answers({Core_Q2a: selectedairport}); 
 
   var found = false;
 
@@ -89,26 +90,26 @@ function select_airport() {
       
       found = true;
 
-      //>>>double check if data saved correctly
-      let k = 0;
-      let saved_ok = false;
-      while ((k < 5) && (saved_ok == false)) {
-        var saved_dest_airport = api.fn.answers().Core_Q2a;
+      // //>>>double check if data saved correctly
+      // let k = 0;
+      // let saved_ok = false;
+      // while ((k < 5) && (saved_ok == false)) {
+      //   var saved_dest_airport = api.fn.answers().Core_Q2a;
   
-        if (saved_dest_airport == currentairport.Airport_Name + " (" + currentairport.Airport_Code + ")") 
-        {
-          saved_ok = true;
-          console.log("saved successfully");
-        }
-        else {
-          setTimeout(() => {
-            console.log("After another 500ms");
-          }, 500); // delay 500ms
-        }
+      //   if (saved_dest_airport == currentairport.Airport_Name + " (" + currentairport.Airport_Code + ")") 
+      //   {
+      //     saved_ok = true;
+      //     console.log("saved successfully");
+      //   }
+      //   else {
+      //     setTimeout(() => {
+      //       console.log("After another 500ms");
+      //     }, 500); // delay 500ms
+      //   }
 
-        k++; 
-      }
-      //<<<double check if data saved correctly
+      //   k++; 
+      // }
+      // //<<<double check if data saved correctly
       
       $('.rt-btn.rt-btn-next').show(); 
       break;
@@ -137,6 +138,7 @@ function show_airport_search_box(airportQuestion) {
   else{
     console.log("Not found ", document.getElementById('inputAirportCodeID').value);
   }
+
   $('#inputAirportCodeID').show(); 
 
   $('.rt-btn.rt-btn-next').hide(); 

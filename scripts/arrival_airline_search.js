@@ -94,6 +94,9 @@ function select_arrival_airline() {
   var found = false;
  //$('.rt-btn.rt-btn-next').hide(); 
 
+ api.fn.answers({Core_Q1a2:   selected_arrival_airline}); //airline name
+
+
   for (i = 0; i < arrival_airlineShortList.length; i++) {
     var current_arrival_airline = arrival_airlineShortList[i];
     if (current_arrival_airline.Show == selected_arrival_airline) { 
@@ -104,26 +107,26 @@ function select_arrival_airline() {
       console.log("current_arrival_airline: ", current_arrival_airline);
       found = true;
 
-      //>>>double check if data saved correctly
-      let k = 0;
-      let saved_ok = false;
-      while ((k < 5) && (saved_ok == false)) {
-        var saved_arrival_airline = api.fn.answers().Core_Q1a2;
+      // //>>>double check if data saved correctly
+      // let k = 0;
+      // let saved_ok = false;
+      // while ((k < 5) && (saved_ok == false)) {
+      //   var saved_arrival_airline = api.fn.answers().Core_Q1a2;
   
-        if (saved_arrival_airline == selected_arrival_airline) 
-        {
-          saved_ok = true;
-          console.log("saved successfully");
-        }
-        else {
-          setTimeout(() => {
-            console.log("After another 200ms");
-          }, 200); // delay 200ms
-        }
+      //   if (saved_arrival_airline == selected_arrival_airline) 
+      //   {
+      //     saved_ok = true;
+      //     console.log("saved successfully");
+      //   }
+      //   else {
+      //     setTimeout(() => {
+      //       console.log("After another 200ms");
+      //     }, 200); // delay 200ms
+      //   }
 
-        k++; 
-      }
-      //<<<double check if data saved correctly
+      //   k++; 
+      // }
+      // //<<<double check if data saved correctly
 
       $('.rt-btn.rt-btn-next').show(); 
       break;

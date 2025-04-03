@@ -94,6 +94,8 @@ function select_arrival_airport() {
   var found = false;
  //$('.rt-btn.rt-btn-next').hide(); 
 
+  api.fn.answers({Core_Q1a1:   selected_arrival_airport}); //Airport name
+
   for (i = 0; i < arrival_airportShortList.length; i++) {
     var current_arrival_airport = arrival_airportShortList[i];
     if (current_arrival_airport.Show == selected_arrival_airport) { 
@@ -101,28 +103,28 @@ function select_arrival_airport() {
       api.fn.answers({Core_Q1a1:   current_arrival_airport.Show}); //Airport name
       api.fn.answers({Q1a1:   current_arrival_airport.Show}); //Airport name
          
-      console.log("current_arrival_airport: ", current_arrival_airport);
+      console.log("current_arrival_airport: ", selected_arrival_airport);
 
-        //>>>double check if data saved correctly
-        let k = 0;
-        let saved_ok = false;
-        while ((k < 5) && (saved_ok == false)) {
-          var saved_arrival_airport = api.fn.answers().Core_Q1a1;
-    
-          if (saved_arrival_airport == selected_arrival_airport) 
-          {
-            saved_ok = true;
-            console.log("saved successfully");
-          }
-          else {
-            setTimeout(() => {
-              console.log("After another 200ms");
-            }, 200); // delay 200ms
-          }
+      // //>>>double check if data saved correctly
+      // let k = 0;
+      // let saved_ok = false;
+      // while ((k < 5) && (saved_ok == false)) {
+      //   var saved_arrival_airport = api.fn.answers().Core_Q1a1;
   
-          k++; 
-        }
-        //<<<double check if data saved correctly
+      //   if (saved_arrival_airport == selected_arrival_airport) 
+      //   {
+      //     saved_ok = true;
+      //     console.log("saved successfully");
+      //   }
+      //   else {
+      //     setTimeout(() => {
+      //       console.log("After another 200ms");
+      //     }, 200); // delay 200ms
+      //   }
+
+      //   k++; 
+      // }
+      // //<<<double check if data saved correctly
 
       found = true;
       $('.rt-btn.rt-btn-next').show(); 
