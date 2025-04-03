@@ -138,6 +138,7 @@ function select_flight() {
  //$('.rt-btn.rt-btn-next').hide(); 
 
   api.fn.answers({urlVar19: selectedFlight}); 
+  api.fn.answers({Core_Qii: selectedFlight});
 
   for (i = 0; i < flightShortList.length; i++) {
     var currentFlight = flightShortList[i];
