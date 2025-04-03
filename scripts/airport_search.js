@@ -74,7 +74,6 @@ function select_airport() {
   var selectedairport = document.getElementById('inputAirportCodeID').value;
 
   api.fn.answers({urlVar20: selectedairport}); 
-  // api.fn.answers({Core_Q2a: selectedairport}); 
 
   var found = false;
 
