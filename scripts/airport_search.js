@@ -56,7 +56,7 @@ function update_drop_box_airport_list() {
       count++;
     }
     
-    if (count > 20) {
+    if (count > 15) {
       break;
     }
   }
