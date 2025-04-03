@@ -96,7 +96,6 @@ function select_arrival_airline() {
 
  api.fn.answers({Core_Q1a2:   selected_arrival_airline}); //airline name
 
-
   for (i = 0; i < arrival_airlineShortList.length; i++) {
     var current_arrival_airline = arrival_airlineShortList[i];
     if (current_arrival_airline.Show == selected_arrival_airline) { 
