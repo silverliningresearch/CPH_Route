@@ -1,277 +1,229 @@
      let arrival_airport = ` 
 [
  {
-  "Show": "GRENOBLE (GNB)"
- },
- {
-  "Show": "INNSBRUCK (INN)"
- },
- {
-  "Show": "LISBON (LIS)"
+  "Show": "ANTALYA (AYT)"
  },
  {
   "Show": "AMSTERDAM (AMS)"
  },
  {
-  "Show": "HELSINKI (HEL)"
- },
- {
-  "Show": "MALAGA (AGP)"
- },
- {
-  "Show": "London/STN (STN)"
- },
- {
-  "Show": "London/LHR (LHR)"
- },
- {
-  "Show": "GDANSK (GDN)"
- },
- {
-  "Show": "ZURICH (ZRH)"
- },
- {
-  "Show": "Paris/CDG (CDG)"
- },
- {
-  "Show": "KAUNAS (KUN)"
- },
- {
-  "Show": "Paris/BVA (BVA)"
- },
- {
-  "Show": "BRUSSELS (BRU)"
- },
- {
   "Show": "FARO (FAO)"
- },
- {
-  "Show": "VIENNA (VIE)"
- },
- {
-  "Show": "Marrakech (RAK)"
- },
- {
-  "Show": "London/LGW (LGW)"
- },
- {
-  "Show": "SALZBURG (SZG)"
- },
- {
-  "Show": "Agadir (AGA)"
- },
- {
-  "Show": "MALTA (MLA)"
- },
- {
-  "Show": "ALICANTE (ALC)"
- },
- {
-  "Show": "FUNCHAL (FNC)"
- },
- {
-  "Show": "GENEVA (GVA)"
- },
- {
-  "Show": "Gran Canaria (LPA)"
- },
- {
-  "Show": "STOCKHOLM/ARN (ARN)"
- },
- {
-  "Show": "Dublin (DUB)"
- },
- {
-  "Show": "Duesseldorf (DUS)"
- },
- {
-  "Show": "HAMBURG (HAM)"
- },
- {
-  "Show": "STAVANGER (SVG)"
- },
- {
-  "Show": "TENERIFE (TFS)"
- },
- {
-  "Show": "OSLO (OSL)"
- },
- {
-  "Show": "WARSAW (WAW)"
  },
  {
   "Show": "Palma d Mallorca (PMI)"
  },
  {
-  "Show": "BERGEN (BGO)"
- },
- {
-  "Show": "Goteborg (GOT)"
- },
- {
-  "Show": "RIGA (RIX)"
- },
- {
-  "Show": "Milan/MXP (MXP)"
- },
- {
-  "Show": "Doha (DOH)"
- },
- {
-  "Show": "Berlin (BER)"
- },
- {
-  "Show": "Tromso (TOS)"
- },
- {
-  "Show": "VERONA (VRN)"
- },
- {
-  "Show": "Milan/BGY (BGY)"
- },
- {
-  "Show": "AALBORG (AAL)"
+  "Show": "LARNACA (LCA)"
  },
  {
   "Show": "MUNICH (MUC)"
  },
  {
-  "Show": "AARHUS (AAR)"
- },
- {
-  "Show": "BOLOGNA (BLQ)"
- },
- {
-  "Show": "BELGRADE (BEG)"
- },
- {
   "Show": "FRANKFURT (FRA)"
  },
  {
-  "Show": "BUDAPEST (BUD)"
- },
- {
-  "Show": "BEIRUT (BEY)"
- },
- {
-  "Show": "Rome/FCO (FCO)"
- },
- {
-  "Show": "BORNHOLM (RNN)"
+  "Show": "MALAGA (AGP)"
  },
  {
   "Show": "ISTANBUL/IST (IST)"
  },
  {
-  "Show": "SØNDERBORG (SGD)"
+  "Show": "Milan/MXP (MXP)"
  },
  {
-  "Show": "Erbil (EBL)"
+  "Show": "Dublin (DUB)"
  },
  {
-  "Show": "MANCHESTER (MAN)"
+  "Show": "ZURICH (ZRH)"
  },
  {
-  "Show": "Istanbul/SAW (SAW)"
+  "Show": "Milan/BGY (BGY)"
  },
  {
-  "Show": "Tokyo (HND)"
+  "Show": "Marrakech (RAK)"
  },
  {
-  "Show": "TRONDHEIM (TRD)"
+  "Show": "BRUSSELS (BRU)"
  },
  {
-  "Show": "ZAGREB (ZAG)"
+  "Show": "SPLIT (SPU)"
  },
  {
-  "Show": "REYKJAVIK (KEF)"
- },
- {
-  "Show": "Duesseldorf/NRN (NRN)"
- },
- {
-  "Show": "SINGAPORE (SIN)"
- },
- {
-  "Show": "Athens (ATH)"
- },
- {
-  "Show": "VILNIUS (VNO)"
- },
- {
-  "Show": "TURIN (TRN)"
- },
- {
-  "Show": "WASHINGTON (IAD)"
- },
- {
-  "Show": "Klaipeda/Palanga (PLQ)"
- },
- {
-  "Show": "MIAMI (MIA)"
- },
- {
-  "Show": "ATLANTA (ATL)"
- },
- {
-  "Show": "New York/EWR (EWR)"
- },
- {
-  "Show": "New York/JFK (JFK)"
- },
- {
-  "Show": "Sevilla (SVQ)"
- },
- {
-  "Show": "BARCELONA (BCN)"
- },
- {
-  "Show": "SAN FRANCISCO (SFO)"
- },
- {
-  "Show": "BOSTON (BOS)"
- },
- {
-  "Show": "LOS ANGELES (LAX)"
- },
- {
-  "Show": "BANGKOK (BKK)"
- },
- {
-  "Show": "Dubai/DWC (DWC)"
- },
- {
-  "Show": "IZMIR (ADB)"
+  "Show": "London/STN (STN)"
  },
  {
   "Show": "PRAGUE (PRG)"
  },
  {
-  "Show": "DUBAI (DXB)"
+  "Show": "STOCKHOLM/ARN (ARN)"
  },
  {
-  "Show": "COLOGNE/BONN (CGN)"
+  "Show": "Paris/CDG (CDG)"
  },
  {
-  "Show": "CAIRO (CAI)"
+  "Show": "VIENNA (VIE)"
  },
  {
-  "Show": "Chicago (ORD)"
+  "Show": "WARSAW (WAW)"
  },
  {
-  "Show": "SOFIA (SOF)"
+  "Show": "OSLO (OSL)"
  },
  {
-  "Show": "Scan. Mountains (SCR)"
+  "Show": "Rome/FCO (FCO)"
  },
  {
-  "Show": "KONYA (KYA)"
+  "Show": "PORTO (OPO)"
+ },
+ {
+  "Show": "London/LHR (LHR)"
+ },
+ {
+  "Show": "TENERIFE (TFS)"
+ },
+ {
+  "Show": "BORNHOLM (RNN)"
+ },
+ {
+  "Show": "London/LGW (LGW)"
+ },
+ {
+  "Show": "Berlin (BER)"
+ },
+ {
+  "Show": "HELSINKI (HEL)"
+ },
+ {
+  "Show": "TRONDHEIM (TRD)"
+ },
+ {
+  "Show": "STUTTGART (STR)"
+ },
+ {
+  "Show": "Duesseldorf (DUS)"
+ },
+ {
+  "Show": "AARHUS (AAR)"
+ },
+ {
+  "Show": "BERGEN (BGO)"
+ },
+ {
+  "Show": "HAMBURG (HAM)"
+ },
+ {
+  "Show": "Gran Canaria (LPA)"
+ },
+ {
+  "Show": "RIGA (RIX)"
+ },
+ {
+  "Show": "SØNDERBORG (SGD)"
+ },
+ {
+  "Show": "GENEVA (GVA)"
+ },
+ {
+  "Show": "REYKJAVIK (KEF)"
+ },
+ {
+  "Show": "STAVANGER (SVG)"
+ },
+ {
+  "Show": "KAUNAS (KUN)"
+ },
+ {
+  "Show": "LANZAROTE (ACE)"
+ },
+ {
+  "Show": "MANCHESTER (MAN)"
+ },
+ {
+  "Show": "AALBORG (AAL)"
+ },
+ {
+  "Show": "Goteborg (GOT)"
+ },
+ {
+  "Show": "GDANSK (GDN)"
+ },
+ {
+  "Show": "BILLUND (BLL)"
+ },
+ {
+  "Show": "PISA (PSA)"
+ },
+ {
+  "Show": "Hannover (HAJ)"
+ },
+ {
+  "Show": "Athens (ATH)"
+ },
+ {
+  "Show": "BARCELONA (BCN)"
+ },
+ {
+  "Show": "Doha (DOH)"
+ },
+ {
+  "Show": "FLORENCE (FLR)"
  },
  {
   "Show": "NICE (NCE)"
  },
  {
-  "Show": "Venice/TSF (TSF)"
+  "Show": "NUUK (GOH)"
+ },
+ {
+  "Show": "ALICANTE (ALC)"
+ },
+ {
+  "Show": "MADRID (MAD)"
+ },
+ {
+  "Show": "ZAGREB (ZAG)"
+ },
+ {
+  "Show": "SINGAPORE (SIN)"
+ },
+ {
+  "Show": "LISBON (LIS)"
+ },
+ {
+  "Show": "BUDAPEST (BUD)"
+ },
+ {
+  "Show": "New York/EWR (EWR)"
+ },
+ {
+  "Show": "FAROE ISLANDS (FAE)"
+ },
+ {
+  "Show": "Ankara (ESB)"
+ },
+ {
+  "Show": "VILNIUS (VNO)"
+ },
+ {
+  "Show": "TALLINN (TLL)"
+ },
+ {
+  "Show": "Tokyo (HND)"
+ },
+ {
+  "Show": "KRISTIANSAND (KRS)"
+ },
+ {
+  "Show": "TURKU (TKU)"
+ },
+ {
+  "Show": "Tromso (TOS)"
+ },
+ {
+  "Show": "Istanbul/SAW (SAW)"
+ },
+ {
+  "Show": "TORONTO (YYZ)"
  },
  {
   "Show": "POZNAN (POZ)"
@@ -280,223 +232,217 @@
   "Show": "KRAKOW (KRK)"
  },
  {
-  "Show": "BRISTOL (BRS)"
+  "Show": "SANDEFJORD (TRF)"
  },
  {
-  "Show": "LYON (LYS)"
+  "Show": "BOSTON (BOS)"
  },
  {
-  "Show": "Friedrichshafen (FDH)"
- },
- {
-  "Show": "BEIJING (PEK)"
- },
- {
-  "Show": "MARSEILLE (MRS)"
- },
- {
-  "Show": "PORTO (OPO)"
- },
- {
-  "Show": "DELHI (DEL)"
- },
- {
-  "Show": "MADRID (MAD)"
- },
- {
-  "Show": "BUCHAREST (OTP)"
- },
- {
-  "Show": "FAROE ISLANDS (FAE)"
- },
- {
-  "Show": "Cairo/SPX (SPX)"
- },
- {
-  "Show": "Sharm el-Sheikh (SSH)"
- },
- {
-  "Show": "PORTO SANTO (PXO)"
- },
- {
-  "Show": "Kutaisi (KUT)"
- },
- {
-  "Show": "STUTTGART (STR)"
- },
- {
-  "Show": "KIRUNA (KRN)"
- },
- {
-  "Show": "ABU DHABI (AUH)"
+  "Show": "Sevilla (SVQ)"
  },
  {
   "Show": "EDINBURGH (EDI)"
  },
  {
-  "Show": "OESTERSUND (OSD)"
+  "Show": "Klaipeda/Palanga (PLQ)"
  },
  {
-  "Show": "TORONTO (YYZ)"
+  "Show": "Chicago (ORD)"
  },
  {
-  "Show": "TALLINN (TLL)"
+  "Show": "SAN FRANCISCO (SFO)"
  },
  {
-  "Show": "Basel/Mulhouse (BSL)"
+  "Show": "New York/JFK (JFK)"
  },
  {
-  "Show": "LUXEMBOURG (LUX)"
- },
- {
-  "Show": "HURGHADA (HRG)"
- },
- {
-  "Show": "SANDEFJORD (TRF)"
- },
- {
-  "Show": "ANTALYA (AYT)"
- },
- {
-  "Show": "Paris/ORY (ORY)"
- },
- {
-  "Show": "EINDHOVEN (EIN)"
- },
- {
-  "Show": "Krabi (KBV)"
- },
- {
-  "Show": "LANZAROTE (ACE)"
- },
- {
-  "Show": "FUERTEVENTURA (FUE)"
- },
- {
-  "Show": "NUUK (GOH)"
- },
- {
-  "Show": "SAL ISLAND (SID)"
- },
- {
-  "Show": "NANTES (NTE)"
- },
- {
-  "Show": "Hannover (HAJ)"
- },
- {
-  "Show": "PISA (PSA)"
- },
- {
-  "Show": "Midtjylland (KRP)"
- },
- {
-  "Show": "Birmingham (BHX)"
- },
- {
-  "Show": "BANJUL (BJL)"
- },
- {
-  "Show": "PHUKET (HKT)"
- },
- {
-  "Show": "Aberdeen (ABZ)"
- },
- {
-  "Show": "St Cruz DL Palma (SPC)"
- },
- {
-  "Show": "LARNACA (LCA)"
- },
- {
-  "Show": "KALAMATA (KLX)"
- },
- {
-  "Show": "Ankara (ESB)"
- },
- {
-  "Show": "Bolzano (BZO)"
- },
- {
-  "Show": "BILLUND (BLL)"
- },
- {
-  "Show": "KANGERLUSSUAQ (SFJ)"
- },
- {
-  "Show": "CANCUN (CUN)"
- },
- {
-  "Show": "Altenrhein (ACH)"
- },
- {
-  "Show": "Pituffik (THU)"
- },
- {
-  "Show": "BoaVist (BVC)"
- },
- {
-  "Show": "FLORENCE (FLR)"
- },
- {
-  "Show": "Milan/LIN (LIN)"
- },
- {
-  "Show": "Nowy Dwor Mazowi (WMI)"
- },
- {
-  "Show": "VENICE (VCE)"
- },
- {
-  "Show": "KRISTIANSAND (KRS)"
+  "Show": "BANGKOK (BKK)"
  },
  {
   "Show": "Naples (NAP)"
  },
  {
-  "Show": "WROCLAW (WRO)"
+  "Show": "DUBAI (DXB)"
  },
  {
-  "Show": "LJUBLJANA (LJU)"
+  "Show": "SOFIA (SOF)"
  },
  {
-  "Show": "TOULOUSE (TLS)"
- },
- {
-  "Show": "VALENCIA (VLC)"
- },
- {
-  "Show": "MONTPELLIER (MPL)"
- },
- {
-  "Show": "CATANIA (CTA)"
- },
- {
-  "Show": "SPLIT (SPU)"
- },
- {
-  "Show": "TURKU (TKU)"
+  "Show": "BOLOGNA (BLQ)"
  },
  {
   "Show": "CHANIA (CHQ)"
  },
  {
+  "Show": "Midtjylland (KRP)"
+ },
+ {
+  "Show": "Basel/Mulhouse (BSL)"
+ },
+ {
+  "Show": "WASHINGTON (IAD)"
+ },
+ {
+  "Show": "Birmingham (BHX)"
+ },
+ {
+  "Show": "WROCLAW (WRO)"
+ },
+ {
+  "Show": "BEIJING (PEK)"
+ },
+ {
+  "Show": "Paris/ORY (ORY)"
+ },
+ {
   "Show": "THESSALONIKI (SKG)"
+ },
+ {
+  "Show": "Milan/LIN (LIN)"
+ },
+ {
+  "Show": "BUCHAREST (OTP)"
+ },
+ {
+  "Show": "LUXEMBOURG (LUX)"
+ },
+ {
+  "Show": "BELGRADE (BEG)"
+ },
+ {
+  "Show": "BRISTOL (BRS)"
+ },
+ {
+  "Show": "Erbil (EBL)"
+ },
+ {
+  "Show": "Paris/BVA (BVA)"
+ },
+ {
+  "Show": "VENICE (VCE)"
  },
  {
   "Show": "PALERMO (PMO)"
  },
  {
+  "Show": "BEIRUT (BEY)"
+ },
+ {
+  "Show": "TURIN (TRN)"
+ },
+ {
+  "Show": "LOS ANGELES (LAX)"
+ },
+ {
+  "Show": "CATANIA (CTA)"
+ },
+ {
+  "Show": "Aberdeen (ABZ)"
+ },
+ {
+  "Show": "Nowy Dwor Mazowi (WMI)"
+ },
+ {
+  "Show": "DELHI (DEL)"
+ },
+ {
+  "Show": "HURGHADA (HRG)"
+ },
+ {
+  "Show": "EINDHOVEN (EIN)"
+ },
+ {
+  "Show": "ABU DHABI (AUH)"
+ },
+ {
+  "Show": "ATLANTA (ATL)"
+ },
+ {
+  "Show": "KANGERLUSSUAQ (SFJ)"
+ },
+ {
+  "Show": "CAIRO (CAI)"
+ },
+ {
+  "Show": "LYON (LYS)"
+ },
+ {
+  "Show": "MARSEILLE (MRS)"
+ },
+ {
+  "Show": "KONYA (KYA)"
+ },
+ {
+  "Show": "PHUKET (HKT)"
+ },
+ {
+  "Show": "LJUBLJANA (LJU)"
+ },
+ {
+  "Show": "FUERTEVENTURA (FUE)"
+ },
+ {
+  "Show": "St Cruz DL Palma (SPC)"
+ },
+ {
+  "Show": "VALENCIA (VLC)"
+ },
+ {
+  "Show": "MALTA (MLA)"
+ },
+ {
   "Show": "Unknown Schengen (XXX)"
  },
  {
-  "Show": "DORTMUND (DTM)"
+  "Show": "GENOA (GOA)"
+ },
+ {
+  "Show": "MONTPELLIER (MPL)"
+ },
+ {
+  "Show": "TOULOUSE (TLS)"
+ },
+ {
+  "Show": "NANTES (NTE)"
+ },
+ {
+  "Show": "IZMIR (ADB)"
+ },
+ {
+  "Show": "INNSBRUCK (INN)"
+ },
+ {
+  "Show": "Agadir (AGA)"
+ },
+ {
+  "Show": "FUNCHAL (FNC)"
  },
  {
   "Show": "Gazipasa (GZP)"
  },
  {
+  "Show": "KALAMATA (KLX)"
+ },
+ {
+  "Show": "PORTO SANTO (PXO)"
+ },
+ {
+  "Show": "Sharm el-Sheikh (SSH)"
+ },
+ {
+  "Show": "KIRUNA (KRN)"
+ },
+ {
+  "Show": "Scan. Mountains (SCR)"
+ },
+ {
+  "Show": "SAL ISLAND (SID)"
+ },
+ {
   "Show": "SARAJEVO (SJJ)"
+ },
+ {
+  "Show": "CANCUN (CUN)"
  },
  {
   "Show": "NARSARSUAQ (UAK)"
@@ -505,13 +451,97 @@
   "Show": "Rhodes (RHO)"
  },
  {
-  "Show": "KARLSTAD (KSD)"
+  "Show": "Pituffik (THU)"
  },
  {
   "Show": "Irakleion (HER)"
  },
  {
+  "Show": "KARLSTAD (KSD)"
+ },
+ {
   "Show": "Zakynthos Island (ZTH)"
+ },
+ {
+  "Show": "BILBAO (BIO)"
+ },
+ {
+  "Show": "OLBIA (OLB)"
+ },
+ {
+  "Show": "Newcastle (NCL)"
+ },
+ {
+  "Show": "BASTIA (BIA)"
+ },
+ {
+  "Show": "Dubrovnik (DBV)"
+ },
+ {
+  "Show": "Limnos (LXS)"
+ },
+ {
+  "Show": "Preveza/Lefkada (PVK)"
+ },
+ {
+  "Show": "SKIATHOS (JSI)"
+ },
+ {
+  "Show": "BODRUM (BJV)"
+ },
+ {
+  "Show": "SAMOS (SMI)"
+ },
+ {
+  "Show": "TANGIER (TNG)"
+ },
+ {
+  "Show": "Sitia (JSH)"
+ },
+ {
+  "Show": "KOS (KGS)"
+ },
+ {
+  "Show": "SANTORINI (JTR)"
+ },
+ {
+  "Show": "CORFU (CFU)"
+ },
+ {
+  "Show": "Mytilini (MJT)"
+ },
+ {
+  "Show": "BODOE (BOO)"
+ },
+ {
+  "Show": "Lamezia Terme (SUF)"
+ },
+ {
+  "Show": "Burgas (BOJ)"
+ },
+ {
+  "Show": "Ioannina (IOA)"
+ },
+ {
+  "Show": "ALGHERO (AHO)"
+ },
+ {
+  "Show": "SEATTLE (SEA)"
+ },
+ {
+  "Show": "KARPATHOS (AOK)"
+ },
+ {
+  "Show": "MINNEAPOLIS (MSP)"
+ },
+ {
+  "Show": "Harstad/Narvik (EVE)"
+ },
+ {
+  "Show": "SALZBURG (SZG)"
+ },
+ {
+  "Show": "TIRANA (TIA)"
  }
 ]    
 `;

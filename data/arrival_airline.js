@@ -1,43 +1,52 @@
      let arrival_airline = ` 
 [
  {
-  "Show": "NORWEGIAN AIR (DY/D8/DI/DN/DU)"
- },
- {
-  "Show": "SAS - SCANDINAVIAN AIRLINES (SK)"
- },
- {
-  "Show": "TAP PORTUGAL (TP)"
+  "Show": "SUNEXPRESS (XQ)"
  },
  {
   "Show": "KLM (KL)"
  },
  {
-  "Show": "FINNAIR (AY)"
+  "Show": "SAS - SCANDINAVIAN AIRLINES (SK)"
+ },
+ {
+  "Show": "NORWEGIAN AIR (DY/D8/DI/DN/DU)"
+ },
+ {
+  "Show": "LUFTHANSA (LH)"
  },
  {
   "Show": "RYANAIR (FR/RK)"
  },
  {
-  "Show": "BRITISH AIRWAYS (BA)"
+  "Show": "TURKISH AIRLINES (TK)"
  },
  {
   "Show": "SWISS (LX)"
  },
  {
-  "Show": "AIR FRANCE (AF)"
+  "Show": "BRUSSELS AIRLINES (SN)"
  },
  {
-  "Show": "BRUSSELS AIRLINES (SN)"
+  "Show": "AIR FRANCE (AF)"
  },
  {
   "Show": "AUSTRIAN AIRLINES (OS)"
  },
  {
-  "Show": "ATLANTIC AIRWAYS (RC)"
+  "Show": "LOT POLISH AIRLINES (LO)"
+ },
+ {
+  "Show": "BRITISH AIRWAYS (BA)"
  },
  {
   "Show": "SUNCLASS AIRLINES (DK)"
+ },
+ {
+  "Show": "DAT (DX)"
+ },
+ {
+  "Show": "EASYJET (EZY/EJU/EZS)"
  },
  {
   "Show": "JETTIME A/S (JTD)"
@@ -46,55 +55,49 @@
   "Show": "AIR BALTIC (BT)"
  },
  {
-  "Show": "QATAR AIRWAYS (QR)"
+  "Show": "ALSIE EXPRESS (6I)"
  },
  {
   "Show": "WIZZ AIR (W6/W4/5W/W9/WU)"
  },
  {
-  "Show": "EASYJET (EZY/EJU/EZS)"
+  "Show": "FINNAIR (AY)"
  },
  {
-  "Show": "LUFTHANSA (LH)"
+  "Show": "QATAR AIRWAYS (QR)"
  },
  {
-  "Show": "AIR SERBIA (JU)"
+  "Show": "VUELING AIRLINES (VY)"
  },
  {
-  "Show": "LOT POLISH AIRLINES (LO)"
+  "Show": "AIR GREENLAND (GL)"
  },
  {
-  "Show": "MIDDLE EAST AIRLINES (ME)"
+  "Show": "AEGEAN AIRLINES (A3)"
  },
  {
-  "Show": "DAT (DX)"
- },
- {
-  "Show": "TURKISH AIRLINES (TK)"
- },
- {
-  "Show": "ALSIE EXPRESS (6I)"
- },
- {
-  "Show": "UR AIRLINES (UD)"
- },
- {
-  "Show": "PEGASUS AIRLINES (PC)"
+  "Show": "IBERIA (IB/I2)"
  },
  {
   "Show": "CROATIA AIRLINES (OU)"
  },
  {
-  "Show": "EUROWINGS (EW)"
+  "Show": "SINGAPORE AIRLINES (SQ)"
+ },
+ {
+  "Show": "ATLANTIC AIRWAYS (RC)"
+ },
+ {
+  "Show": "PEGASUS AIRLINES (PC)"
  },
  {
   "Show": "FLY PLAY (OG)"
  },
  {
-  "Show": "SINGAPORE AIRLINES (SQ)"
+  "Show": "AJET (VF)"
  },
  {
-  "Show": "AEGEAN AIRLINES (A3)"
+  "Show": "AIR CANADA (AC)"
  },
  {
   "Show": "ICELANDAIR (FI)"
@@ -103,88 +106,85 @@
   "Show": "THAI AIRWAYS INTERNATIONAL (TG)"
  },
  {
-  "Show": "SUNEXPRESS (XQ)"
- },
- {
   "Show": "EMIRATES (EK)"
- },
- {
-  "Show": "AJET (VF)"
- },
- {
-  "Show": "EGYPTAIR (MS)"
- },
- {
-  "Show": "SKY ALPS (BQ)"
- },
- {
-  "Show": "AIR CHINA (CA)"
- },
- {
-  "Show": "VUELING AIRLINES (VY)"
- },
- {
-  "Show": "VOLOTEA (V7)"
- },
- {
-  "Show": "AIR INDIA (AI)"
- },
- {
-  "Show": "ETHIOPIAN AIRLINES GROUP (ET)"
- },
- {
-  "Show": "IBERIA (IB/I2)"
- },
- {
-  "Show": "AIRSEVEN (CAT)"
- },
- {
-  "Show": "ETIHAD AIRWAYS (EY)"
- },
- {
-  "Show": "AIR CANADA (AC)"
- },
- {
-  "Show": "LUXAIR (LG)"
- },
- {
-  "Show": "AIR CAIRO (SM)"
- },
- {
-  "Show": "TRANSAVIA (HV/TO/PH)"
- },
- {
-  "Show": "TUIFLY NORDIC (BLX)"
- },
- {
-  "Show": "AIR GREENLAND (GL)"
  },
  {
   "Show": "AIS AIRLINES (PNX)"
  },
  {
-  "Show": "SAABAIR (SCT)"
+  "Show": "TAP PORTUGAL (TP)"
  },
  {
-  "Show": "ENTER AIR (ENT)"
+  "Show": "AIR CHINA (CA)"
  },
  {
-  "Show": "PRIVILEGE STYLE S.A. (PVG)"
+  "Show": "TRANSAVIA (HV/TO/PH)"
  },
  {
-  "Show": "PEOPLE'S (PE)"
+  "Show": "EUROWINGS (EW)"
+ },
+ {
+  "Show": "LUXAIR (LG)"
+ },
+ {
+  "Show": "UR AIRLINES (UD)"
+ },
+ {
+  "Show": "MIDDLE EAST AIRLINES (ME)"
+ },
+ {
+  "Show": "ETHIOPIAN AIRLINES GROUP (ET)"
+ },
+ {
+  "Show": "AIR SERBIA (JU)"
+ },
+ {
+  "Show": "AIR INDIA (AI)"
+ },
+ {
+  "Show": "ETIHAD AIRWAYS (EY)"
+ },
+ {
+  "Show": "EGYPTAIR (MS)"
+ },
+ {
+  "Show": "VOLOTEA (V7)"
+ },
+ {
+  "Show": "TUIFLY NORDIC (BLX)"
+ },
+ {
+  "Show": "AIRSEVEN (CAT)"
  },
  {
   "Show": "FROST AIR APS (FRO)"
  },
  {
-  "Show": "KLAS JET (KLJ)"
+  "Show": "AIR CAIRO (SM)"
+ },
+ {
+  "Show": "ENTER AIR (ENT)"
+ },
+ {
+  "Show": "DELTA AIR LINES (DL)"
  },
  {
   "Show": "NYXAIR (OJ)"
  },
  {
-  "Show": "DELTA AIR LINES (DL)"
+  "Show": "SKY EXPRESS (GQ)"
+ },
+ {
+  "Show": "BRAATHENS (BIX)"
+ },
+ {
+  "Show": "SMARTWINGS (QS)"
+ },
+ {
+  "Show": "FREEBIRD AIRLINES (FH)"
+ },
+ {
+  "Show": "CORENDON AIRLINES (XC)"
  }
 ]    
 `;
