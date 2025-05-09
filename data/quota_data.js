@@ -17856,7 +17856,7 @@
  
  
  
-   {
+ {
   "Airport_Airline": "ATL-SK",
   "Dest": "ATL",
   "AirlineCode": "SK",
@@ -17972,7 +17972,7 @@
   "Airport_Airline": "DOH-QR",
   "Dest": "DOH",
   "AirlineCode": "QR",
-  "Quota": 234,
+  "Quota": 251,
   "Year": "2025",
   "Month": "05"
  },
@@ -17980,7 +17980,7 @@
   "Airport_Airline": "DXB-EK",
   "Dest": "DXB",
   "AirlineCode": "EK",
-  "Quota": 195,
+  "Quota": 209,
   "Year": "2025",
   "Month": "05"
  },
@@ -18004,7 +18004,7 @@
   "Airport_Airline": "IST-TK",
   "Dest": "IST",
   "AirlineCode": "TK",
-  "Quota": 140,
+  "Quota": 144,
   "Year": "2025",
   "Month": "05"
  },
@@ -18012,7 +18012,7 @@
   "Airport_Airline": "LHR-BA",
   "Dest": "LHR",
   "AirlineCode": "BA",
-  "Quota": 83,
+  "Quota": 87,
   "Year": "2025",
   "Month": "05"
  },
@@ -18020,7 +18020,7 @@
   "Airport_Airline": "LHR-SK",
   "Dest": "LHR",
   "AirlineCode": "SK",
-  "Quota": 86,
+  "Quota": 91,
   "Year": "2025",
   "Month": "05"
  },
@@ -18052,7 +18052,7 @@
   "Airport_Airline": "VIE-ET",
   "Dest": "VIE",
   "AirlineCode": "ET",
-  "Quota": 16,
+  "Quota": 15,
   "Year": "2025",
   "Month": "05"
  },
@@ -18060,7 +18060,7 @@
   "Airport_Airline": "VIE-FR",
   "Dest": "VIE",
   "AirlineCode": "FR",
-  "Quota": 17,
+  "Quota": 16,
   "Year": "2025",
   "Month": "05"
  },
@@ -18068,7 +18068,7 @@
   "Airport_Airline": "VIE-OS",
   "Dest": "VIE",
   "AirlineCode": "OS",
-  "Quota": 72,
+  "Quota": 69,
   "Year": "2025",
   "Month": "05"
  },
@@ -18076,7 +18076,7 @@
   "Airport_Airline": "ZRH-LX",
   "Dest": "ZRH",
   "AirlineCode": "LX",
-  "Quota": 73,
+  "Quota": 74,
   "Year": "2025",
   "Month": "05"
  },
@@ -18108,7 +18108,7 @@
   "Airport_Airline": "AUH-EY",
   "Dest": "AUH",
   "AirlineCode": "EY",
-  "Quota": 92,
+  "Quota": 93,
   "Year": "2025",
   "Month": "05"
  },
@@ -18124,7 +18124,7 @@
   "Airport_Airline": "BKK-TG",
   "Dest": "BKK",
   "AirlineCode": "TG",
-  "Quota": 66,
+  "Quota": 69,
   "Year": "2025",
   "Month": "05"
  },
@@ -18148,7 +18148,7 @@
   "Airport_Airline": "DEL-AI",
   "Dest": "DEL",
   "AirlineCode": "AI",
-  "Quota": 71,
+  "Quota": 76,
   "Year": "2025",
   "Month": "05"
  },
@@ -18164,7 +18164,7 @@
   "Airport_Airline": "HEL-AY",
   "Dest": "HEL",
   "AirlineCode": "AY",
-  "Quota": 46,
+  "Quota": 47,
   "Year": "2025",
   "Month": "05"
  },
@@ -18180,7 +18180,7 @@
   "Airport_Airline": "HEL-SK",
   "Dest": "HEL",
   "AirlineCode": "SK",
-  "Quota": 31,
+  "Quota": 32,
   "Year": "2025",
   "Month": "05"
  },
@@ -18268,7 +18268,7 @@
   "Airport_Airline": "SIN-SQ",
   "Dest": "SIN",
   "AirlineCode": "SQ",
-  "Quota": 17,
+  "Quota": 19,
   "Year": "2025",
   "Month": "05"
  },
@@ -18308,7 +18308,7 @@
   "Airport_Airline": "ALC-D8",
   "Dest": "ALC",
   "AirlineCode": "D8",
-  "Quota": 17,
+  "Quota": 21,
   "Year": "2025",
   "Month": "05"
  },
@@ -18316,7 +18316,7 @@
   "Airport_Airline": "ALC-FR",
   "Dest": "ALC",
   "AirlineCode": "FR",
-  "Quota": 7,
+  "Quota": 8,
   "Year": "2025",
   "Month": "05"
  },
@@ -18324,7 +18324,7 @@
   "Airport_Airline": "ALC-SK",
   "Dest": "ALC",
   "AirlineCode": "SK",
-  "Quota": 7,
+  "Quota": 8,
   "Year": "2025",
   "Month": "05"
  },
