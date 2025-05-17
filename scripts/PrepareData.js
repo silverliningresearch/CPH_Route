@@ -122,6 +122,7 @@ function initCurrentTimeVars() {
 
     case "04-2025":  
     case "05-2025":      
+    case "06-2025":      
       total_quota = 3666;
       break;   
       
