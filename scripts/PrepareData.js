@@ -516,6 +516,14 @@ function prepareInterviewData() {
       if ((quota_data_temp[i].Airport_Airline == "ZRH-SK")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 40;
       }
+
+      if ((quota_data_temp[i].Airport_Airline == "OTP-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+      }
+
+      if ((quota_data_temp[i].Airport_Airline == "ALC-D8")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+      }
     }
       
       quota_data.push(quota_data_temp[i]);
