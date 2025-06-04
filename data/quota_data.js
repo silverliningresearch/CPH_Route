@@ -18658,7 +18658,6 @@
  },
 
 
-
  {
   "Airport_Airline": "LHR-BA",
   "Dest": "LHR",
@@ -19074,15 +19073,6 @@
   "Quota": 11.0,
   "Year": "2025",
   "Month": "06"
- },
- {
-  "Airport_Airline": "ADD-ET",
-  "Dest": "ADD",
-  "AirlineCode": "ET",
-  "Quota": 28.0,
-  "Year": "2025",
-  "Month": "06"
  }
-
 ]    
 `;
