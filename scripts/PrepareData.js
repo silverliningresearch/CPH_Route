@@ -562,6 +562,13 @@ function prepareInterviewData() {
 
     }
       
+    if (currentMonth == "06-2025") 
+    {
+      if ((quota_data_temp[i].Dest == "AUH")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
+      }
+    }
+          
       quota_data.push(quota_data_temp[i]);
     }
   }
