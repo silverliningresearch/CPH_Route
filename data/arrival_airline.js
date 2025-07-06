@@ -1,28 +1,25 @@
      let arrival_airline = ` 
 [
  {
-  "Show": "PEGASUS AIRLINES (PC)"
- },
- {
   "Show": "SUNEXPRESS (XQ)"
  },
  {
   "Show": "SAS - SCANDINAVIAN AIRLINES (SK)"
  },
  {
-  "Show": "NORWEGIAN AIR (DY/D8/DI/DN/DU)"
- },
- {
-  "Show": "TAP PORTUGAL (TP)"
- },
- {
   "Show": "KLM (KL)"
+ },
+ {
+  "Show": "NORWEGIAN AIR (DY/D8/DI/DN/DU)"
  },
  {
   "Show": "LUFTHANSA (LH)"
  },
  {
   "Show": "AIR FRANCE (AF)"
+ },
+ {
+  "Show": "JETTIME A/S (JTD)"
  },
  {
   "Show": "RYANAIR (FR/RK)"
@@ -34,16 +31,10 @@
   "Show": "SWISS  INTERNATIONAL AIRLINES (LX)"
  },
  {
-  "Show": "JETTIME A/S (JTD)"
- },
- {
   "Show": "BRUSSELS AIRLINES (SN)"
  },
  {
-  "Show": "AUSTRIAN AIRLINES (OS)"
- },
- {
-  "Show": "BRITISH AIRWAYS (BA)"
+  "Show": "LOT POLISH AIRLINES (LO)"
  },
  {
   "Show": "ATLANTIC AIRWAYS (RC)"
@@ -52,34 +43,61 @@
   "Show": "SUNCLASS AIRLINES (DK)"
  },
  {
-  "Show": "EASYJET (EZY/EJU/EZS)"
+  "Show": "AUSTRIAN AIRLINES (OS)"
  },
  {
-  "Show": "WIZZ AIR (W6/W4/5W/W9/WU)"
+  "Show": "ICELANDAIR (FI)"
+ },
+ {
+  "Show": "BRITISH AIRWAYS (BA)"
  },
  {
   "Show": "FINNAIR (AY)"
  },
  {
+  "Show": "DAT (DX)"
+ },
+ {
+  "Show": "EASYJET (EZY/EJU/EZS)"
+ },
+ {
+  "Show": "FLY ONE (5F)"
+ },
+ {
+  "Show": "AIR BALTIC (BT)"
+ },
+ {
+  "Show": "ALSIE EXPRESS (6I)"
+ },
+ {
+  "Show": "WIZZ AIR (W6/W4/5W/W9/WU)"
+ },
+ {
   "Show": "DELTA AIR LINES (DL)"
+ },
+ {
+  "Show": "EUROWINGS (EW)"
  },
  {
   "Show": "QATAR AIRWAYS (QR)"
  },
  {
+  "Show": "AIR SERBIA (JU)"
+ },
+ {
   "Show": "VUELING AIRLINES (VY)"
  },
  {
-  "Show": "VOLOTEA (V7)"
+  "Show": "BRAATHENS (BIX)"
  },
  {
-  "Show": "LOT POLISH AIRLINES (LO)"
+  "Show": "SOLA AIR (OJ)"
  },
  {
-  "Show": "ETIHAD AIRWAYS (EY)"
+  "Show": "BH AIR (8H)"
  },
  {
-  "Show": "DAT (DX)"
+  "Show": "AIR GREENLAND (GL)"
  },
  {
   "Show": "AEGEAN AIRLINES (A3)"
@@ -91,10 +109,10 @@
   "Show": "CROATIA AIRLINES (OU)"
  },
  {
-  "Show": "SINGAPORE AIRLINES (SQ)"
+  "Show": "PEGASUS AIRLINES (PC)"
  },
  {
-  "Show": "FLY PLAY (OG)"
+  "Show": "SINGAPORE AIRLINES (SQ)"
  },
  {
   "Show": "AIR CANADA (AC)"
@@ -103,10 +121,7 @@
   "Show": "AJET (VF)"
  },
  {
-  "Show": "AIR BALTIC (BT)"
- },
- {
-  "Show": "ICELANDAIR (FI)"
+  "Show": "AMERICAN AIRLINES INC. (AA)"
  },
  {
   "Show": "THAI AIRWAYS INTERNATIONAL (TG)"
@@ -115,103 +130,76 @@
   "Show": "EMIRATES (EK)"
  },
  {
-  "Show": "EGYPTAIR (MS)"
- },
- {
-  "Show": "ALSIE EXPRESS (6I)"
- },
- {
-  "Show": "AIR GREENLAND (GL)"
+  "Show": "TAP PORTUGAL (TP)"
  },
  {
   "Show": "AIR CHINA (CA)"
  },
  {
-  "Show": "AIR CAIRO (SM)"
+  "Show": "TRANSAVIA (HV/TO/PH)"
  },
  {
   "Show": "LUXAIR (LG)"
  },
  {
-  "Show": "TRANSAVIA (HV/TO/PH)"
- },
- {
-  "Show": "CORENDON AIRLINES (XC)"
- },
- {
-  "Show": "AIR SERBIA (JU)"
- },
- {
-  "Show": "EUROWINGS (EW)"
- },
- {
-  "Show": "AIR INDIA (AI)"
- },
- {
   "Show": "UR AIRLINES (UD)"
- },
- {
-  "Show": "SOLA AIR (OJ)"
  },
  {
   "Show": "MIDDLE EAST AIRLINES (ME)"
  },
  {
-  "Show": "AIRSEVEN (CAT)"
+  "Show": "SKY EXPRESS (GQ)"
  },
  {
-  "Show": "AIS AIRLINES (PNX)"
+  "Show": "FLY PLAY (OG)"
  },
  {
   "Show": "ETHIOPIAN AIRLINES GROUP (ET)"
  },
  {
-  "Show": "SKY EXPRESS (GQ)"
+  "Show": "CORENDON AIRLINES (XC)"
  },
  {
-  "Show": "FREEBIRD AIRLINES (FH)"
+  "Show": "AIRSEVEN (CAT)"
  },
  {
-  "Show": "BRAATHENS (BIX)"
+  "Show": "ETIHAD AIRWAYS (EY)"
  },
  {
-  "Show": "FROST AIR APS (FRO)"
+  "Show": "EGYPTAIR (MS)"
  },
  {
-  "Show": "AMERICAN AIRLINES INC. (AA)"
+  "Show": "VOLOTEA (V7)"
  },
  {
-  "Show": "2 EXCEL AVIATION (BRO)"
- },
- {
-  "Show": "ITA AIRWAYS (AZ)"
- },
- {
-  "Show": "FLY ONE (5F)"
- },
- {
-  "Show": "BH AIR (8H)"
+  "Show": "AIR INDIA (AI)"
  },
  {
   "Show": "NEOS S.P.A. (NO)"
  },
  {
-  "Show": "RYANAIR SUN S.A. (RR)"
+  "Show": "FLYYO (DIR)"
  },
  {
-  "Show": "ENTER AIR (ENT)"
+  "Show": "FREEBIRD AIRLINES (FH)"
  },
  {
-  "Show": "AEROITALIA (XZ)"
+  "Show": "ITA AIRWAYS (AZ)"
  },
  {
-  "Show": "FLYYO (4D)"
+  "Show": "AIR CAIRO (SM)"
  },
  {
   "Show": "LOGAN AIR LTD (LM)"
  },
  {
+  "Show": "ENTER AIR (ENT)"
+ },
+ {
   "Show": "CHINA EASTERN AIRLINES (MU)"
+ },
+ {
+  "Show": "AEROITALIA (XZ)"
  }
 ]    
 `;

@@ -130,7 +130,7 @@ function initCurrentTimeVars() {
       break;   
       
 
-        default:
+    default:
       total_quota = 99;
       break;
   }
