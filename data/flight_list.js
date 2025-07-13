@@ -17607,18 +17607,6 @@
  {
   "Date": "05-07-2025",
   "Time": "0710",
-  "Dest": "CHQ",
-  "DestName": "CHANIA",
-  "AirlineCode": "JTD",
-  "Airline": "JETTIME A/S",
-  "Flight": "JTD0247",
-  "AirlineCode_Merged": "JTD",
-  "City": "Chania",
-  "Country": "Greece"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "0710",
   "Dest": "PMI",
   "DestName": "Palma d Mallorca",
   "AirlineCode": "JTD",
@@ -17627,6 +17615,18 @@
   "AirlineCode_Merged": "JTD",
   "City": "Palma de Mallorca",
   "Country": "Spain"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "0710",
+  "Dest": "CHQ",
+  "DestName": "CHANIA",
+  "AirlineCode": "JTD",
+  "Airline": "JETTIME A/S",
+  "Flight": "JTD0247",
+  "AirlineCode_Merged": "JTD",
+  "City": "Chania",
+  "Country": "Greece"
  },
  {
   "Date": "05-07-2025",
@@ -17799,14 +17799,14 @@
  {
   "Date": "05-07-2025",
   "Time": "0800",
-  "Dest": "KEF",
-  "DestName": "REYKJAVIK",
+  "Dest": "TRD",
+  "DestName": "TRONDHEIM",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0595",
+  "Flight": "SK2882",
   "AirlineCode_Merged": "SK",
-  "City": "Reykjavik",
-  "Country": "Iceland"
+  "City": "Trondheim",
+  "Country": "Norway"
  },
  {
   "Date": "05-07-2025",
@@ -17835,14 +17835,26 @@
  {
   "Date": "05-07-2025",
   "Time": "0800",
-  "Dest": "TRD",
-  "DestName": "TRONDHEIM",
+  "Dest": "KEF",
+  "DestName": "REYKJAVIK",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2882",
+  "Flight": "SK0595",
   "AirlineCode_Merged": "SK",
-  "City": "Trondheim",
-  "Country": "Norway"
+  "City": "Reykjavik",
+  "Country": "Iceland"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "0805",
+  "Dest": "JSI",
+  "DestName": "SKIATHOS",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK7701",
+  "AirlineCode_Merged": "SK",
+  "City": "Skiathos",
+  "Country": "Greece"
  },
  {
   "Date": "05-07-2025",
@@ -17859,13 +17871,13 @@
  {
   "Date": "05-07-2025",
   "Time": "0805",
-  "Dest": "JSI",
-  "DestName": "SKIATHOS",
+  "Dest": "CHQ",
+  "DestName": "CHANIA",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK7701",
+  "Flight": "SK2817",
   "AirlineCode_Merged": "SK",
-  "City": "Skiathos",
+  "City": "Chania",
   "Country": "Greece"
  },
  {
@@ -17890,30 +17902,6 @@
   "Flight": "SK1462",
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
-  "Country": "Norway"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "0805",
-  "Dest": "CHQ",
-  "DestName": "CHANIA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2817",
-  "AirlineCode_Merged": "SK",
-  "City": "Chania",
-  "Country": "Greece"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "0810",
-  "Dest": "BGO",
-  "DestName": "BERGEN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2862",
-  "AirlineCode_Merged": "SK",
-  "City": "Bergen",
   "Country": "Norway"
  },
  {
@@ -17967,18 +17955,6 @@
  {
   "Date": "05-07-2025",
   "Time": "0815",
-  "Dest": "LHR",
-  "DestName": "London/LHR",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0501",
-  "AirlineCode_Merged": "SK",
-  "City": "London",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "0815",
   "Dest": "AMS",
   "DestName": "AMSTERDAM",
   "AirlineCode": "SK",
@@ -17990,15 +17966,15 @@
  },
  {
   "Date": "05-07-2025",
-  "Time": "0820",
-  "Dest": "BER",
-  "DestName": "Berlin",
+  "Time": "0815",
+  "Dest": "LHR",
+  "DestName": "London/LHR",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1673",
+  "Flight": "SK0501",
   "AirlineCode_Merged": "SK",
-  "City": "Berlin",
-  "Country": "Germany"
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "05-07-2025",
@@ -18015,14 +17991,14 @@
  {
   "Date": "05-07-2025",
   "Time": "0820",
-  "Dest": "SVG",
-  "DestName": "STAVANGER",
+  "Dest": "BER",
+  "DestName": "Berlin",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1870",
+  "Flight": "SK1673",
   "AirlineCode_Merged": "SK",
-  "City": "Stavanger",
-  "Country": "Norway"
+  "City": "Berlin",
+  "Country": "Germany"
  },
  {
   "Date": "05-07-2025",
@@ -18035,6 +18011,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Florence",
   "Country": "Italy"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "0820",
+  "Dest": "SVG",
+  "DestName": "STAVANGER",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1870",
+  "AirlineCode_Merged": "SK",
+  "City": "Stavanger",
+  "Country": "Norway"
  },
  {
   "Date": "05-07-2025",
@@ -18159,18 +18147,6 @@
  {
   "Date": "05-07-2025",
   "Time": "0900",
-  "Dest": "SPU",
-  "DestName": "SPLIT",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2831",
-  "AirlineCode_Merged": "SK",
-  "City": "Split",
-  "Country": "Croatia"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "0900",
   "Dest": "JFK",
   "DestName": "New York/JFK",
   "AirlineCode": "DL",
@@ -18179,6 +18155,18 @@
   "AirlineCode_Merged": "DL",
   "City": "New York",
   "Country": "United States"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "0900",
+  "Dest": "SPU",
+  "DestName": "SPLIT",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2831",
+  "AirlineCode_Merged": "SK",
+  "City": "Split",
+  "Country": "Croatia"
  },
  {
   "Date": "05-07-2025",
@@ -18555,18 +18543,6 @@
  {
   "Date": "05-07-2025",
   "Time": "1125",
-  "Dest": "VCE",
-  "DestName": "VENICE",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83740",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Venice",
-  "Country": "Italy"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1125",
   "Dest": "BLL",
   "DestName": "BILLUND",
   "AirlineCode": "SK",
@@ -18575,6 +18551,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Billund",
   "Country": "Denmark"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1125",
+  "Dest": "VCE",
+  "DestName": "VENICE",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83740",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Venice",
+  "Country": "Italy"
  },
  {
   "Date": "05-07-2025",
@@ -18603,18 +18591,6 @@
  {
   "Date": "05-07-2025",
   "Time": "1145",
-  "Dest": "BCN",
-  "DestName": "BARCELONA",
-  "AirlineCode": "VY",
-  "Airline": "VUELING AIRLINES",
-  "Flight": "VY1871",
-  "AirlineCode_Merged": "VY",
-  "City": "Barcelona",
-  "Country": "Spain"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1145",
   "Dest": "ARN",
   "DestName": "STOCKHOLM/ARN",
   "AirlineCode": "SK",
@@ -18635,6 +18611,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1145",
+  "Dest": "BCN",
+  "DestName": "BARCELONA",
+  "AirlineCode": "VY",
+  "Airline": "VUELING AIRLINES",
+  "Flight": "VY1871",
+  "AirlineCode_Merged": "VY",
+  "City": "Barcelona",
+  "Country": "Spain"
  },
  {
   "Date": "05-07-2025",
@@ -18722,18 +18710,6 @@
  },
  {
   "Date": "05-07-2025",
-  "Time": "1205",
-  "Dest": "GVA",
-  "DestName": "GENEVA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2613",
-  "AirlineCode_Merged": "SK",
-  "City": "Geneva",
-  "Country": "Switzerland"
- },
- {
-  "Date": "05-07-2025",
   "Time": "1210",
   "Dest": "CTA",
   "DestName": "CATANIA",
@@ -18783,6 +18759,30 @@
  {
   "Date": "05-07-2025",
   "Time": "1225",
+  "Dest": "FAE",
+  "DestName": "FAROE ISLANDS",
+  "AirlineCode": "RC",
+  "Airline": "ATLANTIC AIRWAYS",
+  "Flight": "RC0453",
+  "AirlineCode_Merged": "RC",
+  "City": "Faroe Islands",
+  "Country": "Faroe Islands"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1225",
+  "Dest": "PSA",
+  "DestName": "PISA",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83736",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Pisa",
+  "Country": "Italy"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1225",
   "Dest": "NCE",
   "DestName": "NICE",
   "AirlineCode": "SK",
@@ -18807,18 +18807,6 @@
  {
   "Date": "05-07-2025",
   "Time": "1225",
-  "Dest": "FAE",
-  "DestName": "FAROE ISLANDS",
-  "AirlineCode": "RC",
-  "Airline": "ATLANTIC AIRWAYS",
-  "Flight": "RC0453",
-  "AirlineCode_Merged": "RC",
-  "City": "Faroe Islands",
-  "Country": "Faroe Islands"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1225",
   "Dest": "HEL",
   "DestName": "HELSINKI",
   "AirlineCode": "AY",
@@ -18827,18 +18815,6 @@
   "AirlineCode_Merged": "AY",
   "City": "Helsinki",
   "Country": "Finland"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1225",
-  "Dest": "PSA",
-  "DestName": "PISA",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83736",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Pisa",
-  "Country": "Italy"
  },
  {
   "Date": "05-07-2025",
@@ -18855,18 +18831,6 @@
  {
   "Date": "05-07-2025",
   "Time": "1235",
-  "Dest": "BLQ",
-  "DestName": "BOLOGNA",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR2677",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Bologna",
-  "Country": "Italy"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1235",
   "Dest": "KEF",
   "DestName": "REYKJAVIK",
   "AirlineCode": "OG",
@@ -18875,6 +18839,18 @@
   "AirlineCode_Merged": "OG",
   "City": "Reykjavik",
   "Country": "Iceland"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1235",
+  "Dest": "BLQ",
+  "DestName": "BOLOGNA",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR2677",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Bologna",
+  "Country": "Italy"
  },
  {
   "Date": "05-07-2025",
@@ -18887,30 +18863,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Amsterdam",
   "Country": "Netherlands"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1245",
-  "Dest": "LIS",
-  "DestName": "LISBON",
-  "AirlineCode": "TP",
-  "Airline": "TAP PORTUGAL",
-  "Flight": "TP0753",
-  "AirlineCode_Merged": "TP",
-  "City": "Lisbon",
-  "Country": "Portugal"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1245",
-  "Dest": "TRD",
-  "DestName": "TRONDHEIM",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2880",
-  "AirlineCode_Merged": "SK",
-  "City": "Trondheim",
-  "Country": "Norway"
  },
  {
   "Date": "05-07-2025",
@@ -18935,6 +18887,30 @@
   "AirlineCode_Merged": "AC",
   "City": "Toronto",
   "Country": "Canada"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1245",
+  "Dest": "TRD",
+  "DestName": "TRONDHEIM",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2880",
+  "AirlineCode_Merged": "SK",
+  "City": "Trondheim",
+  "Country": "Norway"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1245",
+  "Dest": "LIS",
+  "DestName": "LISBON",
+  "AirlineCode": "TP",
+  "Airline": "TAP PORTUGAL",
+  "Flight": "TP0753",
+  "AirlineCode_Merged": "TP",
+  "City": "Lisbon",
+  "Country": "Portugal"
  },
  {
   "Date": "05-07-2025",
@@ -18975,18 +18951,6 @@
  {
   "Date": "05-07-2025",
   "Time": "1300",
-  "Dest": "AGP",
-  "DestName": "MALAGA",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83672",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Malaga",
-  "Country": "Spain"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1300",
   "Dest": "EVE",
   "DestName": "Harstad/Narvik",
   "AirlineCode": "SK",
@@ -19022,15 +18986,15 @@
  },
  {
   "Date": "05-07-2025",
-  "Time": "1305",
-  "Dest": "SEA",
-  "DestName": "SEATTLE",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0937",
-  "AirlineCode_Merged": "SK",
-  "City": "Seattle",
-  "Country": "United States"
+  "Time": "1300",
+  "Dest": "AGP",
+  "DestName": "MALAGA",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83672",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Malaga",
+  "Country": "Spain"
  },
  {
   "Date": "05-07-2025",
@@ -19043,6 +19007,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Gdansk",
   "Country": "Poland"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1305",
+  "Dest": "SEA",
+  "DestName": "SEATTLE",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0937",
+  "AirlineCode_Merged": "SK",
+  "City": "Seattle",
+  "Country": "United States"
  },
  {
   "Date": "05-07-2025",
@@ -19203,18 +19179,6 @@
  {
   "Date": "05-07-2025",
   "Time": "1350",
-  "Dest": "MXP",
-  "DestName": "Milan/MXP",
-  "AirlineCode": "NO",
-  "Airline": "NEOS S.P.A.",
-  "Flight": "NO6593",
-  "AirlineCode_Merged": "NO",
-  "City": "Milan",
-  "Country": "Italy"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1350",
   "Dest": "GDN",
   "DestName": "GDANSK",
   "AirlineCode": "W6",
@@ -19223,6 +19187,18 @@
   "AirlineCode_Merged": "W6/W4/5W/W9/WU",
   "City": "Gdansk",
   "Country": "Poland"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1350",
+  "Dest": "MXP",
+  "DestName": "Milan/MXP",
+  "AirlineCode": "NO",
+  "Airline": "NEOS S.P.A.",
+  "Flight": "NO6593",
+  "AirlineCode_Merged": "NO",
+  "City": "Milan",
+  "Country": "Italy"
  },
  {
   "Date": "05-07-2025",
@@ -19263,18 +19239,6 @@
  {
   "Date": "05-07-2025",
   "Time": "1400",
-  "Dest": "PHL",
-  "DestName": "PHILADELPHIA",
-  "AirlineCode": "AA",
-  "Airline": "AMERICAN AIRLINES INC.",
-  "Flight": "AA0745",
-  "AirlineCode_Merged": "AA",
-  "City": "Philadelphia",
-  "Country": "United States"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1400",
   "Dest": "KEF",
   "DestName": "REYKJAVIK",
   "AirlineCode": "FI",
@@ -19286,15 +19250,27 @@
  },
  {
   "Date": "05-07-2025",
+  "Time": "1400",
+  "Dest": "PHL",
+  "DestName": "PHILADELPHIA",
+  "AirlineCode": "AA",
+  "Airline": "AMERICAN AIRLINES INC.",
+  "Flight": "AA0745",
+  "AirlineCode_Merged": "AA",
+  "City": "Philadelphia",
+  "Country": "United States"
+ },
+ {
+  "Date": "05-07-2025",
   "Time": "1405",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1213",
-  "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
+  "Dest": "KEF",
+  "DestName": "REYKJAVIK",
+  "AirlineCode": "FI",
+  "Airline": "ICELANDAIR",
+  "Flight": "FI0207",
+  "AirlineCode_Merged": "FI",
+  "City": "Reykjavik",
+  "Country": "Iceland"
  },
  {
   "Date": "05-07-2025",
@@ -19311,14 +19287,14 @@
  {
   "Date": "05-07-2025",
   "Time": "1405",
-  "Dest": "KEF",
-  "DestName": "REYKJAVIK",
-  "AirlineCode": "FI",
-  "Airline": "ICELANDAIR",
-  "Flight": "FI0207",
-  "AirlineCode_Merged": "FI",
-  "City": "Reykjavik",
-  "Country": "Iceland"
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1213",
+  "AirlineCode_Merged": "SK",
+  "City": "Aalborg",
+  "Country": "Denmark"
  },
  {
   "Date": "05-07-2025",
@@ -19451,18 +19427,6 @@
   "AirlineCode_Merged": "KL",
   "City": "Amsterdam",
   "Country": "Netherlands"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1450",
-  "Dest": "LCA",
-  "DestName": "LARNACA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2775",
-  "AirlineCode_Merged": "SK",
-  "City": "Larnaca",
-  "Country": "Cyprus"
  },
  {
   "Date": "05-07-2025",
@@ -19659,18 +19623,6 @@
  {
   "Date": "05-07-2025",
   "Time": "1545",
-  "Dest": "ALC",
-  "DestName": "ALICANTE",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2813",
-  "AirlineCode_Merged": "SK",
-  "City": "Alicante",
-  "Country": "Spain"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1545",
   "Dest": "CAI",
   "DestName": "CAIRO",
   "AirlineCode": "MS",
@@ -19679,6 +19631,18 @@
   "AirlineCode_Merged": "MS",
   "City": "Cairo",
   "Country": "Egypt"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1545",
+  "Dest": "ALC",
+  "DestName": "ALICANTE",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2813",
+  "AirlineCode_Merged": "SK",
+  "City": "Alicante",
+  "Country": "Spain"
  },
  {
   "Date": "05-07-2025",
@@ -19731,6 +19695,18 @@
  {
   "Date": "05-07-2025",
   "Time": "1605",
+  "Dest": "PMI",
+  "DestName": "Palma d Mallorca",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2587",
+  "AirlineCode_Merged": "SK",
+  "City": "Palma de Mallorca",
+  "Country": "Spain"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1605",
   "Dest": "BIQ",
   "DestName": "BIARRITZ",
   "AirlineCode": "SK",
@@ -19763,18 +19739,6 @@
   "AirlineCode_Merged": "CAT",
   "City": "Gazipasa",
   "Country": "Turkey"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1605",
-  "Dest": "PMI",
-  "DestName": "Palma d Mallorca",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2587",
-  "AirlineCode_Merged": "SK",
-  "City": "Palma de Mallorca",
-  "Country": "Spain"
  },
  {
   "Date": "05-07-2025",
@@ -19815,6 +19779,18 @@
  {
   "Date": "05-07-2025",
   "Time": "1625",
+  "Dest": "ATH",
+  "DestName": "Athens",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2777",
+  "AirlineCode_Merged": "SK",
+  "City": "Athens",
+  "Country": "Greece"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1625",
   "Dest": "TOS",
   "DestName": "Tromso",
   "AirlineCode": "SK",
@@ -19835,18 +19811,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Faroe Islands",
   "Country": "Faroe Islands"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1625",
-  "Dest": "ATH",
-  "DestName": "Athens",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2777",
-  "AirlineCode_Merged": "SK",
-  "City": "Athens",
-  "Country": "Greece"
  },
  {
   "Date": "05-07-2025",
@@ -20006,18 +19970,6 @@
  },
  {
   "Date": "05-07-2025",
-  "Time": "1720",
-  "Dest": "FCO",
-  "DestName": "Rome/FCO",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0691",
-  "AirlineCode_Merged": "SK",
-  "City": "Rome",
-  "Country": "Italy"
- },
- {
-  "Date": "05-07-2025",
   "Time": "1725",
   "Dest": "NCE",
   "DestName": "NICE",
@@ -20027,18 +19979,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Nice",
   "Country": "France"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1730",
-  "Dest": "BGO",
-  "DestName": "BERGEN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2872",
-  "AirlineCode_Merged": "SK",
-  "City": "Bergen",
-  "Country": "Norway"
  },
  {
   "Date": "05-07-2025",
@@ -20063,6 +20003,18 @@
   "AirlineCode_Merged": "DX",
   "City": "Bornholm",
   "Country": "Denmark"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1730",
+  "Dest": "BGO",
+  "DestName": "BERGEN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2872",
+  "AirlineCode_Merged": "SK",
+  "City": "Bergen",
+  "Country": "Norway"
  },
  {
   "Date": "05-07-2025",
@@ -20151,18 +20103,6 @@
  {
   "Date": "05-07-2025",
   "Time": "1740",
-  "Dest": "NCE",
-  "DestName": "NICE",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0791",
-  "AirlineCode_Merged": "SK",
-  "City": "Nice",
-  "Country": "France"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1740",
   "Dest": "LIS",
   "DestName": "LISBON",
   "AirlineCode": "TP",
@@ -20175,18 +20115,6 @@
  {
   "Date": "05-07-2025",
   "Time": "1745",
-  "Dest": "VIE",
-  "DestName": "VIENNA",
-  "AirlineCode": "OS",
-  "Airline": "AUSTRIAN AIRLINES",
-  "Flight": "OS0304",
-  "AirlineCode_Merged": "OS",
-  "City": "Vienna",
-  "Country": "Austria"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1745",
   "Dest": "MPL",
   "DestName": "MONTPELLIER",
   "AirlineCode": "SK",
@@ -20195,6 +20123,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Montpellier",
   "Country": "France"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1745",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
+  "AirlineCode": "OS",
+  "Airline": "AUSTRIAN AIRLINES",
+  "Flight": "OS0304",
+  "AirlineCode_Merged": "OS",
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "05-07-2025",
@@ -20255,6 +20195,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Milan",
   "Country": "Italy"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1800",
+  "Dest": "AYT",
+  "DestName": "ANTALYA",
+  "AirlineCode": "DK",
+  "Airline": "SUNCLASS AIRLINES",
+  "Flight": "DK0806",
+  "AirlineCode_Merged": "DK",
+  "City": "Antalya",
+  "Country": "Turkey"
  },
  {
   "Date": "05-07-2025",
@@ -20379,6 +20331,18 @@
  {
   "Date": "05-07-2025",
   "Time": "1905",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "KL",
+  "Airline": "KLM",
+  "Flight": "KL1276",
+  "AirlineCode_Merged": "KL",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1905",
   "Dest": "BLQ",
   "DestName": "BOLOGNA",
   "AirlineCode": "SK",
@@ -20411,18 +20375,6 @@
   "AirlineCode_Merged": "CA",
   "City": "Beijing",
   "Country": "China"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1905",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "KL",
-  "Airline": "KLM",
-  "Flight": "KL1276",
-  "AirlineCode_Merged": "KL",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
  },
  {
   "Date": "05-07-2025",
@@ -20475,18 +20427,6 @@
  {
   "Date": "05-07-2025",
   "Time": "1920",
-  "Dest": "HER",
-  "DestName": "Heraklion",
-  "AirlineCode": "GQ",
-  "Airline": "SKY EXPRESS",
-  "Flight": "GQ3211",
-  "AirlineCode_Merged": "GQ",
-  "City": "Irakleion",
-  "Country": "Greece"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "1920",
   "Dest": "ZRH",
   "DestName": "ZURICH",
   "AirlineCode": "LX",
@@ -20519,6 +20459,18 @@
   "AirlineCode_Merged": "FR/RK",
   "City": "Manchester",
   "Country": "United Kingdom"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "1920",
+  "Dest": "HER",
+  "DestName": "Heraklion",
+  "AirlineCode": "GQ",
+  "Airline": "SKY EXPRESS",
+  "Flight": "GQ3211",
+  "AirlineCode_Merged": "GQ",
+  "City": "Irakleion",
+  "Country": "Greece"
  },
  {
   "Date": "05-07-2025",
@@ -20751,18 +20703,6 @@
  {
   "Date": "05-07-2025",
   "Time": "2035",
-  "Dest": "RAK",
-  "DestName": "Marrakech",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83406",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Marrakech",
-  "Country": "Morocco"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "2035",
   "Dest": "ALC",
   "DestName": "ALICANTE",
   "AirlineCode": "D8",
@@ -20771,6 +20711,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Alicante",
   "Country": "Spain"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "2035",
+  "Dest": "RAK",
+  "DestName": "Marrakech",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83406",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Marrakech",
+  "Country": "Morocco"
  },
  {
   "Date": "05-07-2025",
@@ -20907,18 +20859,6 @@
  {
   "Date": "05-07-2025",
   "Time": "2300",
-  "Dest": "BGO",
-  "DestName": "BERGEN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2874",
-  "AirlineCode_Merged": "SK",
-  "City": "Bergen",
-  "Country": "Norway"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "2300",
   "Dest": "GDN",
   "DestName": "GDANSK",
   "AirlineCode": "SK",
@@ -20954,6 +20894,18 @@
  },
  {
   "Date": "05-07-2025",
+  "Time": "2300",
+  "Dest": "BGO",
+  "DestName": "BERGEN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2874",
+  "AirlineCode_Merged": "SK",
+  "City": "Bergen",
+  "Country": "Norway"
+ },
+ {
+  "Date": "05-07-2025",
   "Time": "2305",
   "Dest": "GOT",
   "DestName": "Gothenburg",
@@ -20963,18 +20915,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Goteborg",
   "Country": "Sweden"
- },
- {
-  "Date": "05-07-2025",
-  "Time": "2305",
-  "Dest": "SVG",
-  "DestName": "STAVANGER",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1876",
-  "AirlineCode_Merged": "SK",
-  "City": "Stavanger",
-  "Country": "Norway"
  },
  {
   "Date": "05-07-2025",
@@ -21011,6 +20951,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Billund",
   "Country": "Denmark"
+ },
+ {
+  "Date": "05-07-2025",
+  "Time": "2305",
+  "Dest": "SVG",
+  "DestName": "STAVANGER",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1876",
+  "AirlineCode_Merged": "SK",
+  "City": "Stavanger",
+  "Country": "Norway"
  },
  {
   "Date": "05-07-2025",
@@ -21087,6 +21039,30 @@
  {
   "Date": "06-07-2025",
   "Time": "0600",
+  "Dest": "LIS",
+  "DestName": "LISBON",
+  "AirlineCode": "TP",
+  "Airline": "TAP PORTUGAL",
+  "Flight": "TP0757",
+  "AirlineCode_Merged": "TP",
+  "City": "Lisbon",
+  "Country": "Portugal"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0600",
+  "Dest": "PMI",
+  "DestName": "Palma d Mallorca",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2811",
+  "AirlineCode_Merged": "SK",
+  "City": "Palma de Mallorca",
+  "Country": "Spain"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0600",
   "Dest": "AYT",
   "DestName": "ANTALYA",
   "AirlineCode": "SK",
@@ -21111,30 +21087,6 @@
  {
   "Date": "06-07-2025",
   "Time": "0600",
-  "Dest": "NCE",
-  "DestName": "NICE",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0795",
-  "AirlineCode_Merged": "SK",
-  "City": "Nice",
-  "Country": "France"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0600",
-  "Dest": "PMI",
-  "DestName": "Palma d Mallorca",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2811",
-  "AirlineCode_Merged": "SK",
-  "City": "Palma de Mallorca",
-  "Country": "Spain"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMSTERDAM",
   "AirlineCode": "KL",
@@ -21147,14 +21099,14 @@
  {
   "Date": "06-07-2025",
   "Time": "0600",
-  "Dest": "LIS",
-  "DestName": "LISBON",
-  "AirlineCode": "TP",
-  "Airline": "TAP PORTUGAL",
-  "Flight": "TP0757",
-  "AirlineCode_Merged": "TP",
-  "City": "Lisbon",
-  "Country": "Portugal"
+  "Dest": "NCE",
+  "DestName": "NICE",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0795",
+  "AirlineCode_Merged": "SK",
+  "City": "Nice",
+  "Country": "France"
  },
  {
   "Date": "06-07-2025",
@@ -21195,18 +21147,6 @@
  {
   "Date": "06-07-2025",
   "Time": "0605",
-  "Dest": "PUY",
-  "DestName": "PULA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2835",
-  "AirlineCode_Merged": "SK",
-  "City": "Pula",
-  "Country": "Croatia"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0605",
   "Dest": "GZP",
   "DestName": "Gazipasa",
   "AirlineCode": "SK",
@@ -21215,6 +21155,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Gazipasa",
   "Country": "Turkey"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0605",
+  "Dest": "PUY",
+  "DestName": "PULA",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2835",
+  "AirlineCode_Merged": "SK",
+  "City": "Pula",
+  "Country": "Croatia"
  },
  {
   "Date": "06-07-2025",
@@ -21243,30 +21195,6 @@
  {
   "Date": "06-07-2025",
   "Time": "0615",
-  "Dest": "FAE",
-  "DestName": "FAROE ISLANDS",
-  "AirlineCode": "RC",
-  "Airline": "ATLANTIC AIRWAYS",
-  "Flight": "RC0451",
-  "AirlineCode_Merged": "RC",
-  "City": "Faroe Islands",
-  "Country": "Faroe Islands"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0615",
-  "Dest": "NCE",
-  "DestName": "NICE",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83640",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Nice",
-  "Country": "France"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0615",
   "Dest": "PMI",
   "DestName": "Palma d Mallorca",
   "AirlineCode": "SK",
@@ -21291,6 +21219,18 @@
  {
   "Date": "06-07-2025",
   "Time": "0615",
+  "Dest": "FAE",
+  "DestName": "FAROE ISLANDS",
+  "AirlineCode": "RC",
+  "Airline": "ATLANTIC AIRWAYS",
+  "Flight": "RC0451",
+  "AirlineCode_Merged": "RC",
+  "City": "Faroe Islands",
+  "Country": "Faroe Islands"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0615",
   "Dest": "FCO",
   "DestName": "Rome/FCO",
   "AirlineCode": "D8",
@@ -21299,6 +21239,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Rome",
   "Country": "Italy"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0615",
+  "Dest": "NCE",
+  "DestName": "NICE",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83640",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Nice",
+  "Country": "France"
  },
  {
   "Date": "06-07-2025",
@@ -21339,18 +21291,6 @@
  {
   "Date": "06-07-2025",
   "Time": "0630",
-  "Dest": "NCE",
-  "DestName": "NICE",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0799",
-  "AirlineCode_Merged": "SK",
-  "City": "Nice",
-  "Country": "France"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0630",
   "Dest": "LXS",
   "DestName": "Limnos",
   "AirlineCode": "SK",
@@ -21359,6 +21299,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Limnos",
   "Country": "Greece"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0630",
+  "Dest": "NCE",
+  "DestName": "NICE",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0799",
+  "AirlineCode_Merged": "SK",
+  "City": "Nice",
+  "Country": "France"
  },
  {
   "Date": "06-07-2025",
@@ -21471,30 +21423,6 @@
  {
   "Date": "06-07-2025",
   "Time": "0700",
-  "Dest": "EDI",
-  "DestName": "EDINBURGH",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83502",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Edinburgh",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0700",
-  "Dest": "OPO",
-  "DestName": "PORTO",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83612",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Porto",
-  "Country": "Portugal"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0700",
   "Dest": "VIE",
   "DestName": "VIENNA",
   "AirlineCode": "OS",
@@ -21507,14 +21435,14 @@
  {
   "Date": "06-07-2025",
   "Time": "0700",
-  "Dest": "OSL",
-  "DestName": "OSLO",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0454",
-  "AirlineCode_Merged": "SK",
-  "City": "Oslo",
-  "Country": "Norway"
+  "Dest": "EDI",
+  "DestName": "EDINBURGH",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83502",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Edinburgh",
+  "Country": "United Kingdom"
  },
  {
   "Date": "06-07-2025",
@@ -21542,6 +21470,30 @@
  },
  {
   "Date": "06-07-2025",
+  "Time": "0700",
+  "Dest": "OSL",
+  "DestName": "OSLO",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0454",
+  "AirlineCode_Merged": "SK",
+  "City": "Oslo",
+  "Country": "Norway"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0700",
+  "Dest": "OPO",
+  "DestName": "PORTO",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83612",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Porto",
+  "Country": "Portugal"
+ },
+ {
+  "Date": "06-07-2025",
   "Time": "0710",
   "Dest": "AAL",
   "DestName": "AALBORG",
@@ -21555,13 +21507,13 @@
  {
   "Date": "06-07-2025",
   "Time": "0715",
-  "Dest": "PVK",
-  "DestName": "Preveza/Lefkada",
-  "AirlineCode": "RC",
-  "Airline": "ATLANTIC AIRWAYS",
-  "Flight": "RC7120",
-  "AirlineCode_Merged": "RC",
-  "City": "Preveza/Lefkada",
+  "Dest": "SMI",
+  "DestName": "SAMOS",
+  "AirlineCode": "JTD",
+  "Airline": "JETTIME A/S",
+  "Flight": "JTD0267",
+  "AirlineCode_Merged": "JTD",
+  "City": "Samos",
   "Country": "Greece"
  },
  {
@@ -21579,13 +21531,13 @@
  {
   "Date": "06-07-2025",
   "Time": "0715",
-  "Dest": "SMI",
-  "DestName": "SAMOS",
-  "AirlineCode": "JTD",
-  "Airline": "JETTIME A/S",
-  "Flight": "JTD0267",
-  "AirlineCode_Merged": "JTD",
-  "City": "Samos",
+  "Dest": "PVK",
+  "DestName": "Preveza/Lefkada",
+  "AirlineCode": "RC",
+  "Airline": "ATLANTIC AIRWAYS",
+  "Flight": "RC7120",
+  "AirlineCode_Merged": "RC",
+  "City": "Preveza/Lefkada",
   "Country": "Greece"
  },
  {
@@ -21603,18 +21555,6 @@
  {
   "Date": "06-07-2025",
   "Time": "0720",
-  "Dest": "KEF",
-  "DestName": "REYKJAVIK",
-  "AirlineCode": "FI",
-  "Airline": "ICELANDAIR",
-  "Flight": "FI0201",
-  "AirlineCode_Merged": "FI",
-  "City": "Reykjavik",
-  "Country": "Iceland"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0720",
   "Dest": "NCE",
   "DestName": "NICE",
   "AirlineCode": "D8",
@@ -21623,6 +21563,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Nice",
   "Country": "France"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0720",
+  "Dest": "KEF",
+  "DestName": "REYKJAVIK",
+  "AirlineCode": "FI",
+  "Airline": "ICELANDAIR",
+  "Flight": "FI0201",
+  "AirlineCode_Merged": "FI",
+  "City": "Reykjavik",
+  "Country": "Iceland"
  },
  {
   "Date": "06-07-2025",
@@ -21635,6 +21587,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Bologna",
   "Country": "Italy"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0730",
+  "Dest": "RHO",
+  "DestName": "Rhodes",
+  "AirlineCode": "JTD",
+  "Airline": "JETTIME A/S",
+  "Flight": "JTD0245",
+  "AirlineCode_Merged": "JTD",
+  "City": "Rhodes",
+  "Country": "Greece"
  },
  {
   "Date": "06-07-2025",
@@ -21659,18 +21623,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Oslo",
   "Country": "Norway"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0730",
-  "Dest": "RHO",
-  "DestName": "Rhodes",
-  "AirlineCode": "JTD",
-  "Airline": "JETTIME A/S",
-  "Flight": "JTD0245",
-  "AirlineCode_Merged": "JTD",
-  "City": "Rhodes",
-  "Country": "Greece"
  },
  {
   "Date": "06-07-2025",
@@ -21699,14 +21651,14 @@
  {
   "Date": "06-07-2025",
   "Time": "0755",
-  "Dest": "FCO",
-  "DestName": "Rome/FCO",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0681",
-  "AirlineCode_Merged": "SK",
-  "City": "Rome",
-  "Country": "Italy"
+  "Dest": "LGW",
+  "DestName": "London/LGW",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83510",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "06-07-2025",
@@ -21723,14 +21675,14 @@
  {
   "Date": "06-07-2025",
   "Time": "0755",
-  "Dest": "LGW",
-  "DestName": "London/LGW",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83510",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "London",
-  "Country": "United Kingdom"
+  "Dest": "FCO",
+  "DestName": "Rome/FCO",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0681",
+  "AirlineCode_Merged": "SK",
+  "City": "Rome",
+  "Country": "Italy"
  },
  {
   "Date": "06-07-2025",
@@ -21747,14 +21699,14 @@
  {
   "Date": "06-07-2025",
   "Time": "0800",
-  "Dest": "TRD",
-  "DestName": "TRONDHEIM",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2882",
+  "Flight": "SK1416",
   "AirlineCode_Merged": "SK",
-  "City": "Trondheim",
-  "Country": "Norway"
+  "City": "Stockholm",
+  "Country": "Sweden"
  },
  {
   "Date": "06-07-2025",
@@ -21771,14 +21723,14 @@
  {
   "Date": "06-07-2025",
   "Time": "0800",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
+  "Dest": "TRD",
+  "DestName": "TRONDHEIM",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1416",
+  "Flight": "SK2882",
   "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
+  "City": "Trondheim",
+  "Country": "Norway"
  },
  {
   "Date": "06-07-2025",
@@ -21807,18 +21759,6 @@
  {
   "Date": "06-07-2025",
   "Time": "0805",
-  "Dest": "LYS",
-  "DestName": "LYON",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1793",
-  "AirlineCode_Merged": "SK",
-  "City": "Lyon",
-  "Country": "France"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0805",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "SK",
@@ -21831,6 +21771,18 @@
  {
   "Date": "06-07-2025",
   "Time": "0805",
+  "Dest": "LYS",
+  "DestName": "LYON",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1793",
+  "AirlineCode_Merged": "SK",
+  "City": "Lyon",
+  "Country": "France"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0805",
   "Dest": "PRG",
   "DestName": "PRAGUE",
   "AirlineCode": "SK",
@@ -21839,6 +21791,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Prague",
   "Country": "Czech Republic"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0810",
+  "Dest": "LPA",
+  "DestName": "Gran Canaria",
+  "AirlineCode": "BIX",
+  "Airline": "BRAATHENS",
+  "Flight": "BIX1000",
+  "AirlineCode_Merged": "BIX",
+  "City": "Gran Canaria",
+  "Country": "Spain"
  },
  {
   "Date": "06-07-2025",
@@ -21878,18 +21842,6 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "0810",
-  "Dest": "LPA",
-  "DestName": "Gran Canaria",
-  "AirlineCode": "BIX",
-  "Airline": "BRAATHENS",
-  "Flight": "BIX1000",
-  "AirlineCode_Merged": "BIX",
-  "City": "Gran Canaria",
-  "Country": "Spain"
- },
- {
-  "Date": "06-07-2025",
   "Time": "0815",
   "Dest": "AMS",
   "DestName": "AMSTERDAM",
@@ -21899,18 +21851,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Amsterdam",
   "Country": "Netherlands"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0815",
-  "Dest": "LHR",
-  "DestName": "London/LHR",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0501",
-  "AirlineCode_Merged": "SK",
-  "City": "London",
-  "Country": "United Kingdom"
  },
  {
   "Date": "06-07-2025",
@@ -21926,27 +21866,15 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "0820",
-  "Dest": "BER",
-  "DestName": "Berlin",
-  "AirlineCode": "EJU",
-  "Airline": "EASYJET",
-  "Flight": "EJU5264",
-  "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "Berlin",
-  "Country": "Germany"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0820",
-  "Dest": "GOH",
-  "DestName": "NUUK",
-  "AirlineCode": "GL",
-  "Airline": "AIR GREENLAND",
-  "Flight": "GL0779",
-  "AirlineCode_Merged": "GL",
-  "City": "Nuuk",
-  "Country": "Greenland"
+  "Time": "0815",
+  "Dest": "LHR",
+  "DestName": "London/LHR",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0501",
+  "AirlineCode_Merged": "SK",
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "06-07-2025",
@@ -21975,14 +21903,14 @@
  {
   "Date": "06-07-2025",
   "Time": "0820",
-  "Dest": "GVA",
-  "DestName": "GENEVA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0613",
-  "AirlineCode_Merged": "SK",
-  "City": "Geneva",
-  "Country": "Switzerland"
+  "Dest": "BER",
+  "DestName": "Berlin",
+  "AirlineCode": "EJU",
+  "Airline": "EASYJET",
+  "Flight": "EJU5264",
+  "AirlineCode_Merged": "EZY/EJU/EZS",
+  "City": "Berlin",
+  "Country": "Germany"
  },
  {
   "Date": "06-07-2025",
@@ -22059,18 +21987,6 @@
  {
   "Date": "06-07-2025",
   "Time": "0850",
-  "Dest": "HEL",
-  "DestName": "HELSINKI",
-  "AirlineCode": "AY",
-  "Airline": "FINNAIR",
-  "Flight": "AY0952",
-  "AirlineCode_Merged": "AY",
-  "City": "Helsinki",
-  "Country": "Finland"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0850",
   "Dest": "MUC",
   "DestName": "MUNICH",
   "AirlineCode": "LH",
@@ -22082,15 +21998,15 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "0900",
-  "Dest": "BGY",
-  "DestName": "Milan/BGY",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR2989",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Milan",
-  "Country": "Italy"
+  "Time": "0850",
+  "Dest": "HEL",
+  "DestName": "HELSINKI",
+  "AirlineCode": "AY",
+  "Airline": "FINNAIR",
+  "Flight": "AY0952",
+  "AirlineCode_Merged": "AY",
+  "City": "Helsinki",
+  "Country": "Finland"
  },
  {
   "Date": "06-07-2025",
@@ -22115,6 +22031,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0900",
+  "Dest": "BGY",
+  "DestName": "Milan/BGY",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR2989",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Milan",
+  "Country": "Italy"
  },
  {
   "Date": "06-07-2025",
@@ -22203,18 +22131,6 @@
  {
   "Date": "06-07-2025",
   "Time": "0935",
-  "Dest": "GVA",
-  "DestName": "GENEVA",
-  "AirlineCode": "EZS",
-  "Airline": "EASYJET",
-  "Flight": "EZS1538",
-  "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "Geneva",
-  "Country": "Switzerland"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "0935",
   "Dest": "RNN",
   "DestName": "BORNHOLM",
   "AirlineCode": "DX",
@@ -22223,6 +22139,18 @@
   "AirlineCode_Merged": "DX",
   "City": "Bornholm",
   "Country": "Denmark"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "0935",
+  "Dest": "GVA",
+  "DestName": "GENEVA",
+  "AirlineCode": "EZS",
+  "Airline": "EASYJET",
+  "Flight": "EZS1538",
+  "AirlineCode_Merged": "EZY/EJU/EZS",
+  "City": "Geneva",
+  "Country": "Switzerland"
  },
  {
   "Date": "06-07-2025",
@@ -22455,14 +22383,14 @@
  {
   "Date": "06-07-2025",
   "Time": "1100",
-  "Dest": "ATH",
-  "DestName": "Athens",
-  "AirlineCode": "A3",
-  "Airline": "AEGEAN AIRLINES",
-  "Flight": "A30751",
-  "AirlineCode_Merged": "A3",
-  "City": "Athens",
-  "Country": "Greece"
+  "Dest": "BRU",
+  "DestName": "BRUSSELS",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1595",
+  "AirlineCode_Merged": "SK",
+  "City": "Brussels",
+  "Country": "Belgium"
  },
  {
   "Date": "06-07-2025",
@@ -22479,14 +22407,14 @@
  {
   "Date": "06-07-2025",
   "Time": "1100",
-  "Dest": "BRU",
-  "DestName": "BRUSSELS",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1595",
-  "AirlineCode_Merged": "SK",
-  "City": "Brussels",
-  "Country": "Belgium"
+  "Dest": "ATH",
+  "DestName": "Athens",
+  "AirlineCode": "A3",
+  "Airline": "AEGEAN AIRLINES",
+  "Flight": "A30751",
+  "AirlineCode_Merged": "A3",
+  "City": "Athens",
+  "Country": "Greece"
  },
  {
   "Date": "06-07-2025",
@@ -22587,18 +22515,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1145",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1420",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1145",
   "Dest": "BGO",
   "DestName": "BERGEN",
   "AirlineCode": "SK",
@@ -22607,6 +22523,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Bergen",
   "Country": "Norway"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1145",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1420",
+  "AirlineCode_Merged": "SK",
+  "City": "Stockholm",
+  "Country": "Sweden"
  },
  {
   "Date": "06-07-2025",
@@ -22647,18 +22575,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1155",
-  "Dest": "SIN",
-  "DestName": "SINGAPORE",
-  "AirlineCode": "SQ",
-  "Airline": "SINGAPORE AIRLINES",
-  "Flight": "SQ0351",
-  "AirlineCode_Merged": "SQ",
-  "City": "Singapore",
-  "Country": "Singapore"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1155",
   "Dest": "STR",
   "DestName": "STUTTGART",
   "AirlineCode": "SK",
@@ -22670,14 +22586,26 @@
  },
  {
   "Date": "06-07-2025",
+  "Time": "1155",
+  "Dest": "SIN",
+  "DestName": "SINGAPORE",
+  "AirlineCode": "SQ",
+  "Airline": "SINGAPORE AIRLINES",
+  "Flight": "SQ0351",
+  "AirlineCode_Merged": "SQ",
+  "City": "Singapore",
+  "Country": "Singapore"
+ },
+ {
+  "Date": "06-07-2025",
   "Time": "1200",
-  "Dest": "CDG",
-  "DestName": "Paris/CDG",
-  "AirlineCode": "AF",
-  "Airline": "AIR FRANCE",
-  "Flight": "AF1151",
-  "AirlineCode_Merged": "AF",
-  "City": "Paris",
+  "Dest": "NCE",
+  "DestName": "NICE",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0793",
+  "AirlineCode_Merged": "SK",
+  "City": "Nice",
   "Country": "France"
  },
  {
@@ -22695,26 +22623,14 @@
  {
   "Date": "06-07-2025",
   "Time": "1200",
-  "Dest": "NCE",
-  "DestName": "NICE",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0793",
-  "AirlineCode_Merged": "SK",
-  "City": "Nice",
+  "Dest": "CDG",
+  "DestName": "Paris/CDG",
+  "AirlineCode": "AF",
+  "Airline": "AIR FRANCE",
+  "Flight": "AF1151",
+  "AirlineCode_Merged": "AF",
+  "City": "Paris",
   "Country": "France"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1210",
-  "Dest": "BER",
-  "DestName": "Berlin",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83302",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Berlin",
-  "Country": "Germany"
  },
  {
   "Date": "06-07-2025",
@@ -22730,6 +22646,18 @@
  },
  {
   "Date": "06-07-2025",
+  "Time": "1210",
+  "Dest": "BER",
+  "DestName": "Berlin",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83302",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Berlin",
+  "Country": "Germany"
+ },
+ {
+  "Date": "06-07-2025",
   "Time": "1215",
   "Dest": "NCE",
   "DestName": "NICE",
@@ -22739,18 +22667,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Nice",
   "Country": "France"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1220",
-  "Dest": "BUD",
-  "DestName": "BUDAPEST",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR0604",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Budapest",
-  "Country": "Hungary"
  },
  {
   "Date": "06-07-2025",
@@ -22779,6 +22695,18 @@
  {
   "Date": "06-07-2025",
   "Time": "1220",
+  "Dest": "BUD",
+  "DestName": "BUDAPEST",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR0604",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Budapest",
+  "Country": "Hungary"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1220",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "D8",
@@ -22787,18 +22715,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Oslo",
   "Country": "Norway"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1225",
-  "Dest": "EWR",
-  "DestName": "New York/EWR",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0909",
-  "AirlineCode_Merged": "SK",
-  "City": "New York",
-  "Country": "United States"
  },
  {
   "Date": "06-07-2025",
@@ -22815,14 +22731,14 @@
  {
   "Date": "06-07-2025",
   "Time": "1225",
-  "Dest": "HEL",
-  "DestName": "HELSINKI",
-  "AirlineCode": "AY",
-  "Airline": "FINNAIR",
-  "Flight": "AY0966",
-  "AirlineCode_Merged": "AY",
-  "City": "Helsinki",
-  "Country": "Finland"
+  "Dest": "ZRH",
+  "DestName": "ZURICH",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0603",
+  "AirlineCode_Merged": "SK",
+  "City": "Zurich",
+  "Country": "Switzerland"
  },
  {
   "Date": "06-07-2025",
@@ -22851,14 +22767,26 @@
  {
   "Date": "06-07-2025",
   "Time": "1225",
-  "Dest": "ZRH",
-  "DestName": "ZURICH",
+  "Dest": "EWR",
+  "DestName": "New York/EWR",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0603",
+  "Flight": "SK0909",
   "AirlineCode_Merged": "SK",
-  "City": "Zurich",
-  "Country": "Switzerland"
+  "City": "New York",
+  "Country": "United States"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1225",
+  "Dest": "HEL",
+  "DestName": "HELSINKI",
+  "AirlineCode": "AY",
+  "Airline": "FINNAIR",
+  "Flight": "AY0966",
+  "AirlineCode_Merged": "AY",
+  "City": "Helsinki",
+  "Country": "Finland"
  },
  {
   "Date": "06-07-2025",
@@ -22947,18 +22875,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1250",
-  "Dest": "SAW",
-  "DestName": "Istanbul/SAW",
-  "AirlineCode": "VF",
-  "Airline": "AJET",
-  "Flight": "VF0070",
-  "AirlineCode_Merged": "VF",
-  "City": "Istanbul",
-  "Country": "Turkey"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1250",
   "Dest": "ARN",
   "DestName": "STOCKHOLM/ARN",
   "AirlineCode": "SK",
@@ -22967,6 +22883,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Stockholm",
   "Country": "Sweden"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1250",
+  "Dest": "SAW",
+  "DestName": "Istanbul/SAW",
+  "AirlineCode": "VF",
+  "Airline": "AJET",
+  "Flight": "VF0070",
+  "AirlineCode_Merged": "VF",
+  "City": "Istanbul",
+  "Country": "Turkey"
  },
  {
   "Date": "06-07-2025",
@@ -23007,18 +22935,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1305",
-  "Dest": "MAN",
-  "DestName": "MANCHESTER",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR6880",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Manchester",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1305",
   "Dest": "SEA",
   "DestName": "SEATTLE",
   "AirlineCode": "SK",
@@ -23027,6 +22943,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Seattle",
   "Country": "United States"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1305",
+  "Dest": "MAN",
+  "DestName": "MANCHESTER",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR6880",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Manchester",
+  "Country": "United Kingdom"
  },
  {
   "Date": "06-07-2025",
@@ -23055,18 +22983,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1320",
-  "Dest": "SVG",
-  "DestName": "STAVANGER",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83256",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Stavanger",
-  "Country": "Norway"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1320",
   "Dest": "AES",
   "DestName": "AALESUND",
   "AirlineCode": "SK",
@@ -23074,6 +22990,18 @@
   "Flight": "SK2892",
   "AirlineCode_Merged": "SK",
   "City": "Alesund",
+  "Country": "Norway"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1320",
+  "Dest": "SVG",
+  "DestName": "STAVANGER",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83256",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Stavanger",
   "Country": "Norway"
  },
  {
@@ -23087,6 +23015,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Aalborg",
   "Country": "Denmark"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1325",
+  "Dest": "ATL",
+  "DestName": "ATLANTA",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0929",
+  "AirlineCode_Merged": "SK",
+  "City": "Atlanta",
+  "Country": "United States"
  },
  {
   "Date": "06-07-2025",
@@ -23111,18 +23051,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Paris",
   "Country": "France"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1325",
-  "Dest": "ATL",
-  "DestName": "ATLANTA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0929",
-  "AirlineCode_Merged": "SK",
-  "City": "Atlanta",
-  "Country": "United States"
  },
  {
   "Date": "06-07-2025",
@@ -23199,6 +23127,18 @@
  {
   "Date": "06-07-2025",
   "Time": "1355",
+  "Dest": "RIX",
+  "DestName": "RIGA",
+  "AirlineCode": "BT",
+  "Airline": "AIR BALTIC",
+  "Flight": "BT0136",
+  "AirlineCode_Merged": "BT",
+  "City": "Riga",
+  "Country": "Latvia"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1355",
   "Dest": "ORD",
   "DestName": "Chicago",
   "AirlineCode": "SK",
@@ -23219,18 +23159,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Klaipeda/Palanga",
   "Country": "Lithuania"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1355",
-  "Dest": "RIX",
-  "DestName": "RIGA",
-  "AirlineCode": "BT",
-  "Airline": "AIR BALTIC",
-  "Flight": "BT0136",
-  "AirlineCode_Merged": "BT",
-  "City": "Riga",
-  "Country": "Latvia"
  },
  {
   "Date": "06-07-2025",
@@ -23271,30 +23199,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1405",
-  "Dest": "BGO",
-  "DestName": "BERGEN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2868",
-  "AirlineCode_Merged": "SK",
-  "City": "Bergen",
-  "Country": "Norway"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1405",
-  "Dest": "BLL",
-  "DestName": "BILLUND",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1285",
-  "AirlineCode_Merged": "SK",
-  "City": "Billund",
-  "Country": "Denmark"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1405",
   "Dest": "GDN",
   "DestName": "GDANSK",
   "AirlineCode": "SK",
@@ -23303,18 +23207,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Gdansk",
   "Country": "Poland"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1405",
-  "Dest": "GOT",
-  "DestName": "Gothenburg",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0430",
-  "AirlineCode_Merged": "SK",
-  "City": "Goteborg",
-  "Country": "Sweden"
  },
  {
   "Date": "06-07-2025",
@@ -23342,6 +23234,54 @@
  },
  {
   "Date": "06-07-2025",
+  "Time": "1405",
+  "Dest": "BGO",
+  "DestName": "BERGEN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2868",
+  "AirlineCode_Merged": "SK",
+  "City": "Bergen",
+  "Country": "Norway"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1405",
+  "Dest": "BLL",
+  "DestName": "BILLUND",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1285",
+  "AirlineCode_Merged": "SK",
+  "City": "Billund",
+  "Country": "Denmark"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1405",
+  "Dest": "GOT",
+  "DestName": "Gothenburg",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0430",
+  "AirlineCode_Merged": "SK",
+  "City": "Goteborg",
+  "Country": "Sweden"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1410",
+  "Dest": "SFO",
+  "DestName": "SAN FRANCISCO",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0935",
+  "AirlineCode_Merged": "SK",
+  "City": "San Francisco",
+  "Country": "United States"
+ },
+ {
+  "Date": "06-07-2025",
   "Time": "1410",
   "Dest": "GDN",
   "DestName": "GDANSK",
@@ -23354,14 +23294,14 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "1410",
-  "Dest": "SFO",
-  "DestName": "SAN FRANCISCO",
+  "Time": "1415",
+  "Dest": "LAX",
+  "DestName": "LOS ANGELES",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0935",
+  "Flight": "SK0931",
   "AirlineCode_Merged": "SK",
-  "City": "San Francisco",
+  "City": "Los Angeles",
   "Country": "United States"
  },
  {
@@ -23378,14 +23318,14 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "1415",
-  "Dest": "LAX",
-  "DestName": "LOS ANGELES",
+  "Time": "1420",
+  "Dest": "JFK",
+  "DestName": "New York/JFK",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0931",
+  "Flight": "SK0915",
   "AirlineCode_Merged": "SK",
-  "City": "Los Angeles",
+  "City": "New York",
   "Country": "United States"
  },
  {
@@ -23402,15 +23342,15 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "1420",
-  "Dest": "JFK",
-  "DestName": "New York/JFK",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0915",
-  "AirlineCode_Merged": "SK",
-  "City": "New York",
-  "Country": "United States"
+  "Time": "1425",
+  "Dest": "TLL",
+  "DestName": "TALLINN",
+  "AirlineCode": "BT",
+  "Airline": "AIR BALTIC",
+  "Flight": "BT0812",
+  "AirlineCode_Merged": "BT",
+  "City": "Tallinn",
+  "Country": "Estonia"
  },
  {
   "Date": "06-07-2025",
@@ -23423,18 +23363,6 @@
   "AirlineCode_Merged": "TG",
   "City": "Bangkok",
   "Country": "Thailand"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1425",
-  "Dest": "TLL",
-  "DestName": "TALLINN",
-  "AirlineCode": "BT",
-  "Airline": "AIR BALTIC",
-  "Flight": "BT0812",
-  "AirlineCode_Merged": "BT",
-  "City": "Tallinn",
-  "Country": "Estonia"
  },
  {
   "Date": "06-07-2025",
@@ -23535,18 +23463,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1455",
-  "Dest": "CHQ",
-  "DestName": "CHANIA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2817",
-  "AirlineCode_Merged": "SK",
-  "City": "Chania",
-  "Country": "Greece"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1455",
   "Dest": "FRA",
   "DestName": "FRANKFURT",
   "AirlineCode": "LH",
@@ -23558,15 +23474,15 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "1500",
-  "Dest": "LHR",
-  "DestName": "London/LHR",
+  "Time": "1455",
+  "Dest": "CHQ",
+  "DestName": "CHANIA",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0505",
+  "Flight": "SK2817",
   "AirlineCode_Merged": "SK",
-  "City": "London",
-  "Country": "United Kingdom"
+  "City": "Chania",
+  "Country": "Greece"
  },
  {
   "Date": "06-07-2025",
@@ -23579,6 +23495,18 @@
   "AirlineCode_Merged": "DX",
   "City": "Bornholm",
   "Country": "Denmark"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1500",
+  "Dest": "LHR",
+  "DestName": "London/LHR",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0505",
+  "AirlineCode_Merged": "SK",
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "06-07-2025",
@@ -23643,18 +23571,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1530",
-  "Dest": "ALC",
-  "DestName": "ALICANTE",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2977",
-  "AirlineCode_Merged": "SK",
-  "City": "Alicante",
-  "Country": "Spain"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1530",
   "Dest": "PMI",
   "DestName": "Palma d Mallorca",
   "AirlineCode": "SK",
@@ -23666,15 +23582,15 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "1535",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83092",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Aalborg",
-  "Country": "Denmark"
+  "Time": "1530",
+  "Dest": "ALC",
+  "DestName": "ALICANTE",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2977",
+  "AirlineCode_Merged": "SK",
+  "City": "Alicante",
+  "Country": "Spain"
  },
  {
   "Date": "06-07-2025",
@@ -23691,18 +23607,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1535",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1549",
-  "AirlineCode_Merged": "SK",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1535",
   "Dest": "ARN",
   "DestName": "STOCKHOLM/ARN",
   "AirlineCode": "SK",
@@ -23711,6 +23615,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Stockholm",
   "Country": "Sweden"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1535",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1549",
+  "AirlineCode_Merged": "SK",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
  },
  {
   "Date": "06-07-2025",
@@ -23726,13 +23642,13 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "1540",
+  "Time": "1535",
   "Dest": "AAL",
   "DestName": "AALBORG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1215",
-  "AirlineCode_Merged": "SK",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83092",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Aalborg",
   "Country": "Denmark"
  },
@@ -23747,6 +23663,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Rhodes",
   "Country": "Greece"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1540",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1215",
+  "AirlineCode_Merged": "SK",
+  "City": "Aalborg",
+  "Country": "Denmark"
  },
  {
   "Date": "06-07-2025",
@@ -23847,18 +23775,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1600",
-  "Dest": "DXB",
-  "DestName": "DUBAI",
-  "AirlineCode": "EK",
-  "Airline": "EMIRATES",
-  "Flight": "EK0152",
-  "AirlineCode_Merged": "EK",
-  "City": "Dubai",
-  "Country": "United Arab Emirates"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1600",
   "Dest": "HEL",
   "DestName": "HELSINKI",
   "AirlineCode": "D8",
@@ -23867,6 +23783,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Helsinki",
   "Country": "Finland"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1600",
+  "Dest": "DXB",
+  "DestName": "DUBAI",
+  "AirlineCode": "EK",
+  "Airline": "EMIRATES",
+  "Flight": "EK0152",
+  "AirlineCode_Merged": "EK",
+  "City": "Dubai",
+  "Country": "United Arab Emirates"
  },
  {
   "Date": "06-07-2025",
@@ -23943,6 +23871,18 @@
  {
   "Date": "06-07-2025",
   "Time": "1625",
+  "Dest": "WAW",
+  "DestName": "WARSAW",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2751",
+  "AirlineCode_Merged": "SK",
+  "City": "Warsaw",
+  "Country": "Poland"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1625",
   "Dest": "LHR",
   "DestName": "London/LHR",
   "AirlineCode": "BA",
@@ -23966,15 +23906,15 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "1625",
-  "Dest": "WAW",
-  "DestName": "WARSAW",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2751",
-  "AirlineCode_Merged": "SK",
-  "City": "Warsaw",
-  "Country": "Poland"
+  "Time": "1630",
+  "Dest": "AYT",
+  "DestName": "ANTALYA",
+  "AirlineCode": "JTD",
+  "Airline": "JETTIME A/S",
+  "Flight": "JTD0357",
+  "AirlineCode_Merged": "JTD",
+  "City": "Antalya",
+  "Country": "Turkey"
  },
  {
   "Date": "06-07-2025",
@@ -23987,18 +23927,6 @@
   "AirlineCode_Merged": "KL",
   "City": "Amsterdam",
   "Country": "Netherlands"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1630",
-  "Dest": "AYT",
-  "DestName": "ANTALYA",
-  "AirlineCode": "JTD",
-  "Airline": "JETTIME A/S",
-  "Flight": "JTD0357",
-  "AirlineCode_Merged": "JTD",
-  "City": "Antalya",
-  "Country": "Turkey"
  },
  {
   "Date": "06-07-2025",
@@ -24087,14 +24015,14 @@
  {
   "Date": "06-07-2025",
   "Time": "1655",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83540",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
+  "Dest": "HER",
+  "DestName": "Heraklion",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2993",
+  "AirlineCode_Merged": "SK",
+  "City": "Irakleion",
+  "Country": "Greece"
  },
  {
   "Date": "06-07-2025",
@@ -24111,38 +24039,14 @@
  {
   "Date": "06-07-2025",
   "Time": "1655",
-  "Dest": "HER",
-  "DestName": "Heraklion",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2993",
-  "AirlineCode_Merged": "SK",
-  "City": "Irakleion",
-  "Country": "Greece"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1700",
-  "Dest": "HEL",
-  "DestName": "HELSINKI",
-  "AirlineCode": "AY",
-  "Airline": "FINNAIR",
-  "Flight": "AY0956",
-  "AirlineCode_Merged": "AY",
-  "City": "Helsinki",
-  "Country": "Finland"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1700",
-  "Dest": "OSL",
-  "DestName": "OSLO",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
   "AirlineCode": "D8",
   "Airline": "NORWEGIAN AIR",
-  "Flight": "D83230",
+  "Flight": "D83540",
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Oslo",
-  "Country": "Norway"
+  "City": "Amsterdam",
+  "Country": "Netherlands"
  },
  {
   "Date": "06-07-2025",
@@ -24159,6 +24063,18 @@
  {
   "Date": "06-07-2025",
   "Time": "1700",
+  "Dest": "OSL",
+  "DestName": "OSLO",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83230",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Oslo",
+  "Country": "Norway"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1700",
   "Dest": "VCE",
   "DestName": "VENICE",
   "AirlineCode": "SK",
@@ -24170,15 +24086,15 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "1705",
-  "Dest": "DUB",
-  "DestName": "Dublin",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2537",
-  "AirlineCode_Merged": "SK",
-  "City": "Dublin",
-  "Country": "Ireland"
+  "Time": "1700",
+  "Dest": "HEL",
+  "DestName": "HELSINKI",
+  "AirlineCode": "AY",
+  "Airline": "FINNAIR",
+  "Flight": "AY0956",
+  "AirlineCode_Merged": "AY",
+  "City": "Helsinki",
+  "Country": "Finland"
  },
  {
   "Date": "06-07-2025",
@@ -24194,15 +24110,15 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "1710",
-  "Dest": "GZP",
-  "DestName": "Gazipasa",
-  "AirlineCode": "DK",
-  "Airline": "SUNCLASS AIRLINES",
-  "Flight": "DK0402",
-  "AirlineCode_Merged": "DK",
-  "City": "Gazipasa",
-  "Country": "Turkey"
+  "Time": "1705",
+  "Dest": "DUB",
+  "DestName": "Dublin",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2537",
+  "AirlineCode_Merged": "SK",
+  "City": "Dublin",
+  "Country": "Ireland"
  },
  {
   "Date": "06-07-2025",
@@ -24215,6 +24131,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1710",
+  "Dest": "GZP",
+  "DestName": "Gazipasa",
+  "AirlineCode": "DK",
+  "Airline": "SUNCLASS AIRLINES",
+  "Flight": "DK0402",
+  "AirlineCode_Merged": "DK",
+  "City": "Gazipasa",
+  "Country": "Turkey"
  },
  {
   "Date": "06-07-2025",
@@ -24255,30 +24183,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1730",
-  "Dest": "BGO",
-  "DestName": "BERGEN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2872",
-  "AirlineCode_Merged": "SK",
-  "City": "Bergen",
-  "Country": "Norway"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1730",
-  "Dest": "IAD",
-  "DestName": "WASHINGTON",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0925",
-  "AirlineCode_Merged": "SK",
-  "City": "Washington",
-  "Country": "United States"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1730",
   "Dest": "LHR",
   "DestName": "London/LHR",
   "AirlineCode": "SK",
@@ -24291,6 +24195,18 @@
  {
   "Date": "06-07-2025",
   "Time": "1730",
+  "Dest": "BGO",
+  "DestName": "BERGEN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2872",
+  "AirlineCode_Merged": "SK",
+  "City": "Bergen",
+  "Country": "Norway"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1730",
   "Dest": "PRG",
   "DestName": "PRAGUE",
   "AirlineCode": "D8",
@@ -24299,6 +24215,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Prague",
   "Country": "Czech Republic"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1730",
+  "Dest": "IAD",
+  "DestName": "WASHINGTON",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0925",
+  "AirlineCode_Merged": "SK",
+  "City": "Washington",
+  "Country": "United States"
  },
  {
   "Date": "06-07-2025",
@@ -24374,27 +24302,15 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "1755",
-  "Dest": "GOH",
-  "DestName": "NUUK",
-  "AirlineCode": "GL",
-  "Airline": "AIR GREENLAND",
-  "Flight": "GL0777",
-  "AirlineCode_Merged": "GL",
-  "City": "Nuuk",
-  "Country": "Greenland"
- },
- {
-  "Date": "06-07-2025",
   "Time": "1800",
-  "Dest": "HAM",
-  "DestName": "HAMBURG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0651",
-  "AirlineCode_Merged": "SK",
-  "City": "Hamburg",
-  "Country": "Germany"
+  "Dest": "RHO",
+  "DestName": "Rhodes",
+  "AirlineCode": "DK",
+  "Airline": "SUNCLASS AIRLINES",
+  "Flight": "DK1166",
+  "AirlineCode_Merged": "DK",
+  "City": "Rhodes",
+  "Country": "Greece"
  },
  {
   "Date": "06-07-2025",
@@ -24411,14 +24327,14 @@
  {
   "Date": "06-07-2025",
   "Time": "1800",
-  "Dest": "RHO",
-  "DestName": "Rhodes",
-  "AirlineCode": "DK",
-  "Airline": "SUNCLASS AIRLINES",
-  "Flight": "DK1166",
-  "AirlineCode_Merged": "DK",
-  "City": "Rhodes",
-  "Country": "Greece"
+  "Dest": "HAM",
+  "DestName": "HAMBURG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0651",
+  "AirlineCode_Merged": "SK",
+  "City": "Hamburg",
+  "Country": "Germany"
  },
  {
   "Date": "06-07-2025",
@@ -24435,18 +24351,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1805",
-  "Dest": "MUC",
-  "DestName": "MUNICH",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2657",
-  "AirlineCode_Merged": "SK",
-  "City": "Munich",
-  "Country": "Germany"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1805",
   "Dest": "SVG",
   "DestName": "STAVANGER",
   "AirlineCode": "SK",
@@ -24459,18 +24363,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1810",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0553",
-  "AirlineCode_Merged": "SK",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1810",
   "Dest": "BRU",
   "DestName": "BRUSSELS",
   "AirlineCode": "SN",
@@ -24479,6 +24371,18 @@
   "AirlineCode_Merged": "SN",
   "City": "Brussels",
   "Country": "Belgium"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1810",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0553",
+  "AirlineCode_Merged": "SK",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
  },
  {
   "Date": "06-07-2025",
@@ -24519,18 +24423,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1835",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1203",
-  "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1835",
   "Dest": "FAE",
   "DestName": "FAROE ISLANDS",
   "AirlineCode": "RC",
@@ -24551,6 +24443,30 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1835",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1203",
+  "AirlineCode_Merged": "SK",
+  "City": "Aalborg",
+  "Country": "Denmark"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1840",
+  "Dest": "NCE",
+  "DestName": "NICE",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83646",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Nice",
+  "Country": "France"
  },
  {
   "Date": "06-07-2025",
@@ -24575,18 +24491,6 @@
   "AirlineCode_Merged": "FR/RK",
   "City": "Krakow",
   "Country": "Poland"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1840",
-  "Dest": "NCE",
-  "DestName": "NICE",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83646",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Nice",
-  "Country": "France"
  },
  {
   "Date": "06-07-2025",
@@ -24651,18 +24555,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1905",
-  "Dest": "BER",
-  "DestName": "Berlin",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1679",
-  "AirlineCode_Merged": "SK",
-  "City": "Berlin",
-  "Country": "Germany"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1905",
   "Dest": "PEK",
   "DestName": "BEIJING",
   "AirlineCode": "CA",
@@ -24671,6 +24563,18 @@
   "AirlineCode_Merged": "CA",
   "City": "Beijing",
   "Country": "China"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1905",
+  "Dest": "BER",
+  "DestName": "Berlin",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1679",
+  "AirlineCode_Merged": "SK",
+  "City": "Berlin",
+  "Country": "Germany"
  },
  {
   "Date": "06-07-2025",
@@ -24723,18 +24627,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1920",
-  "Dest": "CDG",
-  "DestName": "Paris/CDG",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83638",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Paris",
-  "Country": "France"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1920",
   "Dest": "EDI",
   "DestName": "EDINBURGH",
   "AirlineCode": "D8",
@@ -24770,6 +24662,30 @@
  },
  {
   "Date": "06-07-2025",
+  "Time": "1920",
+  "Dest": "CDG",
+  "DestName": "Paris/CDG",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83638",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Paris",
+  "Country": "France"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1925",
+  "Dest": "WAW",
+  "DestName": "WARSAW",
+  "AirlineCode": "LO",
+  "Airline": "LOT POLISH AIRLINES",
+  "Flight": "LO0462",
+  "AirlineCode_Merged": "LO",
+  "City": "Warsaw",
+  "Country": "Poland"
+ },
+ {
+  "Date": "06-07-2025",
   "Time": "1925",
   "Dest": "HEL",
   "DestName": "HELSINKI",
@@ -24791,18 +24707,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Munich",
   "Country": "Germany"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1925",
-  "Dest": "WAW",
-  "DestName": "WARSAW",
-  "AirlineCode": "LO",
-  "Airline": "LOT POLISH AIRLINES",
-  "Flight": "LO0462",
-  "AirlineCode_Merged": "LO",
-  "City": "Warsaw",
-  "Country": "Poland"
  },
  {
   "Date": "06-07-2025",
@@ -24843,18 +24747,6 @@
  {
   "Date": "06-07-2025",
   "Time": "1950",
-  "Dest": "MAD",
-  "DestName": "MADRID",
-  "AirlineCode": "I2",
-  "Airline": "IBERIA",
-  "Flight": "I21824",
-  "AirlineCode_Merged": "IB/I2",
-  "City": "Madrid",
-  "Country": "Spain"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "1950",
   "Dest": "ORY",
   "DestName": "Paris/ORY",
   "AirlineCode": "TO",
@@ -24863,6 +24755,18 @@
   "AirlineCode_Merged": "HV/TO/PH",
   "City": "Paris",
   "Country": "France"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "1950",
+  "Dest": "MAD",
+  "DestName": "MADRID",
+  "AirlineCode": "I2",
+  "Airline": "IBERIA",
+  "Flight": "I21824",
+  "AirlineCode_Merged": "IB/I2",
+  "City": "Madrid",
+  "Country": "Spain"
  },
  {
   "Date": "06-07-2025",
@@ -24891,18 +24795,6 @@
  {
   "Date": "06-07-2025",
   "Time": "2010",
-  "Dest": "LIN",
-  "DestName": "Milan/LIN",
-  "AirlineCode": "EJU",
-  "Airline": "EASYJET",
-  "Flight": "EJU1978",
-  "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "Milan",
-  "Country": "Italy"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "2010",
   "Dest": "RIX",
   "DestName": "RIGA",
   "AirlineCode": "BT",
@@ -24923,6 +24815,18 @@
   "AirlineCode_Merged": "LX",
   "City": "Zurich",
   "Country": "Switzerland"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "2010",
+  "Dest": "LIN",
+  "DestName": "Milan/LIN",
+  "AirlineCode": "EJU",
+  "Airline": "EASYJET",
+  "Flight": "EJU1978",
+  "AirlineCode_Merged": "EZY/EJU/EZS",
+  "City": "Milan",
+  "Country": "Italy"
  },
  {
   "Date": "06-07-2025",
@@ -24999,18 +24903,6 @@
  {
   "Date": "06-07-2025",
   "Time": "2040",
-  "Dest": "CDG",
-  "DestName": "Paris/CDG",
-  "AirlineCode": "EJU",
-  "Airline": "EASYJET",
-  "Flight": "EJU4652",
-  "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "Paris",
-  "Country": "France"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "2040",
   "Dest": "LHR",
   "DestName": "London/LHR",
   "AirlineCode": "SK",
@@ -25019,6 +24911,18 @@
   "AirlineCode_Merged": "SK",
   "City": "London",
   "Country": "United Kingdom"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "2040",
+  "Dest": "CDG",
+  "DestName": "Paris/CDG",
+  "AirlineCode": "EJU",
+  "Airline": "EASYJET",
+  "Flight": "EJU4652",
+  "AirlineCode_Merged": "EZY/EJU/EZS",
+  "City": "Paris",
+  "Country": "France"
  },
  {
   "Date": "06-07-2025",
@@ -25034,15 +24938,15 @@
  },
  {
   "Date": "06-07-2025",
-  "Time": "2050",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "EJU",
+  "Time": "2055",
+  "Dest": "GVA",
+  "DestName": "GENEVA",
+  "AirlineCode": "EZS",
   "Airline": "EASYJET",
-  "Flight": "EJU7940",
+  "Flight": "EZS1540",
   "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
+  "City": "Geneva",
+  "Country": "Switzerland"
  },
  {
   "Date": "06-07-2025",
@@ -25055,18 +24959,6 @@
   "AirlineCode_Merged": "EW",
   "City": "Duesseldorf",
   "Country": "Germany"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "2055",
-  "Dest": "GVA",
-  "DestName": "GENEVA",
-  "AirlineCode": "EZS",
-  "Airline": "EASYJET",
-  "Flight": "EZS1540",
-  "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "Geneva",
-  "Country": "Switzerland"
  },
  {
   "Date": "06-07-2025",
@@ -25143,18 +25035,6 @@
  {
   "Date": "06-07-2025",
   "Time": "2130",
-  "Dest": "BSL",
-  "DestName": "Basel/Mulhouse",
-  "AirlineCode": "EZS",
-  "Airline": "EASYJET",
-  "Flight": "EZS1264",
-  "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "Basel/Mulhouse",
-  "Country": "Switzerland"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "2130",
   "Dest": "DEL",
   "DestName": "DELHI",
   "AirlineCode": "AI",
@@ -25167,14 +25047,14 @@
  {
   "Date": "06-07-2025",
   "Time": "2130",
-  "Dest": "LGW",
-  "DestName": "London/LGW",
-  "AirlineCode": "EZY",
+  "Dest": "BSL",
+  "DestName": "Basel/Mulhouse",
+  "AirlineCode": "EZS",
   "Airline": "EASYJET",
-  "Flight": "EZY8724",
+  "Flight": "EZS1264",
   "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "London",
-  "Country": "United Kingdom"
+  "City": "Basel/Mulhouse",
+  "Country": "Switzerland"
  },
  {
   "Date": "06-07-2025",
@@ -25335,14 +25215,14 @@
  {
   "Date": "06-07-2025",
   "Time": "2300",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
+  "Dest": "TRD",
+  "DestName": "TRONDHEIM",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1428",
+  "Flight": "SK2884",
   "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
+  "City": "Trondheim",
+  "Country": "Norway"
  },
  {
   "Date": "06-07-2025",
@@ -25359,14 +25239,14 @@
  {
   "Date": "06-07-2025",
   "Time": "2300",
-  "Dest": "GDN",
-  "DestName": "GDANSK",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0753",
+  "Flight": "SK1428",
   "AirlineCode_Merged": "SK",
-  "City": "Gdansk",
-  "Country": "Poland"
+  "City": "Stockholm",
+  "Country": "Sweden"
  },
  {
   "Date": "06-07-2025",
@@ -25383,14 +25263,26 @@
  {
   "Date": "06-07-2025",
   "Time": "2300",
-  "Dest": "TRD",
-  "DestName": "TRONDHEIM",
+  "Dest": "GDN",
+  "DestName": "GDANSK",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2884",
+  "Flight": "SK0753",
   "AirlineCode_Merged": "SK",
-  "City": "Trondheim",
-  "Country": "Norway"
+  "City": "Gdansk",
+  "Country": "Poland"
+ },
+ {
+  "Date": "06-07-2025",
+  "Time": "2305",
+  "Dest": "GOT",
+  "DestName": "Gothenburg",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0448",
+  "AirlineCode_Merged": "SK",
+  "City": "Goteborg",
+  "Country": "Sweden"
  },
  {
   "Date": "06-07-2025",
@@ -25427,18 +25319,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Billund",
   "Country": "Denmark"
- },
- {
-  "Date": "06-07-2025",
-  "Time": "2305",
-  "Dest": "GOT",
-  "DestName": "Gothenburg",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0448",
-  "AirlineCode_Merged": "SK",
-  "City": "Goteborg",
-  "Country": "Sweden"
  },
  {
   "Date": "06-07-2025",
@@ -25515,18 +25395,6 @@
  {
   "Date": "07-07-2025",
   "Time": "0600",
-  "Dest": "AGP",
-  "DestName": "MALAGA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0583",
-  "AirlineCode_Merged": "SK",
-  "City": "Malaga",
-  "Country": "Spain"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMSTERDAM",
   "AirlineCode": "KL",
@@ -25539,14 +25407,14 @@
  {
   "Date": "07-07-2025",
   "Time": "0600",
-  "Dest": "LIS",
-  "DestName": "LISBON",
-  "AirlineCode": "TP",
-  "Airline": "TAP PORTUGAL",
-  "Flight": "TP0757",
-  "AirlineCode_Merged": "TP",
-  "City": "Lisbon",
-  "Country": "Portugal"
+  "Dest": "AGP",
+  "DestName": "MALAGA",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0583",
+  "AirlineCode_Merged": "SK",
+  "City": "Malaga",
+  "Country": "Spain"
  },
  {
   "Date": "07-07-2025",
@@ -25574,6 +25442,18 @@
  },
  {
   "Date": "07-07-2025",
+  "Time": "0600",
+  "Dest": "LIS",
+  "DestName": "LISBON",
+  "AirlineCode": "TP",
+  "Airline": "TAP PORTUGAL",
+  "Flight": "TP0757",
+  "AirlineCode_Merged": "TP",
+  "City": "Lisbon",
+  "Country": "Portugal"
+ },
+ {
+  "Date": "07-07-2025",
   "Time": "0605",
   "Dest": "BOJ",
   "DestName": "Burgas",
@@ -25583,30 +25463,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Burgas",
   "Country": "Bulgaria"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0605",
-  "Dest": "CTA",
-  "DestName": "CATANIA",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83744",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Catania",
-  "Country": "Italy"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0605",
-  "Dest": "FAO",
-  "DestName": "FARO",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83620",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Faro",
-  "Country": "Portugal"
  },
  {
   "Date": "07-07-2025",
@@ -25623,6 +25479,30 @@
  {
   "Date": "07-07-2025",
   "Time": "0605",
+  "Dest": "FAO",
+  "DestName": "FARO",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83620",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Faro",
+  "Country": "Portugal"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0605",
+  "Dest": "CTA",
+  "DestName": "CATANIA",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83744",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Catania",
+  "Country": "Italy"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0605",
   "Dest": "PSA",
   "DestName": "PISA",
   "AirlineCode": "D8",
@@ -25631,18 +25511,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Pisa",
   "Country": "Italy"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0610",
-  "Dest": "CDG",
-  "DestName": "Paris/CDG",
-  "AirlineCode": "AF",
-  "Airline": "AIR FRANCE",
-  "Flight": "AF1351",
-  "AirlineCode_Merged": "AF",
-  "City": "Paris",
-  "Country": "France"
  },
  {
   "Date": "07-07-2025",
@@ -25659,6 +25527,18 @@
  {
   "Date": "07-07-2025",
   "Time": "0610",
+  "Dest": "CDG",
+  "DestName": "Paris/CDG",
+  "AirlineCode": "AF",
+  "Airline": "AIR FRANCE",
+  "Flight": "AF1351",
+  "AirlineCode_Merged": "AF",
+  "City": "Paris",
+  "Country": "France"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0610",
   "Dest": "RHO",
   "DestName": "Rhodes",
   "AirlineCode": "SK",
@@ -25667,6 +25547,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Rhodes",
   "Country": "Greece"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0615",
+  "Dest": "NCE",
+  "DestName": "NICE",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83640",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Nice",
+  "Country": "France"
  },
  {
   "Date": "07-07-2025",
@@ -25691,18 +25583,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Rome",
   "Country": "Italy"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0615",
-  "Dest": "NCE",
-  "DestName": "NICE",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83640",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Nice",
-  "Country": "France"
  },
  {
   "Date": "07-07-2025",
@@ -25755,18 +25635,6 @@
  {
   "Date": "07-07-2025",
   "Time": "0640",
-  "Dest": "STN",
-  "DestName": "London/STN",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR7381",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "London",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0640",
   "Dest": "ZRH",
   "DestName": "ZURICH",
   "AirlineCode": "LX",
@@ -25778,15 +25646,27 @@
  },
  {
   "Date": "07-07-2025",
+  "Time": "0640",
+  "Dest": "STN",
+  "DestName": "London/STN",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR7381",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "London",
+  "Country": "United Kingdom"
+ },
+ {
+  "Date": "07-07-2025",
   "Time": "0645",
-  "Dest": "BOD",
-  "DestName": "BORDEAUX",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83632",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Bordeaux",
-  "Country": "France"
+  "Dest": "LCA",
+  "DestName": "LARNACA",
+  "AirlineCode": "DK",
+  "Airline": "SUNCLASS AIRLINES",
+  "Flight": "DK1102",
+  "AirlineCode_Merged": "DK",
+  "City": "Larnaca",
+  "Country": "Cyprus"
  },
  {
   "Date": "07-07-2025",
@@ -25803,14 +25683,14 @@
  {
   "Date": "07-07-2025",
   "Time": "0645",
-  "Dest": "LCA",
-  "DestName": "LARNACA",
-  "AirlineCode": "DK",
-  "Airline": "SUNCLASS AIRLINES",
-  "Flight": "DK1102",
-  "AirlineCode_Merged": "DK",
-  "City": "Larnaca",
-  "Country": "Cyprus"
+  "Dest": "BOD",
+  "DestName": "BORDEAUX",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83632",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Bordeaux",
+  "Country": "France"
  },
  {
   "Date": "07-07-2025",
@@ -25851,18 +25731,6 @@
  {
   "Date": "07-07-2025",
   "Time": "0655",
-  "Dest": "LCA",
-  "DestName": "LARNACA",
-  "AirlineCode": "JTD",
-  "Airline": "JETTIME A/S",
-  "Flight": "JTD0341",
-  "AirlineCode_Merged": "JTD",
-  "City": "Larnaca",
-  "Country": "Cyprus"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0655",
   "Dest": "PMO",
   "DestName": "PALERMO",
   "AirlineCode": "SK",
@@ -25874,15 +25742,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "0700",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0402",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
+  "Time": "0655",
+  "Dest": "LCA",
+  "DestName": "LARNACA",
+  "AirlineCode": "JTD",
+  "Airline": "JETTIME A/S",
+  "Flight": "JTD0341",
+  "AirlineCode_Merged": "JTD",
+  "City": "Larnaca",
+  "Country": "Cyprus"
  },
  {
   "Date": "07-07-2025",
@@ -25895,18 +25763,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Krakow",
   "Country": "Poland"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0700",
-  "Dest": "SPU",
-  "DestName": "SPLIT",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83288",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Split",
-  "Country": "Croatia"
  },
  {
   "Date": "07-07-2025",
@@ -25943,6 +25799,30 @@
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0700",
+  "Dest": "SPU",
+  "DestName": "SPLIT",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83288",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Split",
+  "Country": "Croatia"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0700",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0402",
+  "AirlineCode_Merged": "SK",
+  "City": "Stockholm",
+  "Country": "Sweden"
  },
  {
   "Date": "07-07-2025",
@@ -26043,6 +25923,18 @@
  {
   "Date": "07-07-2025",
   "Time": "0740",
+  "Dest": "PVK",
+  "DestName": "Preveza/Lefkada",
+  "AirlineCode": "JTD",
+  "Airline": "JETTIME A/S",
+  "Flight": "JTD0243",
+  "AirlineCode_Merged": "JTD",
+  "City": "Preveza/Lefkada",
+  "Country": "Greece"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0740",
   "Dest": "BER",
   "DestName": "Berlin",
   "AirlineCode": "EJU",
@@ -26054,15 +25946,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "0740",
-  "Dest": "PVK",
-  "DestName": "Preveza/Lefkada",
-  "AirlineCode": "JTD",
-  "Airline": "JETTIME A/S",
-  "Flight": "JTD0243",
-  "AirlineCode_Merged": "JTD",
-  "City": "Preveza/Lefkada",
-  "Country": "Greece"
+  "Time": "0745",
+  "Dest": "SPU",
+  "DestName": "SPLIT",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2787",
+  "AirlineCode_Merged": "SK",
+  "City": "Split",
+  "Country": "Croatia"
  },
  {
   "Date": "07-07-2025",
@@ -26091,18 +25983,6 @@
  {
   "Date": "07-07-2025",
   "Time": "0745",
-  "Dest": "SPU",
-  "DestName": "SPLIT",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2787",
-  "AirlineCode_Merged": "SK",
-  "City": "Split",
-  "Country": "Croatia"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0745",
   "Dest": "TLS",
   "DestName": "TOULOUSE",
   "AirlineCode": "D8",
@@ -26111,18 +25991,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Toulouse",
   "Country": "France"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0755",
-  "Dest": "LGW",
-  "DestName": "London/LGW",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83510",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "London",
-  "Country": "United Kingdom"
  },
  {
   "Date": "07-07-2025",
@@ -26150,27 +26018,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "0800",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1416",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0800",
-  "Dest": "KRK",
-  "DestName": "KRAKOW",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1735",
-  "AirlineCode_Merged": "SK",
-  "City": "Krakow",
-  "Country": "Poland"
+  "Time": "0755",
+  "Dest": "LGW",
+  "DestName": "London/LGW",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83510",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "07-07-2025",
@@ -26198,6 +26054,30 @@
  },
  {
   "Date": "07-07-2025",
+  "Time": "0800",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1416",
+  "AirlineCode_Merged": "SK",
+  "City": "Stockholm",
+  "Country": "Sweden"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0800",
+  "Dest": "KRK",
+  "DestName": "KRAKOW",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1735",
+  "AirlineCode_Merged": "SK",
+  "City": "Krakow",
+  "Country": "Poland"
+ },
+ {
+  "Date": "07-07-2025",
   "Time": "0805",
   "Dest": "ATH",
   "DestName": "Athens",
@@ -26207,6 +26087,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Athens",
   "Country": "Greece"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0805",
+  "Dest": "OSL",
+  "DestName": "OSLO",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1462",
+  "AirlineCode_Merged": "SK",
+  "City": "Oslo",
+  "Country": "Norway"
  },
  {
   "Date": "07-07-2025",
@@ -26234,18 +26126,6 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "0805",
-  "Dest": "OSL",
-  "DestName": "OSLO",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1462",
-  "AirlineCode_Merged": "SK",
-  "City": "Oslo",
-  "Country": "Norway"
- },
- {
-  "Date": "07-07-2025",
   "Time": "0810",
   "Dest": "BGO",
   "DestName": "BERGEN",
@@ -26255,6 +26135,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Bergen",
   "Country": "Norway"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0810",
+  "Dest": "VLC",
+  "DestName": "VALENCIA",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83654",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Valencia",
+  "Country": "Spain"
  },
  {
   "Date": "07-07-2025",
@@ -26270,15 +26162,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "0810",
-  "Dest": "VLC",
-  "DestName": "VALENCIA",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83654",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Valencia",
-  "Country": "Spain"
+  "Time": "0815",
+  "Dest": "SGD",
+  "DestName": "SØNDERBORG",
+  "AirlineCode": "6I",
+  "Airline": "ALSIE EXPRESS",
+  "Flight": "6I0102",
+  "AirlineCode_Merged": "6I",
+  "City": "Sonderborg",
+  "Country": "Denmark"
  },
  {
   "Date": "07-07-2025",
@@ -26307,30 +26199,6 @@
  {
   "Date": "07-07-2025",
   "Time": "0815",
-  "Dest": "RIX",
-  "DestName": "RIGA",
-  "AirlineCode": "BT",
-  "Airline": "AIR BALTIC",
-  "Flight": "BT0132",
-  "AirlineCode_Merged": "BT",
-  "City": "Riga",
-  "Country": "Latvia"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0815",
-  "Dest": "SGD",
-  "DestName": "SØNDERBORG",
-  "AirlineCode": "6I",
-  "Airline": "ALSIE EXPRESS",
-  "Flight": "6I0102",
-  "AirlineCode_Merged": "6I",
-  "City": "Sonderborg",
-  "Country": "Denmark"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0815",
   "Dest": "WAW",
   "DestName": "WARSAW",
   "AirlineCode": "SK",
@@ -26339,6 +26207,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Warsaw",
   "Country": "Poland"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0815",
+  "Dest": "RIX",
+  "DestName": "RIGA",
+  "AirlineCode": "BT",
+  "Airline": "AIR BALTIC",
+  "Flight": "BT0132",
+  "AirlineCode_Merged": "BT",
+  "City": "Riga",
+  "Country": "Latvia"
  },
  {
   "Date": "07-07-2025",
@@ -26403,18 +26283,6 @@
  {
   "Date": "07-07-2025",
   "Time": "0825",
-  "Dest": "GOH",
-  "DestName": "NUUK",
-  "AirlineCode": "GL",
-  "Airline": "AIR GREENLAND",
-  "Flight": "GL0779",
-  "AirlineCode_Merged": "GL",
-  "City": "Nuuk",
-  "Country": "Greenland"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0825",
   "Dest": "MAN",
   "DestName": "MANCHESTER",
   "AirlineCode": "SK",
@@ -26439,18 +26307,6 @@
  {
   "Date": "07-07-2025",
   "Time": "0830",
-  "Dest": "GOT",
-  "DestName": "Gothenburg",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0434",
-  "AirlineCode_Merged": "SK",
-  "City": "Goteborg",
-  "Country": "Sweden"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0830",
   "Dest": "KEF",
   "DestName": "REYKJAVIK",
   "AirlineCode": "SK",
@@ -26462,15 +26318,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "0835",
-  "Dest": "BLL",
-  "DestName": "BILLUND",
+  "Time": "0830",
+  "Dest": "GOT",
+  "DestName": "Gothenburg",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1281",
+  "Flight": "SK0434",
   "AirlineCode_Merged": "SK",
-  "City": "Billund",
-  "Country": "Denmark"
+  "City": "Goteborg",
+  "Country": "Sweden"
  },
  {
   "Date": "07-07-2025",
@@ -26486,27 +26342,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "0840",
-  "Dest": "BLQ",
-  "DestName": "BOLOGNA",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR2677",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Bologna",
-  "Country": "Italy"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0840",
-  "Dest": "HEL",
-  "DestName": "HELSINKI",
-  "AirlineCode": "AY",
-  "Airline": "FINNAIR",
-  "Flight": "AY0952",
-  "AirlineCode_Merged": "AY",
-  "City": "Helsinki",
-  "Country": "Finland"
+  "Time": "0835",
+  "Dest": "BLL",
+  "DestName": "BILLUND",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1281",
+  "AirlineCode_Merged": "SK",
+  "City": "Billund",
+  "Country": "Denmark"
  },
  {
   "Date": "07-07-2025",
@@ -26534,15 +26378,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "0845",
-  "Dest": "DBV",
-  "DestName": "Dubrovnik",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2833",
-  "AirlineCode_Merged": "SK",
-  "City": "Dubrovnik",
-  "Country": "Croatia"
+  "Time": "0840",
+  "Dest": "BLQ",
+  "DestName": "BOLOGNA",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR2677",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Bologna",
+  "Country": "Italy"
  },
  {
   "Date": "07-07-2025",
@@ -26558,27 +26402,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "0850",
-  "Dest": "BSL",
-  "DestName": "Basel/Mulhouse",
-  "AirlineCode": "EZS",
-  "Airline": "EASYJET",
-  "Flight": "EZS1264",
-  "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "Basel/Mulhouse",
-  "Country": "Switzerland"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0850",
-  "Dest": "MAD",
-  "DestName": "MADRID",
+  "Time": "0845",
+  "Dest": "DBV",
+  "DestName": "Dubrovnik",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0581",
+  "Flight": "SK2833",
   "AirlineCode_Merged": "SK",
-  "City": "Madrid",
-  "Country": "Spain"
+  "City": "Dubrovnik",
+  "Country": "Croatia"
  },
  {
   "Date": "07-07-2025",
@@ -26603,6 +26435,30 @@
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0850",
+  "Dest": "BSL",
+  "DestName": "Basel/Mulhouse",
+  "AirlineCode": "EZS",
+  "Airline": "EASYJET",
+  "Flight": "EZS1264",
+  "AirlineCode_Merged": "EZY/EJU/EZS",
+  "City": "Basel/Mulhouse",
+  "Country": "Switzerland"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0850",
+  "Dest": "MAD",
+  "DestName": "MADRID",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0581",
+  "AirlineCode_Merged": "SK",
+  "City": "Madrid",
+  "Country": "Spain"
  },
  {
   "Date": "07-07-2025",
@@ -26739,6 +26595,18 @@
  {
   "Date": "07-07-2025",
   "Time": "0935",
+  "Dest": "FRA",
+  "DestName": "FRANKFURT",
+  "AirlineCode": "LH",
+  "Airline": "LUFTHANSA",
+  "Flight": "LH0825",
+  "AirlineCode_Merged": "LH",
+  "City": "Frankfurt",
+  "Country": "Germany"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "0935",
   "Dest": "ARN",
   "DestName": "STOCKHOLM/ARN",
   "AirlineCode": "SK",
@@ -26759,18 +26627,6 @@
   "AirlineCode_Merged": "JU",
   "City": "Belgrade",
   "Country": "Serbia"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "0935",
-  "Dest": "FRA",
-  "DestName": "FRANKFURT",
-  "AirlineCode": "LH",
-  "Airline": "LUFTHANSA",
-  "Flight": "LH0825",
-  "AirlineCode_Merged": "LH",
-  "City": "Frankfurt",
-  "Country": "Germany"
  },
  {
   "Date": "07-07-2025",
@@ -26931,18 +26787,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1045",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1207",
-  "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1045",
   "Dest": "BEY",
   "DestName": "BEIRUT",
   "AirlineCode": "ME",
@@ -26951,6 +26795,18 @@
   "AirlineCode_Merged": "ME",
   "City": "Beirut",
   "Country": "Lebanon"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1045",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1207",
+  "AirlineCode_Merged": "SK",
+  "City": "Aalborg",
+  "Country": "Denmark"
  },
  {
   "Date": "07-07-2025",
@@ -26978,30 +26834,6 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1055",
-  "Dest": "GOH",
-  "DestName": "NUUK",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1294",
-  "AirlineCode_Merged": "SK",
-  "City": "Nuuk",
-  "Country": "Greenland"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1100",
-  "Dest": "ATH",
-  "DestName": "Athens",
-  "AirlineCode": "A3",
-  "Airline": "AEGEAN AIRLINES",
-  "Flight": "A30751",
-  "AirlineCode_Merged": "A3",
-  "City": "Athens",
-  "Country": "Greece"
- },
- {
-  "Date": "07-07-2025",
   "Time": "1100",
   "Dest": "FLR",
   "DestName": "FLORENCE",
@@ -27011,6 +26843,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Florence",
   "Country": "Italy"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1100",
+  "Dest": "LHR",
+  "DestName": "London/LHR",
+  "AirlineCode": "BA",
+  "Airline": "BRITISH AIRWAYS",
+  "Flight": "BA0813",
+  "AirlineCode_Merged": "BA",
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "07-07-2025",
@@ -27027,26 +26871,14 @@
  {
   "Date": "07-07-2025",
   "Time": "1100",
-  "Dest": "LHR",
-  "DestName": "London/LHR",
-  "AirlineCode": "BA",
-  "Airline": "BRITISH AIRWAYS",
-  "Flight": "BA0813",
-  "AirlineCode_Merged": "BA",
-  "City": "London",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1105",
-  "Dest": "MAD",
-  "DestName": "MADRID",
-  "AirlineCode": "I2",
-  "Airline": "IBERIA",
-  "Flight": "I21822",
-  "AirlineCode_Merged": "IB/I2",
-  "City": "Madrid",
-  "Country": "Spain"
+  "Dest": "ATH",
+  "DestName": "Athens",
+  "AirlineCode": "A3",
+  "Airline": "AEGEAN AIRLINES",
+  "Flight": "A30751",
+  "AirlineCode_Merged": "A3",
+  "City": "Athens",
+  "Country": "Greece"
  },
  {
   "Date": "07-07-2025",
@@ -27062,15 +26894,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1110",
-  "Dest": "FAE",
-  "DestName": "FAROE ISLANDS",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1777",
-  "AirlineCode_Merged": "SK",
-  "City": "Faroe Islands",
-  "Country": "Faroe Islands"
+  "Time": "1105",
+  "Dest": "MAD",
+  "DestName": "MADRID",
+  "AirlineCode": "I2",
+  "Airline": "IBERIA",
+  "Flight": "I21822",
+  "AirlineCode_Merged": "IB/I2",
+  "City": "Madrid",
+  "Country": "Spain"
  },
  {
   "Date": "07-07-2025",
@@ -27086,15 +26918,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1115",
-  "Dest": "BGY",
-  "DestName": "Milan/BGY",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR2989",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Milan",
-  "Country": "Italy"
+  "Time": "1110",
+  "Dest": "FAE",
+  "DestName": "FAROE ISLANDS",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1777",
+  "AirlineCode_Merged": "SK",
+  "City": "Faroe Islands",
+  "Country": "Faroe Islands"
  },
  {
   "Date": "07-07-2025",
@@ -27107,6 +26939,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1115",
+  "Dest": "BGY",
+  "DestName": "Milan/BGY",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR2989",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Milan",
+  "Country": "Italy"
  },
  {
   "Date": "07-07-2025",
@@ -27147,14 +26991,14 @@
  {
   "Date": "07-07-2025",
   "Time": "1145",
-  "Dest": "AAR",
-  "DestName": "AARHUS",
+  "Dest": "BGO",
+  "DestName": "BERGEN",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1247",
+  "Flight": "SK2864",
   "AirlineCode_Merged": "SK",
-  "City": "Aarhus",
-  "Country": "Denmark"
+  "City": "Bergen",
+  "Country": "Norway"
  },
  {
   "Date": "07-07-2025",
@@ -27171,18 +27015,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1145",
-  "Dest": "BGO",
-  "DestName": "BERGEN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2864",
-  "AirlineCode_Merged": "SK",
-  "City": "Bergen",
-  "Country": "Norway"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1145",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "SK",
@@ -27191,6 +27023,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1145",
+  "Dest": "AAR",
+  "DestName": "AARHUS",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1247",
+  "AirlineCode_Merged": "SK",
+  "City": "Aarhus",
+  "Country": "Denmark"
  },
  {
   "Date": "07-07-2025",
@@ -27207,18 +27051,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1155",
-  "Dest": "BRU",
-  "DestName": "BRUSSELS",
-  "AirlineCode": "SN",
-  "Airline": "BRUSSELS AIRLINES",
-  "Flight": "SN2258",
-  "AirlineCode_Merged": "SN",
-  "City": "Brussels",
-  "Country": "Belgium"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1155",
   "Dest": "SIN",
   "DestName": "SINGAPORE",
   "AirlineCode": "SQ",
@@ -27227,6 +27059,18 @@
   "AirlineCode_Merged": "SQ",
   "City": "Singapore",
   "Country": "Singapore"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1155",
+  "Dest": "BRU",
+  "DestName": "BRUSSELS",
+  "AirlineCode": "SN",
+  "Airline": "BRUSSELS AIRLINES",
+  "Flight": "SN2258",
+  "AirlineCode_Merged": "SN",
+  "City": "Brussels",
+  "Country": "Belgium"
  },
  {
   "Date": "07-07-2025",
@@ -27267,18 +27111,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1215",
-  "Dest": "AGP",
-  "DestName": "MALAGA",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR0648",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Malaga",
-  "Country": "Spain"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1215",
   "Dest": "LGW",
   "DestName": "London/LGW",
   "AirlineCode": "D8",
@@ -27290,15 +27122,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1220",
-  "Dest": "BRU",
-  "DestName": "BRUSSELS",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1593",
-  "AirlineCode_Merged": "SK",
-  "City": "Brussels",
-  "Country": "Belgium"
+  "Time": "1215",
+  "Dest": "AGP",
+  "DestName": "MALAGA",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR0648",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Malaga",
+  "Country": "Spain"
  },
  {
   "Date": "07-07-2025",
@@ -27315,6 +27147,18 @@
  {
   "Date": "07-07-2025",
   "Time": "1220",
+  "Dest": "BRU",
+  "DestName": "BRUSSELS",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1593",
+  "AirlineCode_Merged": "SK",
+  "City": "Brussels",
+  "Country": "Belgium"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1220",
   "Dest": "ZAD",
   "DestName": "ZADAR",
   "AirlineCode": "FR",
@@ -27323,18 +27167,6 @@
   "AirlineCode_Merged": "FR/RK",
   "City": "Zadar",
   "Country": "Croatia"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1225",
-  "Dest": "EWR",
-  "DestName": "New York/EWR",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0909",
-  "AirlineCode_Merged": "SK",
-  "City": "New York",
-  "Country": "United States"
  },
  {
   "Date": "07-07-2025",
@@ -27351,14 +27183,26 @@
  {
   "Date": "07-07-2025",
   "Time": "1225",
-  "Dest": "HEL",
-  "DestName": "HELSINKI",
-  "AirlineCode": "AY",
-  "Airline": "FINNAIR",
-  "Flight": "AY0966",
-  "AirlineCode_Merged": "AY",
-  "City": "Helsinki",
-  "Country": "Finland"
+  "Dest": "YUL",
+  "DestName": "Montreal",
+  "AirlineCode": "AC",
+  "Airline": "AIR CANADA",
+  "Flight": "AC0805",
+  "AirlineCode_Merged": "AC",
+  "City": "Montreal",
+  "Country": "Canada"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1225",
+  "Dest": "EWR",
+  "DestName": "New York/EWR",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0909",
+  "AirlineCode_Merged": "SK",
+  "City": "New York",
+  "Country": "United States"
  },
  {
   "Date": "07-07-2025",
@@ -27374,30 +27218,6 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1225",
-  "Dest": "YUL",
-  "DestName": "Montreal",
-  "AirlineCode": "AC",
-  "Airline": "AIR CANADA",
-  "Flight": "AC0805",
-  "AirlineCode_Merged": "AC",
-  "City": "Montreal",
-  "Country": "Canada"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1235",
-  "Dest": "KEF",
-  "DestName": "REYKJAVIK",
-  "AirlineCode": "OG",
-  "Airline": "FLY PLAY",
-  "Flight": "OG0901",
-  "AirlineCode_Merged": "OG",
-  "City": "Reykjavik",
-  "Country": "Iceland"
- },
- {
-  "Date": "07-07-2025",
   "Time": "1235",
   "Dest": "MXP",
   "DestName": "Milan/MXP",
@@ -27410,27 +27230,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1240",
-  "Dest": "GVA",
-  "DestName": "GENEVA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2613",
-  "AirlineCode_Merged": "SK",
-  "City": "Geneva",
-  "Country": "Switzerland"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1240",
-  "Dest": "OSL",
-  "DestName": "OSLO",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1466",
-  "AirlineCode_Merged": "SK",
-  "City": "Oslo",
-  "Country": "Norway"
+  "Time": "1235",
+  "Dest": "KEF",
+  "DestName": "REYKJAVIK",
+  "AirlineCode": "OG",
+  "Airline": "FLY PLAY",
+  "Flight": "OG0901",
+  "AirlineCode_Merged": "OG",
+  "City": "Reykjavik",
+  "Country": "Iceland"
  },
  {
   "Date": "07-07-2025",
@@ -27458,26 +27266,26 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1245",
-  "Dest": "HND",
-  "DestName": "Tokyo",
+  "Time": "1240",
+  "Dest": "GVA",
+  "DestName": "GENEVA",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0983",
+  "Flight": "SK2613",
   "AirlineCode_Merged": "SK",
-  "City": "Tokyo",
-  "Country": "Japan"
+  "City": "Geneva",
+  "Country": "Switzerland"
  },
  {
   "Date": "07-07-2025",
-  "Time": "1245",
-  "Dest": "KRS",
-  "DestName": "KRISTIANSAND",
+  "Time": "1240",
+  "Dest": "OSL",
+  "DestName": "OSLO",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2986",
+  "Flight": "SK1466",
   "AirlineCode_Merged": "SK",
-  "City": "Kristiansand",
+  "City": "Oslo",
   "Country": "Norway"
  },
  {
@@ -27507,14 +27315,26 @@
  {
   "Date": "07-07-2025",
   "Time": "1245",
-  "Dest": "PRG",
-  "DestName": "PRAGUE",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83580",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Prague",
-  "Country": "Czech Republic"
+  "Dest": "HND",
+  "DestName": "Tokyo",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0983",
+  "AirlineCode_Merged": "SK",
+  "City": "Tokyo",
+  "Country": "Japan"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1245",
+  "Dest": "KRS",
+  "DestName": "KRISTIANSAND",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2986",
+  "AirlineCode_Merged": "SK",
+  "City": "Kristiansand",
+  "Country": "Norway"
  },
  {
   "Date": "07-07-2025",
@@ -27527,6 +27347,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Trondheim",
   "Country": "Norway"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1245",
+  "Dest": "PRG",
+  "DestName": "PRAGUE",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83580",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Prague",
+  "Country": "Czech Republic"
  },
  {
   "Date": "07-07-2025",
@@ -27543,18 +27375,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1255",
-  "Dest": "BGO",
-  "DestName": "BERGEN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2866",
-  "AirlineCode_Merged": "SK",
-  "City": "Bergen",
-  "Country": "Norway"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1255",
   "Dest": "MAN",
   "DestName": "MANCHESTER",
   "AirlineCode": "D8",
@@ -27563,6 +27383,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Manchester",
   "Country": "United Kingdom"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1255",
+  "Dest": "BGO",
+  "DestName": "BERGEN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2866",
+  "AirlineCode_Merged": "SK",
+  "City": "Bergen",
+  "Country": "Norway"
  },
  {
   "Date": "07-07-2025",
@@ -27603,18 +27435,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1305",
-  "Dest": "GDN",
-  "DestName": "GDANSK",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR6845",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Gdansk",
-  "Country": "Poland"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1305",
   "Dest": "MPL",
   "DestName": "MONTPELLIER",
   "AirlineCode": "D8",
@@ -27635,6 +27455,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Seattle",
   "Country": "United States"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1305",
+  "Dest": "GDN",
+  "DestName": "GDANSK",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR6845",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Gdansk",
+  "Country": "Poland"
  },
  {
   "Date": "07-07-2025",
@@ -27711,18 +27543,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1340",
-  "Dest": "BUD",
-  "DestName": "BUDAPEST",
-  "AirlineCode": "W6",
-  "Airline": "WIZZ AIR",
-  "Flight": "W62252",
-  "AirlineCode_Merged": "W6/W4/5W/W9/WU",
-  "City": "Budapest",
-  "Country": "Hungary"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1340",
   "Dest": "EDI",
   "DestName": "EDINBURGH",
   "AirlineCode": "D8",
@@ -27731,6 +27551,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Edinburgh",
   "Country": "United Kingdom"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1340",
+  "Dest": "BUD",
+  "DestName": "BUDAPEST",
+  "AirlineCode": "W6",
+  "Airline": "WIZZ AIR",
+  "Flight": "W62252",
+  "AirlineCode_Merged": "W6/W4/5W/W9/WU",
+  "City": "Budapest",
+  "Country": "Hungary"
  },
  {
   "Date": "07-07-2025",
@@ -27783,30 +27615,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1400",
-  "Dest": "BER",
-  "DestName": "Berlin",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1677",
-  "AirlineCode_Merged": "SK",
-  "City": "Berlin",
-  "Country": "Germany"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1400",
-  "Dest": "HEL",
-  "DestName": "HELSINKI",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83158",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Helsinki",
-  "Country": "Finland"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1400",
   "Dest": "KEF",
   "DestName": "REYKJAVIK",
   "AirlineCode": "FI",
@@ -27842,15 +27650,27 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1405",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
+  "Time": "1400",
+  "Dest": "BER",
+  "DestName": "Berlin",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1213",
+  "Flight": "SK1677",
   "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
+  "City": "Berlin",
+  "Country": "Germany"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1400",
+  "Dest": "HEL",
+  "DestName": "HELSINKI",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83158",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Helsinki",
+  "Country": "Finland"
  },
  {
   "Date": "07-07-2025",
@@ -27863,18 +27683,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Bergen",
   "Country": "Norway"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1405",
-  "Dest": "GDN",
-  "DestName": "GDANSK",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0759",
-  "AirlineCode_Merged": "SK",
-  "City": "Gdansk",
-  "Country": "Poland"
  },
  {
   "Date": "07-07-2025",
@@ -27902,15 +27710,27 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1410",
-  "Dest": "HAM",
-  "DestName": "HAMBURG",
+  "Time": "1405",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0649",
+  "Flight": "SK1213",
   "AirlineCode_Merged": "SK",
-  "City": "Hamburg",
-  "Country": "Germany"
+  "City": "Aalborg",
+  "Country": "Denmark"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1405",
+  "Dest": "GDN",
+  "DestName": "GDANSK",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0759",
+  "AirlineCode_Merged": "SK",
+  "City": "Gdansk",
+  "Country": "Poland"
  },
  {
   "Date": "07-07-2025",
@@ -27923,6 +27743,18 @@
   "AirlineCode_Merged": "SK",
   "City": "San Francisco",
   "Country": "United States"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1410",
+  "Dest": "HAM",
+  "DestName": "HAMBURG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0649",
+  "AirlineCode_Merged": "SK",
+  "City": "Hamburg",
+  "Country": "Germany"
  },
  {
   "Date": "07-07-2025",
@@ -27939,14 +27771,14 @@
  {
   "Date": "07-07-2025",
   "Time": "1420",
-  "Dest": "BSL",
-  "DestName": "Basel/Mulhouse",
+  "Dest": "OSL",
+  "DestName": "OSLO",
   "AirlineCode": "D8",
   "Airline": "NORWEGIAN AIR",
-  "Flight": "D83630",
+  "Flight": "D83228",
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Basel/Mulhouse",
-  "Country": "Switzerland"
+  "City": "Oslo",
+  "Country": "Norway"
  },
  {
   "Date": "07-07-2025",
@@ -27963,14 +27795,14 @@
  {
   "Date": "07-07-2025",
   "Time": "1420",
-  "Dest": "OSL",
-  "DestName": "OSLO",
+  "Dest": "BSL",
+  "DestName": "Basel/Mulhouse",
   "AirlineCode": "D8",
   "Airline": "NORWEGIAN AIR",
-  "Flight": "D83228",
+  "Flight": "D83630",
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Oslo",
-  "Country": "Norway"
+  "City": "Basel/Mulhouse",
+  "Country": "Switzerland"
  },
  {
   "Date": "07-07-2025",
@@ -28023,18 +27855,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1445",
-  "Dest": "GDN",
-  "DestName": "GDANSK",
-  "AirlineCode": "W6",
-  "Airline": "WIZZ AIR",
-  "Flight": "W61742",
-  "AirlineCode_Merged": "W6/W4/5W/W9/WU",
-  "City": "Gdansk",
-  "Country": "Poland"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1445",
   "Dest": "IST",
   "DestName": "ISTANBUL/IST",
   "AirlineCode": "TK",
@@ -28043,6 +27863,18 @@
   "AirlineCode_Merged": "TK",
   "City": "Istanbul",
   "Country": "Turkey"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1445",
+  "Dest": "GDN",
+  "DestName": "GDANSK",
+  "AirlineCode": "W6",
+  "Airline": "WIZZ AIR",
+  "Flight": "W61742",
+  "AirlineCode_Merged": "W6/W4/5W/W9/WU",
+  "City": "Gdansk",
+  "Country": "Poland"
  },
  {
   "Date": "07-07-2025",
@@ -28059,18 +27891,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1500",
-  "Dest": "FRA",
-  "DestName": "FRANKFURT",
-  "AirlineCode": "LH",
-  "Airline": "LUFTHANSA",
-  "Flight": "LH0829",
-  "AirlineCode_Merged": "LH",
-  "City": "Frankfurt",
-  "Country": "Germany"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1500",
   "Dest": "LHR",
   "DestName": "London/LHR",
   "AirlineCode": "SK",
@@ -28082,15 +27902,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1505",
-  "Dest": "BLL",
-  "DestName": "BILLUND",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1285",
-  "AirlineCode_Merged": "SK",
-  "City": "Billund",
-  "Country": "Denmark"
+  "Time": "1500",
+  "Dest": "FRA",
+  "DestName": "FRANKFURT",
+  "AirlineCode": "LH",
+  "Airline": "LUFTHANSA",
+  "Flight": "LH0829",
+  "AirlineCode_Merged": "LH",
+  "City": "Frankfurt",
+  "Country": "Germany"
  },
  {
   "Date": "07-07-2025",
@@ -28103,6 +27923,18 @@
   "AirlineCode_Merged": "LX",
   "City": "Zurich",
   "Country": "Switzerland"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1505",
+  "Dest": "BLL",
+  "DestName": "BILLUND",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1285",
+  "AirlineCode_Merged": "SK",
+  "City": "Billund",
+  "Country": "Denmark"
  },
  {
   "Date": "07-07-2025",
@@ -28131,18 +27963,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1525",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1424",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1525",
   "Dest": "LGW",
   "DestName": "London/LGW",
   "AirlineCode": "D8",
@@ -28166,15 +27986,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1530",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
+  "Time": "1525",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1217",
+  "Flight": "SK1424",
   "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
+  "City": "Stockholm",
+  "Country": "Sweden"
  },
  {
   "Date": "07-07-2025",
@@ -28191,6 +28011,30 @@
  {
   "Date": "07-07-2025",
   "Time": "1530",
+  "Dest": "SPU",
+  "DestName": "SPLIT",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1759",
+  "AirlineCode_Merged": "SK",
+  "City": "Split",
+  "Country": "Croatia"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1530",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1217",
+  "AirlineCode_Merged": "SK",
+  "City": "Aalborg",
+  "Country": "Denmark"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1530",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "DY",
@@ -28202,15 +28046,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1530",
-  "Dest": "SPU",
-  "DestName": "SPLIT",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1759",
-  "AirlineCode_Merged": "SK",
-  "City": "Split",
-  "Country": "Croatia"
+  "Time": "1535",
+  "Dest": "RNN",
+  "DestName": "BORNHOLM",
+  "AirlineCode": "DX",
+  "Airline": "DAT",
+  "Flight": "DX0046",
+  "AirlineCode_Merged": "DX",
+  "City": "Bornholm",
+  "Country": "Denmark"
  },
  {
   "Date": "07-07-2025",
@@ -28235,18 +28079,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Amsterdam",
   "Country": "Netherlands"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1535",
-  "Dest": "RNN",
-  "DestName": "BORNHOLM",
-  "AirlineCode": "DX",
-  "Airline": "DAT",
-  "Flight": "DX0046",
-  "AirlineCode_Merged": "DX",
-  "City": "Bornholm",
-  "Country": "Denmark"
  },
  {
   "Date": "07-07-2025",
@@ -28323,18 +28155,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1600",
-  "Dest": "DXB",
-  "DestName": "DUBAI",
-  "AirlineCode": "EK",
-  "Airline": "EMIRATES",
-  "Flight": "EK0152",
-  "AirlineCode_Merged": "EK",
-  "City": "Dubai",
-  "Country": "United Arab Emirates"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1600",
   "Dest": "PMI",
   "DestName": "Palma d Mallorca",
   "AirlineCode": "SK",
@@ -28343,6 +28163,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Palma de Mallorca",
   "Country": "Spain"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1600",
+  "Dest": "DXB",
+  "DestName": "DUBAI",
+  "AirlineCode": "EK",
+  "Airline": "EMIRATES",
+  "Flight": "EK0152",
+  "AirlineCode_Merged": "EK",
+  "City": "Dubai",
+  "Country": "United Arab Emirates"
  },
  {
   "Date": "07-07-2025",
@@ -28359,18 +28191,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1605",
-  "Dest": "SFJ",
-  "DestName": "KANGERLUSSUAQ",
-  "AirlineCode": "GL",
-  "Airline": "AIR GREENLAND",
-  "Flight": "GL0743",
-  "AirlineCode_Merged": "GL",
-  "City": "Kangerlussuaq",
-  "Country": "Greenland"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1605",
   "Dest": "TIV",
   "DestName": "Tivat",
   "AirlineCode": "SK",
@@ -28379,6 +28199,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Tivat",
   "Country": "Montenegro"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1605",
+  "Dest": "SFJ",
+  "DestName": "KANGERLUSSUAQ",
+  "AirlineCode": "GL",
+  "Airline": "AIR GREENLAND",
+  "Flight": "GL0743",
+  "AirlineCode_Merged": "GL",
+  "City": "Kangerlussuaq",
+  "Country": "Greenland"
  },
  {
   "Date": "07-07-2025",
@@ -28407,18 +28239,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1625",
-  "Dest": "ATH",
-  "DestName": "Athens",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2777",
-  "AirlineCode_Merged": "SK",
-  "City": "Athens",
-  "Country": "Greece"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1625",
   "Dest": "ZTH",
   "DestName": "Zakynthos Island",
   "AirlineCode": "JTD",
@@ -28426,6 +28246,18 @@
   "Flight": "JTD0227",
   "AirlineCode_Merged": "JTD",
   "City": "Zakinthos Island",
+  "Country": "Greece"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1625",
+  "Dest": "ATH",
+  "DestName": "Athens",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2777",
+  "AirlineCode_Merged": "SK",
+  "City": "Athens",
   "Country": "Greece"
  },
  {
@@ -28479,18 +28311,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1640",
-  "Dest": "BGO",
-  "DestName": "BERGEN",
-  "AirlineCode": "DY",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "DY0969",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Bergen",
-  "Country": "Norway"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1640",
   "Dest": "LHR",
   "DestName": "London/LHR",
   "AirlineCode": "SK",
@@ -28502,15 +28322,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1645",
-  "Dest": "BEY",
-  "DestName": "BEIRUT",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2827",
-  "AirlineCode_Merged": "SK",
-  "City": "Beirut",
-  "Country": "Lebanon"
+  "Time": "1640",
+  "Dest": "BGO",
+  "DestName": "BERGEN",
+  "AirlineCode": "DY",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "DY0969",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Bergen",
+  "Country": "Norway"
  },
  {
   "Date": "07-07-2025",
@@ -28523,6 +28343,18 @@
   "AirlineCode_Merged": "FI",
   "City": "Reykjavik",
   "Country": "Iceland"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1645",
+  "Dest": "BEY",
+  "DestName": "BEIRUT",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2827",
+  "AirlineCode_Merged": "SK",
+  "City": "Beirut",
+  "Country": "Lebanon"
  },
  {
   "Date": "07-07-2025",
@@ -28551,18 +28383,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1655",
-  "Dest": "AAR",
-  "DestName": "AARHUS",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1257",
-  "AirlineCode_Merged": "SK",
-  "City": "Aarhus",
-  "Country": "Denmark"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1655",
   "Dest": "ATH",
   "DestName": "Athens",
   "AirlineCode": "D8",
@@ -28571,6 +28391,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Athens",
   "Country": "Greece"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1655",
+  "Dest": "AAR",
+  "DestName": "AARHUS",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1257",
+  "AirlineCode_Merged": "SK",
+  "City": "Aarhus",
+  "Country": "Denmark"
  },
  {
   "Date": "07-07-2025",
@@ -28587,14 +28419,14 @@
  {
   "Date": "07-07-2025",
   "Time": "1700",
-  "Dest": "HEL",
-  "DestName": "HELSINKI",
-  "AirlineCode": "AY",
-  "Airline": "FINNAIR",
-  "Flight": "AY0956",
-  "AirlineCode_Merged": "AY",
-  "City": "Helsinki",
-  "Country": "Finland"
+  "Dest": "SGD",
+  "DestName": "SØNDERBORG",
+  "AirlineCode": "6I",
+  "Airline": "ALSIE EXPRESS",
+  "Flight": "6I0108",
+  "AirlineCode_Merged": "6I",
+  "City": "Sonderborg",
+  "Country": "Denmark"
  },
  {
   "Date": "07-07-2025",
@@ -28607,18 +28439,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Oslo",
   "Country": "Norway"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1700",
-  "Dest": "SGD",
-  "DestName": "SØNDERBORG",
-  "AirlineCode": "6I",
-  "Airline": "ALSIE EXPRESS",
-  "Flight": "6I0108",
-  "AirlineCode_Merged": "6I",
-  "City": "Sonderborg",
-  "Country": "Denmark"
  },
  {
   "Date": "07-07-2025",
@@ -28635,6 +28455,18 @@
  {
   "Date": "07-07-2025",
   "Time": "1710",
+  "Dest": "SVG",
+  "DestName": "STAVANGER",
+  "AirlineCode": "DY",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "DY0971",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Stavanger",
+  "Country": "Norway"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1710",
   "Dest": "FLR",
   "DestName": "FLORENCE",
   "AirlineCode": "SK",
@@ -28643,18 +28475,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Florence",
   "Country": "Italy"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1710",
-  "Dest": "GZP",
-  "DestName": "Gazipasa",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2821",
-  "AirlineCode_Merged": "SK",
-  "City": "Gazipasa",
-  "Country": "Turkey"
  },
  {
   "Date": "07-07-2025",
@@ -28671,14 +28491,14 @@
  {
   "Date": "07-07-2025",
   "Time": "1710",
-  "Dest": "SVG",
-  "DestName": "STAVANGER",
-  "AirlineCode": "DY",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "DY0971",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Stavanger",
-  "Country": "Norway"
+  "Dest": "GZP",
+  "DestName": "Gazipasa",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2821",
+  "AirlineCode_Merged": "SK",
+  "City": "Gazipasa",
+  "Country": "Turkey"
  },
  {
   "Date": "07-07-2025",
@@ -28691,18 +28511,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Stockholm",
   "Country": "Sweden"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1720",
-  "Dest": "BOJ",
-  "DestName": "Burgas",
-  "AirlineCode": "JTD",
-  "Airline": "JETTIME A/S",
-  "Flight": "JTD0295",
-  "AirlineCode_Merged": "JTD",
-  "City": "Burgas",
-  "Country": "Bulgaria"
  },
  {
   "Date": "07-07-2025",
@@ -28730,6 +28538,30 @@
  },
  {
   "Date": "07-07-2025",
+  "Time": "1720",
+  "Dest": "BOJ",
+  "DestName": "Burgas",
+  "AirlineCode": "JTD",
+  "Airline": "JETTIME A/S",
+  "Flight": "JTD0295",
+  "AirlineCode_Merged": "JTD",
+  "City": "Burgas",
+  "Country": "Bulgaria"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1725",
+  "Dest": "PRG",
+  "DestName": "PRAGUE",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D82066",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Prague",
+  "Country": "Czech Republic"
+ },
+ {
+  "Date": "07-07-2025",
   "Time": "1725",
   "Dest": "DUS",
   "DestName": "Duesseldorf",
@@ -28754,18 +28586,6 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1725",
-  "Dest": "PRG",
-  "DestName": "PRAGUE",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D82066",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Prague",
-  "Country": "Czech Republic"
- },
- {
-  "Date": "07-07-2025",
   "Time": "1730",
   "Dest": "BGO",
   "DestName": "BERGEN",
@@ -28775,18 +28595,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Bergen",
   "Country": "Norway"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1730",
-  "Dest": "IAD",
-  "DestName": "WASHINGTON",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0925",
-  "AirlineCode_Merged": "SK",
-  "City": "Washington",
-  "Country": "United States"
  },
  {
   "Date": "07-07-2025",
@@ -28823,6 +28631,18 @@
   "AirlineCode_Merged": "DK",
   "City": "Preveza/Lefkada",
   "Country": "Greece"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1730",
+  "Dest": "IAD",
+  "DestName": "WASHINGTON",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0925",
+  "AirlineCode_Merged": "SK",
+  "City": "Washington",
+  "Country": "United States"
  },
  {
   "Date": "07-07-2025",
@@ -28875,18 +28695,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1745",
-  "Dest": "LCA",
-  "DestName": "LARNACA",
-  "AirlineCode": "JTD",
-  "Airline": "JETTIME A/S",
-  "Flight": "JTD0317",
-  "AirlineCode_Merged": "JTD",
-  "City": "Larnaca",
-  "Country": "Cyprus"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1745",
   "Dest": "VIE",
   "DestName": "VIENNA",
   "AirlineCode": "OS",
@@ -28895,6 +28703,18 @@
   "AirlineCode_Merged": "OS",
   "City": "Vienna",
   "Country": "Austria"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1745",
+  "Dest": "LCA",
+  "DestName": "LARNACA",
+  "AirlineCode": "JTD",
+  "Airline": "JETTIME A/S",
+  "Flight": "JTD0317",
+  "AirlineCode_Merged": "JTD",
+  "City": "Larnaca",
+  "Country": "Cyprus"
  },
  {
   "Date": "07-07-2025",
@@ -28935,18 +28755,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1800",
-  "Dest": "HAM",
-  "DestName": "HAMBURG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0651",
-  "AirlineCode_Merged": "SK",
-  "City": "Hamburg",
-  "Country": "Germany"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1800",
   "Dest": "ZRH",
   "DestName": "ZURICH",
   "AirlineCode": "SK",
@@ -28955,6 +28763,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Zurich",
   "Country": "Switzerland"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1800",
+  "Dest": "HAM",
+  "DestName": "HAMBURG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0651",
+  "AirlineCode_Merged": "SK",
+  "City": "Hamburg",
+  "Country": "Germany"
  },
  {
   "Date": "07-07-2025",
@@ -28971,18 +28791,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1805",
-  "Dest": "STN",
-  "DestName": "London/STN",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR2619",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "London",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1805",
   "Dest": "SVG",
   "DestName": "STAVANGER",
   "AirlineCode": "SK",
@@ -28994,15 +28802,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1810",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0553",
-  "AirlineCode_Merged": "SK",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
+  "Time": "1805",
+  "Dest": "STN",
+  "DestName": "London/STN",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR2619",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "07-07-2025",
@@ -29015,6 +28823,18 @@
   "AirlineCode_Merged": "SN",
   "City": "Brussels",
   "Country": "Belgium"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1810",
+  "Dest": "NCE",
+  "DestName": "NICE",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0791",
+  "AirlineCode_Merged": "SK",
+  "City": "Nice",
+  "Country": "France"
  },
  {
   "Date": "07-07-2025",
@@ -29043,14 +28863,14 @@
  {
   "Date": "07-07-2025",
   "Time": "1810",
-  "Dest": "NCE",
-  "DestName": "NICE",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0791",
+  "Flight": "SK0553",
   "AirlineCode_Merged": "SK",
-  "City": "Nice",
-  "Country": "France"
+  "City": "Amsterdam",
+  "Country": "Netherlands"
  },
  {
   "Date": "07-07-2025",
@@ -29199,18 +29019,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1915",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1430",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1915",
   "Dest": "LCA",
   "DestName": "LARNACA",
   "AirlineCode": "DK",
@@ -29222,15 +29030,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "1920",
-  "Dest": "CDG",
-  "DestName": "Paris/CDG",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83638",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Paris",
-  "Country": "France"
+  "Time": "1915",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1430",
+  "AirlineCode_Merged": "SK",
+  "City": "Stockholm",
+  "Country": "Sweden"
  },
  {
   "Date": "07-07-2025",
@@ -29258,15 +29066,27 @@
  },
  {
   "Date": "07-07-2025",
+  "Time": "1920",
+  "Dest": "CDG",
+  "DestName": "Paris/CDG",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83638",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Paris",
+  "Country": "France"
+ },
+ {
+  "Date": "07-07-2025",
   "Time": "1925",
-  "Dest": "MAN",
-  "DestName": "MANCHESTER",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR6880",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Manchester",
-  "Country": "United Kingdom"
+  "Dest": "WAW",
+  "DestName": "WARSAW",
+  "AirlineCode": "LO",
+  "Airline": "LOT POLISH AIRLINES",
+  "Flight": "LO0462",
+  "AirlineCode_Merged": "LO",
+  "City": "Warsaw",
+  "Country": "Poland"
  },
  {
   "Date": "07-07-2025",
@@ -29283,14 +29103,26 @@
  {
   "Date": "07-07-2025",
   "Time": "1925",
-  "Dest": "WAW",
-  "DestName": "WARSAW",
-  "AirlineCode": "LO",
-  "Airline": "LOT POLISH AIRLINES",
-  "Flight": "LO0462",
-  "AirlineCode_Merged": "LO",
-  "City": "Warsaw",
-  "Country": "Poland"
+  "Dest": "MAN",
+  "DestName": "MANCHESTER",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR6880",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Manchester",
+  "Country": "United Kingdom"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1930",
+  "Dest": "MUC",
+  "DestName": "MUNICH",
+  "AirlineCode": "LH",
+  "Airline": "LUFTHANSA",
+  "Flight": "LH2443",
+  "AirlineCode_Merged": "LH",
+  "City": "Munich",
+  "Country": "Germany"
  },
  {
   "Date": "07-07-2025",
@@ -29315,18 +29147,6 @@
   "AirlineCode_Merged": "FR/RK",
   "City": "Alicante",
   "Country": "Spain"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1930",
-  "Dest": "MUC",
-  "DestName": "MUNICH",
-  "AirlineCode": "LH",
-  "Airline": "LUFTHANSA",
-  "Flight": "LH2443",
-  "AirlineCode_Merged": "LH",
-  "City": "Munich",
-  "Country": "Germany"
  },
  {
   "Date": "07-07-2025",
@@ -29367,18 +29187,6 @@
  {
   "Date": "07-07-2025",
   "Time": "1955",
-  "Dest": "BCN",
-  "DestName": "BARCELONA",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D85513",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Barcelona",
-  "Country": "Spain"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "1955",
   "Dest": "NTE",
   "DestName": "NANTES",
   "AirlineCode": "V7",
@@ -29387,6 +29195,18 @@
   "AirlineCode_Merged": "V7",
   "City": "Nantes",
   "Country": "France"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "1955",
+  "Dest": "BCN",
+  "DestName": "BARCELONA",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D85513",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Barcelona",
+  "Country": "Spain"
  },
  {
   "Date": "07-07-2025",
@@ -29451,18 +29271,6 @@
  {
   "Date": "07-07-2025",
   "Time": "2015",
-  "Dest": "PMI",
-  "DestName": "Palma d Mallorca",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D85613",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Palma de Mallorca",
-  "Country": "Spain"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "2015",
   "Dest": "WAW",
   "DestName": "WARSAW",
   "AirlineCode": "W6",
@@ -29474,15 +29282,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "2030",
-  "Dest": "LIN",
-  "DestName": "Milan/LIN",
-  "AirlineCode": "EJU",
-  "Airline": "EASYJET",
-  "Flight": "EJU1978",
-  "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "Milan",
-  "Country": "Italy"
+  "Time": "2015",
+  "Dest": "PMI",
+  "DestName": "Palma d Mallorca",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D85613",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Palma de Mallorca",
+  "Country": "Spain"
  },
  {
   "Date": "07-07-2025",
@@ -29495,6 +29303,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "2030",
+  "Dest": "LIN",
+  "DestName": "Milan/LIN",
+  "AirlineCode": "EJU",
+  "Airline": "EASYJET",
+  "Flight": "EJU1978",
+  "AirlineCode_Merged": "EZY/EJU/EZS",
+  "City": "Milan",
+  "Country": "Italy"
  },
  {
   "Date": "07-07-2025",
@@ -29511,18 +29331,6 @@
  {
   "Date": "07-07-2025",
   "Time": "2040",
-  "Dest": "DUS",
-  "DestName": "Duesseldorf",
-  "AirlineCode": "EW",
-  "Airline": "EUROWINGS",
-  "Flight": "EW9245",
-  "AirlineCode_Merged": "EW",
-  "City": "Duesseldorf",
-  "Country": "Germany"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "2040",
   "Dest": "LHR",
   "DestName": "London/LHR",
   "AirlineCode": "SK",
@@ -29531,6 +29339,18 @@
   "AirlineCode_Merged": "SK",
   "City": "London",
   "Country": "United Kingdom"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "2040",
+  "Dest": "DUS",
+  "DestName": "Duesseldorf",
+  "AirlineCode": "EW",
+  "Airline": "EUROWINGS",
+  "Flight": "EW9245",
+  "AirlineCode_Merged": "EW",
+  "City": "Duesseldorf",
+  "Country": "Germany"
  },
  {
   "Date": "07-07-2025",
@@ -29543,30 +29363,6 @@
   "AirlineCode_Merged": "EZY/EJU/EZS",
   "City": "Geneva",
   "Country": "Switzerland"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "2055",
-  "Dest": "CHQ",
-  "DestName": "CHANIA",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83352",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Chania",
-  "Country": "Greece"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "2055",
-  "Dest": "HEL",
-  "DestName": "HELSINKI",
-  "AirlineCode": "AY",
-  "Airline": "FINNAIR",
-  "Flight": "AY0960",
-  "AirlineCode_Merged": "AY",
-  "City": "Helsinki",
-  "Country": "Finland"
  },
  {
   "Date": "07-07-2025",
@@ -29591,6 +29387,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "2055",
+  "Dest": "CHQ",
+  "DestName": "CHANIA",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83352",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Chania",
+  "Country": "Greece"
  },
  {
   "Date": "07-07-2025",
@@ -29619,18 +29427,6 @@
  {
   "Date": "07-07-2025",
   "Time": "2125",
-  "Dest": "OTP",
-  "DestName": "BUCHAREST",
-  "AirlineCode": "W4",
-  "Airline": "WIZZ AIR",
-  "Flight": "W43114",
-  "AirlineCode_Merged": "W6/W4/5W/W9/WU",
-  "City": "Bucharest",
-  "Country": "Romania"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "2125",
   "Dest": "RIX",
   "DestName": "RIGA",
   "AirlineCode": "D8",
@@ -29642,15 +29438,15 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "2130",
-  "Dest": "BCN",
-  "DestName": "BARCELONA",
-  "AirlineCode": "VY",
-  "Airline": "VUELING AIRLINES",
-  "Flight": "VY1873",
-  "AirlineCode_Merged": "VY",
-  "City": "Barcelona",
-  "Country": "Spain"
+  "Time": "2125",
+  "Dest": "OTP",
+  "DestName": "BUCHAREST",
+  "AirlineCode": "W4",
+  "Airline": "WIZZ AIR",
+  "Flight": "W43114",
+  "AirlineCode_Merged": "W6/W4/5W/W9/WU",
+  "City": "Bucharest",
+  "Country": "Romania"
  },
  {
   "Date": "07-07-2025",
@@ -29675,6 +29471,18 @@
   "AirlineCode_Merged": "FR/RK",
   "City": "Krakow",
   "Country": "Poland"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "2130",
+  "Dest": "BCN",
+  "DestName": "BARCELONA",
+  "AirlineCode": "VY",
+  "Airline": "VUELING AIRLINES",
+  "Flight": "VY1873",
+  "AirlineCode_Merged": "VY",
+  "City": "Barcelona",
+  "Country": "Spain"
  },
  {
   "Date": "07-07-2025",
@@ -29811,30 +29619,6 @@
  {
   "Date": "07-07-2025",
   "Time": "2300",
-  "Dest": "BGY",
-  "DestName": "Milan/BGY",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR1785",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Milan",
-  "Country": "Italy"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "2300",
-  "Dest": "GDN",
-  "DestName": "GDANSK",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0753",
-  "AirlineCode_Merged": "SK",
-  "City": "Gdansk",
-  "Country": "Poland"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "2300",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "SK",
@@ -29858,15 +29642,27 @@
  },
  {
   "Date": "07-07-2025",
-  "Time": "2305",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
+  "Time": "2300",
+  "Dest": "GDN",
+  "DestName": "GDANSK",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1225",
+  "Flight": "SK0753",
   "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
+  "City": "Gdansk",
+  "Country": "Poland"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "2300",
+  "Dest": "BGY",
+  "DestName": "Milan/BGY",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR1785",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Milan",
+  "Country": "Italy"
  },
  {
   "Date": "07-07-2025",
@@ -29878,18 +29674,6 @@
   "Flight": "SK1273",
   "AirlineCode_Merged": "SK",
   "City": "Aarhus",
-  "Country": "Denmark"
- },
- {
-  "Date": "07-07-2025",
-  "Time": "2305",
-  "Dest": "BLL",
-  "DestName": "BILLUND",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1289",
-  "AirlineCode_Merged": "SK",
-  "City": "Billund",
   "Country": "Denmark"
  },
  {
@@ -29915,6 +29699,30 @@
   "AirlineCode_Merged": "SK",
   "City": "Stavanger",
   "Country": "Norway"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "2305",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1225",
+  "AirlineCode_Merged": "SK",
+  "City": "Aalborg",
+  "Country": "Denmark"
+ },
+ {
+  "Date": "07-07-2025",
+  "Time": "2305",
+  "Dest": "BLL",
+  "DestName": "BILLUND",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1289",
+  "AirlineCode_Merged": "SK",
+  "City": "Billund",
+  "Country": "Denmark"
  },
  {
   "Date": "08-07-2025",
@@ -29967,18 +29775,6 @@
  {
   "Date": "08-07-2025",
   "Time": "0600",
-  "Dest": "AGP",
-  "DestName": "MALAGA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0583",
-  "AirlineCode_Merged": "SK",
-  "City": "Malaga",
-  "Country": "Spain"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMSTERDAM",
   "AirlineCode": "KL",
@@ -29987,18 +29783,6 @@
   "AirlineCode_Merged": "KL",
   "City": "Amsterdam",
   "Country": "Netherlands"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0600",
-  "Dest": "LCA",
-  "DestName": "LARNACA",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83390",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Larnaca",
-  "Country": "Cyprus"
  },
  {
   "Date": "08-07-2025",
@@ -30014,15 +29798,27 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "0605",
-  "Dest": "AYT",
-  "DestName": "ANTALYA",
+  "Time": "0600",
+  "Dest": "AGP",
+  "DestName": "MALAGA",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK7765",
+  "Flight": "SK0583",
   "AirlineCode_Merged": "SK",
-  "City": "Antalya",
-  "Country": "Turkey"
+  "City": "Malaga",
+  "Country": "Spain"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0600",
+  "Dest": "LCA",
+  "DestName": "LARNACA",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83390",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Larnaca",
+  "Country": "Cyprus"
  },
  {
   "Date": "08-07-2025",
@@ -30062,6 +29858,18 @@
  },
  {
   "Date": "08-07-2025",
+  "Time": "0605",
+  "Dest": "AYT",
+  "DestName": "ANTALYA",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK7765",
+  "AirlineCode_Merged": "SK",
+  "City": "Antalya",
+  "Country": "Turkey"
+ },
+ {
+  "Date": "08-07-2025",
   "Time": "0610",
   "Dest": "CDG",
   "DestName": "Paris/CDG",
@@ -30087,18 +29895,6 @@
  {
   "Date": "08-07-2025",
   "Time": "0615",
-  "Dest": "AGP",
-  "DestName": "MALAGA",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR0648",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Malaga",
-  "Country": "Spain"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0615",
   "Dest": "FCO",
   "DestName": "Rome/FCO",
   "AirlineCode": "D8",
@@ -30119,6 +29915,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Nice",
   "Country": "France"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0615",
+  "Dest": "AGP",
+  "DestName": "MALAGA",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR0648",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Malaga",
+  "Country": "Spain"
  },
  {
   "Date": "08-07-2025",
@@ -30231,14 +30039,26 @@
  {
   "Date": "08-07-2025",
   "Time": "0655",
-  "Dest": "AGP",
-  "DestName": "MALAGA",
+  "Dest": "SPU",
+  "DestName": "SPLIT",
   "AirlineCode": "D8",
   "Airline": "NORWEGIAN AIR",
-  "Flight": "D83670",
+  "Flight": "D83288",
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Malaga",
-  "Country": "Spain"
+  "City": "Split",
+  "Country": "Croatia"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0655",
+  "Dest": "RHO",
+  "DestName": "Rhodes",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK7433",
+  "AirlineCode_Merged": "SK",
+  "City": "Rhodes",
+  "Country": "Greece"
  },
  {
   "Date": "08-07-2025",
@@ -30267,30 +30087,6 @@
  {
   "Date": "08-07-2025",
   "Time": "0655",
-  "Dest": "RHO",
-  "DestName": "Rhodes",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK7433",
-  "AirlineCode_Merged": "SK",
-  "City": "Rhodes",
-  "Country": "Greece"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0655",
-  "Dest": "SPU",
-  "DestName": "SPLIT",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83288",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Split",
-  "Country": "Croatia"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0655",
   "Dest": "STN",
   "DestName": "London/STN",
   "AirlineCode": "FR",
@@ -30302,50 +30098,14 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "0700",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0402",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0700",
-  "Dest": "BER",
-  "DestName": "Berlin",
+  "Time": "0655",
+  "Dest": "AGP",
+  "DestName": "MALAGA",
   "AirlineCode": "D8",
   "Airline": "NORWEGIAN AIR",
-  "Flight": "D83300",
+  "Flight": "D83670",
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Berlin",
-  "Country": "Germany"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0700",
-  "Dest": "FUE",
-  "DestName": "FUERTEVENTURA",
-  "AirlineCode": "RC",
-  "Airline": "ATLANTIC AIRWAYS",
-  "Flight": "RC7052",
-  "AirlineCode_Merged": "RC",
-  "City": "Fuerteventura",
-  "Country": "Spain"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0700",
-  "Dest": "PMI",
-  "DestName": "Palma d Mallorca",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83664",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Palma de Mallorca",
+  "City": "Malaga",
   "Country": "Spain"
  },
  {
@@ -30363,6 +30123,30 @@
  {
   "Date": "08-07-2025",
   "Time": "0700",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0402",
+  "AirlineCode_Merged": "SK",
+  "City": "Stockholm",
+  "Country": "Sweden"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0700",
+  "Dest": "FUE",
+  "DestName": "FUERTEVENTURA",
+  "AirlineCode": "RC",
+  "Airline": "ATLANTIC AIRWAYS",
+  "Flight": "RC7052",
+  "AirlineCode_Merged": "RC",
+  "City": "Fuerteventura",
+  "Country": "Spain"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0700",
   "Dest": "WAW",
   "DestName": "WARSAW",
   "AirlineCode": "LO",
@@ -30371,6 +30155,30 @@
   "AirlineCode_Merged": "LO",
   "City": "Warsaw",
   "Country": "Poland"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0700",
+  "Dest": "BER",
+  "DestName": "Berlin",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83300",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Berlin",
+  "Country": "Germany"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0700",
+  "Dest": "PMI",
+  "DestName": "Palma d Mallorca",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83664",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Palma de Mallorca",
+  "Country": "Spain"
  },
  {
   "Date": "08-07-2025",
@@ -30507,18 +30315,6 @@
  {
   "Date": "08-07-2025",
   "Time": "0745",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1205",
-  "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0745",
   "Dest": "FCO",
   "DestName": "Rome/FCO",
   "AirlineCode": "SK",
@@ -30527,6 +30323,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Rome",
   "Country": "Italy"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0745",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1205",
+  "AirlineCode_Merged": "SK",
+  "City": "Aalborg",
+  "Country": "Denmark"
  },
  {
   "Date": "08-07-2025",
@@ -30539,18 +30347,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Bologna",
   "Country": "Italy"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0755",
-  "Dest": "BER",
-  "DestName": "Berlin",
-  "AirlineCode": "EJU",
-  "Airline": "EASYJET",
-  "Flight": "EJU5262",
-  "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "Berlin",
-  "Country": "Germany"
  },
  {
   "Date": "08-07-2025",
@@ -30591,6 +30387,18 @@
  {
   "Date": "08-07-2025",
   "Time": "0755",
+  "Dest": "BER",
+  "DestName": "Berlin",
+  "AirlineCode": "EJU",
+  "Airline": "EASYJET",
+  "Flight": "EJU5262",
+  "AirlineCode_Merged": "EZY/EJU/EZS",
+  "City": "Berlin",
+  "Country": "Germany"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0755",
   "Dest": "ZRH",
   "DestName": "ZURICH",
   "AirlineCode": "SK",
@@ -30599,6 +30407,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Zurich",
   "Country": "Switzerland"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0800",
+  "Dest": "STR",
+  "DestName": "STUTTGART",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0657",
+  "AirlineCode_Merged": "SK",
+  "City": "Stuttgart",
+  "Country": "Germany"
  },
  {
   "Date": "08-07-2025",
@@ -30627,18 +30447,6 @@
  {
   "Date": "08-07-2025",
   "Time": "0800",
-  "Dest": "STR",
-  "DestName": "STUTTGART",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0657",
-  "AirlineCode_Merged": "SK",
-  "City": "Stuttgart",
-  "Country": "Germany"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0800",
   "Dest": "TRD",
   "DestName": "TRONDHEIM",
   "AirlineCode": "SK",
@@ -30663,14 +30471,14 @@
  {
   "Date": "08-07-2025",
   "Time": "0805",
-  "Dest": "BRU",
-  "DestName": "BRUSSELS",
+  "Dest": "OSL",
+  "DestName": "OSLO",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0593",
+  "Flight": "SK1462",
   "AirlineCode_Merged": "SK",
-  "City": "Brussels",
-  "Country": "Belgium"
+  "City": "Oslo",
+  "Country": "Norway"
  },
  {
   "Date": "08-07-2025",
@@ -30687,14 +30495,26 @@
  {
   "Date": "08-07-2025",
   "Time": "0805",
-  "Dest": "OSL",
-  "DestName": "OSLO",
+  "Dest": "BRU",
+  "DestName": "BRUSSELS",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1462",
+  "Flight": "SK0593",
   "AirlineCode_Merged": "SK",
-  "City": "Oslo",
-  "Country": "Norway"
+  "City": "Brussels",
+  "Country": "Belgium"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0810",
+  "Dest": "RMO",
+  "DestName": "Chisinau",
+  "AirlineCode": "5F",
+  "Airline": "FLY ONE",
+  "Flight": "5F0930",
+  "AirlineCode_Merged": "5F",
+  "City": "",
+  "Country": ""
  },
  {
   "Date": "08-07-2025",
@@ -30719,42 +30539,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Hamburg",
   "Country": "Germany"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0810",
-  "Dest": "RMO",
-  "DestName": "Chisinau",
-  "AirlineCode": "5F",
-  "Airline": "FLY ONE",
-  "Flight": "5F0930",
-  "AirlineCode_Merged": "5F",
-  "City": "",
-  "Country": ""
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0815",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2551",
-  "AirlineCode_Merged": "SK",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0815",
-  "Dest": "LHR",
-  "DestName": "London/LHR",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0501",
-  "AirlineCode_Merged": "SK",
-  "City": "London",
-  "Country": "United Kingdom"
  },
  {
   "Date": "08-07-2025",
@@ -30783,6 +30567,18 @@
  {
   "Date": "08-07-2025",
   "Time": "0815",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2551",
+  "AirlineCode_Merged": "SK",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0815",
   "Dest": "WAW",
   "DestName": "WARSAW",
   "AirlineCode": "SK",
@@ -30791,6 +30587,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Warsaw",
   "Country": "Poland"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0815",
+  "Dest": "LHR",
+  "DestName": "London/LHR",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0501",
+  "AirlineCode_Merged": "SK",
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "08-07-2025",
@@ -30803,6 +30611,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Berlin",
   "Country": "Germany"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0820",
+  "Dest": "SVG",
+  "DestName": "STAVANGER",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1870",
+  "AirlineCode_Merged": "SK",
+  "City": "Stavanger",
+  "Country": "Norway"
  },
  {
   "Date": "08-07-2025",
@@ -30830,15 +30650,15 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "0820",
-  "Dest": "SVG",
-  "DestName": "STAVANGER",
+  "Time": "0825",
+  "Dest": "MXP",
+  "DestName": "Milan/MXP",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1870",
+  "Flight": "SK1685",
   "AirlineCode_Merged": "SK",
-  "City": "Stavanger",
-  "Country": "Norway"
+  "City": "Milan",
+  "Country": "Italy"
  },
  {
   "Date": "08-07-2025",
@@ -30855,18 +30675,6 @@
  {
   "Date": "08-07-2025",
   "Time": "0825",
-  "Dest": "MXP",
-  "DestName": "Milan/MXP",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1685",
-  "AirlineCode_Merged": "SK",
-  "City": "Milan",
-  "Country": "Italy"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0825",
   "Dest": "PMI",
   "DestName": "Palma d Mallorca",
   "AirlineCode": "JTD",
@@ -30875,18 +30683,6 @@
   "AirlineCode_Merged": "JTD",
   "City": "Palma de Mallorca",
   "Country": "Spain"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0830",
-  "Dest": "GOT",
-  "DestName": "Gothenburg",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0434",
-  "AirlineCode_Merged": "SK",
-  "City": "Goteborg",
-  "Country": "Sweden"
  },
  {
   "Date": "08-07-2025",
@@ -30911,6 +30707,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Tirana",
   "Country": "Albania"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0830",
+  "Dest": "GOT",
+  "DestName": "Gothenburg",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0434",
+  "AirlineCode_Merged": "SK",
+  "City": "Goteborg",
+  "Country": "Sweden"
  },
  {
   "Date": "08-07-2025",
@@ -30963,18 +30771,6 @@
  {
   "Date": "08-07-2025",
   "Time": "0850",
-  "Dest": "HEL",
-  "DestName": "HELSINKI",
-  "AirlineCode": "AY",
-  "Airline": "FINNAIR",
-  "Flight": "AY0952",
-  "AirlineCode_Merged": "AY",
-  "City": "Helsinki",
-  "Country": "Finland"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0850",
   "Dest": "MUC",
   "DestName": "MUNICH",
   "AirlineCode": "LH",
@@ -30995,6 +30791,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0850",
+  "Dest": "HEL",
+  "DestName": "HELSINKI",
+  "AirlineCode": "AY",
+  "Airline": "FINNAIR",
+  "Flight": "AY0952",
+  "AirlineCode_Merged": "AY",
+  "City": "Helsinki",
+  "Country": "Finland"
  },
  {
   "Date": "08-07-2025",
@@ -31023,6 +30831,18 @@
  {
   "Date": "08-07-2025",
   "Time": "0900",
+  "Dest": "TOS",
+  "DestName": "Tromso",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK4452",
+  "AirlineCode_Merged": "SK",
+  "City": "Tromso",
+  "Country": "Norway"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0900",
   "Dest": "ARN",
   "DestName": "STOCKHOLM/ARN",
   "AirlineCode": "SK",
@@ -31043,18 +30863,6 @@
   "AirlineCode_Merged": "DL",
   "City": "New York",
   "Country": "United States"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0900",
-  "Dest": "TOS",
-  "DestName": "Tromso",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK4452",
-  "AirlineCode_Merged": "SK",
-  "City": "Tromso",
-  "Country": "Norway"
  },
  {
   "Date": "08-07-2025",
@@ -31143,6 +30951,18 @@
  {
   "Date": "08-07-2025",
   "Time": "0935",
+  "Dest": "FRA",
+  "DestName": "FRANKFURT",
+  "AirlineCode": "LH",
+  "Airline": "LUFTHANSA",
+  "Flight": "LH0825",
+  "AirlineCode_Merged": "LH",
+  "City": "Frankfurt",
+  "Country": "Germany"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0935",
   "Dest": "ARN",
   "DestName": "STOCKHOLM/ARN",
   "AirlineCode": "SK",
@@ -31151,18 +30971,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Stockholm",
   "Country": "Sweden"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0935",
-  "Dest": "BCN",
-  "DestName": "BARCELONA",
-  "AirlineCode": "VY",
-  "Airline": "VUELING AIRLINES",
-  "Flight": "VY1871",
-  "AirlineCode_Merged": "VY",
-  "City": "Barcelona",
-  "Country": "Spain"
  },
  {
   "Date": "08-07-2025",
@@ -31191,25 +30999,13 @@
  {
   "Date": "08-07-2025",
   "Time": "0935",
-  "Dest": "FRA",
-  "DestName": "FRANKFURT",
-  "AirlineCode": "LH",
-  "Airline": "LUFTHANSA",
-  "Flight": "LH0825",
-  "AirlineCode_Merged": "LH",
-  "City": "Frankfurt",
-  "Country": "Germany"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "0940",
-  "Dest": "LPA",
-  "DestName": "Gran Canaria",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2837",
-  "AirlineCode_Merged": "SK",
-  "City": "Gran Canaria",
+  "Dest": "BCN",
+  "DestName": "BARCELONA",
+  "AirlineCode": "VY",
+  "Airline": "VUELING AIRLINES",
+  "Flight": "VY1871",
+  "AirlineCode_Merged": "VY",
+  "City": "Barcelona",
   "Country": "Spain"
  },
  {
@@ -31235,6 +31031,18 @@
   "AirlineCode_Merged": "LX",
   "City": "Zurich",
   "Country": "Switzerland"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "0940",
+  "Dest": "LPA",
+  "DestName": "Gran Canaria",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2837",
+  "AirlineCode_Merged": "SK",
+  "City": "Gran Canaria",
+  "Country": "Spain"
  },
  {
   "Date": "08-07-2025",
@@ -31275,18 +31083,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1025",
-  "Dest": "FUE",
-  "DestName": "FUERTEVENTURA",
-  "AirlineCode": "BIX",
-  "Airline": "BRAATHENS",
-  "Flight": "BIX2108",
-  "AirlineCode_Merged": "BIX",
-  "City": "Fuerteventura",
-  "Country": "Spain"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1025",
   "Dest": "IST",
   "DestName": "ISTANBUL/IST",
   "AirlineCode": "TK",
@@ -31295,6 +31091,18 @@
   "AirlineCode_Merged": "TK",
   "City": "Istanbul",
   "Country": "Turkey"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1025",
+  "Dest": "FUE",
+  "DestName": "FUERTEVENTURA",
+  "AirlineCode": "BIX",
+  "Airline": "BRAATHENS",
+  "Flight": "BIX2108",
+  "AirlineCode_Merged": "BIX",
+  "City": "Fuerteventura",
+  "Country": "Spain"
  },
  {
   "Date": "08-07-2025",
@@ -31323,18 +31131,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1045",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1207",
-  "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1045",
   "Dest": "GOH",
   "DestName": "NUUK",
   "AirlineCode": "GL",
@@ -31343,6 +31139,18 @@
   "AirlineCode_Merged": "GL",
   "City": "Nuuk",
   "Country": "Greenland"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1045",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1207",
+  "AirlineCode_Merged": "SK",
+  "City": "Aalborg",
+  "Country": "Denmark"
  },
  {
   "Date": "08-07-2025",
@@ -31359,18 +31167,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1055",
-  "Dest": "AYT",
-  "DestName": "ANTALYA",
-  "AirlineCode": "XQ",
-  "Airline": "SUNEXPRESS",
-  "Flight": "XQ0573",
-  "AirlineCode_Merged": "XQ",
-  "City": "Antalya",
-  "Country": "Turkey"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1055",
   "Dest": "BTS",
   "DestName": "Bratislava",
   "AirlineCode": "D8",
@@ -31382,15 +31178,15 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "1100",
-  "Dest": "ATH",
-  "DestName": "Athens",
-  "AirlineCode": "A3",
-  "Airline": "AEGEAN AIRLINES",
-  "Flight": "A30751",
-  "AirlineCode_Merged": "A3",
-  "City": "Athens",
-  "Country": "Greece"
+  "Time": "1055",
+  "Dest": "AYT",
+  "DestName": "ANTALYA",
+  "AirlineCode": "XQ",
+  "Airline": "SUNEXPRESS",
+  "Flight": "XQ0573",
+  "AirlineCode_Merged": "XQ",
+  "City": "Antalya",
+  "Country": "Turkey"
  },
  {
   "Date": "08-07-2025",
@@ -31403,6 +31199,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Florence",
   "Country": "Italy"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1100",
+  "Dest": "ATH",
+  "DestName": "Athens",
+  "AirlineCode": "A3",
+  "Airline": "AEGEAN AIRLINES",
+  "Flight": "A30751",
+  "AirlineCode_Merged": "A3",
+  "City": "Athens",
+  "Country": "Greece"
  },
  {
   "Date": "08-07-2025",
@@ -31431,14 +31239,14 @@
  {
   "Date": "08-07-2025",
   "Time": "1110",
-  "Dest": "FAE",
-  "DestName": "FAROE ISLANDS",
+  "Dest": "CPH",
+  "DestName": "COPENHAGEN",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1777",
+  "Flight": "SK1777R",
   "AirlineCode_Merged": "SK",
-  "City": "Faroe Islands",
-  "Country": "Faroe Islands"
+  "City": "Copenhagen",
+  "Country": "Denmark"
  },
  {
   "Date": "08-07-2025",
@@ -31539,14 +31347,14 @@
  {
   "Date": "08-07-2025",
   "Time": "1145",
-  "Dest": "AAR",
-  "DestName": "AARHUS",
+  "Dest": "BGO",
+  "DestName": "BERGEN",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1247",
+  "Flight": "SK2864",
   "AirlineCode_Merged": "SK",
-  "City": "Aarhus",
-  "Country": "Denmark"
+  "City": "Bergen",
+  "Country": "Norway"
  },
  {
   "Date": "08-07-2025",
@@ -31563,18 +31371,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1145",
-  "Dest": "BGO",
-  "DestName": "BERGEN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2864",
-  "AirlineCode_Merged": "SK",
-  "City": "Bergen",
-  "Country": "Norway"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1145",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "SK",
@@ -31586,15 +31382,15 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "1155",
-  "Dest": "BRU",
-  "DestName": "BRUSSELS",
-  "AirlineCode": "SN",
-  "Airline": "BRUSSELS AIRLINES",
-  "Flight": "SN2258",
-  "AirlineCode_Merged": "SN",
-  "City": "Brussels",
-  "Country": "Belgium"
+  "Time": "1145",
+  "Dest": "AAR",
+  "DestName": "AARHUS",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1247",
+  "AirlineCode_Merged": "SK",
+  "City": "Aarhus",
+  "Country": "Denmark"
  },
  {
   "Date": "08-07-2025",
@@ -31619,6 +31415,18 @@
   "AirlineCode_Merged": "SQ",
   "City": "Singapore",
   "Country": "Singapore"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1155",
+  "Dest": "BRU",
+  "DestName": "BRUSSELS",
+  "AirlineCode": "SN",
+  "Airline": "BRUSSELS AIRLINES",
+  "Flight": "SN2258",
+  "AirlineCode_Merged": "SN",
+  "City": "Brussels",
+  "Country": "Belgium"
  },
  {
   "Date": "08-07-2025",
@@ -31731,18 +31539,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1230",
-  "Dest": "BUD",
-  "DestName": "BUDAPEST",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83550",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Budapest",
-  "Country": "Hungary"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1230",
   "Dest": "ESB",
   "DestName": "Ankara",
   "AirlineCode": "PC",
@@ -31751,6 +31547,18 @@
   "AirlineCode_Merged": "PC",
   "City": "Ankara",
   "Country": "Turkey"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1230",
+  "Dest": "BUD",
+  "DestName": "BUDAPEST",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83550",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Budapest",
+  "Country": "Hungary"
  },
  {
   "Date": "08-07-2025",
@@ -31775,18 +31583,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Milan",
   "Country": "Italy"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1240",
-  "Dest": "GVA",
-  "DestName": "GENEVA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2613",
-  "AirlineCode_Merged": "SK",
-  "City": "Geneva",
-  "Country": "Switzerland"
  },
  {
   "Date": "08-07-2025",
@@ -31827,6 +31623,18 @@
  {
   "Date": "08-07-2025",
   "Time": "1240",
+  "Dest": "GVA",
+  "DestName": "GENEVA",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2613",
+  "AirlineCode_Merged": "SK",
+  "City": "Geneva",
+  "Country": "Switzerland"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1240",
   "Dest": "VNO",
   "DestName": "VILNIUS",
   "AirlineCode": "SK",
@@ -31835,18 +31643,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Vilnius",
   "Country": "Lithuania"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1245",
-  "Dest": "KRS",
-  "DestName": "KRISTIANSAND",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2986",
-  "AirlineCode_Merged": "SK",
-  "City": "Kristiansand",
-  "Country": "Norway"
  },
  {
   "Date": "08-07-2025",
@@ -31895,6 +31691,18 @@
   "AirlineCode_Merged": "AC",
   "City": "Toronto",
   "Country": "Canada"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1245",
+  "Dest": "KRS",
+  "DestName": "KRISTIANSAND",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2986",
+  "AirlineCode_Merged": "SK",
+  "City": "Kristiansand",
+  "Country": "Norway"
  },
  {
   "Date": "08-07-2025",
@@ -31983,6 +31791,18 @@
  {
   "Date": "08-07-2025",
   "Time": "1315",
+  "Dest": "GOH",
+  "DestName": "NUUK",
+  "AirlineCode": "GL",
+  "Airline": "AIR GREENLAND",
+  "Flight": "GL3779",
+  "AirlineCode_Merged": "GL",
+  "City": "Nuuk",
+  "Country": "Greenland"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1315",
   "Dest": "HEL",
   "DestName": "HELSINKI",
   "AirlineCode": "AY",
@@ -32019,18 +31839,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1330",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83088",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Aalborg",
-  "Country": "Denmark"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1330",
   "Dest": "AES",
   "DestName": "AALESUND",
   "AirlineCode": "SK",
@@ -32039,6 +31847,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Alesund",
   "Country": "Norway"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1330",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83088",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Aalborg",
+  "Country": "Denmark"
  },
  {
   "Date": "08-07-2025",
@@ -32055,18 +31875,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1350",
-  "Dest": "GDN",
-  "DestName": "GDANSK",
-  "AirlineCode": "W6",
-  "Airline": "WIZZ AIR",
-  "Flight": "W61742",
-  "AirlineCode_Merged": "W6/W4/5W/W9/WU",
-  "City": "Gdansk",
-  "Country": "Poland"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1350",
   "Dest": "VLC",
   "DestName": "VALENCIA",
   "AirlineCode": "SK",
@@ -32075,6 +31883,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Valencia",
   "Country": "Spain"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1350",
+  "Dest": "GDN",
+  "DestName": "GDANSK",
+  "AirlineCode": "W6",
+  "Airline": "WIZZ AIR",
+  "Flight": "W61742",
+  "AirlineCode_Merged": "W6/W4/5W/W9/WU",
+  "City": "Gdansk",
+  "Country": "Poland"
  },
  {
   "Date": "08-07-2025",
@@ -32091,18 +31911,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1355",
-  "Dest": "ORD",
-  "DestName": "Chicago",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0943",
-  "AirlineCode_Merged": "SK",
-  "City": "Chicago",
-  "Country": "United States"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1355",
   "Dest": "PLQ",
   "DestName": "Klaipeda/Palanga",
   "AirlineCode": "SK",
@@ -32114,15 +31922,15 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "1400",
-  "Dest": "BER",
-  "DestName": "Berlin",
+  "Time": "1355",
+  "Dest": "ORD",
+  "DestName": "Chicago",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1677",
+  "Flight": "SK0943",
   "AirlineCode_Merged": "SK",
-  "City": "Berlin",
-  "Country": "Germany"
+  "City": "Chicago",
+  "Country": "United States"
  },
  {
   "Date": "08-07-2025",
@@ -32150,15 +31958,15 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "1405",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
+  "Time": "1400",
+  "Dest": "BER",
+  "DestName": "Berlin",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1213",
+  "Flight": "SK1677",
   "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
+  "City": "Berlin",
+  "Country": "Germany"
  },
  {
   "Date": "08-07-2025",
@@ -32186,15 +31994,15 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "1410",
-  "Dest": "HAM",
-  "DestName": "HAMBURG",
+  "Time": "1405",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0649",
+  "Flight": "SK1213",
   "AirlineCode_Merged": "SK",
-  "City": "Hamburg",
-  "Country": "Germany"
+  "City": "Aalborg",
+  "Country": "Denmark"
  },
  {
   "Date": "08-07-2025",
@@ -32207,6 +32015,18 @@
   "AirlineCode_Merged": "SK",
   "City": "San Francisco",
   "Country": "United States"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1410",
+  "Dest": "HAM",
+  "DestName": "HAMBURG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0649",
+  "AirlineCode_Merged": "SK",
+  "City": "Hamburg",
+  "Country": "Germany"
  },
  {
   "Date": "08-07-2025",
@@ -32231,6 +32051,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Los Angeles",
   "Country": "United States"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1420",
+  "Dest": "OSL",
+  "DestName": "OSLO",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83228",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Oslo",
+  "Country": "Norway"
  },
  {
   "Date": "08-07-2025",
@@ -32267,18 +32099,6 @@
   "AirlineCode_Merged": "BA",
   "City": "London",
   "Country": "United Kingdom"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1420",
-  "Dest": "OSL",
-  "DestName": "OSLO",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83228",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Oslo",
-  "Country": "Norway"
  },
  {
   "Date": "08-07-2025",
@@ -32331,18 +32151,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1445",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "KL",
-  "Airline": "KLM",
-  "Flight": "KL1272",
-  "AirlineCode_Merged": "KL",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1445",
   "Dest": "IST",
   "DestName": "ISTANBUL/IST",
   "AirlineCode": "TK",
@@ -32354,15 +32162,15 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "1500",
-  "Dest": "FRA",
-  "DestName": "FRANKFURT",
-  "AirlineCode": "LH",
-  "Airline": "LUFTHANSA",
-  "Flight": "LH0829",
-  "AirlineCode_Merged": "LH",
-  "City": "Frankfurt",
-  "Country": "Germany"
+  "Time": "1445",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "KL",
+  "Airline": "KLM",
+  "Flight": "KL1272",
+  "AirlineCode_Merged": "KL",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
  },
  {
   "Date": "08-07-2025",
@@ -32378,15 +32186,15 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "1505",
-  "Dest": "BLL",
-  "DestName": "BILLUND",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1285",
-  "AirlineCode_Merged": "SK",
-  "City": "Billund",
-  "Country": "Denmark"
+  "Time": "1500",
+  "Dest": "FRA",
+  "DestName": "FRANKFURT",
+  "AirlineCode": "LH",
+  "Airline": "LUFTHANSA",
+  "Flight": "LH0829",
+  "AirlineCode_Merged": "LH",
+  "City": "Frankfurt",
+  "Country": "Germany"
  },
  {
   "Date": "08-07-2025",
@@ -32398,6 +32206,18 @@
   "Flight": "LX1261",
   "AirlineCode_Merged": "LX",
   "City": "Geneva",
+  "Country": "Switzerland"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1505",
+  "Dest": "ZRH",
+  "DestName": "ZURICH",
+  "AirlineCode": "LX",
+  "Airline": "SWISS  INTERNATIONAL AIRLINES",
+  "Flight": "LX1271",
+  "AirlineCode_Merged": "LX",
+  "City": "Zurich",
   "Country": "Switzerland"
  },
  {
@@ -32415,14 +32235,14 @@
  {
   "Date": "08-07-2025",
   "Time": "1505",
-  "Dest": "ZRH",
-  "DestName": "ZURICH",
-  "AirlineCode": "LX",
-  "Airline": "SWISS  INTERNATIONAL AIRLINES",
-  "Flight": "LX1271",
-  "AirlineCode_Merged": "LX",
-  "City": "Zurich",
-  "Country": "Switzerland"
+  "Dest": "BLL",
+  "DestName": "BILLUND",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1285",
+  "AirlineCode_Merged": "SK",
+  "City": "Billund",
+  "Country": "Denmark"
  },
  {
   "Date": "08-07-2025",
@@ -32487,18 +32307,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1525",
-  "Dest": "ALC",
-  "DestName": "ALICANTE",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2813",
-  "AirlineCode_Merged": "SK",
-  "City": "Alicante",
-  "Country": "Spain"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1525",
   "Dest": "ARN",
   "DestName": "STOCKHOLM/ARN",
   "AirlineCode": "SK",
@@ -32507,6 +32315,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Stockholm",
   "Country": "Sweden"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1525",
+  "Dest": "ALC",
+  "DestName": "ALICANTE",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2813",
+  "AirlineCode_Merged": "SK",
+  "City": "Alicante",
+  "Country": "Spain"
  },
  {
   "Date": "08-07-2025",
@@ -32559,18 +32379,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1535",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1549",
-  "AirlineCode_Merged": "SK",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1535",
   "Dest": "RNN",
   "DestName": "BORNHOLM",
   "AirlineCode": "DX",
@@ -32579,6 +32387,18 @@
   "AirlineCode_Merged": "DX",
   "City": "Bornholm",
   "Country": "Denmark"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1535",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1549",
+  "AirlineCode_Merged": "SK",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
  },
  {
   "Date": "08-07-2025",
@@ -32595,6 +32415,18 @@
  {
   "Date": "08-07-2025",
   "Time": "1545",
+  "Dest": "TNG",
+  "DestName": "TANGIER",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83402",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Tangier",
+  "Country": "Morocco"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1545",
   "Dest": "PRG",
   "DestName": "PRAGUE",
   "AirlineCode": "D8",
@@ -32606,15 +32438,15 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "1545",
-  "Dest": "TNG",
-  "DestName": "TANGIER",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83402",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Tangier",
-  "Country": "Morocco"
+  "Time": "1550",
+  "Dest": "LCA",
+  "DestName": "LARNACA",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2775",
+  "AirlineCode_Merged": "SK",
+  "City": "Larnaca",
+  "Country": "Cyprus"
  },
  {
   "Date": "08-07-2025",
@@ -32639,18 +32471,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Alicante",
   "Country": "Spain"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1550",
-  "Dest": "LCA",
-  "DestName": "LARNACA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2775",
-  "AirlineCode_Merged": "SK",
-  "City": "Larnaca",
-  "Country": "Cyprus"
  },
  {
   "Date": "08-07-2025",
@@ -32679,18 +32499,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1605",
-  "Dest": "BCN",
-  "DestName": "BARCELONA",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR1280",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Barcelona",
-  "Country": "Spain"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1605",
   "Dest": "BOO",
   "DestName": "BODOE",
   "AirlineCode": "SK",
@@ -32711,6 +32519,18 @@
   "AirlineCode_Merged": "QR",
   "City": "Doha",
   "Country": "Qatar"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1605",
+  "Dest": "BCN",
+  "DestName": "BARCELONA",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR1280",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Barcelona",
+  "Country": "Spain"
  },
  {
   "Date": "08-07-2025",
@@ -32751,6 +32571,18 @@
  {
   "Date": "08-07-2025",
   "Time": "1620",
+  "Dest": "LHR",
+  "DestName": "London/LHR",
+  "AirlineCode": "BA",
+  "Airline": "BRITISH AIRWAYS",
+  "Flight": "BA0817",
+  "AirlineCode_Merged": "BA",
+  "City": "London",
+  "Country": "United Kingdom"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1620",
   "Dest": "CHQ",
   "DestName": "CHANIA",
   "AirlineCode": "SK",
@@ -32762,15 +32594,15 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "1620",
-  "Dest": "LHR",
-  "DestName": "London/LHR",
-  "AirlineCode": "BA",
-  "Airline": "BRITISH AIRWAYS",
-  "Flight": "BA0817",
-  "AirlineCode_Merged": "BA",
-  "City": "London",
-  "Country": "United Kingdom"
+  "Time": "1625",
+  "Dest": "FAO",
+  "DestName": "FARO",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2823",
+  "AirlineCode_Merged": "SK",
+  "City": "Faro",
+  "Country": "Portugal"
  },
  {
   "Date": "08-07-2025",
@@ -32795,18 +32627,6 @@
   "AirlineCode_Merged": "FR/RK",
   "City": "Bologna",
   "Country": "Italy"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1625",
-  "Dest": "FAO",
-  "DestName": "FARO",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2823",
-  "AirlineCode_Merged": "SK",
-  "City": "Faro",
-  "Country": "Portugal"
  },
  {
   "Date": "08-07-2025",
@@ -32847,18 +32667,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1640",
-  "Dest": "BGO",
-  "DestName": "BERGEN",
-  "AirlineCode": "DY",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "DY0969",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Bergen",
-  "Country": "Norway"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1640",
   "Dest": "LHR",
   "DestName": "London/LHR",
   "AirlineCode": "SK",
@@ -32883,6 +32691,18 @@
  {
   "Date": "08-07-2025",
   "Time": "1640",
+  "Dest": "BGO",
+  "DestName": "BERGEN",
+  "AirlineCode": "DY",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "DY0969",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Bergen",
+  "Country": "Norway"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1640",
   "Dest": "SVG",
   "DestName": "STAVANGER",
   "AirlineCode": "DY",
@@ -32891,18 +32711,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Stavanger",
   "Country": "Norway"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1645",
-  "Dest": "AYT",
-  "DestName": "ANTALYA",
-  "AirlineCode": "BIX",
-  "Airline": "BRAATHENS",
-  "Flight": "BIX2084",
-  "AirlineCode_Merged": "BIX",
-  "City": "Antalya",
-  "Country": "Turkey"
  },
  {
   "Date": "08-07-2025",
@@ -32918,6 +32726,18 @@
  },
  {
   "Date": "08-07-2025",
+  "Time": "1645",
+  "Dest": "AYT",
+  "DestName": "ANTALYA",
+  "AirlineCode": "BIX",
+  "Airline": "BRAATHENS",
+  "Flight": "BIX2084",
+  "AirlineCode_Merged": "BIX",
+  "City": "Antalya",
+  "Country": "Turkey"
+ },
+ {
+  "Date": "08-07-2025",
   "Time": "1650",
   "Dest": "VCE",
   "DestName": "VENICE",
@@ -32927,42 +32747,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Venice",
   "Country": "Italy"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1700",
-  "Dest": "EDI",
-  "DestName": "EDINBURGH",
-  "AirlineCode": "RK",
-  "Airline": "RYANAIR",
-  "Flight": "RK2675",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Edinburgh",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1700",
-  "Dest": "HEL",
-  "DestName": "HELSINKI",
-  "AirlineCode": "AY",
-  "Airline": "FINNAIR",
-  "Flight": "AY0956",
-  "AirlineCode_Merged": "AY",
-  "City": "Helsinki",
-  "Country": "Finland"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1700",
-  "Dest": "KRK",
-  "DestName": "KRAKOW",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR2725",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Krakow",
-  "Country": "Poland"
  },
  {
   "Date": "08-07-2025",
@@ -32987,6 +32771,42 @@
   "AirlineCode_Merged": "6I",
   "City": "Sonderborg",
   "Country": "Denmark"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1700",
+  "Dest": "EDI",
+  "DestName": "EDINBURGH",
+  "AirlineCode": "RK",
+  "Airline": "RYANAIR",
+  "Flight": "RK2675",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Edinburgh",
+  "Country": "United Kingdom"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1700",
+  "Dest": "KRK",
+  "DestName": "KRAKOW",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR2725",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Krakow",
+  "Country": "Poland"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1700",
+  "Dest": "HEL",
+  "DestName": "HELSINKI",
+  "AirlineCode": "AY",
+  "Airline": "FINNAIR",
+  "Flight": "AY0956",
+  "AirlineCode_Merged": "AY",
+  "City": "Helsinki",
+  "Country": "Finland"
  },
  {
   "Date": "08-07-2025",
@@ -33087,18 +32907,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1730",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1203",
-  "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1730",
   "Dest": "BGO",
   "DestName": "BERGEN",
   "AirlineCode": "SK",
@@ -33111,18 +32919,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1730",
-  "Dest": "IAD",
-  "DestName": "WASHINGTON",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0925",
-  "AirlineCode_Merged": "SK",
-  "City": "Washington",
-  "Country": "United States"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1730",
   "Dest": "LHR",
   "DestName": "London/LHR",
   "AirlineCode": "SK",
@@ -33131,6 +32927,30 @@
   "AirlineCode_Merged": "SK",
   "City": "London",
   "Country": "United Kingdom"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1730",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1203",
+  "AirlineCode_Merged": "SK",
+  "City": "Aalborg",
+  "Country": "Denmark"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1730",
+  "Dest": "IAD",
+  "DestName": "WASHINGTON",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0925",
+  "AirlineCode_Merged": "SK",
+  "City": "Washington",
+  "Country": "United States"
  },
  {
   "Date": "08-07-2025",
@@ -33147,14 +32967,14 @@
  {
   "Date": "08-07-2025",
   "Time": "1740",
-  "Dest": "GDN",
-  "DestName": "GDANSK",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0757",
-  "AirlineCode_Merged": "SK",
-  "City": "Gdansk",
-  "Country": "Poland"
+  "Dest": "LIS",
+  "DestName": "LISBON",
+  "AirlineCode": "TP",
+  "Airline": "TAP PORTUGAL",
+  "Flight": "TP0755",
+  "AirlineCode_Merged": "TP",
+  "City": "Lisbon",
+  "Country": "Portugal"
  },
  {
   "Date": "08-07-2025",
@@ -33171,14 +32991,14 @@
  {
   "Date": "08-07-2025",
   "Time": "1740",
-  "Dest": "LIS",
-  "DestName": "LISBON",
-  "AirlineCode": "TP",
-  "Airline": "TAP PORTUGAL",
-  "Flight": "TP0755",
-  "AirlineCode_Merged": "TP",
-  "City": "Lisbon",
-  "Country": "Portugal"
+  "Dest": "GDN",
+  "DestName": "GDANSK",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0757",
+  "AirlineCode_Merged": "SK",
+  "City": "Gdansk",
+  "Country": "Poland"
  },
  {
   "Date": "08-07-2025",
@@ -33195,18 +33015,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1745",
-  "Dest": "SZG",
-  "DestName": "SALZBURG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2619",
-  "AirlineCode_Merged": "SK",
-  "City": "Salzburg",
-  "Country": "Austria"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1745",
   "Dest": "VIE",
   "DestName": "VIENNA",
   "AirlineCode": "OS",
@@ -33214,6 +33022,18 @@
   "Flight": "OS0304",
   "AirlineCode_Merged": "OS",
   "City": "Vienna",
+  "Country": "Austria"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1745",
+  "Dest": "SZG",
+  "DestName": "SALZBURG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2619",
+  "AirlineCode_Merged": "SK",
+  "City": "Salzburg",
   "Country": "Austria"
  },
  {
@@ -33291,18 +33111,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1810",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0553",
-  "AirlineCode_Merged": "SK",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1810",
   "Dest": "BRU",
   "DestName": "BRUSSELS",
   "AirlineCode": "SN",
@@ -33311,18 +33119,6 @@
   "AirlineCode_Merged": "SN",
   "City": "Brussels",
   "Country": "Belgium"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1810",
-  "Dest": "DUB",
-  "DestName": "Dublin",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2537",
-  "AirlineCode_Merged": "SK",
-  "City": "Dublin",
-  "Country": "Ireland"
  },
  {
   "Date": "08-07-2025",
@@ -33339,6 +33135,18 @@
  {
   "Date": "08-07-2025",
   "Time": "1810",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0553",
+  "AirlineCode_Merged": "SK",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1810",
   "Dest": "SPU",
   "DestName": "SPLIT",
   "AirlineCode": "SK",
@@ -33347,6 +33155,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Split",
   "Country": "Croatia"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1810",
+  "Dest": "DUB",
+  "DestName": "Dublin",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2537",
+  "AirlineCode_Merged": "SK",
+  "City": "Dublin",
+  "Country": "Ireland"
  },
  {
   "Date": "08-07-2025",
@@ -33363,18 +33183,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1820",
-  "Dest": "AAR",
-  "DestName": "AARHUS",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1257",
-  "AirlineCode_Merged": "SK",
-  "City": "Aarhus",
-  "Country": "Denmark"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1820",
   "Dest": "BRU",
   "DestName": "BRUSSELS",
   "AirlineCode": "SK",
@@ -33383,6 +33191,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Brussels",
   "Country": "Belgium"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1820",
+  "Dest": "AAR",
+  "DestName": "AARHUS",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1257",
+  "AirlineCode_Merged": "SK",
+  "City": "Aarhus",
+  "Country": "Denmark"
  },
  {
   "Date": "08-07-2025",
@@ -33411,18 +33231,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1840",
-  "Dest": "BGY",
-  "DestName": "Milan/BGY",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR1785",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Milan",
-  "Country": "Italy"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1840",
   "Dest": "NCE",
   "DestName": "NICE",
   "AirlineCode": "D8",
@@ -33431,6 +33239,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Nice",
   "Country": "France"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1840",
+  "Dest": "BGY",
+  "DestName": "Milan/BGY",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR1785",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Milan",
+  "Country": "Italy"
  },
  {
   "Date": "08-07-2025",
@@ -33495,18 +33315,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1910",
-  "Dest": "CDG",
-  "DestName": "Paris/CDG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0559",
-  "AirlineCode_Merged": "SK",
-  "City": "Paris",
-  "Country": "France"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1910",
   "Dest": "FRA",
   "DestName": "FRANKFURT",
   "AirlineCode": "LH",
@@ -33515,6 +33323,18 @@
   "AirlineCode_Merged": "LH",
   "City": "Frankfurt",
   "Country": "Germany"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1910",
+  "Dest": "CDG",
+  "DestName": "Paris/CDG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0559",
+  "AirlineCode_Merged": "SK",
+  "City": "Paris",
+  "Country": "France"
  },
  {
   "Date": "08-07-2025",
@@ -33555,18 +33375,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1925",
-  "Dest": "HEL",
-  "DestName": "HELSINKI",
-  "AirlineCode": "AY",
-  "Airline": "FINNAIR",
-  "Flight": "AY0960",
-  "AirlineCode_Merged": "AY",
-  "City": "Helsinki",
-  "Country": "Finland"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1925",
   "Dest": "WAW",
   "DestName": "WARSAW",
   "AirlineCode": "LO",
@@ -33575,6 +33383,18 @@
   "AirlineCode_Merged": "LO",
   "City": "Warsaw",
   "Country": "Poland"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1925",
+  "Dest": "HEL",
+  "DestName": "HELSINKI",
+  "AirlineCode": "AY",
+  "Airline": "FINNAIR",
+  "Flight": "AY0960",
+  "AirlineCode_Merged": "AY",
+  "City": "Helsinki",
+  "Country": "Finland"
  },
  {
   "Date": "08-07-2025",
@@ -33627,18 +33447,6 @@
  {
   "Date": "08-07-2025",
   "Time": "1950",
-  "Dest": "KRK",
-  "DestName": "KRAKOW",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83564",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Krakow",
-  "Country": "Poland"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "1950",
   "Dest": "VIE",
   "DestName": "VIENNA",
   "AirlineCode": "FR",
@@ -33647,6 +33455,18 @@
   "AirlineCode_Merged": "FR/RK",
   "City": "Vienna",
   "Country": "Austria"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "1950",
+  "Dest": "KRK",
+  "DestName": "KRAKOW",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83564",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Krakow",
+  "Country": "Poland"
  },
  {
   "Date": "08-07-2025",
@@ -33711,14 +33531,14 @@
  {
   "Date": "08-07-2025",
   "Time": "2030",
-  "Dest": "DUS",
-  "DestName": "Duesseldorf",
-  "AirlineCode": "EW",
-  "Airline": "EUROWINGS",
-  "Flight": "EW9245",
-  "AirlineCode_Merged": "EW",
-  "City": "Duesseldorf",
-  "Country": "Germany"
+  "Dest": "OSL",
+  "DestName": "OSLO",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83234",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Oslo",
+  "Country": "Norway"
  },
  {
   "Date": "08-07-2025",
@@ -33735,14 +33555,14 @@
  {
   "Date": "08-07-2025",
   "Time": "2030",
-  "Dest": "OSL",
-  "DestName": "OSLO",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83234",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Oslo",
-  "Country": "Norway"
+  "Dest": "DUS",
+  "DestName": "Duesseldorf",
+  "AirlineCode": "EW",
+  "Airline": "EUROWINGS",
+  "Flight": "EW9245",
+  "AirlineCode_Merged": "EW",
+  "City": "Duesseldorf",
+  "Country": "Germany"
  },
  {
   "Date": "08-07-2025",
@@ -33783,18 +33603,6 @@
  {
   "Date": "08-07-2025",
   "Time": "2055",
-  "Dest": "LUX",
-  "DestName": "LUXEMBOURG",
-  "AirlineCode": "LG",
-  "Airline": "LUXAIR",
-  "Flight": "LG5436",
-  "AirlineCode_Merged": "LG",
-  "City": "Luxembourg",
-  "Country": "Luxembourg"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "2055",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "SK",
@@ -33803,6 +33611,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "2055",
+  "Dest": "LUX",
+  "DestName": "LUXEMBOURG",
+  "AirlineCode": "LG",
+  "Airline": "LUXAIR",
+  "Flight": "LG5436",
+  "AirlineCode_Merged": "LG",
+  "City": "Luxembourg",
+  "Country": "Luxembourg"
  },
  {
   "Date": "08-07-2025",
@@ -33815,6 +33635,18 @@
   "AirlineCode_Merged": "W6/W4/5W/W9/WU",
   "City": "Bucharest",
   "Country": "Romania"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "2120",
+  "Dest": "MUC",
+  "DestName": "MUNICH",
+  "AirlineCode": "LH",
+  "Airline": "LUFTHANSA",
+  "Flight": "LH2445",
+  "AirlineCode_Merged": "LH",
+  "City": "Munich",
+  "Country": "Germany"
  },
  {
   "Date": "08-07-2025",
@@ -33838,18 +33670,6 @@
   "Flight": "EJU5268",
   "AirlineCode_Merged": "EZY/EJU/EZS",
   "City": "Berlin",
-  "Country": "Germany"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "2120",
-  "Dest": "MUC",
-  "DestName": "MUNICH",
-  "AirlineCode": "LH",
-  "Airline": "LUFTHANSA",
-  "Flight": "LH2445",
-  "AirlineCode_Merged": "LH",
-  "City": "Munich",
   "Country": "Germany"
  },
  {
@@ -33975,18 +33795,6 @@
  {
   "Date": "08-07-2025",
   "Time": "2300",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1428",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "2300",
   "Dest": "BGO",
   "DestName": "BERGEN",
   "AirlineCode": "SK",
@@ -34023,6 +33831,18 @@
  {
   "Date": "08-07-2025",
   "Time": "2300",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1428",
+  "AirlineCode_Merged": "SK",
+  "City": "Stockholm",
+  "Country": "Sweden"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "2300",
   "Dest": "TRD",
   "DestName": "TRONDHEIM",
   "AirlineCode": "SK",
@@ -34043,6 +33863,30 @@
   "AirlineCode_Merged": "SK",
   "City": "Aalborg",
   "Country": "Denmark"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "2305",
+  "Dest": "SVG",
+  "DestName": "STAVANGER",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1876",
+  "AirlineCode_Merged": "SK",
+  "City": "Stavanger",
+  "Country": "Norway"
+ },
+ {
+  "Date": "08-07-2025",
+  "Time": "2305",
+  "Dest": "GOT",
+  "DestName": "Gothenburg",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0448",
+  "AirlineCode_Merged": "SK",
+  "City": "Goteborg",
+  "Country": "Sweden"
  },
  {
   "Date": "08-07-2025",
@@ -34070,30 +33914,6 @@
  },
  {
   "Date": "08-07-2025",
-  "Time": "2305",
-  "Dest": "GOT",
-  "DestName": "Gothenburg",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0448",
-  "AirlineCode_Merged": "SK",
-  "City": "Goteborg",
-  "Country": "Sweden"
- },
- {
-  "Date": "08-07-2025",
-  "Time": "2305",
-  "Dest": "SVG",
-  "DestName": "STAVANGER",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1876",
-  "AirlineCode_Merged": "SK",
-  "City": "Stavanger",
-  "Country": "Norway"
- },
- {
-  "Date": "08-07-2025",
   "Time": "2335",
   "Dest": "EBL",
   "DestName": "Erbil",
@@ -34103,6 +33923,18 @@
   "AirlineCode_Merged": "UD",
   "City": "Erbil",
   "Country": "Iraq"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0045",
+  "Dest": "BLL",
+  "DestName": "BILLUND",
+  "AirlineCode": "GL",
+  "Airline": "AIR GREENLAND",
+  "Flight": "GL0930",
+  "AirlineCode_Merged": "GL",
+  "City": "Billund",
+  "Country": "Denmark"
  },
  {
   "Date": "09-07-2025",
@@ -34143,18 +33975,6 @@
  {
   "Date": "09-07-2025",
   "Time": "0600",
-  "Dest": "AGP",
-  "DestName": "MALAGA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0583",
-  "AirlineCode_Merged": "SK",
-  "City": "Malaga",
-  "Country": "Spain"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0600",
   "Dest": "AMS",
   "DestName": "AMSTERDAM",
   "AirlineCode": "KL",
@@ -34167,14 +33987,14 @@
  {
   "Date": "09-07-2025",
   "Time": "0600",
-  "Dest": "BOJ",
-  "DestName": "Burgas",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83780",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Burgas",
-  "Country": "Bulgaria"
+  "Dest": "AGP",
+  "DestName": "MALAGA",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0583",
+  "AirlineCode_Merged": "SK",
+  "City": "Malaga",
+  "Country": "Spain"
  },
  {
   "Date": "09-07-2025",
@@ -34191,6 +34011,18 @@
  {
   "Date": "09-07-2025",
   "Time": "0600",
+  "Dest": "BOJ",
+  "DestName": "Burgas",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83780",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Burgas",
+  "Country": "Bulgaria"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0600",
   "Dest": "ZAG",
   "DestName": "ZAGREB",
   "AirlineCode": "D8",
@@ -34199,30 +34031,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Zagreb",
   "Country": "Croatia"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0605",
-  "Dest": "BOJ",
-  "DestName": "Burgas",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK7429",
-  "AirlineCode_Merged": "SK",
-  "City": "Burgas",
-  "Country": "Bulgaria"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0605",
-  "Dest": "BVA",
-  "DestName": "Paris/BVA",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR9267",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Paris",
-  "Country": "France"
  },
  {
   "Date": "09-07-2025",
@@ -34239,14 +34047,14 @@
  {
   "Date": "09-07-2025",
   "Time": "0605",
-  "Dest": "NCE",
-  "DestName": "NICE",
+  "Dest": "BOJ",
+  "DestName": "Burgas",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0793",
+  "Flight": "SK7429",
   "AirlineCode_Merged": "SK",
-  "City": "Nice",
-  "Country": "France"
+  "City": "Burgas",
+  "Country": "Bulgaria"
  },
  {
   "Date": "09-07-2025",
@@ -34259,6 +34067,30 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Pisa",
   "Country": "Italy"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0605",
+  "Dest": "NCE",
+  "DestName": "NICE",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0793",
+  "AirlineCode_Merged": "SK",
+  "City": "Nice",
+  "Country": "France"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0605",
+  "Dest": "BVA",
+  "DestName": "Paris/BVA",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR9267",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Paris",
+  "Country": "France"
  },
  {
   "Date": "09-07-2025",
@@ -34299,18 +34131,6 @@
  {
   "Date": "09-07-2025",
   "Time": "0615",
-  "Dest": "FAE",
-  "DestName": "FAROE ISLANDS",
-  "AirlineCode": "RC",
-  "Airline": "ATLANTIC AIRWAYS",
-  "Flight": "RC0451",
-  "AirlineCode_Merged": "RC",
-  "City": "Faroe Islands",
-  "Country": "Faroe Islands"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0615",
   "Dest": "FCO",
   "DestName": "Rome/FCO",
   "AirlineCode": "D8",
@@ -34323,6 +34143,18 @@
  {
   "Date": "09-07-2025",
   "Time": "0615",
+  "Dest": "FAE",
+  "DestName": "FAROE ISLANDS",
+  "AirlineCode": "RC",
+  "Airline": "ATLANTIC AIRWAYS",
+  "Flight": "RC0451",
+  "AirlineCode_Merged": "RC",
+  "City": "Faroe Islands",
+  "Country": "Faroe Islands"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0615",
   "Dest": "NCE",
   "DestName": "NICE",
   "AirlineCode": "D8",
@@ -34331,6 +34163,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Nice",
   "Country": "France"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0625",
+  "Dest": "PUY",
+  "DestName": "PULA",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2835",
+  "AirlineCode_Merged": "SK",
+  "City": "Pula",
+  "Country": "Croatia"
  },
  {
   "Date": "09-07-2025",
@@ -34367,18 +34211,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Naples",
   "Country": "Italy"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0625",
-  "Dest": "PUY",
-  "DestName": "PULA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2835",
-  "AirlineCode_Merged": "SK",
-  "City": "Pula",
-  "Country": "Croatia"
  },
  {
   "Date": "09-07-2025",
@@ -34491,14 +34323,14 @@
  {
   "Date": "09-07-2025",
   "Time": "0655",
-  "Dest": "AGP",
-  "DestName": "MALAGA",
+  "Dest": "ZAD",
+  "DestName": "ZADAR",
   "AirlineCode": "D8",
   "Airline": "NORWEGIAN AIR",
-  "Flight": "D83670",
+  "Flight": "D83296",
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Malaga",
-  "Country": "Spain"
+  "City": "Zadar",
+  "Country": "Croatia"
  },
  {
   "Date": "09-07-2025",
@@ -34515,38 +34347,14 @@
  {
   "Date": "09-07-2025",
   "Time": "0655",
-  "Dest": "ZAD",
-  "DestName": "ZADAR",
+  "Dest": "AGP",
+  "DestName": "MALAGA",
   "AirlineCode": "D8",
   "Airline": "NORWEGIAN AIR",
-  "Flight": "D83296",
+  "Flight": "D83670",
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Zadar",
-  "Country": "Croatia"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0700",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0402",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0700",
-  "Dest": "OSL",
-  "DestName": "OSLO",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0454",
-  "AirlineCode_Merged": "SK",
-  "City": "Oslo",
-  "Country": "Norway"
+  "City": "Malaga",
+  "Country": "Spain"
  },
  {
   "Date": "09-07-2025",
@@ -34583,6 +34391,30 @@
   "AirlineCode_Merged": "LO",
   "City": "Warsaw",
   "Country": "Poland"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0700",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0402",
+  "AirlineCode_Merged": "SK",
+  "City": "Stockholm",
+  "Country": "Sweden"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0700",
+  "Dest": "OSL",
+  "DestName": "OSLO",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0454",
+  "AirlineCode_Merged": "SK",
+  "City": "Oslo",
+  "Country": "Norway"
  },
  {
   "Date": "09-07-2025",
@@ -34635,18 +34467,6 @@
  {
   "Date": "09-07-2025",
   "Time": "0720",
-  "Dest": "LHR",
-  "DestName": "London/LHR",
-  "AirlineCode": "BA",
-  "Airline": "BRITISH AIRWAYS",
-  "Flight": "BA0811",
-  "AirlineCode_Merged": "BA",
-  "City": "London",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0720",
   "Dest": "PMI",
   "DestName": "Palma d Mallorca",
   "AirlineCode": "SK",
@@ -34667,6 +34487,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Palermo",
   "Country": "Italy"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0720",
+  "Dest": "LHR",
+  "DestName": "London/LHR",
+  "AirlineCode": "BA",
+  "Airline": "BRITISH AIRWAYS",
+  "Flight": "BA0811",
+  "AirlineCode_Merged": "BA",
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "09-07-2025",
@@ -34755,6 +34587,18 @@
  {
   "Date": "09-07-2025",
   "Time": "0745",
+  "Dest": "FCO",
+  "DestName": "Rome/FCO",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0681",
+  "AirlineCode_Merged": "SK",
+  "City": "Rome",
+  "Country": "Italy"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0745",
   "Dest": "AAL",
   "DestName": "AALBORG",
   "AirlineCode": "SK",
@@ -34778,30 +34622,6 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "0745",
-  "Dest": "FCO",
-  "DestName": "Rome/FCO",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0681",
-  "AirlineCode_Merged": "SK",
-  "City": "Rome",
-  "Country": "Italy"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0755",
-  "Dest": "LGW",
-  "DestName": "London/LGW",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83510",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "London",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "09-07-2025",
   "Time": "0755",
   "Dest": "ZRH",
   "DestName": "ZURICH",
@@ -34814,27 +34634,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "0800",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1416",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0800",
-  "Dest": "KRK",
-  "DestName": "KRAKOW",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1735",
-  "AirlineCode_Merged": "SK",
-  "City": "Krakow",
-  "Country": "Poland"
+  "Time": "0755",
+  "Dest": "LGW",
+  "DestName": "London/LGW",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83510",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "09-07-2025",
@@ -34862,15 +34670,27 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "0805",
-  "Dest": "ATH",
-  "DestName": "Athens",
+  "Time": "0800",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0777",
+  "Flight": "SK1416",
   "AirlineCode_Merged": "SK",
-  "City": "Athens",
-  "Country": "Greece"
+  "City": "Stockholm",
+  "Country": "Sweden"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0800",
+  "Dest": "KRK",
+  "DestName": "KRAKOW",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1735",
+  "AirlineCode_Merged": "SK",
+  "City": "Krakow",
+  "Country": "Poland"
  },
  {
   "Date": "09-07-2025",
@@ -34883,6 +34703,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Brussels",
   "Country": "Belgium"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0805",
+  "Dest": "ATH",
+  "DestName": "Athens",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0777",
+  "AirlineCode_Merged": "SK",
+  "City": "Athens",
+  "Country": "Greece"
  },
  {
   "Date": "09-07-2025",
@@ -34923,30 +34755,6 @@
  {
   "Date": "09-07-2025",
   "Time": "0815",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2551",
-  "AirlineCode_Merged": "SK",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0815",
-  "Dest": "LHR",
-  "DestName": "London/LHR",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0501",
-  "AirlineCode_Merged": "SK",
-  "City": "London",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0815",
   "Dest": "RIX",
   "DestName": "RIGA",
   "AirlineCode": "BT",
@@ -34982,15 +34790,27 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "0820",
-  "Dest": "BER",
-  "DestName": "Berlin",
+  "Time": "0815",
+  "Dest": "LHR",
+  "DestName": "London/LHR",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1673",
+  "Flight": "SK0501",
   "AirlineCode_Merged": "SK",
-  "City": "Berlin",
-  "Country": "Germany"
+  "City": "London",
+  "Country": "United Kingdom"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0815",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2551",
+  "AirlineCode_Merged": "SK",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
  },
  {
   "Date": "09-07-2025",
@@ -35007,6 +34827,18 @@
  {
   "Date": "09-07-2025",
   "Time": "0820",
+  "Dest": "BER",
+  "DestName": "Berlin",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1673",
+  "AirlineCode_Merged": "SK",
+  "City": "Berlin",
+  "Country": "Germany"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0820",
   "Dest": "SVG",
   "DestName": "STAVANGER",
   "AirlineCode": "SK",
@@ -35015,6 +34847,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Stavanger",
   "Country": "Norway"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0825",
+  "Dest": "MAN",
+  "DestName": "MANCHESTER",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0539",
+  "AirlineCode_Merged": "SK",
+  "City": "Manchester",
+  "Country": "United Kingdom"
  },
  {
   "Date": "09-07-2025",
@@ -35043,18 +34887,6 @@
  {
   "Date": "09-07-2025",
   "Time": "0825",
-  "Dest": "MAN",
-  "DestName": "MANCHESTER",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0539",
-  "AirlineCode_Merged": "SK",
-  "City": "Manchester",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0825",
   "Dest": "MXP",
   "DestName": "Milan/MXP",
   "AirlineCode": "SK",
@@ -35063,30 +34895,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Milan",
   "Country": "Italy"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0830",
-  "Dest": "DUB",
-  "DestName": "Dublin",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0537",
-  "AirlineCode_Merged": "SK",
-  "City": "Dublin",
-  "Country": "Ireland"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0830",
-  "Dest": "GOT",
-  "DestName": "Gothenburg",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0434",
-  "AirlineCode_Merged": "SK",
-  "City": "Goteborg",
-  "Country": "Sweden"
  },
  {
   "Date": "09-07-2025",
@@ -35103,6 +34911,18 @@
  {
   "Date": "09-07-2025",
   "Time": "0830",
+  "Dest": "DUB",
+  "DestName": "Dublin",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0537",
+  "AirlineCode_Merged": "SK",
+  "City": "Dublin",
+  "Country": "Ireland"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0830",
   "Dest": "SJJ",
   "DestName": "SARAJEVO",
   "AirlineCode": "SK",
@@ -35114,15 +34934,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "0835",
-  "Dest": "BLL",
-  "DestName": "BILLUND",
+  "Time": "0830",
+  "Dest": "GOT",
+  "DestName": "Gothenburg",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1281",
+  "Flight": "SK0434",
   "AirlineCode_Merged": "SK",
-  "City": "Billund",
-  "Country": "Denmark"
+  "City": "Goteborg",
+  "Country": "Sweden"
  },
  {
   "Date": "09-07-2025",
@@ -35135,6 +34955,18 @@
   "AirlineCode_Merged": "GL",
   "City": "Pituffik",
   "Country": "Greenland"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0835",
+  "Dest": "BLL",
+  "DestName": "BILLUND",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1281",
+  "AirlineCode_Merged": "SK",
+  "City": "Billund",
+  "Country": "Denmark"
  },
  {
   "Date": "09-07-2025",
@@ -35175,6 +35007,18 @@
  {
   "Date": "09-07-2025",
   "Time": "0850",
+  "Dest": "MUC",
+  "DestName": "MUNICH",
+  "AirlineCode": "LH",
+  "Airline": "LUFTHANSA",
+  "Flight": "LH2439",
+  "AirlineCode_Merged": "LH",
+  "City": "Munich",
+  "Country": "Germany"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0850",
   "Dest": "FLR",
   "DestName": "FLORENCE",
   "AirlineCode": "SK",
@@ -35195,18 +35039,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Madrid",
   "Country": "Spain"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0850",
-  "Dest": "MUC",
-  "DestName": "MUNICH",
-  "AirlineCode": "LH",
-  "Airline": "LUFTHANSA",
-  "Flight": "LH2439",
-  "AirlineCode_Merged": "LH",
-  "City": "Munich",
-  "Country": "Germany"
  },
  {
   "Date": "09-07-2025",
@@ -35235,18 +35067,6 @@
  {
   "Date": "09-07-2025",
   "Time": "0900",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1432",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0900",
   "Dest": "JFK",
   "DestName": "New York/JFK",
   "AirlineCode": "DL",
@@ -35255,6 +35075,18 @@
   "AirlineCode_Merged": "DL",
   "City": "New York",
   "Country": "United States"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0900",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1432",
+  "AirlineCode_Merged": "SK",
+  "City": "Stockholm",
+  "Country": "Sweden"
  },
  {
   "Date": "09-07-2025",
@@ -35307,18 +35139,6 @@
  {
   "Date": "09-07-2025",
   "Time": "0920",
-  "Dest": "GVA",
-  "DestName": "GENEVA",
-  "AirlineCode": "EZS",
-  "Airline": "EASYJET",
-  "Flight": "EZS1538",
-  "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "Geneva",
-  "Country": "Switzerland"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0920",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "DY",
@@ -35327,6 +35147,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0920",
+  "Dest": "GVA",
+  "DestName": "GENEVA",
+  "AirlineCode": "EZS",
+  "Airline": "EASYJET",
+  "Flight": "EZS1538",
+  "AirlineCode_Merged": "EZY/EJU/EZS",
+  "City": "Geneva",
+  "Country": "Switzerland"
  },
  {
   "Date": "09-07-2025",
@@ -35355,18 +35187,6 @@
  {
   "Date": "09-07-2025",
   "Time": "0930",
-  "Dest": "BCN",
-  "DestName": "BARCELONA",
-  "AirlineCode": "VY",
-  "Airline": "VUELING AIRLINES",
-  "Flight": "VY1871",
-  "AirlineCode_Merged": "VY",
-  "City": "Barcelona",
-  "Country": "Spain"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "0930",
   "Dest": "CDG",
   "DestName": "Paris/CDG",
   "AirlineCode": "EJU",
@@ -35378,15 +35198,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "0935",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1418",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
+  "Time": "0930",
+  "Dest": "BCN",
+  "DestName": "BARCELONA",
+  "AirlineCode": "VY",
+  "Airline": "VUELING AIRLINES",
+  "Flight": "VY1871",
+  "AirlineCode_Merged": "VY",
+  "City": "Barcelona",
+  "Country": "Spain"
  },
  {
   "Date": "09-07-2025",
@@ -35399,6 +35219,18 @@
   "AirlineCode_Merged": "LH",
   "City": "Frankfurt",
   "Country": "Germany"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "0935",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1418",
+  "AirlineCode_Merged": "SK",
+  "City": "Stockholm",
+  "Country": "Sweden"
  },
  {
   "Date": "09-07-2025",
@@ -35535,14 +35367,14 @@
  {
   "Date": "09-07-2025",
   "Time": "1045",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1207",
-  "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
+  "Dest": "WAW",
+  "DestName": "WARSAW",
+  "AirlineCode": "LO",
+  "Airline": "LOT POLISH AIRLINES",
+  "Flight": "LO0464",
+  "AirlineCode_Merged": "LO",
+  "City": "Warsaw",
+  "Country": "Poland"
  },
  {
   "Date": "09-07-2025",
@@ -35559,6 +35391,18 @@
  {
   "Date": "09-07-2025",
   "Time": "1045",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1207",
+  "AirlineCode_Merged": "SK",
+  "City": "Aalborg",
+  "Country": "Denmark"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1045",
   "Dest": "RHO",
   "DestName": "Rhodes",
   "AirlineCode": "GQ",
@@ -35567,18 +35411,6 @@
   "AirlineCode_Merged": "GQ",
   "City": "Rhodes",
   "Country": "Greece"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1045",
-  "Dest": "WAW",
-  "DestName": "WARSAW",
-  "AirlineCode": "LO",
-  "Airline": "LOT POLISH AIRLINES",
-  "Flight": "LO0464",
-  "AirlineCode_Merged": "LO",
-  "City": "Warsaw",
-  "Country": "Poland"
  },
  {
   "Date": "09-07-2025",
@@ -35607,14 +35439,14 @@
  {
   "Date": "09-07-2025",
   "Time": "1100",
-  "Dest": "ATH",
-  "DestName": "Athens",
-  "AirlineCode": "A3",
-  "Airline": "AEGEAN AIRLINES",
-  "Flight": "A30751",
-  "AirlineCode_Merged": "A3",
-  "City": "Athens",
-  "Country": "Greece"
+  "Dest": "RNN",
+  "DestName": "BORNHOLM",
+  "AirlineCode": "DX",
+  "Airline": "DAT",
+  "Flight": "DX0034",
+  "AirlineCode_Merged": "DX",
+  "City": "Bornholm",
+  "Country": "Denmark"
  },
  {
   "Date": "09-07-2025",
@@ -35631,26 +35463,14 @@
  {
   "Date": "09-07-2025",
   "Time": "1100",
-  "Dest": "RNN",
-  "DestName": "BORNHOLM",
-  "AirlineCode": "DX",
-  "Airline": "DAT",
-  "Flight": "DX0034",
-  "AirlineCode_Merged": "DX",
-  "City": "Bornholm",
-  "Country": "Denmark"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1105",
-  "Dest": "PRG",
-  "DestName": "PRAGUE",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR6707",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Prague",
-  "Country": "Czech Republic"
+  "Dest": "ATH",
+  "DestName": "Athens",
+  "AirlineCode": "A3",
+  "Airline": "AEGEAN AIRLINES",
+  "Flight": "A30751",
+  "AirlineCode_Merged": "A3",
+  "City": "Athens",
+  "Country": "Greece"
  },
  {
   "Date": "09-07-2025",
@@ -35666,15 +35486,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1110",
-  "Dest": "FAE",
-  "DestName": "FAROE ISLANDS",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1777",
-  "AirlineCode_Merged": "SK",
-  "City": "Faroe Islands",
-  "Country": "Faroe Islands"
+  "Time": "1105",
+  "Dest": "PRG",
+  "DestName": "PRAGUE",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR6707",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Prague",
+  "Country": "Czech Republic"
  },
  {
   "Date": "09-07-2025",
@@ -35687,6 +35507,30 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Palma de Mallorca",
   "Country": "Spain"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1110",
+  "Dest": "FAE",
+  "DestName": "FAROE ISLANDS",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1777",
+  "AirlineCode_Merged": "SK",
+  "City": "Faroe Islands",
+  "Country": "Faroe Islands"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1115",
+  "Dest": "GOH",
+  "DestName": "NUUK",
+  "AirlineCode": "GL",
+  "Airline": "AIR GREENLAND",
+  "Flight": "GL3781",
+  "AirlineCode_Merged": "GL",
+  "City": "Nuuk",
+  "Country": "Greenland"
  },
  {
   "Date": "09-07-2025",
@@ -35703,18 +35547,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1120",
-  "Dest": "BRI",
-  "DestName": "BARI",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2517",
-  "AirlineCode_Merged": "SK",
-  "City": "Bari",
-  "Country": "Italy"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1120",
   "Dest": "ZAG",
   "DestName": "ZAGREB",
   "AirlineCode": "OU",
@@ -35726,15 +35558,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1125",
-  "Dest": "MAD",
-  "DestName": "MADRID",
-  "AirlineCode": "I2",
-  "Airline": "IBERIA",
-  "Flight": "I21822",
-  "AirlineCode_Merged": "IB/I2",
-  "City": "Madrid",
-  "Country": "Spain"
+  "Time": "1120",
+  "Dest": "BRI",
+  "DestName": "BARI",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2517",
+  "AirlineCode_Merged": "SK",
+  "City": "Bari",
+  "Country": "Italy"
  },
  {
   "Date": "09-07-2025",
@@ -35747,6 +35579,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Venice",
   "Country": "Italy"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1125",
+  "Dest": "MAD",
+  "DestName": "MADRID",
+  "AirlineCode": "I2",
+  "Airline": "IBERIA",
+  "Flight": "I21822",
+  "AirlineCode_Merged": "IB/I2",
+  "City": "Madrid",
+  "Country": "Spain"
  },
  {
   "Date": "09-07-2025",
@@ -35787,18 +35631,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1145",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1420",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1145",
   "Dest": "BGO",
   "DestName": "BERGEN",
   "AirlineCode": "SK",
@@ -35807,6 +35639,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Bergen",
   "Country": "Norway"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1145",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1420",
+  "AirlineCode_Merged": "SK",
+  "City": "Stockholm",
+  "Country": "Sweden"
  },
  {
   "Date": "09-07-2025",
@@ -35907,18 +35751,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1220",
-  "Dest": "BRU",
-  "DestName": "BRUSSELS",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1593",
-  "AirlineCode_Merged": "SK",
-  "City": "Brussels",
-  "Country": "Belgium"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1220",
   "Dest": "FRA",
   "DestName": "FRANKFURT",
   "AirlineCode": "LH",
@@ -35927,6 +35759,18 @@
   "AirlineCode_Merged": "LH",
   "City": "Frankfurt",
   "Country": "Germany"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1220",
+  "Dest": "BRU",
+  "DestName": "BRUSSELS",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1593",
+  "AirlineCode_Merged": "SK",
+  "City": "Brussels",
+  "Country": "Belgium"
  },
  {
   "Date": "09-07-2025",
@@ -35955,18 +35799,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1225",
-  "Dest": "EWR",
-  "DestName": "New York/EWR",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0909",
-  "AirlineCode_Merged": "SK",
-  "City": "New York",
-  "Country": "United States"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1225",
   "Dest": "FAE",
   "DestName": "FAROE ISLANDS",
   "AirlineCode": "RC",
@@ -35979,14 +35811,14 @@
  {
   "Date": "09-07-2025",
   "Time": "1225",
-  "Dest": "HEL",
-  "DestName": "HELSINKI",
-  "AirlineCode": "AY",
-  "Airline": "FINNAIR",
-  "Flight": "AY0966",
-  "AirlineCode_Merged": "AY",
-  "City": "Helsinki",
-  "Country": "Finland"
+  "Dest": "EWR",
+  "DestName": "New York/EWR",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0909",
+  "AirlineCode_Merged": "SK",
+  "City": "New York",
+  "Country": "United States"
  },
  {
   "Date": "09-07-2025",
@@ -36002,15 +35834,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1235",
-  "Dest": "KEF",
-  "DestName": "REYKJAVIK",
-  "AirlineCode": "OG",
-  "Airline": "FLY PLAY",
-  "Flight": "OG0901",
-  "AirlineCode_Merged": "OG",
-  "City": "Reykjavik",
-  "Country": "Iceland"
+  "Time": "1225",
+  "Dest": "HEL",
+  "DestName": "HELSINKI",
+  "AirlineCode": "AY",
+  "Airline": "FINNAIR",
+  "Flight": "AY0966",
+  "AirlineCode_Merged": "AY",
+  "City": "Helsinki",
+  "Country": "Finland"
  },
  {
   "Date": "09-07-2025",
@@ -36023,6 +35855,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Milan",
   "Country": "Italy"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1235",
+  "Dest": "KEF",
+  "DestName": "REYKJAVIK",
+  "AirlineCode": "OG",
+  "Airline": "FLY PLAY",
+  "Flight": "OG0901",
+  "AirlineCode_Merged": "OG",
+  "City": "Reykjavik",
+  "Country": "Iceland"
  },
  {
   "Date": "09-07-2025",
@@ -36063,6 +35907,18 @@
  {
   "Date": "09-07-2025",
   "Time": "1245",
+  "Dest": "MUC",
+  "DestName": "MUNICH",
+  "AirlineCode": "LH",
+  "Airline": "LUFTHANSA",
+  "Flight": "LH2441",
+  "AirlineCode_Merged": "LH",
+  "City": "Munich",
+  "Country": "Germany"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1245",
   "Dest": "AMS",
   "DestName": "AMSTERDAM",
   "AirlineCode": "SK",
@@ -36099,18 +35955,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1245",
-  "Dest": "MUC",
-  "DestName": "MUNICH",
-  "AirlineCode": "LH",
-  "Airline": "LUFTHANSA",
-  "Flight": "LH2441",
-  "AirlineCode_Merged": "LH",
-  "City": "Munich",
-  "Country": "Germany"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1245",
   "Dest": "TRD",
   "DestName": "TRONDHEIM",
   "AirlineCode": "SK",
@@ -36119,18 +35963,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Trondheim",
   "Country": "Norway"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1250",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0404",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
  },
  {
   "Date": "09-07-2025",
@@ -36147,6 +35979,18 @@
  {
   "Date": "09-07-2025",
   "Time": "1250",
+  "Dest": "ARN",
+  "DestName": "STOCKHOLM/ARN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0404",
+  "AirlineCode_Merged": "SK",
+  "City": "Stockholm",
+  "Country": "Sweden"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1250",
   "Dest": "SAW",
   "DestName": "Istanbul/SAW",
   "AirlineCode": "VF",
@@ -36155,18 +35999,6 @@
   "AirlineCode_Merged": "VF",
   "City": "Istanbul",
   "Country": "Turkey"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1255",
-  "Dest": "BGO",
-  "DestName": "BERGEN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2866",
-  "AirlineCode_Merged": "SK",
-  "City": "Bergen",
-  "Country": "Norway"
  },
  {
   "Date": "09-07-2025",
@@ -36182,15 +36014,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1300",
-  "Dest": "KUN",
-  "DestName": "KAUNAS",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR7620",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Kaunas",
-  "Country": "Lithuania"
+  "Time": "1255",
+  "Dest": "BGO",
+  "DestName": "BERGEN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2866",
+  "AirlineCode_Merged": "SK",
+  "City": "Bergen",
+  "Country": "Norway"
  },
  {
   "Date": "09-07-2025",
@@ -36215,6 +36047,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Toronto",
   "Country": "Canada"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1300",
+  "Dest": "KUN",
+  "DestName": "KAUNAS",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR7620",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Kaunas",
+  "Country": "Lithuania"
  },
  {
   "Date": "09-07-2025",
@@ -36375,18 +36219,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1400",
-  "Dest": "BER",
-  "DestName": "Berlin",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1677",
-  "AirlineCode_Merged": "SK",
-  "City": "Berlin",
-  "Country": "Germany"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1400",
   "Dest": "KEF",
   "DestName": "REYKJAVIK",
   "AirlineCode": "FI",
@@ -36410,15 +36242,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1405",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
+  "Time": "1400",
+  "Dest": "BER",
+  "DestName": "Berlin",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1213",
+  "Flight": "SK1677",
   "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
+  "City": "Berlin",
+  "Country": "Germany"
  },
  {
   "Date": "09-07-2025",
@@ -36446,15 +36278,27 @@
  },
  {
   "Date": "09-07-2025",
+  "Time": "1405",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1213",
+  "AirlineCode_Merged": "SK",
+  "City": "Aalborg",
+  "Country": "Denmark"
+ },
+ {
+  "Date": "09-07-2025",
   "Time": "1410",
-  "Dest": "BRS",
-  "DestName": "BRISTOL",
-  "AirlineCode": "EZY",
-  "Airline": "EASYJET",
-  "Flight": "EZY2932",
-  "AirlineCode_Merged": "EZY/EJU/EZS",
-  "City": "Bristol",
-  "Country": "United Kingdom"
+  "Dest": "SFO",
+  "DestName": "SAN FRANCISCO",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0935",
+  "AirlineCode_Merged": "SK",
+  "City": "San Francisco",
+  "Country": "United States"
  },
  {
   "Date": "09-07-2025",
@@ -36471,14 +36315,14 @@
  {
   "Date": "09-07-2025",
   "Time": "1410",
-  "Dest": "SFO",
-  "DestName": "SAN FRANCISCO",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0935",
-  "AirlineCode_Merged": "SK",
-  "City": "San Francisco",
-  "Country": "United States"
+  "Dest": "BRS",
+  "DestName": "BRISTOL",
+  "AirlineCode": "EZY",
+  "Airline": "EASYJET",
+  "Flight": "EZY2932",
+  "AirlineCode_Merged": "EZY/EJU/EZS",
+  "City": "Bristol",
+  "Country": "United Kingdom"
  },
  {
   "Date": "09-07-2025",
@@ -36507,18 +36351,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1420",
-  "Dest": "JFK",
-  "DestName": "New York/JFK",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0915",
-  "AirlineCode_Merged": "SK",
-  "City": "New York",
-  "Country": "United States"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1420",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "D8",
@@ -36527,6 +36359,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1420",
+  "Dest": "JFK",
+  "DestName": "New York/JFK",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0915",
+  "AirlineCode_Merged": "SK",
+  "City": "New York",
+  "Country": "United States"
  },
  {
   "Date": "09-07-2025",
@@ -36543,14 +36387,14 @@
  {
   "Date": "09-07-2025",
   "Time": "1445",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "KL",
-  "Airline": "KLM",
-  "Flight": "KL1272",
-  "AirlineCode_Merged": "KL",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
+  "Dest": "ZTH",
+  "DestName": "Zakynthos Island",
+  "AirlineCode": "JTD",
+  "Airline": "JETTIME A/S",
+  "Flight": "JTD0301",
+  "AirlineCode_Merged": "JTD",
+  "City": "Zakinthos Island",
+  "Country": "Greece"
  },
  {
   "Date": "09-07-2025",
@@ -36567,14 +36411,14 @@
  {
   "Date": "09-07-2025",
   "Time": "1445",
-  "Dest": "ZTH",
-  "DestName": "Zakynthos Island",
-  "AirlineCode": "JTD",
-  "Airline": "JETTIME A/S",
-  "Flight": "JTD0301",
-  "AirlineCode_Merged": "JTD",
-  "City": "Zakinthos Island",
-  "Country": "Greece"
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "KL",
+  "Airline": "KLM",
+  "Flight": "KL1272",
+  "AirlineCode_Merged": "KL",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
  },
  {
   "Date": "09-07-2025",
@@ -36627,18 +36471,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1500",
-  "Dest": "FRA",
-  "DestName": "FRANKFURT",
-  "AirlineCode": "LH",
-  "Airline": "LUFTHANSA",
-  "Flight": "LH0829",
-  "AirlineCode_Merged": "LH",
-  "City": "Frankfurt",
-  "Country": "Germany"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1500",
   "Dest": "LHR",
   "DestName": "London/LHR",
   "AirlineCode": "SK",
@@ -36650,15 +36482,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1505",
-  "Dest": "BLL",
-  "DestName": "BILLUND",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1285",
-  "AirlineCode_Merged": "SK",
-  "City": "Billund",
-  "Country": "Denmark"
+  "Time": "1500",
+  "Dest": "FRA",
+  "DestName": "FRANKFURT",
+  "AirlineCode": "LH",
+  "Airline": "LUFTHANSA",
+  "Flight": "LH0829",
+  "AirlineCode_Merged": "LH",
+  "City": "Frankfurt",
+  "Country": "Germany"
  },
  {
   "Date": "09-07-2025",
@@ -36683,6 +36515,18 @@
   "AirlineCode_Merged": "LX",
   "City": "Zurich",
   "Country": "Switzerland"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1505",
+  "Dest": "BLL",
+  "DestName": "BILLUND",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1285",
+  "AirlineCode_Merged": "SK",
+  "City": "Billund",
+  "Country": "Denmark"
  },
  {
   "Date": "09-07-2025",
@@ -36771,14 +36615,14 @@
  {
   "Date": "09-07-2025",
   "Time": "1530",
-  "Dest": "AGP",
-  "DestName": "MALAGA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0587",
-  "AirlineCode_Merged": "SK",
-  "City": "Malaga",
-  "Country": "Spain"
+  "Dest": "OSL",
+  "DestName": "OSLO",
+  "AirlineCode": "DY",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "DY0941",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Oslo",
+  "Country": "Norway"
  },
  {
   "Date": "09-07-2025",
@@ -36795,14 +36639,14 @@
  {
   "Date": "09-07-2025",
   "Time": "1530",
-  "Dest": "OSL",
-  "DestName": "OSLO",
-  "AirlineCode": "DY",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "DY0941",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Oslo",
-  "Country": "Norway"
+  "Dest": "AGP",
+  "DestName": "MALAGA",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0587",
+  "AirlineCode_Merged": "SK",
+  "City": "Malaga",
+  "Country": "Spain"
  },
  {
   "Date": "09-07-2025",
@@ -36915,6 +36759,18 @@
  {
   "Date": "09-07-2025",
   "Time": "1605",
+  "Dest": "TOS",
+  "DestName": "Tromso",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK4454",
+  "AirlineCode_Merged": "SK",
+  "City": "Tromso",
+  "Country": "Norway"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1605",
   "Dest": "DOH",
   "DestName": "Doha",
   "AirlineCode": "QR",
@@ -36938,15 +36794,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1605",
-  "Dest": "TOS",
-  "DestName": "Tromso",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK4454",
-  "AirlineCode_Merged": "SK",
-  "City": "Tromso",
-  "Country": "Norway"
+  "Time": "1610",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR9888",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "09-07-2025",
@@ -36962,15 +36818,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1610",
-  "Dest": "VIE",
-  "DestName": "VIENNA",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR9888",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Vienna",
-  "Country": "Austria"
+  "Time": "1615",
+  "Dest": "LHR",
+  "DestName": "London/LHR",
+  "AirlineCode": "BA",
+  "Airline": "BRITISH AIRWAYS",
+  "Flight": "BA0819",
+  "AirlineCode_Merged": "BA",
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "09-07-2025",
@@ -36983,18 +36839,6 @@
   "AirlineCode_Merged": "W6/W4/5W/W9/WU",
   "City": "Budapest",
   "Country": "Hungary"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1615",
-  "Dest": "LHR",
-  "DestName": "London/LHR",
-  "AirlineCode": "BA",
-  "Airline": "BRITISH AIRWAYS",
-  "Flight": "BA0819",
-  "AirlineCode_Merged": "BA",
-  "City": "London",
-  "Country": "United Kingdom"
  },
  {
   "Date": "09-07-2025",
@@ -37023,6 +36867,18 @@
  {
   "Date": "09-07-2025",
   "Time": "1625",
+  "Dest": "PMI",
+  "DestName": "Palma d Mallorca",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2587",
+  "AirlineCode_Merged": "SK",
+  "City": "Palma de Mallorca",
+  "Country": "Spain"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1625",
   "Dest": "BUD",
   "DestName": "BUDAPEST",
   "AirlineCode": "FR",
@@ -37034,15 +36890,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1625",
-  "Dest": "PMI",
-  "DestName": "Palma d Mallorca",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2587",
-  "AirlineCode_Merged": "SK",
-  "City": "Palma de Mallorca",
-  "Country": "Spain"
+  "Time": "1630",
+  "Dest": "RNN",
+  "DestName": "BORNHOLM",
+  "AirlineCode": "DX",
+  "Airline": "DAT",
+  "Flight": "DX0046",
+  "AirlineCode_Merged": "DX",
+  "City": "Bornholm",
+  "Country": "Denmark"
  },
  {
   "Date": "09-07-2025",
@@ -37067,18 +36923,6 @@
   "AirlineCode_Merged": "KL",
   "City": "Amsterdam",
   "Country": "Netherlands"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1630",
-  "Dest": "RNN",
-  "DestName": "BORNHOLM",
-  "AirlineCode": "DX",
-  "Airline": "DAT",
-  "Flight": "DX0046",
-  "AirlineCode_Merged": "DX",
-  "City": "Bornholm",
-  "Country": "Denmark"
  },
  {
   "Date": "09-07-2025",
@@ -37119,18 +36963,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1645",
-  "Dest": "BEY",
-  "DestName": "BEIRUT",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2827",
-  "AirlineCode_Merged": "SK",
-  "City": "Beirut",
-  "Country": "Lebanon"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1645",
   "Dest": "KEF",
   "DestName": "REYKJAVIK",
   "AirlineCode": "FI",
@@ -37139,6 +36971,18 @@
   "AirlineCode_Merged": "FI",
   "City": "Reykjavik",
   "Country": "Iceland"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1645",
+  "Dest": "BEY",
+  "DestName": "BEIRUT",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2827",
+  "AirlineCode_Merged": "SK",
+  "City": "Beirut",
+  "Country": "Lebanon"
  },
  {
   "Date": "09-07-2025",
@@ -37191,18 +37035,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1705",
-  "Dest": "DLM",
-  "DestName": "DALAMAN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1935",
-  "AirlineCode_Merged": "SK",
-  "City": "Dalaman",
-  "Country": "Turkey"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1705",
   "Dest": "MUC",
   "DestName": "MUNICH",
   "AirlineCode": "LH",
@@ -37211,6 +37043,18 @@
   "AirlineCode_Merged": "LH",
   "City": "Munich",
   "Country": "Germany"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1705",
+  "Dest": "DLM",
+  "DestName": "DALAMAN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1935",
+  "AirlineCode_Merged": "SK",
+  "City": "Dalaman",
+  "Country": "Turkey"
  },
  {
   "Date": "09-07-2025",
@@ -37275,6 +37119,30 @@
  {
   "Date": "09-07-2025",
   "Time": "1730",
+  "Dest": "PRG",
+  "DestName": "PRAGUE",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D82066",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Prague",
+  "Country": "Czech Republic"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1730",
+  "Dest": "LHR",
+  "DestName": "London/LHR",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1507",
+  "AirlineCode_Merged": "SK",
+  "City": "London",
+  "Country": "United Kingdom"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1730",
   "Dest": "AAL",
   "DestName": "AALBORG",
   "AirlineCode": "SK",
@@ -37310,42 +37178,6 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1730",
-  "Dest": "LHR",
-  "DestName": "London/LHR",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1507",
-  "AirlineCode_Merged": "SK",
-  "City": "London",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1730",
-  "Dest": "PRG",
-  "DestName": "PRAGUE",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D82066",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Prague",
-  "Country": "Czech Republic"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1735",
-  "Dest": "BHX",
-  "DestName": "Birmingham",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2535",
-  "AirlineCode_Merged": "SK",
-  "City": "Birmingham",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "09-07-2025",
   "Time": "1735",
   "Dest": "CHQ",
   "DestName": "CHANIA",
@@ -37370,15 +37202,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1740",
-  "Dest": "GDN",
-  "DestName": "GDANSK",
+  "Time": "1735",
+  "Dest": "BHX",
+  "DestName": "Birmingham",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0757",
+  "Flight": "SK2535",
   "AirlineCode_Merged": "SK",
-  "City": "Gdansk",
-  "Country": "Poland"
+  "City": "Birmingham",
+  "Country": "United Kingdom"
  },
  {
   "Date": "09-07-2025",
@@ -37395,6 +37227,18 @@
  {
   "Date": "09-07-2025",
   "Time": "1740",
+  "Dest": "GDN",
+  "DestName": "GDANSK",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0757",
+  "AirlineCode_Merged": "SK",
+  "City": "Gdansk",
+  "Country": "Poland"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1740",
   "Dest": "OTP",
   "DestName": "BUCHAREST",
   "AirlineCode": "SK",
@@ -37403,6 +37247,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Bucharest",
   "Country": "Romania"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1745",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
+  "AirlineCode": "OS",
+  "Airline": "AUSTRIAN AIRLINES",
+  "Flight": "OS0304",
+  "AirlineCode_Merged": "OS",
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "09-07-2025",
@@ -37430,18 +37286,6 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1745",
-  "Dest": "VIE",
-  "DestName": "VIENNA",
-  "AirlineCode": "OS",
-  "Airline": "AUSTRIAN AIRLINES",
-  "Flight": "OS0304",
-  "AirlineCode_Merged": "OS",
-  "City": "Vienna",
-  "Country": "Austria"
- },
- {
-  "Date": "09-07-2025",
   "Time": "1755",
   "Dest": "OSL",
   "DestName": "OSLO",
@@ -37451,18 +37295,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
   "Country": "Norway"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1800",
-  "Dest": "CDG",
-  "DestName": "Paris/CDG",
-  "AirlineCode": "AF",
-  "Airline": "AIR FRANCE",
-  "Flight": "AF1851",
-  "AirlineCode_Merged": "AF",
-  "City": "Paris",
-  "Country": "France"
  },
  {
   "Date": "09-07-2025",
@@ -37479,18 +37311,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1800",
-  "Dest": "RHO",
-  "DestName": "Rhodes",
-  "AirlineCode": "DK",
-  "Airline": "SUNCLASS AIRLINES",
-  "Flight": "DK1154",
-  "AirlineCode_Merged": "DK",
-  "City": "Rhodes",
-  "Country": "Greece"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1800",
   "Dest": "ZRH",
   "DestName": "ZURICH",
   "AirlineCode": "SK",
@@ -37499,6 +37319,30 @@
   "AirlineCode_Merged": "SK",
   "City": "Zurich",
   "Country": "Switzerland"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1800",
+  "Dest": "CDG",
+  "DestName": "Paris/CDG",
+  "AirlineCode": "AF",
+  "Airline": "AIR FRANCE",
+  "Flight": "AF1851",
+  "AirlineCode_Merged": "AF",
+  "City": "Paris",
+  "Country": "France"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1800",
+  "Dest": "RHO",
+  "DestName": "Rhodes",
+  "AirlineCode": "DK",
+  "Airline": "SUNCLASS AIRLINES",
+  "Flight": "DK1154",
+  "AirlineCode_Merged": "DK",
+  "City": "Rhodes",
+  "Country": "Greece"
  },
  {
   "Date": "09-07-2025",
@@ -37511,18 +37355,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Catania",
   "Country": "Italy"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1805",
-  "Dest": "GDN",
-  "DestName": "GDANSK",
-  "AirlineCode": "W6",
-  "Airline": "WIZZ AIR",
-  "Flight": "W61742",
-  "AirlineCode_Merged": "W6/W4/5W/W9/WU",
-  "City": "Gdansk",
-  "Country": "Poland"
  },
  {
   "Date": "09-07-2025",
@@ -37550,15 +37382,15 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "1810",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0553",
-  "AirlineCode_Merged": "SK",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
+  "Time": "1805",
+  "Dest": "GDN",
+  "DestName": "GDANSK",
+  "AirlineCode": "W6",
+  "Airline": "WIZZ AIR",
+  "Flight": "W61742",
+  "AirlineCode_Merged": "W6/W4/5W/W9/WU",
+  "City": "Gdansk",
+  "Country": "Poland"
  },
  {
   "Date": "09-07-2025",
@@ -37571,6 +37403,18 @@
   "AirlineCode_Merged": "SN",
   "City": "Brussels",
   "Country": "Belgium"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1810",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0553",
+  "AirlineCode_Merged": "SK",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
  },
  {
   "Date": "09-07-2025",
@@ -37695,18 +37539,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1905",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "KL",
-  "Airline": "KLM",
-  "Flight": "KL1276",
-  "AirlineCode_Merged": "KL",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1905",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "SK",
@@ -37727,6 +37559,18 @@
   "AirlineCode_Merged": "CA",
   "City": "Beijing",
   "Country": "China"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1905",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "KL",
+  "Airline": "KLM",
+  "Flight": "KL1276",
+  "AirlineCode_Merged": "KL",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
  },
  {
   "Date": "09-07-2025",
@@ -37755,18 +37599,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1915",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83092",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Aalborg",
-  "Country": "Denmark"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1915",
   "Dest": "ARN",
   "DestName": "STOCKHOLM/ARN",
   "AirlineCode": "SK",
@@ -37790,6 +37622,18 @@
  },
  {
   "Date": "09-07-2025",
+  "Time": "1915",
+  "Dest": "AAL",
+  "DestName": "AALBORG",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83092",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Aalborg",
+  "Country": "Denmark"
+ },
+ {
+  "Date": "09-07-2025",
   "Time": "1920",
   "Dest": "CDG",
   "DestName": "Paris/CDG",
@@ -37803,18 +37647,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1920",
-  "Dest": "IST",
-  "DestName": "ISTANBUL/IST",
-  "AirlineCode": "TK",
-  "Airline": "TURKISH AIRLINES",
-  "Flight": "TK1786",
-  "AirlineCode_Merged": "TK",
-  "City": "Istanbul",
-  "Country": "Turkey"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1920",
   "Dest": "SPU",
   "DestName": "SPLIT",
   "AirlineCode": "SK",
@@ -37823,6 +37655,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Split",
   "Country": "Croatia"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1920",
+  "Dest": "IST",
+  "DestName": "ISTANBUL/IST",
+  "AirlineCode": "TK",
+  "Airline": "TURKISH AIRLINES",
+  "Flight": "TK1786",
+  "AirlineCode_Merged": "TK",
+  "City": "Istanbul",
+  "Country": "Turkey"
  },
  {
   "Date": "09-07-2025",
@@ -37863,18 +37707,6 @@
  {
   "Date": "09-07-2025",
   "Time": "1930",
-  "Dest": "KUN",
-  "DestName": "KAUNAS",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR6155",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Kaunas",
-  "Country": "Lithuania"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "1930",
   "Dest": "MUC",
   "DestName": "MUNICH",
   "AirlineCode": "LH",
@@ -37883,6 +37715,18 @@
   "AirlineCode_Merged": "LH",
   "City": "Munich",
   "Country": "Germany"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "1930",
+  "Dest": "KUN",
+  "DestName": "KAUNAS",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR6155",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Kaunas",
+  "Country": "Lithuania"
  },
  {
   "Date": "09-07-2025",
@@ -37935,18 +37779,6 @@
  {
   "Date": "09-07-2025",
   "Time": "2000",
-  "Dest": "LHR",
-  "DestName": "London/LHR",
-  "AirlineCode": "BA",
-  "Airline": "BRITISH AIRWAYS",
-  "Flight": "BA0821",
-  "AirlineCode_Merged": "BA",
-  "City": "London",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "2000",
   "Dest": "VIE",
   "DestName": "VIENNA",
   "AirlineCode": "OS",
@@ -37955,6 +37787,18 @@
   "AirlineCode_Merged": "OS",
   "City": "Vienna",
   "Country": "Austria"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "2000",
+  "Dest": "LHR",
+  "DestName": "London/LHR",
+  "AirlineCode": "BA",
+  "Airline": "BRITISH AIRWAYS",
+  "Flight": "BA0821",
+  "AirlineCode_Merged": "BA",
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "09-07-2025",
@@ -38031,6 +37875,18 @@
  {
   "Date": "09-07-2025",
   "Time": "2030",
+  "Dest": "OSL",
+  "DestName": "OSLO",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83234",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Oslo",
+  "Country": "Norway"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "2030",
   "Dest": "BEG",
   "DestName": "BELGRADE",
   "AirlineCode": "JU",
@@ -38051,18 +37907,6 @@
   "AirlineCode_Merged": "EZY/EJU/EZS",
   "City": "Milan",
   "Country": "Italy"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "2030",
-  "Dest": "OSL",
-  "DestName": "OSLO",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83234",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Oslo",
-  "Country": "Norway"
  },
  {
   "Date": "09-07-2025",
@@ -38199,18 +38043,6 @@
  {
   "Date": "09-07-2025",
   "Time": "2125",
-  "Dest": "OTP",
-  "DestName": "BUCHAREST",
-  "AirlineCode": "W4",
-  "Airline": "WIZZ AIR",
-  "Flight": "W43114",
-  "AirlineCode_Merged": "W6/W4/5W/W9/WU",
-  "City": "Bucharest",
-  "Country": "Romania"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "2125",
   "Dest": "RIX",
   "DestName": "RIGA",
   "AirlineCode": "D8",
@@ -38219,6 +38051,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Riga",
   "Country": "Latvia"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "2125",
+  "Dest": "OTP",
+  "DestName": "BUCHAREST",
+  "AirlineCode": "W4",
+  "Airline": "WIZZ AIR",
+  "Flight": "W43114",
+  "AirlineCode_Merged": "W6/W4/5W/W9/WU",
+  "City": "Bucharest",
+  "Country": "Romania"
  },
  {
   "Date": "09-07-2025",
@@ -38307,6 +38151,30 @@
  {
   "Date": "09-07-2025",
   "Time": "2300",
+  "Dest": "OSL",
+  "DestName": "OSLO",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1474",
+  "AirlineCode_Merged": "SK",
+  "City": "Oslo",
+  "Country": "Norway"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "2300",
+  "Dest": "TRD",
+  "DestName": "TRONDHEIM",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2884",
+  "AirlineCode_Merged": "SK",
+  "City": "Trondheim",
+  "Country": "Norway"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "2300",
   "Dest": "BGO",
   "DestName": "BERGEN",
   "AirlineCode": "SK",
@@ -38342,30 +38210,6 @@
  },
  {
   "Date": "09-07-2025",
-  "Time": "2300",
-  "Dest": "OSL",
-  "DestName": "OSLO",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1474",
-  "AirlineCode_Merged": "SK",
-  "City": "Oslo",
-  "Country": "Norway"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "2300",
-  "Dest": "TRD",
-  "DestName": "TRONDHEIM",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2884",
-  "AirlineCode_Merged": "SK",
-  "City": "Trondheim",
-  "Country": "Norway"
- },
- {
-  "Date": "09-07-2025",
   "Time": "2305",
   "Dest": "AAL",
   "DestName": "AALBORG",
@@ -38391,18 +38235,6 @@
  {
   "Date": "09-07-2025",
   "Time": "2305",
-  "Dest": "BLL",
-  "DestName": "BILLUND",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1289",
-  "AirlineCode_Merged": "SK",
-  "City": "Billund",
-  "Country": "Denmark"
- },
- {
-  "Date": "09-07-2025",
-  "Time": "2305",
   "Dest": "GOT",
   "DestName": "Gothenburg",
   "AirlineCode": "SK",
@@ -38411,6 +38243,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Goteborg",
   "Country": "Sweden"
+ },
+ {
+  "Date": "09-07-2025",
+  "Time": "2305",
+  "Dest": "BLL",
+  "DestName": "BILLUND",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1289",
+  "AirlineCode_Merged": "SK",
+  "City": "Billund",
+  "Country": "Denmark"
  },
  {
   "Date": "09-07-2025",
@@ -38489,11 +38333,23 @@
   "Time": "0600",
   "Dest": "ALC",
   "DestName": "ALICANTE",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83660",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2813",
+  "AirlineCode_Merged": "SK",
   "City": "Alicante",
+  "Country": "Spain"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0600",
+  "Dest": "PMI",
+  "DestName": "Palma d Mallorca",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0585",
+  "AirlineCode_Merged": "SK",
+  "City": "Palma de Mallorca",
   "Country": "Spain"
  },
  {
@@ -38501,10 +38357,10 @@
   "Time": "0600",
   "Dest": "ALC",
   "DestName": "ALICANTE",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2813",
-  "AirlineCode_Merged": "SK",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83660",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Alicante",
   "Country": "Spain"
  },
@@ -38519,18 +38375,6 @@
   "AirlineCode_Merged": "KL",
   "City": "Amsterdam",
   "Country": "Netherlands"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0600",
-  "Dest": "PMI",
-  "DestName": "Palma d Mallorca",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0585",
-  "AirlineCode_Merged": "SK",
-  "City": "Palma de Mallorca",
-  "Country": "Spain"
  },
  {
   "Date": "10-07-2025",
@@ -38559,14 +38403,14 @@
  {
   "Date": "10-07-2025",
   "Time": "0605",
-  "Dest": "LIS",
-  "DestName": "LISBON",
-  "AirlineCode": "TP",
-  "Airline": "TAP PORTUGAL",
-  "Flight": "TP0757",
-  "AirlineCode_Merged": "TP",
-  "City": "Lisbon",
-  "Country": "Portugal"
+  "Dest": "ZTH",
+  "DestName": "Zakynthos Island",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2285",
+  "AirlineCode_Merged": "SK",
+  "City": "Zakinthos Island",
+  "Country": "Greece"
  },
  {
   "Date": "10-07-2025",
@@ -38595,14 +38439,14 @@
  {
   "Date": "10-07-2025",
   "Time": "0605",
-  "Dest": "ZTH",
-  "DestName": "Zakynthos Island",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2285",
-  "AirlineCode_Merged": "SK",
-  "City": "Zakinthos Island",
-  "Country": "Greece"
+  "Dest": "LIS",
+  "DestName": "LISBON",
+  "AirlineCode": "TP",
+  "Airline": "TAP PORTUGAL",
+  "Flight": "TP0757",
+  "AirlineCode_Merged": "TP",
+  "City": "Lisbon",
+  "Country": "Portugal"
  },
  {
   "Date": "10-07-2025",
@@ -38631,18 +38475,6 @@
  {
   "Date": "10-07-2025",
   "Time": "0615",
-  "Dest": "BCN",
-  "DestName": "BARCELONA",
-  "AirlineCode": "FR",
-  "Airline": "RYANAIR",
-  "Flight": "FR1280",
-  "AirlineCode_Merged": "FR/RK",
-  "City": "Barcelona",
-  "Country": "Spain"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0615",
   "Dest": "CDG",
   "DestName": "Paris/CDG",
   "AirlineCode": "AF",
@@ -38650,6 +38482,18 @@
   "Flight": "AF1351",
   "AirlineCode_Merged": "AF",
   "City": "Paris",
+  "Country": "France"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0615",
+  "Dest": "NCE",
+  "DestName": "NICE",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83640",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Nice",
   "Country": "France"
  },
  {
@@ -38667,6 +38511,18 @@
  {
   "Date": "10-07-2025",
   "Time": "0615",
+  "Dest": "BCN",
+  "DestName": "BARCELONA",
+  "AirlineCode": "FR",
+  "Airline": "RYANAIR",
+  "Flight": "FR1280",
+  "AirlineCode_Merged": "FR/RK",
+  "City": "Barcelona",
+  "Country": "Spain"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0615",
   "Dest": "FCO",
   "DestName": "Rome/FCO",
   "AirlineCode": "D8",
@@ -38675,30 +38531,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Rome",
   "Country": "Italy"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0615",
-  "Dest": "NCE",
-  "DestName": "NICE",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83640",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Nice",
-  "Country": "France"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0625",
-  "Dest": "CHQ",
-  "DestName": "CHANIA",
-  "AirlineCode": "JTD",
-  "Airline": "JETTIME A/S",
-  "Flight": "JTD0283",
-  "AirlineCode_Merged": "JTD",
-  "City": "Chania",
-  "Country": "Greece"
  },
  {
   "Date": "10-07-2025",
@@ -38711,6 +38543,18 @@
   "AirlineCode_Merged": "TK",
   "City": "Istanbul",
   "Country": "Turkey"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0625",
+  "Dest": "CHQ",
+  "DestName": "CHANIA",
+  "AirlineCode": "JTD",
+  "Airline": "JETTIME A/S",
+  "Flight": "JTD0283",
+  "AirlineCode_Merged": "JTD",
+  "City": "Chania",
+  "Country": "Greece"
  },
  {
   "Date": "10-07-2025",
@@ -38751,6 +38595,18 @@
  {
   "Date": "10-07-2025",
   "Time": "0645",
+  "Dest": "RHO",
+  "DestName": "Rhodes",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2991",
+  "AirlineCode_Merged": "SK",
+  "City": "Rhodes",
+  "Country": "Greece"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0645",
   "Dest": "AOK",
   "DestName": "KARPATHOS",
   "AirlineCode": "JTD",
@@ -38771,18 +38627,6 @@
   "AirlineCode_Merged": "FR/RK",
   "City": "Rome",
   "Country": "Italy"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0645",
-  "Dest": "RHO",
-  "DestName": "Rhodes",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2991",
-  "AirlineCode_Merged": "SK",
-  "City": "Rhodes",
-  "Country": "Greece"
  },
  {
   "Date": "10-07-2025",
@@ -38811,18 +38655,6 @@
  {
   "Date": "10-07-2025",
   "Time": "0655",
-  "Dest": "EDI",
-  "DestName": "EDINBURGH",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83500",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Edinburgh",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0655",
   "Dest": "KRK",
   "DestName": "KRAKOW",
   "AirlineCode": "D8",
@@ -38831,6 +38663,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Krakow",
   "Country": "Poland"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0655",
+  "Dest": "EDI",
+  "DestName": "EDINBURGH",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83500",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Edinburgh",
+  "Country": "United Kingdom"
  },
  {
   "Date": "10-07-2025",
@@ -38855,18 +38699,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Stockholm",
   "Country": "Sweden"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0700",
-  "Dest": "BUD",
-  "DestName": "BUDAPEST",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83550",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Budapest",
-  "Country": "Hungary"
  },
  {
   "Date": "10-07-2025",
@@ -38907,6 +38739,18 @@
  {
   "Date": "10-07-2025",
   "Time": "0700",
+  "Dest": "BUD",
+  "DestName": "BUDAPEST",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83550",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Budapest",
+  "Country": "Hungary"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0700",
   "Dest": "WAW",
   "DestName": "WARSAW",
   "AirlineCode": "LO",
@@ -38919,18 +38763,6 @@
  {
   "Date": "10-07-2025",
   "Time": "0705",
-  "Dest": "LHR",
-  "DestName": "London/LHR",
-  "AirlineCode": "BA",
-  "Airline": "BRITISH AIRWAYS",
-  "Flight": "BA0811",
-  "AirlineCode_Merged": "BA",
-  "City": "London",
-  "Country": "United Kingdom"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0705",
   "Dest": "TIV",
   "DestName": "Tivat",
   "AirlineCode": "D8",
@@ -38939,6 +38771,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Tivat",
   "Country": "Montenegro"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0705",
+  "Dest": "LHR",
+  "DestName": "London/LHR",
+  "AirlineCode": "BA",
+  "Airline": "BRITISH AIRWAYS",
+  "Flight": "BA0811",
+  "AirlineCode_Merged": "BA",
+  "City": "London",
+  "Country": "United Kingdom"
  },
  {
   "Date": "10-07-2025",
@@ -39087,6 +38931,18 @@
  {
   "Date": "10-07-2025",
   "Time": "0755",
+  "Dest": "ZRH",
+  "DestName": "ZURICH",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0601",
+  "AirlineCode_Merged": "SK",
+  "City": "Zurich",
+  "Country": "Switzerland"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0755",
   "Dest": "LGW",
   "DestName": "London/LGW",
   "AirlineCode": "D8",
@@ -39110,18 +38966,6 @@
  },
  {
   "Date": "10-07-2025",
-  "Time": "0755",
-  "Dest": "ZRH",
-  "DestName": "ZURICH",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0601",
-  "AirlineCode_Merged": "SK",
-  "City": "Zurich",
-  "Country": "Switzerland"
- },
- {
-  "Date": "10-07-2025",
   "Time": "0800",
   "Dest": "ARN",
   "DestName": "STOCKHOLM/ARN",
@@ -39131,6 +38975,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Stockholm",
   "Country": "Sweden"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0800",
+  "Dest": "TRD",
+  "DestName": "TRONDHEIM",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2882",
+  "AirlineCode_Merged": "SK",
+  "City": "Trondheim",
+  "Country": "Norway"
  },
  {
   "Date": "10-07-2025",
@@ -39158,18 +39014,6 @@
  },
  {
   "Date": "10-07-2025",
-  "Time": "0800",
-  "Dest": "TRD",
-  "DestName": "TRONDHEIM",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2882",
-  "AirlineCode_Merged": "SK",
-  "City": "Trondheim",
-  "Country": "Norway"
- },
- {
-  "Date": "10-07-2025",
   "Time": "0805",
   "Dest": "ATH",
   "DestName": "Athens",
@@ -39179,18 +39023,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Athens",
   "Country": "Greece"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0805",
-  "Dest": "BRU",
-  "DestName": "BRUSSELS",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0593",
-  "AirlineCode_Merged": "SK",
-  "City": "Brussels",
-  "Country": "Belgium"
  },
  {
   "Date": "10-07-2025",
@@ -39218,6 +39050,18 @@
  },
  {
   "Date": "10-07-2025",
+  "Time": "0805",
+  "Dest": "BRU",
+  "DestName": "BRUSSELS",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0593",
+  "AirlineCode_Merged": "SK",
+  "City": "Brussels",
+  "Country": "Belgium"
+ },
+ {
+  "Date": "10-07-2025",
   "Time": "0810",
   "Dest": "BGO",
   "DestName": "BERGEN",
@@ -39227,18 +39071,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Bergen",
   "Country": "Norway"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0810",
-  "Dest": "CDG",
-  "DestName": "Paris/CDG",
-  "AirlineCode": "D8",
-  "Airline": "NORWEGIAN AIR",
-  "Flight": "D83636",
-  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Paris",
-  "Country": "France"
  },
  {
   "Date": "10-07-2025",
@@ -39254,27 +39086,15 @@
  },
  {
   "Date": "10-07-2025",
-  "Time": "0815",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
+  "Time": "0810",
+  "Dest": "CDG",
+  "DestName": "Paris/CDG",
   "AirlineCode": "D8",
   "Airline": "NORWEGIAN AIR",
-  "Flight": "D83538",
+  "Flight": "D83636",
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0815",
-  "Dest": "AMS",
-  "DestName": "AMSTERDAM",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2551",
-  "AirlineCode_Merged": "SK",
-  "City": "Amsterdam",
-  "Country": "Netherlands"
+  "City": "Paris",
+  "Country": "France"
  },
  {
   "Date": "10-07-2025",
@@ -39323,6 +39143,30 @@
   "AirlineCode_Merged": "SK",
   "City": "Warsaw",
   "Country": "Poland"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0815",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2551",
+  "AirlineCode_Merged": "SK",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0815",
+  "Dest": "AMS",
+  "DestName": "AMSTERDAM",
+  "AirlineCode": "D8",
+  "Airline": "NORWEGIAN AIR",
+  "Flight": "D83538",
+  "AirlineCode_Merged": "DY/D8/DI/DN/DU",
+  "City": "Amsterdam",
+  "Country": "Netherlands"
  },
  {
   "Date": "10-07-2025",
@@ -39399,18 +39243,6 @@
  {
   "Date": "10-07-2025",
   "Time": "0830",
-  "Dest": "GOT",
-  "DestName": "Gothenburg",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0434",
-  "AirlineCode_Merged": "SK",
-  "City": "Goteborg",
-  "Country": "Sweden"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0830",
   "Dest": "KEF",
   "DestName": "REYKJAVIK",
   "AirlineCode": "SK",
@@ -39419,6 +39251,18 @@
   "AirlineCode_Merged": "SK",
   "City": "Reykjavik",
   "Country": "Iceland"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0830",
+  "Dest": "GOT",
+  "DestName": "Gothenburg",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0434",
+  "AirlineCode_Merged": "SK",
+  "City": "Goteborg",
+  "Country": "Sweden"
  },
  {
   "Date": "10-07-2025",
@@ -39459,18 +39303,6 @@
  {
   "Date": "10-07-2025",
   "Time": "0845",
-  "Dest": "NCE",
-  "DestName": "NICE",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2511",
-  "AirlineCode_Merged": "SK",
-  "City": "Nice",
-  "Country": "France"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0845",
   "Dest": "WAW",
   "DestName": "WARSAW",
   "AirlineCode": "W6",
@@ -39479,6 +39311,18 @@
   "AirlineCode_Merged": "W6/W4/5W/W9/WU",
   "City": "Warsaw",
   "Country": "Poland"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "0845",
+  "Dest": "NCE",
+  "DestName": "NICE",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2511",
+  "AirlineCode_Merged": "SK",
+  "City": "Nice",
+  "Country": "France"
  },
  {
   "Date": "10-07-2025",
@@ -39539,18 +39383,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Barcelona",
   "Country": "Spain"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "0900",
-  "Dest": "ARN",
-  "DestName": "STOCKHOLM/ARN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1432",
-  "AirlineCode_Merged": "SK",
-  "City": "Stockholm",
-  "Country": "Sweden"
  },
  {
   "Date": "10-07-2025",
@@ -40059,18 +39891,6 @@
  {
   "Date": "10-07-2025",
   "Time": "1145",
-  "Dest": "BGO",
-  "DestName": "BERGEN",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2864",
-  "AirlineCode_Merged": "SK",
-  "City": "Bergen",
-  "Country": "Norway"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "1145",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "SK",
@@ -40078,6 +39898,18 @@
   "Flight": "SK1458",
   "AirlineCode_Merged": "SK",
   "City": "Oslo",
+  "Country": "Norway"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "1145",
+  "Dest": "BGO",
+  "DestName": "BERGEN",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK2864",
+  "AirlineCode_Merged": "SK",
+  "City": "Bergen",
   "Country": "Norway"
  },
  {
@@ -40311,18 +40143,6 @@
  {
   "Date": "10-07-2025",
   "Time": "1240",
-  "Dest": "GVA",
-  "DestName": "GENEVA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK2613",
-  "AirlineCode_Merged": "SK",
-  "City": "Geneva",
-  "Country": "Switzerland"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "1240",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "SK",
@@ -40346,15 +40166,15 @@
  },
  {
   "Date": "10-07-2025",
-  "Time": "1245",
-  "Dest": "FAE",
-  "DestName": "FAROE ISLANDS",
+  "Time": "1240",
+  "Dest": "GVA",
+  "DestName": "GENEVA",
   "AirlineCode": "SK",
   "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1779",
+  "Flight": "SK2613",
   "AirlineCode_Merged": "SK",
-  "City": "Faroe Islands",
-  "Country": "Faroe Islands"
+  "City": "Geneva",
+  "Country": "Switzerland"
  },
  {
   "Date": "10-07-2025",
@@ -40415,6 +40235,18 @@
   "AirlineCode_Merged": "AC",
   "City": "Toronto",
   "Country": "Canada"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "1245",
+  "Dest": "FAE",
+  "DestName": "FAROE ISLANDS",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1779",
+  "AirlineCode_Merged": "SK",
+  "City": "Faroe Islands",
+  "Country": "Faroe Islands"
  },
  {
   "Date": "10-07-2025",
@@ -40839,18 +40671,6 @@
  {
   "Date": "10-07-2025",
   "Time": "1420",
-  "Dest": "JFK",
-  "DestName": "New York/JFK",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0915",
-  "AirlineCode_Merged": "SK",
-  "City": "New York",
-  "Country": "United States"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "1420",
   "Dest": "OSL",
   "DestName": "OSLO",
   "AirlineCode": "D8",
@@ -40859,6 +40679,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Oslo",
   "Country": "Norway"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "1420",
+  "Dest": "JFK",
+  "DestName": "New York/JFK",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0915",
+  "AirlineCode_Merged": "SK",
+  "City": "New York",
+  "Country": "United States"
  },
  {
   "Date": "10-07-2025",
@@ -41451,18 +41283,6 @@
  {
   "Date": "10-07-2025",
   "Time": "1645",
-  "Dest": "IBZ",
-  "DestName": "IBIZA",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1983",
-  "AirlineCode_Merged": "SK",
-  "City": "Ibiza",
-  "Country": "Spain"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "1645",
   "Dest": "KEF",
   "DestName": "REYKJAVIK",
   "AirlineCode": "FI",
@@ -41471,6 +41291,18 @@
   "AirlineCode_Merged": "FI",
   "City": "Reykjavik",
   "Country": "Iceland"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "1645",
+  "Dest": "IBZ",
+  "DestName": "IBIZA",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK1983",
+  "AirlineCode_Merged": "SK",
+  "City": "Ibiza",
+  "Country": "Spain"
  },
  {
   "Date": "10-07-2025",
@@ -41667,18 +41499,6 @@
  {
   "Date": "10-07-2025",
   "Time": "1725",
-  "Dest": "DUS",
-  "DestName": "Duesseldorf",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0627",
-  "AirlineCode_Merged": "SK",
-  "City": "Duesseldorf",
-  "Country": "Germany"
- },
- {
-  "Date": "10-07-2025",
-  "Time": "1725",
   "Dest": "LGW",
   "DestName": "London/LGW",
   "AirlineCode": "D8",
@@ -41687,6 +41507,18 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "London",
   "Country": "United Kingdom"
+ },
+ {
+  "Date": "10-07-2025",
+  "Time": "1725",
+  "Dest": "DUS",
+  "DestName": "Duesseldorf",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0627",
+  "AirlineCode_Merged": "SK",
+  "City": "Duesseldorf",
+  "Country": "Germany"
  },
  {
   "Date": "10-07-2025",
@@ -43467,18 +43299,6 @@
  {
   "Date": "11-07-2025",
   "Time": "0745",
-  "Dest": "FCO",
-  "DestName": "Rome/FCO",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0681",
-  "AirlineCode_Merged": "SK",
-  "City": "Rome",
-  "Country": "Italy"
- },
- {
-  "Date": "11-07-2025",
-  "Time": "0745",
   "Dest": "FLR",
   "DestName": "FLORENCE",
   "AirlineCode": "SK",
@@ -43486,6 +43306,18 @@
   "Flight": "SK2963",
   "AirlineCode_Merged": "SK",
   "City": "Florence",
+  "Country": "Italy"
+ },
+ {
+  "Date": "11-07-2025",
+  "Time": "0745",
+  "Dest": "FCO",
+  "DestName": "Rome/FCO",
+  "AirlineCode": "SK",
+  "Airline": "SAS - SCANDINAVIAN AIRLINES",
+  "Flight": "SK0681",
+  "AirlineCode_Merged": "SK",
+  "City": "Rome",
   "Country": "Italy"
  },
  {
@@ -49887,18 +49719,6 @@
  {
   "Date": "12-07-2025",
   "Time": "1530",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1215",
-  "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
- },
- {
-  "Date": "12-07-2025",
-  "Time": "1530",
   "Dest": "ADB",
   "DestName": "IZMIR",
   "AirlineCode": "PC",
@@ -50531,18 +50351,6 @@
   "AirlineCode_Merged": "AF",
   "City": "Paris",
   "Country": "France"
- },
- {
-  "Date": "12-07-2025",
-  "Time": "1800",
-  "Dest": "HAM",
-  "DestName": "HAMBURG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0651",
-  "AirlineCode_Merged": "SK",
-  "City": "Hamburg",
-  "Country": "Germany"
  },
  {
   "Date": "12-07-2025",
@@ -52203,18 +52011,6 @@
  {
   "Date": "13-07-2025",
   "Time": "0815",
-  "Dest": "AAL",
-  "DestName": "AALBORG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1205",
-  "AirlineCode_Merged": "SK",
-  "City": "Aalborg",
-  "Country": "Denmark"
- },
- {
-  "Date": "13-07-2025",
-  "Time": "0815",
   "Dest": "AMS",
   "DestName": "AMSTERDAM",
   "AirlineCode": "D8",
@@ -52919,18 +52715,6 @@
   "AirlineCode_Merged": "SK",
   "City": "Kristiansand",
   "Country": "Norway"
- },
- {
-  "Date": "13-07-2025",
-  "Time": "1145",
-  "Dest": "AAR",
-  "DestName": "AARHUS",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1247",
-  "AirlineCode_Merged": "SK",
-  "City": "Aarhus",
-  "Country": "Denmark"
  },
  {
   "Date": "13-07-2025",
@@ -53699,18 +53483,6 @@
   "AirlineCode_Merged": "W6/W4/5W/W9/WU",
   "City": "Gdansk",
   "Country": "Poland"
- },
- {
-  "Date": "13-07-2025",
-  "Time": "1410",
-  "Dest": "HAM",
-  "DestName": "HAMBURG",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK0649",
-  "AirlineCode_Merged": "SK",
-  "City": "Hamburg",
-  "Country": "Germany"
  },
  {
   "Date": "13-07-2025",
@@ -54647,18 +54419,6 @@
   "AirlineCode_Merged": "DY/D8/DI/DN/DU",
   "City": "Prague",
   "Country": "Czech Republic"
- },
- {
-  "Date": "13-07-2025",
-  "Time": "1730",
-  "Dest": "TRF",
-  "DestName": "SANDEFJORD",
-  "AirlineCode": "SK",
-  "Airline": "SAS - SCANDINAVIAN AIRLINES",
-  "Flight": "SK1396",
-  "AirlineCode_Merged": "SK",
-  "City": "Oslo",
-  "Country": "Norway"
  },
  {
   "Date": "13-07-2025",
@@ -68630,18 +68390,6 @@
  },
  {
   "Date": "16-07-2025",
-  "Time": "2130",
-  "Dest": "DEL",
-  "DestName": "DELHI",
-  "AirlineCode": "AI",
-  "Airline": "AIR INDIA",
-  "Flight": "AI0158",
-  "AirlineCode_Merged": "AI",
-  "City": "Delhi",
-  "Country": "India"
- },
- {
-  "Date": "16-07-2025",
   "Time": "2140",
   "Dest": "AAL",
   "DestName": "AALBORG",
@@ -81530,18 +81278,6 @@
  },
  {
   "Date": "19-07-2025",
-  "Time": "2130",
-  "Dest": "DEL",
-  "DestName": "DELHI",
-  "AirlineCode": "AI",
-  "Airline": "AIR INDIA",
-  "Flight": "AI0158",
-  "AirlineCode_Merged": "AI",
-  "City": "Delhi",
-  "Country": "India"
- },
- {
-  "Date": "19-07-2025",
   "Time": "2135",
   "Dest": "BCN",
   "DestName": "BARCELONA",
@@ -92078,6 +91814,18 @@
  },
  {
   "Date": "22-07-2025",
+  "Time": "1040",
+  "Dest": "WAW",
+  "DestName": "WARSAW",
+  "AirlineCode": "LO",
+  "Airline": "LOT POLISH AIRLINES",
+  "Flight": "LO0464",
+  "AirlineCode_Merged": "LO",
+  "City": "Warsaw",
+  "Country": "Poland"
+ },
+ {
+  "Date": "22-07-2025",
   "Time": "1045",
   "Dest": "AAL",
   "DestName": "AALBORG",
@@ -92099,18 +91847,6 @@
   "AirlineCode_Merged": "GL",
   "City": "Nuuk",
   "Country": "Greenland"
- },
- {
-  "Date": "22-07-2025",
-  "Time": "1045",
-  "Dest": "WAW",
-  "DestName": "WARSAW",
-  "AirlineCode": "LO",
-  "Airline": "LOT POLISH AIRLINES",
-  "Flight": "LO0464",
-  "AirlineCode_Merged": "LO",
-  "City": "Warsaw",
-  "Country": "Poland"
  },
  {
   "Date": "22-07-2025",
@@ -96266,6 +96002,18 @@
  },
  {
   "Date": "23-07-2025",
+  "Time": "1040",
+  "Dest": "WAW",
+  "DestName": "WARSAW",
+  "AirlineCode": "LO",
+  "Airline": "LOT POLISH AIRLINES",
+  "Flight": "LO0464",
+  "AirlineCode_Merged": "LO",
+  "City": "Warsaw",
+  "Country": "Poland"
+ },
+ {
+  "Date": "23-07-2025",
   "Time": "1045",
   "Dest": "AAL",
   "DestName": "AALBORG",
@@ -96299,18 +96047,6 @@
   "AirlineCode_Merged": "GQ",
   "City": "Rhodes",
   "Country": "Greece"
- },
- {
-  "Date": "23-07-2025",
-  "Time": "1045",
-  "Dest": "WAW",
-  "DestName": "WARSAW",
-  "AirlineCode": "LO",
-  "Airline": "LOT POLISH AIRLINES",
-  "Flight": "LO0464",
-  "AirlineCode_Merged": "LO",
-  "City": "Warsaw",
-  "Country": "Poland"
  },
  {
   "Date": "23-07-2025",
@@ -98954,18 +98690,6 @@
  },
  {
   "Date": "23-07-2025",
-  "Time": "2130",
-  "Dest": "DEL",
-  "DestName": "DELHI",
-  "AirlineCode": "AI",
-  "Airline": "AIR INDIA",
-  "Flight": "AI0158",
-  "AirlineCode_Merged": "AI",
-  "City": "Delhi",
-  "Country": "India"
- },
- {
-  "Date": "23-07-2025",
   "Time": "2140",
   "Dest": "AAL",
   "DestName": "AALBORG",
@@ -99710,18 +99434,6 @@
  },
  {
   "Date": "24-07-2025",
-  "Time": "0720",
-  "Dest": "SSH",
-  "DestName": "Sharm el-Sheikh",
-  "AirlineCode": "CAT",
-  "Airline": "AIRSEVEN",
-  "Flight": "CAT0639",
-  "AirlineCode_Merged": "CAT",
-  "City": "Sharm el-Sheikh",
-  "Country": "Egypt"
- },
- {
-  "Date": "24-07-2025",
   "Time": "0725",
   "Dest": "JSH",
   "DestName": "Sitia",
@@ -100370,6 +100082,18 @@
  },
  {
   "Date": "24-07-2025",
+  "Time": "0925",
+  "Dest": "SSH",
+  "DestName": "Sharm el-Sheikh",
+  "AirlineCode": "CAT",
+  "Airline": "AIRSEVEN",
+  "Flight": "CAT0639",
+  "AirlineCode_Merged": "CAT",
+  "City": "Sharm el-Sheikh",
+  "Country": "Egypt"
+ },
+ {
+  "Date": "24-07-2025",
   "Time": "0935",
   "Dest": "ARN",
   "DestName": "STOCKHOLM/ARN",
@@ -100451,18 +100175,6 @@
   "AirlineCode_Merged": "XQ",
   "City": "Antalya",
   "Country": "Turkey"
- },
- {
-  "Date": "24-07-2025",
-  "Time": "0950",
-  "Dest": "BRU",
-  "DestName": "BRUSSELS",
-  "AirlineCode": "GL",
-  "Airline": "AIR GREENLAND",
-  "Flight": "GL4781",
-  "AirlineCode_Merged": "GL",
-  "City": "Brussels",
-  "Country": "Belgium"
  },
  {
   "Date": "24-07-2025",
@@ -111938,18 +111650,6 @@
  },
  {
   "Date": "26-07-2025",
-  "Time": "2130",
-  "Dest": "DEL",
-  "DestName": "DELHI",
-  "AirlineCode": "AI",
-  "Airline": "AIR INDIA",
-  "Flight": "AI0158",
-  "AirlineCode_Merged": "AI",
-  "City": "Delhi",
-  "Country": "India"
- },
- {
-  "Date": "26-07-2025",
   "Time": "2135",
   "Dest": "BCN",
   "DestName": "BARCELONA",
@@ -115999,7 +115699,7 @@
   "DestName": "NUUK",
   "AirlineCode": "GL",
   "Airline": "AIR GREENLAND",
-  "Flight": "GL1777",
+  "Flight": "GL1783",
   "AirlineCode_Merged": "GL",
   "City": "Nuuk",
   "Country": "Greenland"
@@ -129422,18 +129122,6 @@
  },
  {
   "Date": "30-07-2025",
-  "Time": "2130",
-  "Dest": "DEL",
-  "DestName": "DELHI",
-  "AirlineCode": "AI",
-  "Airline": "AIR INDIA",
-  "Flight": "AI0158",
-  "AirlineCode_Merged": "AI",
-  "City": "Delhi",
-  "Country": "India"
- },
- {
-  "Date": "30-07-2025",
   "Time": "2140",
   "Dest": "AAL",
   "DestName": "AALBORG",
@@ -130190,18 +129878,6 @@
  },
  {
   "Date": "31-07-2025",
-  "Time": "0720",
-  "Dest": "SSH",
-  "DestName": "Sharm el-Sheikh",
-  "AirlineCode": "CAT",
-  "Airline": "AIRSEVEN",
-  "Flight": "CAT0639",
-  "AirlineCode_Merged": "CAT",
-  "City": "Sharm el-Sheikh",
-  "Country": "Egypt"
- },
- {
-  "Date": "31-07-2025",
   "Time": "0725",
   "Dest": "JSH",
   "DestName": "Sitia",
@@ -130847,6 +130523,18 @@
   "AirlineCode_Merged": "KL",
   "City": "Amsterdam",
   "Country": "Netherlands"
+ },
+ {
+  "Date": "31-07-2025",
+  "Time": "0925",
+  "Dest": "SSH",
+  "DestName": "Sharm el-Sheikh",
+  "AirlineCode": "CAT",
+  "Airline": "AIRSEVEN",
+  "Flight": "CAT0639",
+  "AirlineCode_Merged": "CAT",
+  "City": "Sharm el-Sheikh",
+  "Country": "Egypt"
  },
  {
   "Date": "31-07-2025",
