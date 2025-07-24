@@ -609,8 +609,10 @@ function prepareInterviewData() {
 
       if ((quota_data_temp[i].Dest == "PVG")) {
         quota_data_temp[i].Quota =  50;
-      }      
-
+      }  
+      
+      quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);  
+         
     }    
       quota_data.push(quota_data_temp[i]);
     }
