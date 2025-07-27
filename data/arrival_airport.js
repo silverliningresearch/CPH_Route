@@ -553,6 +553,9 @@
   "Show": "Ioannina (IOA)"
  },
  {
+  "Show": "COPENHAGEN (CPH)"
+ },
+ {
   "Show": "Pituffik (THU)"
  },
  {
@@ -563,6 +566,18 @@
  },
  {
   "Show": "ROTTERDAM (RTM)"
+ },
+ {
+  "Show": "Midtjylland (KRP)"
+ },
+ {
+  "Show": "TURKU (TKU)"
+ },
+ {
+  "Show": "WROCLAW (WRO)"
+ },
+ {
+  "Show": "Hannover (HAJ)"
  }
 ]    
 `;
