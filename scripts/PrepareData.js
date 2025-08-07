@@ -662,7 +662,6 @@ function prepareInterviewData() {
   //prepare flight list
   
   //>>Special treat for ET-VIE which will be used for ET-ADD as well
-  // this patch in unneccessary from Jun-2025
   var flight_list_temp_1 = [];
   for (i = 0; i < flight_list_temp.length; i++) {
     let flight = flight_list_temp[i];
