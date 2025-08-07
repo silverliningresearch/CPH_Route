@@ -3831,14 +3831,14 @@
  {
   "Date": "01-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "01-08-2025",
@@ -7887,14 +7887,14 @@
  {
   "Date": "02-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "02-08-2025",
@@ -16683,14 +16683,14 @@
  {
   "Date": "04-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "04-08-2025",
@@ -25215,14 +25215,14 @@
  {
   "Date": "06-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "06-08-2025",
@@ -34035,14 +34035,14 @@
  {
   "Date": "08-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "08-08-2025",
@@ -38007,14 +38007,14 @@
  {
   "Date": "09-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "09-08-2025",
@@ -47067,14 +47067,14 @@
  {
   "Date": "11-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "11-08-2025",
@@ -56055,14 +56055,14 @@
  {
   "Date": "13-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "13-08-2025",
@@ -65343,14 +65343,14 @@
  {
   "Date": "15-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "15-08-2025",
@@ -69471,14 +69471,14 @@
  {
   "Date": "16-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "16-08-2025",
@@ -78723,14 +78723,14 @@
  {
   "Date": "18-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "18-08-2025",
@@ -87747,14 +87747,14 @@
  {
   "Date": "20-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "20-08-2025",
@@ -97239,14 +97239,14 @@
  {
   "Date": "22-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "22-08-2025",
@@ -101427,14 +101427,14 @@
  {
   "Date": "23-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "23-08-2025",
@@ -110595,14 +110595,14 @@
  {
   "Date": "25-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "25-08-2025",
@@ -119571,14 +119571,14 @@
  {
   "Date": "27-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "27-08-2025",
@@ -129063,14 +129063,14 @@
  {
   "Date": "29-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "29-08-2025",
@@ -133239,14 +133239,14 @@
  {
   "Date": "30-08-2025",
   "Time": "1925",
-  "Dest": "ADD",
-  "DestName": "Addis Ababa Bole (via VIE)",
+  "Dest": "VIE",
+  "DestName": "VIENNA",
   "AirlineCode": "ET",
   "Airline": "ETHIOPIAN AIRLINES GROUP",
   "Flight": "ET0725",
   "AirlineCode_Merged": "ET",
-  "City": "Addis Ababa",
-  "Country": "Ethiopia"
+  "City": "Vienna",
+  "Country": "Austria"
  },
  {
   "Date": "30-08-2025",

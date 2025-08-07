@@ -19504,9 +19504,7 @@
 
 
 
-
-
-  {
+ {
   "Airport_Airline": "LHR-BA",
   "Dest": "LHR",
   "AirlineCode": "BA",
@@ -19875,14 +19873,6 @@
   "Month": "08"
  },
  {
-  "Airport_Airline": "ADD-ET",
-  "Dest": "ADD",
-  "AirlineCode": "ET",
-  "Quota": 60.0,
-  "Year": "2025",
-  "Month": "08"
- },
- {
   "Airport_Airline": "BCN-VY",
   "Dest": "BCN",
   "AirlineCode": "VY",
@@ -19927,6 +19917,14 @@
   "Dest": "FCO",
   "AirlineCode": "SK",
   "Quota": 6.0,
+  "Year": "2025",
+  "Month": "08"
+ },
+ {
+  "Airport_Airline": "ADD-ET",
+  "Dest": "ADD",
+  "AirlineCode": "ET",
+  "Quota": 56.0,
   "Year": "2025",
   "Month": "08"
  }
