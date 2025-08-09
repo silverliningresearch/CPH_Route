@@ -19604,7 +19604,7 @@
   "Airport_Airline": "VIE-OS",
   "Dest": "VIE",
   "AirlineCode": "OS",
-  "Quota": 70.0,
+  "Quota": 104,
   "Year": "2025",
   "Month": "08"
  },
@@ -19924,7 +19924,7 @@
   "Airport_Airline": "ADD-ET",
   "Dest": "ADD",
   "AirlineCode": "ET",
-  "Quota": 56.0,
+  "Quota": 28,
   "Year": "2025",
   "Month": "08"
  }
