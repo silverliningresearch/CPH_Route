@@ -190,7 +190,7 @@
   "Show": "GERMAN AIRWAYS (ZQ)"
  },
  {
-  "Show": "AIREXPLORE S.P.O. (AXE)"
+  "Show": "KLAS JET (KLJ)"
  },
  {
   "Show": "AIR CAIRO (SM)"
@@ -205,7 +205,16 @@
   "Show": "LEAV AVIATION (KK)"
  },
  {
+  "Show": "INDIGO (6E)"
+ },
+ {
   "Show": "DAT LT (R6)"
+ },
+ {
+  "Show": "AIS AIRLINES (PNX)"
+ },
+ {
+  "Show": "TUIFLY NORDIC (BLX)"
  }
 ]    
 `;

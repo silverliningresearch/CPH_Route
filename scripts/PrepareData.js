@@ -742,7 +742,9 @@ function prepareInterviewData() {
       if ((quota_data_temp[i].Dest == "ORD")) {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 30;
       }   
-
+      if ((quota_data_temp[i].Dest == "PEK")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
+      }   
 
     }   
     
