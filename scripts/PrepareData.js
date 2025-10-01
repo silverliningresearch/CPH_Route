@@ -770,6 +770,38 @@ function prepareInterviewData() {
 
     }   
     
+     if (currentMonth == "09-2025") 
+    {
+      if ((quota_data_temp[i].Dest == "PEK")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 30;
+      }
+
+      if ((quota_data_temp[i].Dest == "DOH")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
+      }          
+
+      if ((quota_data_temp[i].Dest == "DXB")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
+      }      
+
+      if ((quota_data_temp[i].Dest == "DEL")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 30;
+      }    
+
+      if ((quota_data_temp[i].Dest == "PVG")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 30;
+      }    
+
+      if ((quota_data_temp[i].Dest == "ICN")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 60;
+      }    
+
+      if ((quota_data_temp[i].Airport_Airline == "JFK-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }  
+
+    }   
+    
       quota_data.push(quota_data_temp[i]);
     }
   }
