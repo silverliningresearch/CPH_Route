@@ -770,7 +770,7 @@ function prepareInterviewData() {
 
     }   
     
-     if (currentMonth == "09-2025") 
+     if (currentMonth == "10-2025") 
     {
       if ((quota_data_temp[i].Dest == "PEK")) {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 30;
@@ -778,7 +778,11 @@ function prepareInterviewData() {
 
       if ((quota_data_temp[i].Dest == "DOH")) {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
-      }          
+      }     
+      
+      if ((quota_data_temp[i].Dest == "AUH")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
+      }    
 
       if ((quota_data_temp[i].Dest == "DXB")) {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50;
