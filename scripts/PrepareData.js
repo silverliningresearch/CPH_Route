@@ -773,7 +773,7 @@ function prepareInterviewData() {
      if (currentMonth == "10-2025") 
     {
       if ((quota_data_temp[i].Dest == "PEK")) {
-        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 30 + 20;
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 30 + 20 + 30;
       }
 
       if ((quota_data_temp[i].Dest == "DOH")) {
@@ -800,16 +800,21 @@ function prepareInterviewData() {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 60 + 50;
       }    
 
+      if ((quota_data_temp[i].Dest == "IST")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 40;
+      }    
+
+
       if ((quota_data_temp[i].Airport_Airline == "JFK-SK")) {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30 + 30;
       }  
 
       if ((quota_data_temp[i].Airport_Airline == "YYZ-SK")) {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30 + 20;
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30 + 20 + 30;
       }  
 
       if ((quota_data_temp[i].Airport_Airline == "ORD-SK")) {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20 + 30;
       }  
 
       if ((quota_data_temp[i].Airport_Airline == "YYZ-AC")) {
