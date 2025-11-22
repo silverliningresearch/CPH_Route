@@ -777,15 +777,15 @@ function prepareInterviewData() {
       }
 
       if ((quota_data_temp[i].Dest == "DOH")) {
-        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50 + 100;
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50 + 100 + 50;
       }     
       
       if ((quota_data_temp[i].Dest == "AUH")) {
-        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50 + 20 + 30;
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50 + 20 + 30 + 30;
       }    
 
       if ((quota_data_temp[i].Dest == "DXB")) {
-        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50 + 100;
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 50 + 100 + 50;
       }      
 
       if ((quota_data_temp[i].Dest == "DEL")) {
@@ -801,7 +801,7 @@ function prepareInterviewData() {
       }    
 
       if ((quota_data_temp[i].Dest == "IST")) {
-        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 40 + 50;
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 40 + 50 + 50;
       }    
 
 
