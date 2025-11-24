@@ -770,7 +770,7 @@ function prepareInterviewData() {
 
     }   
     
-     if (currentMonth == "10-2025") 
+    if (currentMonth == "10-2025") 
     {
       if ((quota_data_temp[i].Dest == "PEK")) {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 30 + 20 + 30 + 30;
@@ -852,6 +852,52 @@ function prepareInterviewData() {
       }        
     }   
     
+    if (currentMonth == "11-2025") 
+    {
+      if ((quota_data_temp[i].Dest == "DEL")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }
+      
+      if ((quota_data_temp[i].Dest == "PVG")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }
+
+      if ((quota_data_temp[i].Dest == "PEK")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }
+
+      if ((quota_data_temp[i].Airport_Airline == "JFK-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }  
+
+      if ((quota_data_temp[i].Dest == "BKK")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) + 30;
+      }     
+      
+      if ((quota_data_temp[i].Dest == "BEG")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }    
+      
+      if ((quota_data_temp[i].Dest == "BCN")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }    
+      if ((quota_data_temp[i].Dest == "AUH")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      } 
+
+      if ((quota_data_temp[i].Dest == "IST")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }   
+
+      if ((quota_data_temp[i].Dest == "DOH")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }   
+
+      if ((quota_data_temp[i].Dest == "DXB")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }   
+
+    } 
       quota_data.push(quota_data_temp[i]);
     }
   }
