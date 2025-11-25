@@ -1,6 +1,6 @@
 let airportRawList = `
 [
-  {"Airport_Code": "ABA", "Airport_Name": "Abakan International", "City": "Abakan", "Country": "Russia"},
+{"Airport_Code": "ABA", "Airport_Name": "Abakan International", "City": "Abakan", "Country": "Russia"},
 {"Airport_Code": "ABB", "Airport_Name": "Asaba International", "City": "Asaba", "Country": "Nigeria"},
 {"Airport_Code": "ABC", "Airport_Name": "Albacete", "City": "Albacete", "Country": "Spain"},
 {"Airport_Code": "ABD", "Airport_Name": "Abadan", "City": "Abadan", "Country": "Iran"},
