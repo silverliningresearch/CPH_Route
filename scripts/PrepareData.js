@@ -913,8 +913,33 @@ function prepareInterviewData() {
 
     if (currentMonth == "12-2025") 
     {
+      if ((quota_data_temp[i].Dest == "ADD")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  20;
+      }
+
+      if ((quota_data_temp[i].Airport_Airline == "BCN-VY")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+      }  
+
+      if ((quota_data_temp[i].Airport_Airline == "FRA-LH")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }        
+
+      if ((quota_data_temp[i].Airport_Airline == "JFK-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+      }  
+
+      if ((quota_data_temp[i].Airport_Airline == "ORD-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 10;
+      }  
+
+
+      if ((quota_data_temp[i].Dest == "BOS")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  20;
+      }
+
       if ((quota_data_temp[i].Dest == "DEL")) {
-        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  50;
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  50 + 20;
       }
       
       if ((quota_data_temp[i].Dest == "DOH")) {
@@ -937,7 +962,7 @@ function prepareInterviewData() {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
       }    
       if ((quota_data_temp[i].Dest == "BKK")) {
-        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30 + 20;
       } 
 
       if ((quota_data_temp[i].Dest == "LIS")) {
