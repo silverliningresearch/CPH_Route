@@ -978,7 +978,44 @@ function prepareInterviewData() {
       }   
 
     }     
-      quota_data.push(quota_data_temp[i]);
+    
+    if (currentMonth == "01-2026") 
+    {
+      if ((quota_data_temp[i].Dest == "DEL")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  50;
+      }
+      if ((quota_data_temp[i].Dest == "AUH")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  50;
+      }
+      if ((quota_data_temp[i].Dest == "IAD")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  40;
+      }      
+      if ((quota_data_temp[i].Dest == "PEK")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }    
+      if ((quota_data_temp[i].Dest == "KEF")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }    
+      if ((quota_data_temp[i].Dest == "SIN")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  20;
+      }   
+      if ((quota_data_temp[i].Dest == "BKK")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }   
+      if ((quota_data_temp[i].Dest == "DXB")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }        
+      if ((quota_data_temp[i].Dest == "DOH")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }   
+      if ((quota_data_temp[i].Dest == "ORD")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }         
+      if ((quota_data_temp[i].Dest == "BOS")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  20;
+      }             
+    }     
+    quota_data.push(quota_data_temp[i]);
     }
   }
   //get relevant interview data
