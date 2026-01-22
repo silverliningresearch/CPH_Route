@@ -1013,7 +1013,25 @@ function prepareInterviewData() {
       }         
       if ((quota_data_temp[i].Dest == "BOS")) {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  20;
-      }             
+      }      
+      
+     if ((quota_data_temp[i].Airport_Airline == "ORD-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+     }  
+
+     if ((quota_data_temp[i].Airport_Airline == "ORD-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+     }  
+     if ((quota_data_temp[i].Airport_Airline == "JFK-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+     }  
+     if ((quota_data_temp[i].Airport_Airline == "BEG-JU")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+     }  
+     if ((quota_data_temp[i].Airport_Airline == "SIN-SQ")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+     }  
+
     }     
     quota_data.push(quota_data_temp[i]);
     }
