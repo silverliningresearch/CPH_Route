@@ -217,10 +217,10 @@
   "Show": "Mumbai (BOM)"
  },
  {
-  "Show": "Dubai/DWC (DWC)"
+  "Show": "BANGKOK (BKK)"
  },
  {
-  "Show": "BANGKOK (BKK)"
+  "Show": "Dubai/DWC (DWC)"
  },
  {
   "Show": "WASHINGTON (IAD)"
@@ -323,9 +323,6 @@
  },
  {
   "Show": "Newcastle (NCL)"
- },
- {
-  "Show": "COPENHAGEN (CPH)"
  },
  {
   "Show": "PHUKET (HKT)"
@@ -451,13 +448,40 @@
   "Show": "MOLDE (MOL)"
  },
  {
-  "Show": "KITTILA (KTT)"
+  "Show": "Malmo (MMX)"
+ },
+ {
+  "Show": "COPENHAGEN (CPH)"
+ },
+ {
+  "Show": "BODOE (BOO)"
  },
  {
   "Show": "VERONA (VRN)"
  },
  {
+  "Show": "KITTILA (KTT)"
+ },
+ {
   "Show": "Pituffik (THU)"
+ },
+ {
+  "Show": "PORTO SANTO (PXO)"
+ },
+ {
+  "Show": "CANCUN (CUN)"
+ },
+ {
+  "Show": "Rhodes (RHO)"
+ },
+ {
+  "Show": "KANGERLUSSUAQ (SFJ)"
+ },
+ {
+  "Show": "AKUREYRI (AEY)"
+ },
+ {
+  "Show": "BoaVist (BVC)"
  }
 ]    
 `;
