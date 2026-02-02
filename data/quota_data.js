@@ -21962,8 +21962,7 @@
 
 
 
-
- {
+{
   "Airport_Airline": "LHR-BA",
   "Dest": "LHR",
   "AirlineCode": "BA",
@@ -22347,6 +22346,5 @@
   "Year": "2026",
   "Month": "02"
  }
-
 ]    
 `;
