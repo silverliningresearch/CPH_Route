@@ -21961,12 +21961,11 @@
  },
 
 
-
  {
   "Airport_Airline": "LHR-BA",
   "Dest": "LHR",
   "AirlineCode": "BA",
-  "Quota": 162.0,
+  "Quota": 160.0,
   "Year": "2026",
   "Month": "02"
  },
@@ -21974,7 +21973,7 @@
   "Airport_Airline": "LHR-SK",
   "Dest": "LHR",
   "AirlineCode": "SK",
-  "Quota": 117.0,
+  "Quota": 119.0,
   "Year": "2026",
   "Month": "02"
  },
@@ -21982,7 +21981,7 @@
   "Airport_Airline": "AMS-KL",
   "Dest": "AMS",
   "AirlineCode": "KL",
-  "Quota": 173.0,
+  "Quota": 175.0,
   "Year": "2026",
   "Month": "02"
  },
@@ -21990,7 +21989,7 @@
   "Airport_Airline": "AMS-SK",
   "Dest": "AMS",
   "AirlineCode": "SK",
-  "Quota": 113.0,
+  "Quota": 111.0,
   "Year": "2026",
   "Month": "02"
  },
@@ -22070,7 +22069,7 @@
   "Airport_Airline": "ZRH-LX",
   "Dest": "ZRH",
   "AirlineCode": "LX",
-  "Quota": 76.0,
+  "Quota": 77.0,
   "Year": "2026",
   "Month": "02"
  },
@@ -22078,7 +22077,7 @@
   "Airport_Airline": "ZRH-SK",
   "Dest": "ZRH",
   "AirlineCode": "SK",
-  "Quota": 65.0,
+  "Quota": 63.0,
   "Year": "2026",
   "Month": "02"
  },
@@ -22278,7 +22277,7 @@
   "Airport_Airline": "WAW-LO",
   "Dest": "WAW",
   "AirlineCode": "LO",
-  "Quota": 42.0,
+  "Quota": 44.0,
   "Year": "2026",
   "Month": "02"
  },
@@ -22286,7 +22285,7 @@
   "Airport_Airline": "WAW-SK",
   "Dest": "WAW",
   "AirlineCode": "SK",
-  "Quota": 43.0,
+  "Quota": 41.0,
   "Year": "2026",
   "Month": "02"
  },
@@ -22318,7 +22317,7 @@
   "Airport_Airline": "DUB-SK",
   "Dest": "DUB",
   "AirlineCode": "SK",
-  "Quota": 8.0,
+  "Quota": 9.0,
   "Year": "2026",
   "Month": "02"
  },
@@ -22342,7 +22341,7 @@
   "Airport_Airline": "FCO-SK",
   "Dest": "FCO",
   "AirlineCode": "SK",
-  "Quota": 25.0,
+  "Quota": 24.0,
   "Year": "2026",
   "Month": "02"
  }
