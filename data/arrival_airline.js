@@ -1,25 +1,25 @@
      let arrival_airline = ` 
 [
  {
-  "Show": "RYANAIR (FR/RK)"
- },
- {
-  "Show": "KLM (KL)"
- },
- {
   "Show": "TAP PORTUGAL (TP)"
  },
  {
-  "Show": "FINNAIR (AY)"
- },
- {
-  "Show": "TURKISH AIRLINES (TK)"
+  "Show": "LUFTHANSA (LH)"
  },
  {
   "Show": "SAS - SCANDINAVIAN AIRLINES (SK)"
  },
  {
-  "Show": "BRITISH AIRWAYS (BA)"
+  "Show": "KLM (KL)"
+ },
+ {
+  "Show": "FINNAIR (AY)"
+ },
+ {
+  "Show": "ICELANDAIR (FI)"
+ },
+ {
+  "Show": "RYANAIR (FR/RK)"
  },
  {
   "Show": "AIR FRANCE (AF)"
@@ -28,16 +28,22 @@
   "Show": "SWISS  INTERNATIONAL AIRLINES (LX)"
  },
  {
-  "Show": "SUNCLASS AIRLINES (DK)"
+  "Show": "BRITISH AIRWAYS (BA)"
  },
  {
-  "Show": "JETTIME A/S (JTD)"
+  "Show": "AUSTRIAN AIRLINES (OS)"
+ },
+ {
+  "Show": "AIRSEVEN (CAT)"
+ },
+ {
+  "Show": "SUNCLASS AIRLINES (DK)"
  },
  {
   "Show": "NORWEGIAN AIR (DY/D8/DI/DN/DU)"
  },
  {
-  "Show": "AIR BALTIC (BT)"
+  "Show": "JETTIME A/S (JTD)"
  },
  {
   "Show": "QATAR AIRWAYS (QR)"
@@ -46,31 +52,28 @@
   "Show": "WIZZ AIR (W6/W4/5W/W9/WU)"
  },
  {
-  "Show": "AIR SERBIA (JU)"
- },
- {
-  "Show": "EASYJET (EZY/EJU/EZS)"
- },
- {
-  "Show": "LUFTHANSA (LH)"
- },
- {
   "Show": "ETIHAD AIRWAYS (EY)"
  },
  {
   "Show": "LOT POLISH AIRLINES (LO)"
  },
  {
-  "Show": "VIETNAM AIRLINES (VN)"
+  "Show": "TURKISH AIRLINES (TK)"
  },
  {
   "Show": "VUELING AIRLINES (VY)"
  },
  {
-  "Show": "CROATIA AIRLINES (OU)"
+  "Show": "DAT (DX)"
  },
  {
   "Show": "IBERIA (IB/I2)"
+ },
+ {
+  "Show": "CROATIA AIRLINES (OU)"
+ },
+ {
+  "Show": "AEGEAN AIRLINES (A3)"
  },
  {
   "Show": "PEGASUS AIRLINES (PC)"
@@ -79,25 +82,16 @@
   "Show": "SINGAPORE AIRLINES (SQ)"
  },
  {
-  "Show": "AEGEAN AIRLINES (A3)"
+  "Show": "ATLANTIC AIRWAYS (RC)"
  },
  {
-  "Show": "BRUSSELS AIRLINES (SN)"
+  "Show": "AIR BALTIC (BT)"
  },
  {
-  "Show": "ICELANDAIR (FI)"
- },
- {
-  "Show": "INDIGO (6E)"
+  "Show": "SKYALPS (BQ)"
  },
  {
   "Show": "THAI AIRWAYS INTERNATIONAL (TG)"
- },
- {
-  "Show": "SUNEXPRESS (XQ)"
- },
- {
-  "Show": "ATLANTIC AIRWAYS (RC)"
  },
  {
   "Show": "EMIRATES (EK)"
@@ -109,37 +103,43 @@
   "Show": "EGYPTAIR (MS)"
  },
  {
+  "Show": "EASYJET (EZY/EJU/EZS)"
+ },
+ {
   "Show": "LUXAIR (LG)"
+ },
+ {
+  "Show": "AIR CAIRO (SM)"
  },
  {
   "Show": "ALSIE EXPRESS (6I)"
  },
  {
-  "Show": "AUSTRIAN AIRLINES (OS)"
- },
- {
   "Show": "AIR CHINA (CA)"
  },
  {
-  "Show": "DAT (DX)"
- },
- {
-  "Show": "CHINA EASTERN AIRLINES (MU)"
- },
- {
-  "Show": "EUROWINGS (EW)"
+  "Show": "BRUSSELS AIRLINES (SN)"
  },
  {
   "Show": "TRANSAVIA (HV/TO/PH)"
  },
  {
-  "Show": "AIRSEVEN (CAT)"
+  "Show": "SOLA AIR (OJ)"
  },
  {
-  "Show": "AIR GREENLAND (GL)"
+  "Show": "AIR SERBIA (JU)"
+ },
+ {
+  "Show": "AIR INDIA (AI)"
+ },
+ {
+  "Show": "EUROWINGS (EW)"
  },
  {
   "Show": "TUIFLY NORDIC (BLX)"
+ },
+ {
+  "Show": "AIR GREENLAND (GL)"
  },
  {
   "Show": "VOLOTEA (V7)"
@@ -148,34 +148,22 @@
   "Show": "ETHIOPIAN AIRLINES GROUP (ET)"
  },
  {
-  "Show": "AIR INDIA (AI)"
+  "Show": "CHINA EASTERN AIRLINES (MU)"
  },
  {
-  "Show": "SKYALPS (BQ)"
+  "Show": "VIETNAM AIRLINES (VN)"
  },
  {
   "Show": "OMAN AIR (WY)"
  },
  {
+  "Show": "INDIGO (6E)"
+ },
+ {
   "Show": "UR AIRLINES (UD)"
  },
  {
-  "Show": "AIR CAIRO (SM)"
- },
- {
-  "Show": "FLY ONE (5F)"
- },
- {
-  "Show": "ALTENRHEIN LUFTFAHRT GMBH (PE)"
- },
- {
-  "Show": "SOLA AIR (OJ)"
- },
- {
-  "Show": "FROST AIR APS (FRO)"
- },
- {
-  "Show": "NEOS S.P.A. (NO)"
+  "Show": "SUNEXPRESS (XQ)"
  },
  {
   "Show": "FREEBIRD AIRLINES EUROPE (MI)"
