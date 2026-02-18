@@ -1062,6 +1062,10 @@ function prepareInterviewData() {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
       }  
 
+      if ((quota_data_temp[i].Dest == "DXB")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  50;
+      }         
+
     }  
     quota_data.push(quota_data_temp[i]);
     }
