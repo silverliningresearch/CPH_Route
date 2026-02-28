@@ -1,16 +1,16 @@
      let arrival_airline = ` 
 [
  {
-  "Show": "TAP PORTUGAL (TP)"
- },
- {
-  "Show": "LUFTHANSA (LH)"
+  "Show": "KLM (KL)"
  },
  {
   "Show": "SAS - SCANDINAVIAN AIRLINES (SK)"
  },
  {
-  "Show": "KLM (KL)"
+  "Show": "TAP PORTUGAL (TP)"
+ },
+ {
+  "Show": "LUFTHANSA (LH)"
  },
  {
   "Show": "FINNAIR (AY)"
@@ -49,7 +49,13 @@
   "Show": "QATAR AIRWAYS (QR)"
  },
  {
+  "Show": "ATLANTIC AIRWAYS (RC)"
+ },
+ {
   "Show": "WIZZ AIR (W6/W4/5W/W9/WU)"
+ },
+ {
+  "Show": "EASYJET (EZY/EJU/EZS)"
  },
  {
   "Show": "ETIHAD AIRWAYS (EY)"
@@ -73,16 +79,13 @@
   "Show": "CROATIA AIRLINES (OU)"
  },
  {
-  "Show": "AEGEAN AIRLINES (A3)"
- },
- {
   "Show": "PEGASUS AIRLINES (PC)"
  },
  {
   "Show": "SINGAPORE AIRLINES (SQ)"
  },
  {
-  "Show": "ATLANTIC AIRWAYS (RC)"
+  "Show": "AEGEAN AIRLINES (A3)"
  },
  {
   "Show": "AIR BALTIC (BT)"
@@ -101,9 +104,6 @@
  },
  {
   "Show": "EGYPTAIR (MS)"
- },
- {
-  "Show": "EASYJET (EZY/EJU/EZS)"
  },
  {
   "Show": "LUXAIR (LG)"
@@ -136,6 +136,9 @@
   "Show": "EUROWINGS (EW)"
  },
  {
+  "Show": "UR AIRLINES (UD)"
+ },
+ {
   "Show": "TUIFLY NORDIC (BLX)"
  },
  {
@@ -154,19 +157,40 @@
   "Show": "VIETNAM AIRLINES (VN)"
  },
  {
+  "Show": "FREEBIRD AIRLINES EUROPE (MI)"
+ },
+ {
   "Show": "OMAN AIR (WY)"
  },
  {
-  "Show": "INDIGO (6E)"
- },
- {
-  "Show": "UR AIRLINES (UD)"
+  "Show": "FROST AIR APS (FRO)"
  },
  {
   "Show": "SUNEXPRESS (XQ)"
  },
  {
-  "Show": "FREEBIRD AIRLINES EUROPE (MI)"
+  "Show": "ALTENRHEIN LUFTFAHRT GMBH (PE)"
+ },
+ {
+  "Show": "ENTER AIR (ENT)"
+ },
+ {
+  "Show": "SMARTWINGS (QS)"
+ },
+ {
+  "Show": "INDIGO (6E)"
+ },
+ {
+  "Show": "AIR CANADA (AC)"
+ },
+ {
+  "Show": "FLYDUBAI (FZ)"
+ },
+ {
+  "Show": "LUFTHANSA CITY AIRLINES (VL)"
+ },
+ {
+  "Show": "DELTA AIR LINES (DL)"
  }
 ]    
 `;
