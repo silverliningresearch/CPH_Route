@@ -1075,6 +1075,29 @@ function prepareInterviewData() {
       }   
 
     }  
+
+    if (currentMonth == "03-2026") 
+    {
+      if ((quota_data_temp[i].Dest == "ICN")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  50;
+      }   
+      if ((quota_data_temp[i].Dest == "BKK")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  50;
+      }   
+
+      if ((quota_data_temp[i].Dest == "AUH")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  50;
+      }
+      
+      if ((quota_data_temp[i].Dest == "PEK")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }   
+
+      if ((quota_data_temp[i].Dest == "SIN")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
+      }   
+
+    }      
     quota_data.push(quota_data_temp[i]);
     }
   }
