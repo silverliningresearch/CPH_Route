@@ -1095,8 +1095,45 @@ function prepareInterviewData() {
 
       if ((quota_data_temp[i].Dest == "SIN")) {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
-      }   
+      }
+      
+      if ((quota_data_temp[i].Airport_Airline == "ICN-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }  
 
+      if ((quota_data_temp[i].Airport_Airline == "SIN-SQ")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }  
+
+      if ((quota_data_temp[i].Airport_Airline == "BKK-TG")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }  
+
+      if ((quota_data_temp[i].Airport_Airline == "ORD-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }  
+
+      if ((quota_data_temp[i].Airport_Airline == "IST-TK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }  
+
+
+      if ((quota_data_temp[i].Airport_Airline == "IAD-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      } 
+
+      if ((quota_data_temp[i].Airport_Airline == "BEG-JU")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+      }       
+
+            if ((quota_data_temp[i].Airport_Airline == "YYZ-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }       
+
+      if ((quota_data_temp[i].Airport_Airline == "ZRH-LX")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+      }             
+      
     }      
     quota_data.push(quota_data_temp[i]);
     }
