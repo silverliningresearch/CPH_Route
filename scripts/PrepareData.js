@@ -1102,11 +1102,11 @@ function prepareInterviewData() {
       }  
 
       if ((quota_data_temp[i].Airport_Airline == "SIN-SQ")) {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30 + 20;
       }  
 
       if ((quota_data_temp[i].Airport_Airline == "BKK-TG")) {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30 + 20;
       }  
 
       if ((quota_data_temp[i].Airport_Airline == "ORD-SK")) {
@@ -1114,7 +1114,7 @@ function prepareInterviewData() {
       }  
 
       if ((quota_data_temp[i].Airport_Airline == "IST-TK")) {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30 + 40;
       }  
 
 
