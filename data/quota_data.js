@@ -22399,18 +22399,20 @@
   "Airport_Airline": "DOH-QR",
   "Dest": "DOH",
   "AirlineCode": "QR",
-  "Quota": 253,
+  "Quota": 0,
   "Year": "2026",
   "Month": "03"
  },
+
  {
   "Airport_Airline": "DXB-EK",
   "Dest": "DXB",
   "AirlineCode": "EK",
-  "Quota": 144,
+  "Quota": 0,
   "Year": "2026",
   "Month": "03"
  },
+
  {
   "Airport_Airline": "IST-TK",
   "Dest": "IST",
@@ -22744,6 +22746,23 @@
   "Dest": "FCO",
   "AirlineCode": "SK",
   "Quota": 23,
+  "Year": "2026",
+  "Month": "03"
+ },
+
+  {
+  "Airport_Airline": "CAI-MS",
+  "Dest": "CAI",
+  "AirlineCode": "MS",
+  "Quota": 200,
+  "Year": "2026",
+  "Month": "03"
+ },
+ {
+  "Airport_Airline": "SGN-VN",
+  "Dest": "SGN",
+  "AirlineCode": "VN",
+  "Quota": 200,
   "Year": "2026",
   "Month": "03"
  }
