@@ -22754,7 +22754,7 @@
   "Airport_Airline": "CAI-MS",
   "Dest": "CAI",
   "AirlineCode": "MS",
-  "Quota": 200,
+  "Quota": 300,
   "Year": "2026",
   "Month": "03"
  },
