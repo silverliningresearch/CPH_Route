@@ -1079,7 +1079,7 @@ function prepareInterviewData() {
     if (currentMonth == "03-2026") 
     {
       if ((quota_data_temp[i].Dest == "ICN")) {
-        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  50;
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  50 + 20;
       }   
       if ((quota_data_temp[i].Dest == "BKK")) {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  50;
@@ -1097,6 +1097,10 @@ function prepareInterviewData() {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  30;
       }
       
+      if ((quota_data_temp[i].Dest == "PVG")) {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota) +  20;
+      }
+
       if ((quota_data_temp[i].Airport_Airline == "ICN-SK")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
       }  
