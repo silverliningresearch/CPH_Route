@@ -22768,8 +22768,7 @@
  },
 
 
-
-   {
+{
   "Airport_Airline": "LHR-BA",
   "Dest": "LHR",
   "AirlineCode": "BA",
@@ -23157,7 +23156,7 @@
   "Airport_Airline": "CAI-MS",
   "Dest": "CAI",
   "AirlineCode": "MS",
-  "Quota": 120,
+  "Quota": 300,
   "Year": "2026",
   "Month": "04"
  },
@@ -23165,7 +23164,7 @@
   "Airport_Airline": "SGN-VN",
   "Dest": "SGN",
   "AirlineCode": "VN",
-  "Quota": 86,
+  "Quota": 200,
   "Year": "2026",
   "Month": "04"
  }
