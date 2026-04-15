@@ -1138,7 +1138,43 @@ function prepareInterviewData() {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
       }             
       
-    }      
+    }   
+
+    if (currentMonth == "04-2026") 
+    {
+      if ((quota_data_temp[i].Airport_Airline == "ICN-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 40;
+      }  
+
+      if ((quota_data_temp[i].Airport_Airline == "IAD-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }  
+
+      if ((quota_data_temp[i].Airport_Airline == "BOS-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }  
+
+      if ((quota_data_temp[i].Airport_Airline == "PVG-MU")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }       
+
+      if ((quota_data_temp[i].Airport_Airline == "IST-TK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
+      }       
+
+      if ((quota_data_temp[i].Dest == "KEF")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+      }             
+      
+      if ((quota_data_temp[i].Airport_Airline == "ORD-SK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+      }        
+
+      if ((quota_data_temp[i].Airport_Airline == "PEK-CA")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+      }        
+    }   
+    
     quota_data.push(quota_data_temp[i]);
     }
   }
