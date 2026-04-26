@@ -23167,6 +23167,408 @@
   "Quota": 200,
   "Year": "2026",
   "Month": "04"
+ },
+
+
+ {
+  "Airport_Airline": "LHR-BA",
+  "Dest": "LHR",
+  "AirlineCode": "BA",
+  "Quota": 121,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "LHR-SK",
+  "Dest": "LHR",
+  "AirlineCode": "SK",
+  "Quota": 125,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "AMS-KL",
+  "Dest": "AMS",
+  "AirlineCode": "KL",
+  "Quota": 179,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "AMS-SK",
+  "Dest": "AMS",
+  "AirlineCode": "SK",
+  "Quota": 124,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "CDG-AF",
+  "Dest": "CDG",
+  "AirlineCode": "AF",
+  "Quota": 159,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "CDG-SK",
+  "Dest": "CDG",
+  "AirlineCode": "SK",
+  "Quota": 120,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "IST-TK",
+  "Dest": "IST",
+  "AirlineCode": "TK",
+  "Quota": 227,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "ATL-SK",
+  "Dest": "ATL",
+  "AirlineCode": "SK",
+  "Quota": 121,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "FRA-LH",
+  "Dest": "FRA",
+  "AirlineCode": "LH",
+  "Quota": 113,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "MUC-LH",
+  "Dest": "MUC",
+  "AirlineCode": "LH",
+  "Quota": 130,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "VIE-OS",
+  "Dest": "VIE",
+  "AirlineCode": "OS",
+  "Quota": 125,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "ZRH-LX",
+  "Dest": "ZRH",
+  "AirlineCode": "LX",
+  "Quota": 65,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "ZRH-SK",
+  "Dest": "ZRH",
+  "AirlineCode": "SK",
+  "Quota": 45,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "SIN-SQ",
+  "Dest": "SIN",
+  "AirlineCode": "SQ",
+  "Quota": 81,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "BOS-SK",
+  "Dest": "BOS",
+  "AirlineCode": "SK",
+  "Quota": 120,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "PEK-CA",
+  "Dest": "PEK",
+  "AirlineCode": "CA",
+  "Quota": 44,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "AUH-EY",
+  "Dest": "AUH",
+  "AirlineCode": "EY",
+  "Quota": 48,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "BKK-TG",
+  "Dest": "BKK",
+  "AirlineCode": "TG",
+  "Quota": 26,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "BRU-SK",
+  "Dest": "BRU",
+  "AirlineCode": "SK",
+  "Quota": 53,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "BRU-SN",
+  "Dest": "BRU",
+  "AirlineCode": "SN",
+  "Quota": 39,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "DEL-AI",
+  "Dest": "DEL",
+  "AirlineCode": "AI",
+  "Quota": 78,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "HEL-AY",
+  "Dest": "HEL",
+  "AirlineCode": "AY",
+  "Quota": 80,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "IAD-SK",
+  "Dest": "IAD",
+  "AirlineCode": "SK",
+  "Quota": 82,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "JFK-DL",
+  "Dest": "JFK",
+  "AirlineCode": "DL",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "JFK-SK",
+  "Dest": "JFK",
+  "AirlineCode": "SK",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "KEF-FI",
+  "Dest": "KEF",
+  "AirlineCode": "FI",
+  "Quota": 70,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "ORD-SK",
+  "Dest": "ORD",
+  "AirlineCode": "SK",
+  "Quota": 42,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "YYZ-AC",
+  "Dest": "YYZ",
+  "AirlineCode": "AC",
+  "Quota": 38,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "YYZ-SK",
+  "Dest": "YYZ",
+  "AirlineCode": "SK",
+  "Quota": 35,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "ICN-SK",
+  "Dest": "ICN",
+  "AirlineCode": "SK",
+  "Quota": 68,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "PVG-MU",
+  "Dest": "PVG",
+  "AirlineCode": "MU",
+  "Quota": 76,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "ARN-SK",
+  "Dest": "ARN",
+  "AirlineCode": "SK",
+  "Quota": 26,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "OSL-SK",
+  "Dest": "OSL",
+  "AirlineCode": "SK",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "BEG-JU",
+  "Dest": "BEG",
+  "AirlineCode": "JU",
+  "Quota": 38,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "LGW-D8",
+  "Dest": "LGW",
+  "AirlineCode": "D8",
+  "Quota": 41,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "LGW-EZY",
+  "Dest": "LGW",
+  "AirlineCode": "EZY",
+  "Quota": 8,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "LIS-TP",
+  "Dest": "LIS",
+  "AirlineCode": "TP",
+  "Quota": 50,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "MAD-IB",
+  "Dest": "MAD",
+  "AirlineCode": "IB",
+  "Quota": 19,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "MAD-SK",
+  "Dest": "MAD",
+  "AirlineCode": "SK",
+  "Quota": 29,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "WAW-LO",
+  "Dest": "WAW",
+  "AirlineCode": "LO",
+  "Quota": 38,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "WAW-SK",
+  "Dest": "WAW",
+  "AirlineCode": "SK",
+  "Quota": 35,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "ADD-ET",
+  "Dest": "ADD",
+  "AirlineCode": "ET",
+  "Quota": 30,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "BCN-VY",
+  "Dest": "BCN",
+  "AirlineCode": "VY",
+  "Quota": 10,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "DUB-FR",
+  "Dest": "DUB",
+  "AirlineCode": "FR",
+  "Quota": 12,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "DUB-SK",
+  "Dest": "DUB",
+  "AirlineCode": "SK",
+  "Quota": 18,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "FCO-D8",
+  "Dest": "FCO",
+  "AirlineCode": "D8",
+  "Quota": 13,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "FCO-FR",
+  "Dest": "FCO",
+  "AirlineCode": "FR",
+  "Quota": 6,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "FCO-SK",
+  "Dest": "FCO",
+  "AirlineCode": "SK",
+  "Quota": 19,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "CAI-MS",
+  "Dest": "CAI",
+  "AirlineCode": "MS",
+  "Quota": 420,
+  "Year": "2026",
+  "Month": "05"
+ },
+ {
+  "Airport_Airline": "SGN-VN",
+  "Dest": "SGN",
+  "AirlineCode": "VN",
+  "Quota": 286,
+  "Year": "2026",
+  "Month": "05"
  }
 
 ]    
