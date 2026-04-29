@@ -1188,11 +1188,17 @@ function prepareInterviewData() {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
       }      
       
-      
       if ((quota_data_temp[i].Dest == "BOS")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
       }      
-                   
+
+      if (A_plus_list.includes(quota_data_temp[i].Dest)) {
+        quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.1);      
+      }
+      if (A_list.includes(quota_data_temp[i].Dest)) {
+        quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.1);      
+      }
+      
     }   
     
     quota_data.push(quota_data_temp[i]);
