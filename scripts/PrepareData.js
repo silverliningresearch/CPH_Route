@@ -142,10 +142,12 @@ function initCurrentTimeVars() {
       break;  
 
     case "04-2026":  
-    case "05-2026":      
       total_quota = 3666;
       break;   
 
+    case "05-2026":      
+      total_quota = 3208;
+      break;   
 
     default:
       total_quota = 99;
@@ -1201,6 +1203,30 @@ function prepareInterviewData() {
       
     }   
     
+    if (currentMonth == "05-2026") 
+    {
+      if ((quota_data_temp[i].Dest == "SIN")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
+      }   
+
+      if ((quota_data_temp[i].Dest == "SGN")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 100;
+      }   
+      
+      if ((quota_data_temp[i].Dest == "BKK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+      }   
+      
+      if ((quota_data_temp[i].Dest == "CAI")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 100;
+      }         
+
+      if ((quota_data_temp[i].Dest == "IST")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 100;
+      }         
+
+    }
+
     quota_data.push(quota_data_temp[i]);
     }
   }
