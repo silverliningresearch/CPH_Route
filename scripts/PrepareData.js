@@ -1206,7 +1206,7 @@ function prepareInterviewData() {
     if (currentMonth == "05-2026") 
     {
       if ((quota_data_temp[i].Dest == "SIN")) {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50 + 40;
       }   
 
       if ((quota_data_temp[i].Dest == "SGN")) {
@@ -1214,7 +1214,7 @@ function prepareInterviewData() {
       }   
       
       if ((quota_data_temp[i].Dest == "BKK")) {
-        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20 + 40;
       }   
       
       if ((quota_data_temp[i].Dest == "CAI")) {
@@ -1224,6 +1224,10 @@ function prepareInterviewData() {
       if ((quota_data_temp[i].Dest == "IST")) {
         quota_data_temp[i].Quota = quota_data_temp[i].Quota + 100;
       }         
+ 
+      if ((quota_data_temp[i].Airport_Airline == "IST-TK")) {
+        quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
+      }  
 
     }
 
