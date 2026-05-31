@@ -23649,7 +23649,7 @@
   "Airport_Airline": "CAI-MS",
   "Dest": "CAI",
   "AirlineCode": "MS",
-  "Quota": 55,
+  "Quota": 300,
   "Year": "2026",
   "Month": "06"
  },
@@ -23881,7 +23881,7 @@
   "Airport_Airline": "PHL-AA",
   "Dest": "PHL",
   "AirlineCode": "AA",
-  "Quota": 49,
+  "Quota": 60,
   "Year": "2026",
   "Month": "06"
  },
@@ -23897,7 +23897,7 @@
   "Airport_Airline": "SEA-SK",
   "Dest": "SEA",
   "AirlineCode": "SK",
-  "Quota": 72,
+  "Quota": 80,
   "Year": "2026",
   "Month": "06"
  },
@@ -23905,7 +23905,7 @@
   "Airport_Airline": "SGN-VN",
   "Dest": "SGN",
   "AirlineCode": "VN",
-  "Quota": 37,
+  "Quota": 200,
   "Year": "2026",
   "Month": "06"
  },
@@ -23989,7 +23989,6 @@
   "Year": "2026",
   "Month": "06"
  }
-
 
 ]    
 `;
