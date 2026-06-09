@@ -21,10 +21,10 @@ function CalculateAirportAirLineReport() {
   {
     total_completed = total_completed + interview_data[i].completed_interviews;
 
-    if (dest_list.includes(interview_data[i].Dest.toUpperCase())) 
-    { 
-      total_quota_completed = total_quota_completed + interview_data[i].completed_interviews*1;
-    }
+    // if (dest_list.includes(interview_data[i].Dest.toUpperCase())) 
+    // { 
+    //   total_quota_completed = total_quota_completed + interview_data[i].completed_interviews*1;
+    // }
 
     found_temp = 0;
     for (j = 0; j < quota_data.length; j++) 
@@ -32,6 +32,7 @@ function CalculateAirportAirLineReport() {
       if (quota_data[j].Airport_Airline.toUpperCase() == interview_data[i].Airport_Airline.toUpperCase()) 
       { 
         found_temp = 1;
+        total_quota_completed = total_quota_completed + interview_data[i].completed_interviews*1;
       }
 
     }
