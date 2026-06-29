@@ -27,7 +27,7 @@ var Spain_completed;
 var UK_completed;
 var USA_completed;
 var France_completed;
-
+var Norway_completed;
 
 /************************************/
 /************************************/

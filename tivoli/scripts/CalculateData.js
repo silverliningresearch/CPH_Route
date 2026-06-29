@@ -16,6 +16,7 @@ function CalculateAirportAirLineReport() {
   UK_completed= 0;
   USA_completed= 0; 
   France_completed= 0;
+  Norway_completed= 0;
 
 //check what not belong to quota data
   var found_temp = 0;
@@ -79,6 +80,10 @@ function CalculateAirportAirLineReport() {
     if ( row.Country == "France") {
       France_completed = France_completed +  row.Completed ;
     }
+    if ( row.Country == "Norway") {
+      Norway_completed = Norway_completed +  row.Completed ;
+    }
+    
   }
 
   for (i = 0; i < daily_plan_data.length; i++) {//Flight_To_report.length;
