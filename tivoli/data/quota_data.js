@@ -7,6 +7,13 @@
   "AirlineCode": "AF",
   "Quota": 23.0
  },
+  {
+  "Country": "France",
+  "Airport_Airline": "BOD-SK",
+  "Dest": "BOD",
+  "AirlineCode": "SK",
+  "Quota": 5
+ },
  {
   "Country": "France",
   "Airport_Airline": "CDG-D8",
