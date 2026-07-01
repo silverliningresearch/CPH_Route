@@ -23993,6 +23993,8 @@
 
 
 
+ 
+ 
  {
   "Airport_Airline": "ADD-ET",
   "Dest": "ADD",
@@ -24005,7 +24007,7 @@
   "Airport_Airline": "AMS-KL",
   "Dest": "AMS",
   "AirlineCode": "KL",
-  "Quota": 165,
+  "Quota": 195,
   "Year": "2026",
   "Month": "07"
  },
@@ -24013,7 +24015,7 @@
   "Airport_Airline": "AMS-SK",
   "Dest": "AMS",
   "AirlineCode": "SK",
-  "Quota": 87,
+  "Quota": 99,
   "Year": "2026",
   "Month": "07"
  },
@@ -24021,7 +24023,7 @@
   "Airport_Airline": "ARN-SK",
   "Dest": "ARN",
   "AirlineCode": "SK",
-  "Quota": 46,
+  "Quota": 40,
   "Year": "2026",
   "Month": "07"
  },
@@ -24029,7 +24031,7 @@
   "Airport_Airline": "ATL-SK",
   "Dest": "ATL",
   "AirlineCode": "SK",
-  "Quota": 120,
+  "Quota": 87,
   "Year": "2026",
   "Month": "07"
  },
@@ -24037,7 +24039,7 @@
   "Airport_Airline": "AUH-EY",
   "Dest": "AUH",
   "AirlineCode": "EY",
-  "Quota": 41,
+  "Quota": 35,
   "Year": "2026",
   "Month": "07"
  },
@@ -24045,7 +24047,7 @@
   "Airport_Airline": "BEG-JU",
   "Dest": "BEG",
   "AirlineCode": "JU",
-  "Quota": 46,
+  "Quota": 45,
   "Year": "2026",
   "Month": "07"
  },
@@ -24053,7 +24055,7 @@
   "Airport_Airline": "BKK-TG",
   "Dest": "BKK",
   "AirlineCode": "TG",
-  "Quota": 69,
+  "Quota": 48,
   "Year": "2026",
   "Month": "07"
  },
@@ -24061,7 +24063,7 @@
   "Airport_Airline": "BOS-SK",
   "Dest": "BOS",
   "AirlineCode": "SK",
-  "Quota": 120,
+  "Quota": 87,
   "Year": "2026",
   "Month": "07"
  },
@@ -24069,7 +24071,7 @@
   "Airport_Airline": "BRU-SK",
   "Dest": "BRU",
   "AirlineCode": "SK",
-  "Quota": 37,
+  "Quota": 39,
   "Year": "2026",
   "Month": "07"
  },
@@ -24077,7 +24079,7 @@
   "Airport_Airline": "BRU-SN",
   "Dest": "BRU",
   "AirlineCode": "SN",
-  "Quota": 31,
+  "Quota": 35,
   "Year": "2026",
   "Month": "07"
  },
@@ -24085,7 +24087,7 @@
   "Airport_Airline": "CAI-MS",
   "Dest": "CAI",
   "AirlineCode": "MS",
-  "Quota": 300,
+  "Quota": 457,
   "Year": "2026",
   "Month": "07"
  },
@@ -24093,7 +24095,7 @@
   "Airport_Airline": "CDG-AF",
   "Dest": "CDG",
   "AirlineCode": "AF",
-  "Quota": 170,
+  "Quota": 222,
   "Year": "2026",
   "Month": "07"
  },
@@ -24101,7 +24103,7 @@
   "Airport_Airline": "CDG-SK",
   "Dest": "CDG",
   "AirlineCode": "SK",
-  "Quota": 82,
+  "Quota": 103,
   "Year": "2026",
   "Month": "07"
  },
@@ -24109,7 +24111,7 @@
   "Airport_Airline": "DEL-AI",
   "Dest": "DEL",
   "AirlineCode": "AI",
-  "Quota": 69,
+  "Quota": 77,
   "Year": "2026",
   "Month": "07"
  },
@@ -24117,7 +24119,7 @@
   "Airport_Airline": "DOH-QR",
   "Dest": "DOH",
   "AirlineCode": "QR",
-  "Quota": 188,
+  "Quota": 313,
   "Year": "2026",
   "Month": "07"
  },
@@ -24125,7 +24127,7 @@
   "Airport_Airline": "DUB-FR",
   "Dest": "DUB",
   "AirlineCode": "FR",
-  "Quota": 10,
+  "Quota": 14,
   "Year": "2026",
   "Month": "07"
  },
@@ -24133,7 +24135,7 @@
   "Airport_Airline": "DUB-SK",
   "Dest": "DUB",
   "AirlineCode": "SK",
-  "Quota": 17,
+  "Quota": 22,
   "Year": "2026",
   "Month": "07"
  },
@@ -24141,7 +24143,7 @@
   "Airport_Airline": "DXB-EK",
   "Dest": "DXB",
   "AirlineCode": "EK",
-  "Quota": 183,
+  "Quota": 304,
   "Year": "2026",
   "Month": "07"
  },
@@ -24149,7 +24151,7 @@
   "Airport_Airline": "FCO-D8",
   "Dest": "FCO",
   "AirlineCode": "D8",
-  "Quota": 11,
+  "Quota": 13,
   "Year": "2026",
   "Month": "07"
  },
@@ -24157,7 +24159,7 @@
   "Airport_Airline": "FCO-FR",
   "Dest": "FCO",
   "AirlineCode": "FR",
-  "Quota": 6,
+  "Quota": 7,
   "Year": "2026",
   "Month": "07"
  },
@@ -24165,7 +24167,7 @@
   "Airport_Airline": "FCO-SK",
   "Dest": "FCO",
   "AirlineCode": "SK",
-  "Quota": 11,
+  "Quota": 12,
   "Year": "2026",
   "Month": "07"
  },
@@ -24173,7 +24175,7 @@
   "Airport_Airline": "FRA-LH",
   "Dest": "FRA",
   "AirlineCode": "LH",
-  "Quota": 92,
+  "Quota": 123,
   "Year": "2026",
   "Month": "07"
  },
@@ -24181,7 +24183,7 @@
   "Airport_Airline": "HEL-AY",
   "Dest": "HEL",
   "AirlineCode": "AY",
-  "Quota": 69,
+  "Quota": 94,
   "Year": "2026",
   "Month": "07"
  },
@@ -24189,7 +24191,7 @@
   "Airport_Airline": "IAD-SK",
   "Dest": "IAD",
   "AirlineCode": "SK",
-  "Quota": 90,
+  "Quota": 58,
   "Year": "2026",
   "Month": "07"
  },
@@ -24197,7 +24199,7 @@
   "Airport_Airline": "ICN-SK",
   "Dest": "ICN",
   "AirlineCode": "SK",
-  "Quota": 69,
+  "Quota": 48,
   "Year": "2026",
   "Month": "07"
  },
@@ -24205,7 +24207,7 @@
   "Airport_Airline": "IST-TK",
   "Dest": "IST",
   "AirlineCode": "TK",
-  "Quota": 248,
+  "Quota": 253,
   "Year": "2026",
   "Month": "07"
  },
@@ -24213,7 +24215,7 @@
   "Airport_Airline": "JFK-DL",
   "Dest": "JFK",
   "AirlineCode": "DL",
-  "Quota": 33,
+  "Quota": 16,
   "Year": "2026",
   "Month": "07"
  },
@@ -24221,7 +24223,7 @@
   "Airport_Airline": "JFK-SK",
   "Dest": "JFK",
   "AirlineCode": "SK",
-  "Quota": 40,
+  "Quota": 19,
   "Year": "2026",
   "Month": "07"
  },
@@ -24229,7 +24231,7 @@
   "Airport_Airline": "KEF-FI",
   "Dest": "KEF",
   "AirlineCode": "FI",
-  "Quota": 69,
+  "Quota": 90,
   "Year": "2026",
   "Month": "07"
  },
@@ -24237,7 +24239,7 @@
   "Airport_Airline": "LHR-BA",
   "Dest": "LHR",
   "AirlineCode": "BA",
-  "Quota": 120,
+  "Quota": 125,
   "Year": "2026",
   "Month": "07"
  },
@@ -24245,7 +24247,7 @@
   "Airport_Airline": "LHR-SK",
   "Dest": "LHR",
   "AirlineCode": "SK",
-  "Quota": 132,
+  "Quota": 137,
   "Year": "2026",
   "Month": "07"
  },
@@ -24253,7 +24255,7 @@
   "Airport_Airline": "LIS-TP",
   "Dest": "LIS",
   "AirlineCode": "TP",
-  "Quota": 46,
+  "Quota": 54,
   "Year": "2026",
   "Month": "07"
  },
@@ -24261,7 +24263,7 @@
   "Airport_Airline": "MAD-IB",
   "Dest": "MAD",
   "AirlineCode": "IB",
-  "Quota": 25,
+  "Quota": 33,
   "Year": "2026",
   "Month": "07"
  },
@@ -24269,7 +24271,7 @@
   "Airport_Airline": "MAD-SK",
   "Dest": "MAD",
   "AirlineCode": "SK",
-  "Quota": 21,
+  "Quota": 28,
   "Year": "2026",
   "Month": "07"
  },
@@ -24277,7 +24279,7 @@
   "Airport_Airline": "MSP-DL",
   "Dest": "MSP",
   "AirlineCode": "DL",
-  "Quota": 70,
+  "Quota": 59,
   "Year": "2026",
   "Month": "07"
  },
@@ -24285,7 +24287,7 @@
   "Airport_Airline": "MUC-LH",
   "Dest": "MUC",
   "AirlineCode": "LH",
-  "Quota": 107,
+  "Quota": 164,
   "Year": "2026",
   "Month": "07"
  },
@@ -24293,7 +24295,7 @@
   "Airport_Airline": "ORD-SK",
   "Dest": "ORD",
   "AirlineCode": "SK",
-  "Quota": 72,
+  "Quota": 65,
   "Year": "2026",
   "Month": "07"
  },
@@ -24301,7 +24303,7 @@
   "Airport_Airline": "OSL-SK",
   "Dest": "OSL",
   "AirlineCode": "SK",
-  "Quota": 46,
+  "Quota": 63,
   "Year": "2026",
   "Month": "07"
  },
@@ -24309,7 +24311,7 @@
   "Airport_Airline": "PEK-CA",
   "Dest": "PEK",
   "AirlineCode": "CA",
-  "Quota": 69,
+  "Quota": 82,
   "Year": "2026",
   "Month": "07"
  },
@@ -24317,7 +24319,7 @@
   "Airport_Airline": "PHL-AA",
   "Dest": "PHL",
   "AirlineCode": "AA",
-  "Quota": 60,
+  "Quota": 48,
   "Year": "2026",
   "Month": "07"
  },
@@ -24325,7 +24327,7 @@
   "Airport_Airline": "PVG-MU",
   "Dest": "PVG",
   "AirlineCode": "MU",
-  "Quota": 69,
+  "Quota": 85,
   "Year": "2026",
   "Month": "07"
  },
@@ -24333,7 +24335,7 @@
   "Airport_Airline": "SEA-SK",
   "Dest": "SEA",
   "AirlineCode": "SK",
-  "Quota": 80,
+  "Quota": 47,
   "Year": "2026",
   "Month": "07"
  },
@@ -24341,7 +24343,7 @@
   "Airport_Airline": "SGN-VN",
   "Dest": "SGN",
   "AirlineCode": "VN",
-  "Quota": 200,
+  "Quota": 279,
   "Year": "2026",
   "Month": "07"
  },
@@ -24349,7 +24351,7 @@
   "Airport_Airline": "SIN-SQ",
   "Dest": "SIN",
   "AirlineCode": "SQ",
-  "Quota": 92,
+  "Quota": 60,
   "Year": "2026",
   "Month": "07"
  },
@@ -24357,7 +24359,7 @@
   "Airport_Airline": "VIE-OS",
   "Dest": "VIE",
   "AirlineCode": "OS",
-  "Quota": 138,
+  "Quota": 155,
   "Year": "2026",
   "Month": "07"
  },
@@ -24365,7 +24367,7 @@
   "Airport_Airline": "WAW-LO",
   "Dest": "WAW",
   "AirlineCode": "LO",
-  "Quota": 34,
+  "Quota": 61,
   "Year": "2026",
   "Month": "07"
  },
@@ -24373,7 +24375,7 @@
   "Airport_Airline": "WAW-SK",
   "Dest": "WAW",
   "AirlineCode": "SK",
-  "Quota": 12,
+  "Quota": 24,
   "Year": "2026",
   "Month": "07"
  },
@@ -24381,7 +24383,7 @@
   "Airport_Airline": "YYZ-AC",
   "Dest": "YYZ",
   "AirlineCode": "AC",
-  "Quota": 42,
+  "Quota": 27,
   "Year": "2026",
   "Month": "07"
  },
@@ -24389,7 +24391,7 @@
   "Airport_Airline": "YYZ-SK",
   "Dest": "YYZ",
   "AirlineCode": "SK",
-  "Quota": 27,
+  "Quota": 17,
   "Year": "2026",
   "Month": "07"
  },
@@ -24397,7 +24399,7 @@
   "Airport_Airline": "ZRH-LX",
   "Dest": "ZRH",
   "AirlineCode": "LX",
-  "Quota": 64,
+  "Quota": 68,
   "Year": "2026",
   "Month": "07"
  },
@@ -24413,7 +24415,7 @@
   "Airport_Airline": "BOM-SK",
   "Dest": "BOM",
   "AirlineCode": "SK",
-  "Quota": 69,
+  "Quota": 137,
   "Year": "2026",
   "Month": "07"
  },
@@ -24421,10 +24423,9 @@
   "Airport_Airline": "YHZ-WS",
   "Dest": "YHZ",
   "AirlineCode": "WS",
-  "Quota": 103,
+  "Quota": 75,
   "Year": "2026",
   "Month": "07"
  }
-
 ]    
 `;
