@@ -177,7 +177,44 @@ function prepareInterviewData() {
         quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota);
       }
 
-      quota_data.push(quota_data_temp[i]);
+      var remove_list = ["BIA-D8", "BOD-D8", "CDG-D8", "MPL-D8", "NCE-D8", "TLS-D8", 
+        "BVA-FR", "CDG-SK", "BER-D8", "MUC-D8", "BER-EJU", "FRA-SK", 
+        "HAJ-SK", "HAM-SK", "MUC-SK", "STR-SK", "SUF-CAT", "BGY-D8", 
+        "BLQ-D8", "BRI-D8", "CTA-D8", "NAP-D8", "OLB-D8", "PMO-D8", 
+        "PSA-D8", "VCE-D8", "VCE-FR", "AHO-JTD", "SUF-JTD", "VCE-SK", 
+        "ALC-D8", "LPA-D8", "PMI-D8", "TFS-D8", "ACE-DK", "LPA-DK", 
+        "PMI-DK", "TFS-DK", "ALC-FR", "PMI-FR", "FUE-JTD", "PMI-JTD", 
+        "FUE-RC", "IBZ-SK", "LPA-SK", "PMI-SK", "EDI-D8", "LGW-D8", 
+        "MAN-D8", "NCL-D8", "ABZ-SK", "BHX-SK", "EDI-SK", "JFK-SK"];
+
+      if (remove_list.includes(quota_data_temp[i].Airport_Airline)) 
+      {
+        quota_data_temp[i].Quota = 0;
+      }   
+
+     var boost_list = ["AF",
+          "EW",
+          "LH",
+          "LH",
+          "VL",
+          "EJU",
+          "IB",
+          "VY",
+          "BA",
+          "EZY",
+          "EZY",
+          "EZY",
+          "EZY",
+          "AA"];
+
+      if (boost_list.includes(quota_data_temp[i].AirlineCode)) 
+      {
+        quota_data_temp[i].Quota = Math.round(quota_data_temp[i].Quota*2);
+      }  
+
+      if (quota_data_temp[i].Quota> 0) {
+        quota_data.push(quota_data_temp[i]);
+      }
     }
   }
   //get relevant interview data
