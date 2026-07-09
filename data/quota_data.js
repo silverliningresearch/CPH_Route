@@ -23994,7 +23994,6 @@
 
 
  
- 
  {
   "Airport_Airline": "ADD-ET",
   "Dest": "ADD",
@@ -24087,7 +24086,7 @@
   "Airport_Airline": "CAI-MS",
   "Dest": "CAI",
   "AirlineCode": "MS",
-  "Quota": 457,
+  "Quota": 23,
   "Year": "2026",
   "Month": "07"
  },
@@ -24119,7 +24118,7 @@
   "Airport_Airline": "DOH-QR",
   "Dest": "DOH",
   "AirlineCode": "QR",
-  "Quota": 313,
+  "Quota": 325,
   "Year": "2026",
   "Month": "07"
  },
@@ -24143,7 +24142,7 @@
   "Airport_Airline": "DXB-EK",
   "Dest": "DXB",
   "AirlineCode": "EK",
-  "Quota": 304,
+  "Quota": 316,
   "Year": "2026",
   "Month": "07"
  },
@@ -24343,7 +24342,7 @@
   "Airport_Airline": "SGN-VN",
   "Dest": "SGN",
   "AirlineCode": "VN",
-  "Quota": 279,
+  "Quota": 37,
   "Year": "2026",
   "Month": "07"
  },
@@ -24415,7 +24414,7 @@
   "Airport_Airline": "BOM-SK",
   "Dest": "BOM",
   "AirlineCode": "SK",
-  "Quota": 137,
+  "Quota": 115,
   "Year": "2026",
   "Month": "07"
  },
