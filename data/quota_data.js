@@ -24410,14 +24410,7 @@
   "Year": "2026",
   "Month": "07"
  },
- {
-  "Airport_Airline": "BOM-SK",
-  "Dest": "BOM",
-  "AirlineCode": "SK",
-  "Quota": 115,
-  "Year": "2026",
-  "Month": "07"
- },
+
  {
   "Airport_Airline": "YHZ-WS",
   "Dest": "YHZ",
