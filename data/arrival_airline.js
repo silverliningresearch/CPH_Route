@@ -154,6 +154,9 @@
   "Show": "AIR INDIA (AI)"
  },
  {
+  "Show": "BH AIR (8H)"
+ },
+ {
   "Show": "VIETNAM AIRLINES (VN)"
  },
  {
@@ -193,13 +196,16 @@
   "Show": "AIR CAIRO (SM)"
  },
  {
+  "Show": "AMELIA EXECUTIVE AIRLINE (LXE)"
+ },
+ {
   "Show": "ANIMA WINGS AVIATION (A2)"
  },
  {
-  "Show": "ARKIA ISRAELI AIRLINES (IZ)"
+  "Show": "RED SEA AIRLINE (RSX)"
  },
  {
-  "Show": "PEGASUS AIRLINES ()"
+  "Show": "ARKIA ISRAELI AIRLINES (IZ)"
  }
 ]    
 `;

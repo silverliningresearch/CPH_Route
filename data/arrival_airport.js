@@ -55,10 +55,10 @@
   "Show": "Milan/MXP (MXP)"
  },
  {
-  "Show": "Naples (NAP)"
+  "Show": "TURIN (TRN)"
  },
  {
-  "Show": "TURIN (TRN)"
+  "Show": "Naples (NAP)"
  },
  {
   "Show": "ISTANBUL/IST (IST)"
@@ -154,10 +154,10 @@
   "Show": "GDANSK (GDN)"
  },
  {
-  "Show": "Berlin (BER)"
+  "Show": "Athens (ATH)"
  },
  {
-  "Show": "Athens (ATH)"
+  "Show": "Berlin (BER)"
  },
  {
   "Show": "Duesseldorf (DUS)"
@@ -268,22 +268,22 @@
   "Show": "BODRUM (BJV)"
  },
  {
-  "Show": "VILNIUS (VNO)"
- },
- {
   "Show": "SAN FRANCISCO (SFO)"
  },
  {
   "Show": "Tokyo (HND)"
  },
  {
+  "Show": "VILNIUS (VNO)"
+ },
+ {
+  "Show": "BORDEAUX (BOD)"
+ },
+ {
   "Show": "TRONDHEIM (TRD)"
  },
  {
   "Show": "Istanbul/SAW (SAW)"
- },
- {
-  "Show": "BORDEAUX (BOD)"
  },
  {
   "Show": "KRISTIANSAND (KRS)"
@@ -562,19 +562,22 @@
   "Show": "FUERTEVENTURA (FUE)"
  },
  {
-  "Show": "Aberdeen (ABZ)"
- },
- {
   "Show": "TANGIER (TNG)"
- },
- {
-  "Show": "Mumbai (BOM)"
  },
  {
   "Show": "Pituffik Space B (THU)"
  },
  {
   "Show": "TIMISOARA (TSR)"
+ },
+ {
+  "Show": "COLOGNE/BONN (CGN)"
+ },
+ {
+  "Show": "Mumbai (BOM)"
+ },
+ {
+  "Show": "Aberdeen (ABZ)"
  },
  {
   "Show": "Midtjylland (KRP)"
