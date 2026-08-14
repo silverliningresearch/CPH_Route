@@ -1282,6 +1282,10 @@ function prepareInterviewData() {
         if ((quota_data_temp[i].Dest == "AUH")) {
           quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
         }  
+
+        if ((quota_data_temp[i].Airport_Airline == "JFK-DL")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }         
       }
 
     quota_data.push(quota_data_temp[i]);
