@@ -155,7 +155,7 @@ function initCurrentTimeVars() {
       break;  
       
     case "08-2026":      
-      total_quota = 4409;
+      total_quota = 3976;
       break;  
 
       case "09-2026":              
@@ -1275,6 +1275,13 @@ function prepareInterviewData() {
         {
           quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
         }   
+      }
+
+      if (currentMonth == "08-2026") 
+      {
+        if ((quota_data_temp[i].Dest == "AUH")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
       }
 
     quota_data.push(quota_data_temp[i]);
