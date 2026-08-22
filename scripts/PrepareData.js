@@ -1287,7 +1287,7 @@ function prepareInterviewData() {
           quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
         }         
 
-        if ((quota_data_temp[i].Dest == "PGV")) {
+        if ((quota_data_temp[i].Dest == "PVG")) {
           quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
         }  
 
