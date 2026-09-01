@@ -159,7 +159,7 @@ function initCurrentTimeVars() {
       break;  
 
       case "09-2026":              
-      total_quota = 3666;
+      total_quota = 3945;
       break;  
 
     case "10-2026":        
