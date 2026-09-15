@@ -1308,6 +1308,24 @@ function prepareInterviewData() {
         }  
       }
 
+      if (currentMonth == "10") 
+      {
+        if ((quota_data_temp[i].Dest == "PVG")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
+        }  
+
+        if ((quota_data_temp[i].Dest == "AUH")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+
+        if ((quota_data_temp[i].Dest == "CAI")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+
+        if ((quota_data_temp[i].Dest == "SIN")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+      }      
     quota_data.push(quota_data_temp[i]);
     }
   }
