@@ -1308,7 +1308,7 @@ function prepareInterviewData() {
         }  
       }
 
-      if (currentMonth == "10") 
+      if (currentMonth == "09-2026") 
       {
         if ((quota_data_temp[i].Dest == "PVG")) {
           quota_data_temp[i].Quota = quota_data_temp[i].Quota + 50;
