@@ -1325,7 +1325,37 @@ function prepareInterviewData() {
         if ((quota_data_temp[i].Dest == "SIN")) {
           quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
         }  
-      }      
+
+        if ((quota_data_temp[i].Dest == "DEL")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+
+        if ((quota_data_temp[i].Dest == "PEK")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+
+        if ((quota_data_temp[i].Dest == "BKK")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+
+        if ((quota_data_temp[i].Airport_Airline == "JFK-SK")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+
+        if ((quota_data_temp[i].Airport_Airline == "SIN-SQ")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+        }  
+
+        if ((quota_data_temp[i].Dest == "YYZ")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+        }  
+
+      }   
+     
+      if (currentMonth == "10-2026") 
+      {
+   
+      }         
     quota_data.push(quota_data_temp[i]);
     }
   }
