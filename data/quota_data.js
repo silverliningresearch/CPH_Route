@@ -25670,7 +25670,15 @@
   "Quota": 70,
   "Year": "2026",
   "Month": "10"
- }
+ },
+  {
+  "Airport_Airline": "SGN-VN",
+  "Dest": "SGN",
+  "AirlineCode": "VN",
+  "Quota": 30,
+  "Year": "2026",
+  "Month": "10"
+  }
 
 
 ]    
