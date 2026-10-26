@@ -1,6 +1,6 @@
      let flight_list_raw = ` 
 [
- {
+  {
   "Date": "01-10-2026",
   "Time": "0120",
   "Dest": "AYT",
