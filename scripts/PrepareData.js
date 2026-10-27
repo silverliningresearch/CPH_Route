@@ -1391,6 +1391,13 @@ function prepareInterviewData() {
           quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
         }          
 
+        if (A_plus_list.includes(quota_data_temp[i].Dest)) {
+          quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota + 30);      
+        }
+
+        if (A_list.includes(quota_data_temp[i].Dest)) {
+          quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota + 20);      
+        }
       }         
     quota_data.push(quota_data_temp[i]);
     }
