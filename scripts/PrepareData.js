@@ -1399,6 +1399,26 @@ function prepareInterviewData() {
           quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota + 20);      
         }
       }         
+
+      if (currentMonth == "11-2026") 
+      {
+        if ((quota_data_temp[i].Dest == "ATL")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+        if ((quota_data_temp[i].Dest == "PVG")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }    
+        if ((quota_data_temp[i].Dest == "BKK")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+        if ((quota_data_temp[i].Dest == "BOM")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+        if ((quota_data_temp[i].Dest == "DXB")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+        
+      }         
     quota_data.push(quota_data_temp[i]);
     }
   }
