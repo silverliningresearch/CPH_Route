@@ -1419,7 +1419,7 @@ function prepareInterviewData() {
         }  
         
         if (A_plus_list.includes(quota_data_temp[i].Dest)) {
-          quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.15);      
+          quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.1);      
         }
 
         if (A_list.includes(quota_data_temp[i].Dest)) {
