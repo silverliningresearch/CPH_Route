@@ -1418,8 +1418,64 @@ function prepareInterviewData() {
           quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
         }  
         
+        if ((quota_data_temp[i].Dest == "ICN")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+        }  
+        
+        if ((quota_data_temp[i].Dest == "AUH")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+
+        if ((quota_data_temp[i].Dest == "IAD")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+
+        if ((quota_data_temp[i].Dest == "BOS")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+
+        if ((quota_data_temp[i].Dest == "ATL")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+        
+        if ((quota_data_temp[i].Dest == "BEG")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+        }      
+        
+        if ((quota_data_temp[i].Dest == "LIS")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+        }    
+
+        if ((quota_data_temp[i].Airport_Airline == "JFK-SK")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }  
+        
+        if ((quota_data_temp[i].Dest == "ORD")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }    
+
+        if ((quota_data_temp[i].Dest == "PEK")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+        }   
+
+        if ((quota_data_temp[i].Airport_Airline == "YYZ-SK")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+        }  
+        
+        if ((quota_data_temp[i].Dest == "DXB")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }   
+
+        if ((quota_data_temp[i].Dest == "IST")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 30;
+        }           
+        
+        if ((quota_data_temp[i].Dest == "KEF")) {
+          quota_data_temp[i].Quota = quota_data_temp[i].Quota + 20;
+        }   
+
         if (A_plus_list.includes(quota_data_temp[i].Dest)) {
-          quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.1);      
+          quota_data_temp[i].Quota =  Math.round(quota_data_temp[i].Quota*1.25);      
         }
 
         if (A_list.includes(quota_data_temp[i].Dest)) {
